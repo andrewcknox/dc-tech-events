@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Hub - Events</title>
+    <link>http://hub.jhu.edu/events</link>
+    <description>Events from the Johns Hopkins news network</description>
+    <image>
+      <url>http://hub.jhu.edu/assets/themes/wphub/src/assets/images/hub-logo-rss.png</url>
+      <title>Hub</title>
+      <link>http://hub.jhu.edu</link>
+    </image>
+    <item>
+      <title>Authors &amp;amp; Insights: Kevin Roose and the History of AI</title>
+      <description>&lt;p&gt;&lt;strong&gt;When: October 6th 6:30pm - 8:30pm&lt;br /&gt;Where: Hopkins Bloomberg Center&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Award-winning &lt;em&gt;New York Times&lt;/em&gt; journalist, cohost of the hit tech podcast, Hard Fork, and bestselling author Kevin Roose joins Authors &amp;amp; Insights to launch his behind-the-scenes account of the trillion-dollar sprint to create artificial general intelligence (AGI) in his new book, &lt;em&gt;The AGI Chronicles: The Inside Story of the Race to Create an Artificial Superintelligence.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Drawing on more than 150 interviews with insiders at OpenAI, Anthropic, and Google DeepMind, as well as unpublished company documents and research memos, Roose reconstructs the most consequential decade in tech history.&lt;/p&gt;
+
+&lt;p&gt;An audience Q&amp;amp;A and reception will follow. Signed books will be available for purchase before and after the event. Seating and books are first come, first served.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;About the Series:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Authors &amp;amp; Insights is a series at the Hopkins Bloomberg Center that hosts in-depth conversations with compelling authors and thinkers exploring some of the most important issues of today.&lt;/p&gt;
+</description>
+      <link>https://hub.jhu.edu/events/2026/10/06/authors-insights-agi-chronicles-kevin-roose/</link>
+    </item>
+  </channel>
+</rss>

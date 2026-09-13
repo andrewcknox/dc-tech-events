@@ -1,0 +1,37 @@
+name: Daily fetch
+
+on:
+  schedule:
+    - cron: "0 11 * * *"   # 07:00 US Eastern (11:00 UTC) every day
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pipeline
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+        with:
+          python-version: "3.12"
+      - run: uv sync --extra js
+      - run: uv run playwright install --with-deps chromium
+      - name: Fetch, classify, geocode
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: uv run dte fetch
+      - name: Write pending review file
+        run: uv run dte review
+      - name: Commit database and review file
+        run: |
+          git config user.name "dc-tech-events bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/events.db review/
+          git diff --cached --quiet || git commit -m "fetch: $(date -u +%F)"
+          git push

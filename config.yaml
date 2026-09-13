@@ -1,0 +1,12 @@
+# Runtime settings. Model name lives here so it can be changed without touching code.
+model: claude-haiku-4-5
+timezone: America/New_York
+max_chunk_chars: 24000          # ~6-8k tokens per Claude extraction call
+dedupe_threshold: 85            # rapidfuzz similarity (0-100) to treat two titles as the same event
+dedupe_window_days: 1           # fuzzy-match only within +/- this many days
+digest_days_ahead: 14           # window for docs/ map and list
+min_fit_for_review: 1           # only events with relevant=true AND fit >= this show up for review
+failure_flag_threshold: 3       # consecutive failures before a source is flagged in the digest footer
+map_center: [38.905, -77.036]   # Washington DC
+map_zoom: 13
+user_agent: "dc-tech-events/0.1 (SAIS ETI student project; contact via GitHub)"

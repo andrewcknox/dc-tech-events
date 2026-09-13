@@ -1,0 +1,52 @@
+name: Weekly digest + map
+
+on:
+  schedule:
+    - cron: "0 12 * * 1"   # Monday 08:00 US Eastern
+  workflow_dispatch:
+  push:
+    paths:
+      - "review/**"        # rebuild the map as soon as a reviewer commits approvals
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pipeline
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+        with:
+          python-version: "3.12"
+      - run: uv sync
+      - name: Apply reviews, build digest and site
+        env:
+          DIGEST_WEBHOOK_URL: ${{ secrets.DIGEST_WEBHOOK_URL }}
+        run: uv run dte digest
+      - name: Commit outputs
+        run: |
+          git config user.name "dc-tech-events bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/events.db digest/ docs/
+          git diff --cached --quiet || git commit -m "digest: $(date -u +%F)"
+          git push
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+  deploy:
+    needs: digest
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

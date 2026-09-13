@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DC Emerging-Tech Policy Events</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+<style>
+  :root { --bg:#fafaf7; --ink:#1d1d1b; --muted:#6b6b66; --line:#e3e1da; --accent:#1f5fbf; --chip:#eef2fa; }
+  * { box-sizing: border-box; }
+  html, body { margin:0; height:100%; font: 14px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; color:var(--ink); background:var(--bg); }
+  header { display:flex; align-items:baseline; gap:14px; padding:10px 16px; border-bottom:1px solid var(--line); background:#fff; }
+  header h1 { font-size:17px; margin:0; }
+  header .sub { color:var(--muted); font-size:12px; }
+  #layout { display:grid; grid-template-columns: 400px 1fr; height: calc(100% - 46px); }
+  #side { overflow-y:auto; border-right:1px solid var(--line); background:#fff; }
+  #map { height:100%; }
+  #filters { padding:10px 14px; border-bottom:1px solid var(--line); display:flex; flex-wrap:wrap; gap:6px; position:sticky; top:0; background:#fff; z-index:5; }
+  .chip { font-size:11px; padding:2px 8px; border-radius:999px; background:var(--chip); color:var(--accent); border:1px solid transparent; cursor:pointer; user-select:none; }
+  .chip.on { background:var(--accent); color:#fff; }
+  .chip.static { cursor:default; }
+  .day { padding:8px 14px 2px; font-weight:600; font-size:12px; color:var(--muted); text-transform:uppercase; letter-spacing:.04em; border-top:1px solid var(--line); }
+  .ev { padding:10px 14px; border-bottom:1px solid var(--line); cursor:pointer; }
+  .ev:hover, .ev.active { background:#f3f6fc; }
+  .ev .t { font-weight:600; }
+  .ev .m { color:var(--muted); font-size:12px; margin-top:2px; }
+  .ev .w { font-size:12px; margin-top:4px; }
+  .ev .chips { margin-top:5px; display:flex; flex-wrap:wrap; gap:4px; }
+  .ev a { color:var(--accent); text-decoration:none; }
+  .empty { padding:30px 14px; color:var(--muted); }
+  .warn { margin:10px 14px; padding:8px 10px; background:#fff6e5; border:1px solid #f0d9a8; border-radius:6px; font-size:12px; }
+  .leaflet-popup-content { font-size:13px; line-height:1.4; }
+  .leaflet-popup-content b { display:block; margin-bottom:2px; }
+  .num { display:inline-block; min-width:18px; height:18px; border-radius:9px; background:var(--accent); color:#fff; font-size:11px; text-align:center; line-height:18px; margin-right:6px; }
+  .num.grey { background:#9a9a94; }
+  .num.virt { background:#fff; color:var(--accent); border:1px solid var(--accent); line-height:16px; }
+  .marker-pin { background:var(--accent); color:#fff; border-radius:50% 50% 50% 0; transform:rotate(-45deg); width:26px; height:26px; display:flex; align-items:center; justify-content:center; box-shadow:0 1px 4px rgba(0,0,0,.35); border:2px solid #fff; }
+  .marker-pin span { transform:rotate(45deg); font-size:11px; font-weight:700; }
+  .marker-pin.grey { background:#9a9a94; }
+  @media (max-width: 800px) { #layout { grid-template-columns:1fr; grid-template-rows: 45% 55%; } #side { border-right:0; border-top:1px solid var(--line); order:2; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>DC emerging-tech policy events</h1>
+  <span class="sub" id="sub"></span>
+</header>
+<div id="layout">
+  <aside id="side">
+    <div id="filters"></div>
+    <div id="warn"></div>
+    <div id="list"></div>
+  </aside>
+  <div id="map"></div>
+</div>
+<script>
+const DATA = /*__EVENTS_JSON__*/null;
+const events = (DATA && DATA.events) || [];
+const fmtDay = iso => { const d = new Date(iso); return d.toLocaleDateString('en-US', {weekday:'long', month:'long', day:'numeric'}); };
+document.getElementById('sub').textContent = DATA
+  ? `${events.length} approved events · next ${DATA.window_days} days from ${DATA.window_start} · updated ${DATA.generated_at.slice(0,16).replace('T',' ')}`
+  : 'no data yet';
+
+// ---- map ----
+const map = L.map('map').setView(DATA ? DATA.map_center : [38.905,-77.036], DATA ? DATA.map_zoom : 13);
+L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+  attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>', maxZoom:19
+}).addTo(map);
+const markers = {};
+const group = L.featureGroup().addTo(map);
+
+// number events (pins carry a number so the list and the map line up)
+events.forEach((e, i) => e.n = i + 1);
+
+function pinIcon(n, grey) {
+  return L.divIcon({ className:'', html:`<div class="marker-pin${grey?' grey':''}"><span>${n}</span></div>`, iconSize:[26,26], iconAnchor:[13,26], popupAnchor:[0,-24] });
+}
+function popupHtml(e) {
+  const chips = e.topics.map(t => `<span class="chip static">${t}</span>`).join(' ');
+  return `<b>${e.n}. ${esc(e.title)}</b>${esc(e.host)} · ${fmtDay(e.start)} · ${e.time}<br>${esc(e.where)}<br>
+    <div style="margin:4px 0">${chips}</div><i>${esc(e.why||'')}</i><br><a href="${e.url}" target="_blank" rel="noopener">Event page ↗</a>`;
+}
+function esc(s){ return String(s==null?'':s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+
+// ---- filters ----
+const allTopics = [...new Set(events.flatMap(e => e.topics))].sort();
+const active = new Set();
+const filt = document.getElementById('filters');
+function chip(label, cls, onclick){ const s=document.createElement('span'); s.className='chip '+cls; s.textContent=label; if(onclick) s.onclick=onclick; return s; }
+const allChip = chip('All', 'on', () => { active.clear(); render(); });
+filt.appendChild(allChip);
+allTopics.forEach(t => filt.appendChild(chip(t, '', function(){ if(active.has(t)) active.delete(t); else active.add(t); render(); })));
+const virtChip = chip('Include virtual-only', 'on', function(){ showVirtual=!showVirtual; render(); });
+let showVirtual = true;
+filt.appendChild(virtChip);
+
+if (DATA && DATA.flagged_sources && DATA.flagged_sources.length) {
+  document.getElementById('warn').innerHTML = `<div class="warn">⚠ Sources failing repeatedly: ${DATA.flagged_sources.map(f => esc(f.name)+' ('+f.failures+')').join(', ')}. Check sources.yaml.</div>`;
+}
+
+function visible(e){
+  if (active.size && !e.topics.some(t => active.has(t))) return false;
+  if (!showVirtual && e.lat == null) return false;
+  return true;
+}
+
+function render(){
+  // chips
+  [...filt.children].forEach(c => { if (allTopics.includes(c.textContent)) c.classList.toggle('on', active.has(c.textContent)); });
+  allChip.classList.toggle('on', active.size === 0);
+  virtChip.classList.toggle('on', showVirtual);
+  // markers
+  group.clearLayers();
+  const vis = events.filter(visible);
+  vis.forEach(e => {
+    if (e.lat == null) return;
+    const m = L.marker([e.lat, e.lon], { icon: pinIcon(e.n, !e.in_dc) }).bindPopup(popupHtml(e));
+    m.on('click', () => highlight(e.id));
+    markers[e.id] = m; group.addLayer(m);
+  });
+  if (group.getLayers().length) map.fitBounds(group.getBounds().pad(0.15), { maxZoom: 15 });
+  // list
+  const list = document.getElementById('list'); list.innerHTML = '';
+  if (!vis.length) { list.innerHTML = '<div class="empty">No approved events match. Run the pipeline or approve some in review/.</div>'; return; }
+  let lastDay = '';
+  vis.forEach(e => {
+    const day = e.start.slice(0,10);
+    if (day !== lastDay) { const d=document.createElement('div'); d.className='day'; d.textContent=fmtDay(e.start); list.appendChild(d); lastDay = day; }
+    const div = document.createElement('div'); div.className='ev'; div.id='ev-'+e.id;
+    const numCls = e.lat == null ? 'num virt' : (e.in_dc ? 'num' : 'num grey');
+    div.innerHTML = `<div class="t"><span class="${numCls}">${e.lat==null?'~':e.n}</span>${esc(e.title)}</div>
+      <div class="m">${esc(e.host)} · ${e.time} · ${esc(e.where)}</div>
+      <div class="w">${esc(e.why||'')}</div>
+      <div class="chips">${e.topics.map(t=>`<span class="chip static">${t}</span>`).join('')} <a href="${e.url}" target="_blank" rel="noopener">event page ↗</a></div>`;
+    div.onclick = ev => { if (ev.target.tagName === 'A') return; highlight(e.id); const m = markers[e.id]; if (m) { map.flyTo(m.getLatLng(), Math.max(map.getZoom(), 15)); m.openPopup(); } };
+    list.appendChild(div);
+  });
+}
+function highlight(id){ document.querySelectorAll('.ev.active').forEach(x=>x.classList.remove('active')); const d=document.getElementById('ev-'+id); if(d){ d.classList.add('active'); d.scrollIntoView({block:'nearest'}); } }
+render();
+</script>
+</body>
+</html>

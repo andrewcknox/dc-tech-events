@@ -1,0 +1,165 @@
+# Event sources. Edit this file to add or remove a source — nothing else needs to change.
+#
+# Fields:
+#   name     : short label shown in the digest and on the map
+#   url      : the page or feed to pull from
+#   type     : ics | rss | html | eventbrite_org
+#              ics/rss  = machine-readable feed (cheapest, most reliable; prefer these)
+#              html     = a normal web page; Claude reads it and pulls out the events
+#              eventbrite_org = an Eventbrite organizer page (scraped via its embedded JSON)
+#   js       : true if the page only shows events after JavaScript runs (needs Playwright)
+#   tags     : free-form labels, e.g. [sais, think-tank, university]
+#   enabled  : false to pause a source without deleting it
+#
+# Run `uv run dte probe` to check whether a URL works and whether a feed exists.
+
+sources:
+  # ---------- Johns Hopkins / SAIS ----------
+  - name: SAIS Events
+    url: https://sais.jhu.edu/events
+    type: html
+    js: true   # Cloudflare challenge; needs Playwright
+    tags: [sais, jhu, university]
+    enabled: true
+
+  - name: SAIS Emerging Technologies Initiative
+    url: https://emergingtech.sais.jhu.edu/events
+    type: html
+    js: false
+    tags: [sais, eti, jhu, university]
+    enabled: true
+
+  - name: JHU Hub Events (SAIS)
+    url: https://hub.jhu.edu/events/feed/
+    type: rss
+    js: false
+    tags: [jhu, university]
+    enabled: true
+
+  - name: Hopkins Bloomberg Center
+    url: https://hub.jhu.edu/tags/555-Penn/events/feed/
+    type: rss
+    js: false
+    tags: [jhu, university]
+    enabled: true
+
+  # ---------- Think tanks ----------
+  - name: CSIS
+    url: https://www.csis.org/events
+    type: html
+    js: false
+    tags: [think-tank]
+    enabled: true
+
+  - name: CNAS
+    url: https://www.cnas.org/events
+    type: html
+    js: false
+    tags: [think-tank]
+    enabled: true
+
+  - name: Brookings
+    url: https://www.brookings.edu/events/
+    type: html
+    js: false
+    tags: [think-tank]
+    enabled: true
+
+  - name: CSET Georgetown
+    url: https://cset.georgetown.edu/events/
+    type: html
+    js: false
+    tags: [think-tank, university, georgetown]
+    enabled: true
+
+  - name: ITIF
+    url: https://itif.org/events/
+    type: html
+    js: false
+    tags: [think-tank]
+    enabled: true
+
+  - name: Hudson Institute
+    url: https://www.hudson.org/events
+    type: html
+    js: false
+    tags: [think-tank]
+    enabled: true
+
+  - name: Carnegie Endowment
+    url: https://carnegieendowment.org/events
+    type: html
+    js: false
+    tags: [think-tank]
+    enabled: true
+
+  - name: Atlantic Council
+    url: https://www.atlanticcouncil.org/events/
+    type: html
+    js: false
+    tags: [think-tank]
+    enabled: true
+
+  - name: Wilson Center
+    url: https://www.wilsoncenter.org/events
+    type: html
+    js: true   # event list is rendered by JavaScript
+    tags: [think-tank]
+    enabled: true
+
+  - name: Stimson Center
+    url: https://www.stimson.org/events/
+    type: html
+    js: true   # Cloudflare challenge; needs Playwright
+    tags: [think-tank]
+    enabled: true
+
+  - name: R Street Institute
+    url: https://www.rstreet.org/events/
+    type: html
+    js: false
+    tags: [think-tank]
+    enabled: true
+
+  - name: Special Competitive Studies Project
+    url: https://www.scsp.ai/events/
+    type: html
+    js: false
+    tags: [think-tank]
+    enabled: true
+
+  - name: Institute for Security and Technology
+    url: https://securityandtechnology.org/events/
+    type: html
+    js: false
+    tags: [think-tank]
+    enabled: true
+
+  - name: Center for Data Innovation
+    url: https://datainnovation.org/category/events/
+    type: html
+    js: false
+    tags: [think-tank]
+    enabled: true
+
+  - name: Federation of American Scientists
+    url: https://fas.org/events/
+    type: html
+    js: false
+    tags: [think-tank]
+    enabled: true
+
+  # ---------- Other universities ----------
+  - name: GW Elliott School
+    url: https://calendar.gwu.edu/search/events.ics?search=elliott
+    type: ics
+    js: false
+    tags: [university, gwu]
+    enabled: true
+
+  - name: Georgetown SFS
+    url: https://sfs.georgetown.edu/events-news/
+    type: html
+    js: false
+    tags: [university, georgetown]
+    enabled: true

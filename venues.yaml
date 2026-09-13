@@ -1,0 +1,135 @@
+# Known venues. The map uses these before asking an online geocoder, so adding a venue here
+# is the fastest way to fix a pin that landed in the wrong place.
+#
+# match   : words to look for (case-insensitive) in an event's location OR host organisation
+# address : human-readable, shown in the map popup
+# lat/lon : decimal degrees
+#
+# Tip: Google Maps -> right-click a spot -> the first line is "lat, lon".
+
+venues:
+  - name: Johns Hopkins SAIS (Bloomberg Center)
+    match: [sais, "555 pennsylvania", bloomberg center, "hopkins bloomberg", nitze, "emerging technologies initiative"]
+    address: 555 Pennsylvania Ave NW, Washington, DC 20001
+    lat: 38.8940
+    lon: -77.0203
+
+  - name: CSIS
+    match: [csis, "center for strategic and international", "1616 rhode island"]
+    address: 1616 Rhode Island Ave NW, Washington, DC 20036
+    lat: 38.9061
+    lon: -77.0378
+
+  - name: CNAS
+    match: [cnas, "center for a new american security", "1701 pennsylvania"]
+    address: 1701 Pennsylvania Ave NW, Suite 700, Washington, DC 20006
+    lat: 38.8994
+    lon: -77.0397
+
+  - name: Brookings Institution
+    match: [brookings, "1775 massachusetts"]
+    address: 1775 Massachusetts Ave NW, Washington, DC 20036
+    lat: 38.9093
+    lon: -77.0410
+
+  - name: CSET / Georgetown (Downtown)
+    match: [cset, "center for security and emerging technology", "500 first st"]
+    address: 500 First St NW, Washington, DC 20001
+    lat: 38.8961
+    lon: -77.0125
+
+  - name: ITIF
+    match: [itif, "information technology and innovation foundation", "700 k st"]
+    address: 700 K St NW, Suite 600, Washington, DC 20001
+    lat: 38.9024
+    lon: -77.0221
+
+  - name: Hudson Institute
+    match: [hudson, "1201 pennsylvania"]
+    address: 1201 Pennsylvania Ave NW, Suite 400, Washington, DC 20004
+    lat: 38.8960
+    lon: -77.0286
+
+  - name: Carnegie Endowment for International Peace
+    match: [carnegie, "1779 massachusetts"]
+    address: 1779 Massachusetts Ave NW, Washington, DC 20036
+    lat: 38.9096
+    lon: -77.0415
+
+  - name: Atlantic Council
+    match: [atlantic council, "1030 15th"]
+    address: 1030 15th St NW, 12th Floor, Washington, DC 20005
+    lat: 38.9030
+    lon: -77.0345
+
+  - name: Wilson Center
+    match: [wilson center, woodrow wilson, "1300 pennsylvania", reagan building, ronald reagan building]
+    address: 1300 Pennsylvania Ave NW, Washington, DC 20004
+    lat: 38.8938
+    lon: -77.0308
+
+  - name: Stimson Center
+    match: [stimson, "1211 connecticut"]
+    address: 1211 Connecticut Ave NW, 8th Floor, Washington, DC 20036
+    lat: 38.9061
+    lon: -77.0417
+
+  - name: R Street Institute
+    match: [r street, rstreet, "1411 k st"]
+    address: 1411 K St NW, Suite 900, Washington, DC 20005
+    lat: 38.9024
+    lon: -77.0326
+
+  - name: Special Competitive Studies Project
+    match: [scsp, special competitive studies, "1201 wilson blvd", rosslyn]
+    address: 1201 Wilson Blvd, Arlington, VA 22209
+    lat: 38.8959
+    lon: -77.0714
+
+  - name: Institute for Security and Technology
+    match: [institute for security and technology, "ist "]
+    address: Washington, DC (office location varies)
+    lat: 38.9000
+    lon: -77.0300
+
+  - name: Center for Data Innovation
+    match: [center for data innovation, datainnovation]
+    address: 700 K St NW, Suite 600, Washington, DC 20001
+    lat: 38.9024
+    lon: -77.0221
+
+  - name: Federation of American Scientists
+    match: [federation of american scientists, "fas ", "1150 18th"]
+    address: 1150 18th St NW, Suite 1000, Washington, DC 20036
+    lat: 38.9047
+    lon: -77.0418
+
+  - name: GW Elliott School
+    match: [elliott school, "1957 e st", george washington university, gwu]
+    address: 1957 E St NW, Washington, DC 20052
+    lat: 38.8976
+    lon: -77.0450
+
+  - name: Georgetown SFS (Main Campus)
+    match: [school of foreign service, georgetown university, "37th and o", healy hall, "icc auditorium", intercultural center]
+    address: 37th and O St NW, Washington, DC 20057
+    lat: 38.9076
+    lon: -77.0723
+
+  - name: JHU Homewood Campus (Baltimore)
+    match: [homewood, "3400 n charles", "3400 north charles"]
+    address: 3400 N Charles St, Baltimore, MD 21218
+    lat: 39.3299
+    lon: -76.6205
+
+  - name: U.S. Capitol / Hill
+    match: [capitol visitor center, rayburn, cannon house, longworth, dirksen, hart senate, russell senate]
+    address: U.S. Capitol, Washington, DC 20515
+    lat: 38.8899
+    lon: -77.0091
+
+  - name: National Press Club
+    match: [national press club, "529 14th"]
+    address: 529 14th St NW, Washington, DC 20045
+    lat: 38.8965
+    lon: -77.0318
