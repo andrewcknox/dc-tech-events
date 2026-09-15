@@ -96,10 +96,36 @@ def render_markdown(events: list[dict], start: datetime, days: int, flagged: lis
     return "\n".join(lines) + "\n"
 
 
+PUBLIC_TAGS = {"substack", "think-tank", "public", "hill", "hub", "eventbrite"}
+
+
+def _is_public(tags: list[str]) -> bool:
+    # an event that came only through a SAIS-internal mailing list stays off the public map;
+    # if any external source also lists it, it is public
+    return "sais-internal" not in tags or bool(PUBLIC_TAGS & set(tags))
+
+
+SITE_PAGES = [
+    # (file name, page title, predicate on the event's tag list)
+    ("index.html", "DC emerging-tech policy events", _is_public),
+    ("sais-internal.html", "SAIS internal events", lambda tags: "sais-internal" in tags),
+]
+
+
+def site_events(con, today: datetime, cfg: dict) -> list[dict]:
+    lo = (today - timedelta(days=int(cfg["site_days_back"]))).isoformat()
+    hi = (today + timedelta(days=int(cfg["site_days_ahead"]))).isoformat()
+    rows = con.execute(
+        "SELECT * FROM events WHERE approved='y' AND start_dt >= ? AND start_dt < ? ORDER BY start_dt", (lo, hi)
+    ).fetchall()
+    return [db.row_to_dict(r) for r in rows]
+
+
 def build_site(events: list[dict], start: datetime, days: int, flagged: list[tuple[str, int, str]], cfg: dict) -> None:
     DOCS_DIR.mkdir(exist_ok=True)
     payload = {
         "generated_at": datetime.now(TZ).replace(microsecond=0).isoformat(),
+        "today": start.date().isoformat(),
         "window_start": start.date().isoformat(),
         "window_days": days,
         "map_center": cfg["map_center"],
@@ -110,7 +136,7 @@ def build_site(events: list[dict], start: datetime, days: int, flagged: list[tup
                 "id": e["id"], "title": e["title"], "start": e["start_dt"], "end": e.get("end_dt"),
                 "host": e.get("host_org") or e.get("source_name"), "source": e.get("source_name"),
                 "location": e.get("location"), "virtual": bool(e.get("virtual")), "url": e["url"],
-                "topics": e.get("topics") or [], "fit": e.get("fit_score"), "why": e.get("one_line_why"),
+                "topics": e.get("topics") or [], "tags": e.get("tags") or [], "fit": e.get("fit_score"), "why": e.get("one_line_why"),
                 "description": e.get("description_short"), "speakers": e.get("speakers") or [],
                 "lat": e.get("lat"), "lon": e.get("lon"), "in_dc": in_dc_area(e.get("lat"), e.get("lon")),
                 "time": _fmt_time(e), "where": _where(e),
@@ -119,8 +145,14 @@ def build_site(events: list[dict], start: datetime, days: int, flagged: list[tup
         ],
     }
     (DOCS_DIR / "events.json").write_text(json.dumps(payload, ensure_ascii=False, indent=1), encoding="utf-8")
-    html = TEMPLATE.read_text(encoding="utf-8").replace("/*__EVENTS_JSON__*/null", json.dumps(payload, ensure_ascii=False))
-    (DOCS_DIR / "index.html").write_text(html, encoding="utf-8")
+    template = TEMPLATE.read_text(encoding="utf-8")
+    for fname, title, keep in SITE_PAGES:
+        sub = dict(payload)
+        sub["events"] = [e for e in payload["events"] if keep(e["tags"])]
+        sub["page_title"] = title
+        sub["other_pages"] = [(f, t) for f, t, _ in SITE_PAGES if f != fname]
+        html = template.replace("/*__EVENTS_JSON__*/null", json.dumps(sub, ensure_ascii=False)).replace("__PAGE_TITLE__", title)
+        (DOCS_DIR / fname).write_text(html, encoding="utf-8")
     (DOCS_DIR / ".nojekyll").write_text("", encoding="utf-8")
 
 
@@ -140,14 +172,14 @@ def run_digest(today: datetime | None = None) -> Path:
     start = today.replace(hour=0, minute=0, second=0, microsecond=0)
     days = int(cfg["digest_days_ahead"])
     con = db.connect()
-    events = approved_events(con, start, days)
+    events = [e for e in approved_events(con, start, days) if _is_public(e.get("tags") or [])]
     flagged = flagged_sources(con, int(cfg["failure_flag_threshold"]))
     md = render_markdown(events, start, days, flagged)
     DIGEST_DIR.mkdir(exist_ok=True)
     y, w, _ = start.isocalendar()
     path = DIGEST_DIR / f"{y}-W{w:02d}.md"
     path.write_text(md, encoding="utf-8")
-    build_site(events, start, days, flagged, cfg)
+    build_site(site_events(con, start, cfg), start, days, flagged, cfg)
     con.close()
     hook = os.environ.get("DIGEST_WEBHOOK_URL")
     if hook:

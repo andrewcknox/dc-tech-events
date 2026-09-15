@@ -3,53 +3,87 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>DC Emerging-Tech Policy Events</title>
+<title>__PAGE_TITLE__</title>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
 <style>
-  :root { --bg:#fafaf7; --ink:#1d1d1b; --muted:#6b6b66; --line:#e3e1da; --accent:#1f5fbf; --chip:#eef2fa; }
+  :root { --bg:#fafaf7; --ink:#1d1d1b; --muted:#6b6b66; --line:#e3e1da; --accent:#1f5fbf; --chip:#eef2fa; --past:#9a9a94; }
   * { box-sizing: border-box; }
   html, body { margin:0; height:100%; font: 14px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; color:var(--ink); background:var(--bg); }
-  header { display:flex; align-items:baseline; gap:14px; padding:10px 16px; border-bottom:1px solid var(--line); background:#fff; }
+  header { display:flex; align-items:baseline; gap:14px; padding:10px 16px; border-bottom:1px solid var(--line); background:#fff; flex-wrap:wrap; }
   header h1 { font-size:17px; margin:0; }
   header .sub { color:var(--muted); font-size:12px; }
-  #layout { display:grid; grid-template-columns: 400px 1fr; height: calc(100% - 46px); }
+  header nav { margin-left:auto; font-size:12px; }
+  header nav a { color:var(--accent); text-decoration:none; margin-left:12px; }
+  #layout { display:grid; grid-template-columns: 420px 1fr; height: calc(100% - 46px); }
   #side { overflow-y:auto; border-right:1px solid var(--line); background:#fff; }
   #map { height:100%; }
-  #filters { padding:10px 14px; border-bottom:1px solid var(--line); display:flex; flex-wrap:wrap; gap:6px; position:sticky; top:0; background:#fff; z-index:5; }
+  #controls { padding:10px 14px; border-bottom:1px solid var(--line); position:sticky; top:0; background:#fff; z-index:5; }
+  .row { display:flex; flex-wrap:wrap; gap:6px; align-items:center; margin-bottom:8px; }
+  .row:last-child { margin-bottom:0; }
+  .lbl { font-size:11px; color:var(--muted); text-transform:uppercase; letter-spacing:.04em; min-width:48px; }
+  input[type=date] { font: inherit; font-size:12px; padding:2px 4px; border:1px solid var(--line); border-radius:4px; }
   .chip { font-size:11px; padding:2px 8px; border-radius:999px; background:var(--chip); color:var(--accent); border:1px solid transparent; cursor:pointer; user-select:none; }
   .chip.on { background:var(--accent); color:#fff; }
   .chip.static { cursor:default; }
+  .chip.tag { background:#f2f2ee; color:var(--muted); }
   .day { padding:8px 14px 2px; font-weight:600; font-size:12px; color:var(--muted); text-transform:uppercase; letter-spacing:.04em; border-top:1px solid var(--line); }
+  .day.today { color:var(--accent); }
   .ev { padding:10px 14px; border-bottom:1px solid var(--line); cursor:pointer; }
   .ev:hover, .ev.active { background:#f3f6fc; }
+  .ev.past { opacity:.62; }
   .ev .t { font-weight:600; }
   .ev .m { color:var(--muted); font-size:12px; margin-top:2px; }
   .ev .w { font-size:12px; margin-top:4px; }
-  .ev .chips { margin-top:5px; display:flex; flex-wrap:wrap; gap:4px; }
+  .ev .chips { margin-top:5px; display:flex; flex-wrap:wrap; gap:4px; align-items:center; }
   .ev a { color:var(--accent); text-decoration:none; }
   .empty { padding:30px 14px; color:var(--muted); }
+  .count { font-size:12px; color:var(--muted); padding:6px 14px; }
   .warn { margin:10px 14px; padding:8px 10px; background:#fff6e5; border:1px solid #f0d9a8; border-radius:6px; font-size:12px; }
   .leaflet-popup-content { font-size:13px; line-height:1.4; }
   .leaflet-popup-content b { display:block; margin-bottom:2px; }
   .num { display:inline-block; min-width:18px; height:18px; border-radius:9px; background:var(--accent); color:#fff; font-size:11px; text-align:center; line-height:18px; margin-right:6px; }
-  .num.grey { background:#9a9a94; }
+  .num.grey { background:var(--past); }
   .num.virt { background:#fff; color:var(--accent); border:1px solid var(--accent); line-height:16px; }
   .marker-pin { background:var(--accent); color:#fff; border-radius:50% 50% 50% 0; transform:rotate(-45deg); width:26px; height:26px; display:flex; align-items:center; justify-content:center; box-shadow:0 1px 4px rgba(0,0,0,.35); border:2px solid #fff; }
   .marker-pin span { transform:rotate(45deg); font-size:11px; font-weight:700; }
-  .marker-pin.grey { background:#9a9a94; }
+  .marker-pin.grey { background:var(--past); }
   @media (max-width: 800px) { #layout { grid-template-columns:1fr; grid-template-rows: 45% 55%; } #side { border-right:0; border-top:1px solid var(--line); order:2; } }
 </style>
 </head>
 <body>
 <header>
-  <h1>DC emerging-tech policy events</h1>
+  <h1>__PAGE_TITLE__</h1>
   <span class="sub" id="sub"></span>
+  <nav id="nav"></nav>
 </header>
 <div id="layout">
   <aside id="side">
-    <div id="filters"></div>
+    <div id="controls">
+      <div class="row"><span class="lbl">When</span>
+        <span class="chip" data-range="week">This week</span>
+        <span class="chip on" data-range="14">Next 14 days</span>
+        <span class="chip" data-range="30">Next 30 days</span>
+        <span class="chip" data-range="past">Past 90 days</span>
+        <span class="chip" data-range="all">Everything</span>
+      </div>
+      <div class="row"><span class="lbl">Dates</span>
+        <input type="date" id="from"> <span class="lbl" style="min-width:0">to</span> <input type="date" id="to">
+      </div>
+      <div class="row"><span class="lbl">Time</span>
+        <span class="chip on" data-tod="morning">Morning</span>
+        <span class="chip on" data-tod="afternoon">Afternoon</span>
+        <span class="chip on" data-tod="evening">Evening</span>
+        <span class="chip on" data-tod="tbd">Time TBD</span>
+      </div>
+      <div class="row"><span class="lbl">Topic</span><span id="topics"></span></div>
+      <div class="row"><span class="lbl">Show</span>
+        <span class="chip on" id="virtChip">Virtual-only events</span>
+        <span class="chip" id="hillChip">Hill hearings</span>
+      </div>
+    </div>
     <div id="warn"></div>
+    <div class="count" id="count"></div>
     <div id="list"></div>
   </aside>
   <div id="map"></div>
@@ -57,88 +91,112 @@
 <script>
 const DATA = /*__EVENTS_JSON__*/null;
 const events = (DATA && DATA.events) || [];
-const fmtDay = iso => { const d = new Date(iso); return d.toLocaleDateString('en-US', {weekday:'long', month:'long', day:'numeric'}); };
+const TODAY = DATA ? DATA.today : new Date().toISOString().slice(0,10);
+const fmtDay = iso => new Date(iso).toLocaleDateString('en-US', {weekday:'long', month:'long', day:'numeric'});
+const esc = s => String(s==null?'':s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const addDays = (iso, n) => { const d = new Date(iso + 'T00:00:00'); d.setDate(d.getDate() + n); return d.toISOString().slice(0,10); };
+
 document.getElementById('sub').textContent = DATA
-  ? `${events.length} approved events · next ${DATA.window_days} days from ${DATA.window_start} · updated ${DATA.generated_at.slice(0,16).replace('T',' ')}`
+  ? `${events.length} events in the database window · updated ${DATA.generated_at.slice(0,16).replace('T',' ')}`
   : 'no data yet';
+if (DATA && DATA.other_pages) document.getElementById('nav').innerHTML = DATA.other_pages.map(([f,t]) => `<a href="${f}">${esc(t)} →</a>`).join('');
 
 // ---- map ----
 const map = L.map('map').setView(DATA ? DATA.map_center : [38.905,-77.036], DATA ? DATA.map_zoom : 13);
-L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-  attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>', maxZoom:19
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors', maxZoom:19
 }).addTo(map);
-const markers = {};
 const group = L.featureGroup().addTo(map);
-
-// number events (pins carry a number so the list and the map line up)
-events.forEach((e, i) => e.n = i + 1);
-
+const markers = {};
 function pinIcon(n, grey) {
   return L.divIcon({ className:'', html:`<div class="marker-pin${grey?' grey':''}"><span>${n}</span></div>`, iconSize:[26,26], iconAnchor:[13,26], popupAnchor:[0,-24] });
 }
 function popupHtml(e) {
   const chips = e.topics.map(t => `<span class="chip static">${t}</span>`).join(' ');
   return `<b>${e.n}. ${esc(e.title)}</b>${esc(e.host)} · ${fmtDay(e.start)} · ${e.time}<br>${esc(e.where)}<br>
-    <div style="margin:4px 0">${chips}</div><i>${esc(e.why||'')}</i><br><a href="${e.url}" target="_blank" rel="noopener">Event page ↗</a>`;
+    <div style="margin:4px 0">${chips}</div><i>${esc(e.why||'')}</i><br>${e.url ? `<a href="${e.url}" target="_blank" rel="noopener">Event page ↗</a>` : ''}`;
 }
-function esc(s){ return String(s==null?'':s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
 
-// ---- filters ----
+// ---- state ----
+const state = { from: TODAY, to: addDays(TODAY, 14), tod: new Set(['morning','afternoon','evening','tbd']), topics: new Set(), virtual: true, hill: false };
+const fromEl = document.getElementById('from'), toEl = document.getElementById('to');
+function setRange(kind) {
+  const d = new Date(TODAY + 'T00:00:00'); const dow = (d.getDay() + 6) % 7; // Monday=0
+  if (kind === 'week') { state.from = addDays(TODAY, -dow); state.to = addDays(state.from, 7); }
+  else if (kind === 'past') { state.from = addDays(TODAY, -90); state.to = TODAY; }
+  else if (kind === 'all') { state.from = addDays(TODAY, -90); state.to = addDays(TODAY, 90); }
+  else { state.from = TODAY; state.to = addDays(TODAY, +kind); }
+  fromEl.value = state.from; toEl.value = state.to;
+  document.querySelectorAll('[data-range]').forEach(c => c.classList.toggle('on', c.dataset.range === kind));
+  render();
+}
+document.querySelectorAll('[data-range]').forEach(c => c.onclick = () => setRange(c.dataset.range));
+fromEl.onchange = () => { state.from = fromEl.value; document.querySelectorAll('[data-range]').forEach(c => c.classList.remove('on')); render(); };
+toEl.onchange = () => { state.to = toEl.value; document.querySelectorAll('[data-range]').forEach(c => c.classList.remove('on')); render(); };
+document.querySelectorAll('[data-tod]').forEach(c => c.onclick = () => { const k = c.dataset.tod; state.tod.has(k) ? state.tod.delete(k) : state.tod.add(k); c.classList.toggle('on', state.tod.has(k)); render(); });
+const virtChip = document.getElementById('virtChip'); virtChip.onclick = () => { state.virtual = !state.virtual; virtChip.classList.toggle('on', state.virtual); render(); };
+const hillChip = document.getElementById('hillChip'); hillChip.onclick = () => { state.hill = !state.hill; hillChip.classList.toggle('on', state.hill); render(); };
+const hasHill = events.some(e => e.tags.includes('hill'));
+if (!hasHill) hillChip.style.display = 'none';
+
+const topicsEl = document.getElementById('topics');
 const allTopics = [...new Set(events.flatMap(e => e.topics))].sort();
-const active = new Set();
-const filt = document.getElementById('filters');
-function chip(label, cls, onclick){ const s=document.createElement('span'); s.className='chip '+cls; s.textContent=label; if(onclick) s.onclick=onclick; return s; }
-const allChip = chip('All', 'on', () => { active.clear(); render(); });
-filt.appendChild(allChip);
-allTopics.forEach(t => filt.appendChild(chip(t, '', function(){ if(active.has(t)) active.delete(t); else active.add(t); render(); })));
-const virtChip = chip('Include virtual-only', 'on', function(){ showVirtual=!showVirtual; render(); });
-let showVirtual = true;
-filt.appendChild(virtChip);
+const allChip = document.createElement('span'); allChip.className = 'chip on'; allChip.textContent = 'All';
+allChip.onclick = () => { state.topics.clear(); render(); };
+topicsEl.appendChild(allChip);
+allTopics.forEach(t => { const c = document.createElement('span'); c.className = 'chip'; c.textContent = t; c.onclick = () => { state.topics.has(t) ? state.topics.delete(t) : state.topics.add(t); render(); }; topicsEl.appendChild(c); });
 
-if (DATA && DATA.flagged_sources && DATA.flagged_sources.length) {
+if (DATA && DATA.flagged_sources && DATA.flagged_sources.length)
   document.getElementById('warn').innerHTML = `<div class="warn">⚠ Sources failing repeatedly: ${DATA.flagged_sources.map(f => esc(f.name)+' ('+f.failures+')').join(', ')}. Check sources.yaml.</div>`;
-}
 
-function visible(e){
-  if (active.size && !e.topics.some(t => active.has(t))) return false;
-  if (!showVirtual && e.lat == null) return false;
+function todOf(e) { const h = new Date(e.start).getHours(), m = new Date(e.start).getMinutes(); if (h === 0 && m === 0) return 'tbd'; return h < 12 ? 'morning' : h < 17 ? 'afternoon' : 'evening'; }
+function visible(e) {
+  const day = e.start.slice(0,10);
+  if (day < state.from || day > state.to) return false;
+  if (!state.tod.has(todOf(e))) return false;
+  if (state.topics.size && !e.topics.some(t => state.topics.has(t))) return false;
+  if (!state.virtual && e.lat == null) return false;
+  if (!state.hill && e.tags.includes('hill')) return false;
   return true;
 }
 
-function render(){
-  // chips
-  [...filt.children].forEach(c => { if (allTopics.includes(c.textContent)) c.classList.toggle('on', active.has(c.textContent)); });
-  allChip.classList.toggle('on', active.size === 0);
-  virtChip.classList.toggle('on', showVirtual);
-  // markers
+function render() {
+  [...topicsEl.children].forEach(c => { if (c !== allChip) c.classList.toggle('on', state.topics.has(c.textContent)); });
+  allChip.classList.toggle('on', state.topics.size === 0);
   group.clearLayers();
   const vis = events.filter(visible);
+  vis.forEach((e, i) => e.n = i + 1);
   vis.forEach(e => {
     if (e.lat == null) return;
-    const m = L.marker([e.lat, e.lon], { icon: pinIcon(e.n, !e.in_dc) }).bindPopup(popupHtml(e));
+    const past = e.start.slice(0,10) < TODAY;
+    const m = L.marker([e.lat, e.lon], { icon: pinIcon(e.n, past || !e.in_dc) }).bindPopup(popupHtml(e));
     m.on('click', () => highlight(e.id));
     markers[e.id] = m; group.addLayer(m);
   });
-  if (group.getLayers().length) map.fitBounds(group.getBounds().pad(0.15), { maxZoom: 15 });
-  // list
+  const dcPins = vis.filter(e => e.lat != null && e.in_dc).map(e => [e.lat, e.lon]);
+  if (dcPins.length) map.fitBounds(L.latLngBounds(dcPins).pad(0.15), { maxZoom: 15 });
+  else if (group.getLayers().length) map.fitBounds(group.getBounds().pad(0.15), { maxZoom: 15 });
+  document.getElementById('count').textContent = `${vis.length} events · ${state.from} to ${state.to}`;
   const list = document.getElementById('list'); list.innerHTML = '';
-  if (!vis.length) { list.innerHTML = '<div class="empty">No approved events match. Run the pipeline or approve some in review/.</div>'; return; }
+  if (!vis.length) { list.innerHTML = '<div class="empty">Nothing matches these filters.</div>'; return; }
   let lastDay = '';
   vis.forEach(e => {
     const day = e.start.slice(0,10);
-    if (day !== lastDay) { const d=document.createElement('div'); d.className='day'; d.textContent=fmtDay(e.start); list.appendChild(d); lastDay = day; }
-    const div = document.createElement('div'); div.className='ev'; div.id='ev-'+e.id;
-    const numCls = e.lat == null ? 'num virt' : (e.in_dc ? 'num' : 'num grey');
-    div.innerHTML = `<div class="t"><span class="${numCls}">${e.lat==null?'~':e.n}</span>${esc(e.title)}</div>
+    if (day !== lastDay) { const d = document.createElement('div'); d.className = 'day' + (day === TODAY ? ' today' : ''); d.textContent = fmtDay(e.start) + (day === TODAY ? ' · today' : ''); list.appendChild(d); lastDay = day; }
+    const past = day < TODAY;
+    const div = document.createElement('div'); div.className = 'ev' + (past ? ' past' : ''); div.id = 'ev-' + e.id;
+    const numCls = e.lat == null ? 'num virt' : (past || !e.in_dc ? 'num grey' : 'num');
+    const tagChips = e.tags.filter(t => t !== 'sais-internal').map(t => `<span class="chip static tag">${esc(t)}</span>`).join('');
+    div.innerHTML = `<div class="t"><span class="${numCls}">${e.lat == null ? '~' : e.n}</span>${esc(e.title)}</div>
       <div class="m">${esc(e.host)} · ${e.time} · ${esc(e.where)}</div>
-      <div class="w">${esc(e.why||'')}</div>
-      <div class="chips">${e.topics.map(t=>`<span class="chip static">${t}</span>`).join('')} <a href="${e.url}" target="_blank" rel="noopener">event page ↗</a></div>`;
+      <div class="w">${esc(e.why || '')}</div>
+      <div class="chips">${e.topics.map(t => `<span class="chip static">${t}</span>`).join('')}${tagChips} ${e.url ? `<a href="${e.url}" target="_blank" rel="noopener">event page ↗</a>` : ''}</div>`;
     div.onclick = ev => { if (ev.target.tagName === 'A') return; highlight(e.id); const m = markers[e.id]; if (m) { map.flyTo(m.getLatLng(), Math.max(map.getZoom(), 15)); m.openPopup(); } };
     list.appendChild(div);
   });
 }
-function highlight(id){ document.querySelectorAll('.ev.active').forEach(x=>x.classList.remove('active')); const d=document.getElementById('ev-'+id); if(d){ d.classList.add('active'); d.scrollIntoView({block:'nearest'}); } }
-render();
+function highlight(id) { document.querySelectorAll('.ev.active').forEach(x => x.classList.remove('active')); const d = document.getElementById('ev-' + id); if (d) { d.classList.add('active'); d.scrollIntoView({ block: 'nearest' }); } }
+setRange('14');
 </script>
 </body>
 </html>

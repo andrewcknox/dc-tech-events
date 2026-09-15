@@ -133,3 +133,76 @@ venues:
     address: 529 14th St NW, Washington, DC 20045
     lat: 38.8965
     lon: -77.0318
+
+  # ---------- added for the Substack backlog ----------
+  - name: AEI
+    match: [aei, american enterprise institute, "1789 massachusetts"]
+    address: 1789 Massachusetts Ave NW, Washington, DC 20036
+    lat: 38.9100
+    lon: -77.0426
+
+  - name: Cato Institute
+    match: [cato, "1000 massachusetts"]
+    address: 1000 Massachusetts Ave NW, Washington, DC 20001
+    lat: 38.9022
+    lon: -77.0247
+
+  - name: Heritage Foundation
+    match: [heritage foundation, "214 massachusetts"]
+    address: 214 Massachusetts Ave NE, Washington, DC 20002
+    lat: 38.8927
+    lon: -77.0038
+
+  - name: Council on Foreign Relations (DC)
+    match: [council on foreign relations, "cfr ", "1777 f st"]
+    address: 1777 F St NW, Washington, DC 20006
+    lat: 38.8978
+    lon: -77.0410
+
+  - name: RAND (Arlington)
+    match: [rand corporation, "1200 s hayes", "1200 south hayes"]
+    address: 1200 S Hayes St, Arlington, VA 22202
+    lat: 38.8606
+    lon: -77.0576
+
+  - name: Capitol Visitor Center
+    match: [capitol visitor center, "cvc", south orientation theater]
+    address: First St NE, Washington, DC 20515
+    lat: 38.8897
+    lon: -77.0074
+
+  - name: DACOR Bacon House
+    match: [dacor, bacon house, "1801 f st"]
+    address: 1801 F St NW, Washington, DC 20006
+    lat: 38.8977
+    lon: -77.0418
+
+  - name: Teaism Penn Quarter
+    match: [teaism]
+    address: 400 8th St NW, Washington, DC 20004
+    lat: 38.8951
+    lon: -77.0232
+
+  - name: Sudhouse DC
+    match: [sudhouse]
+    address: 1340 U St NW, Washington, DC 20009
+    lat: 38.9170
+    lon: -77.0310
+
+  - name: 12 Stories (The Wharf)
+    match: [12 stories, "the wharf"]
+    address: 801 Wharf St SW, Washington, DC 20024
+    lat: 38.8786
+    lon: -77.0247
+
+  - name: Arlo Washington DC (ART rooftop)
+    match: [arlo, "art dc"]
+    address: 1010 Vermont Ave NW, Washington, DC 20005
+    lat: 38.9024
+    lon: -77.0333
+
+  - name: Belfer Center (Harvard, Cambridge MA)
+    match: [belfer]
+    address: 79 JFK St, Cambridge, MA 02138
+    lat: 42.3712
+    lon: -71.1217

@@ -35,7 +35,8 @@ CREATE TABLE IF NOT EXISTS events (
   one_line_why TEXT,
   classify_raw TEXT,
   approved TEXT DEFAULT '',
-  review_note TEXT DEFAULT ''
+  review_note TEXT DEFAULT '',
+  tags TEXT DEFAULT '[]'
 );
 CREATE INDEX IF NOT EXISTS idx_events_start ON events(start_dt);
 
@@ -77,6 +78,9 @@ def connect(path: Path | None = None) -> sqlite3.Connection:
     con = sqlite3.connect(p)
     con.row_factory = sqlite3.Row
     con.executescript(SCHEMA)
+    cols = {r[1] for r in con.execute("PRAGMA table_info(events)")}
+    if "tags" not in cols:
+        con.execute("ALTER TABLE events ADD COLUMN tags TEXT DEFAULT '[]'")
     return con
 
 
@@ -84,7 +88,7 @@ def row_to_dict(r: sqlite3.Row | None) -> dict[str, Any] | None:
     if r is None:
         return None
     d = dict(r)
-    for k in ("alt_urls", "speakers", "topics"):
+    for k in ("alt_urls", "speakers", "topics", "tags"):
         if isinstance(d.get(k), str):
             try:
                 d[k] = json.loads(d[k])
@@ -111,26 +115,30 @@ def insert_event(con: sqlite3.Connection, ev: dict[str, Any]) -> int:
     ts = now_iso()
     cur = con.execute(
         """INSERT INTO events (fingerprint,title,start_dt,end_dt,location,virtual,url,alt_urls,
-             host_org,description_short,speakers,source_name,first_seen,last_seen)
-           VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)""",
+             host_org,description_short,speakers,source_name,first_seen,last_seen,tags)
+           VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""",
         (
             ev["fingerprint"], ev["title"], ev["start_dt"], ev.get("end_dt"), ev.get("location"),
             1 if ev.get("virtual") else 0, ev.get("url"), json.dumps(ev.get("alt_urls") or []),
             ev.get("host_org"), ev.get("description_short"), json.dumps(ev.get("speakers") or []),
-            ev.get("source_name"), ts, ts,
+            ev.get("source_name"), ts, ts, json.dumps(ev.get("tags") or []),
         ),
     )
     return int(cur.lastrowid)
 
 
-def touch_event(con: sqlite3.Connection, event_id: int, alt_url: str | None = None) -> None:
-    row = con.execute("SELECT alt_urls, url FROM events WHERE id=?", (event_id,)).fetchone()
+def touch_event(con: sqlite3.Connection, event_id: int, alt_url: str | None = None, tags: list[str] | None = None) -> None:
+    row = con.execute("SELECT alt_urls, url, tags FROM events WHERE id=?", (event_id,)).fetchone()
     alts = json.loads(row["alt_urls"] or "[]")
     if alt_url and alt_url != row["url"] and alt_url not in alts:
         alts.append(alt_url)
+    cur_tags = json.loads(row["tags"] or "[]")
+    for t in tags or []:
+        if t not in cur_tags:
+            cur_tags.append(t)
     con.execute(
-        "UPDATE events SET last_seen=?, alt_urls=? WHERE id=?",
-        (now_iso(), json.dumps(alts), event_id),
+        "UPDATE events SET last_seen=?, alt_urls=?, tags=? WHERE id=?",
+        (now_iso(), json.dumps(alts), json.dumps(cur_tags), event_id),
     )
 
 

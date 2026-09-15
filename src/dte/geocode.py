@@ -81,6 +81,9 @@ def geocode_event(con, ev: dict[str, Any], venues: list[dict[str, Any]], cfg: di
         return None, None, "virtual" if ev.get("virtual") else "none"
 
     q = _clean_location(loc)
+    if re.fullmatch(r"(washington|washington,? d\.?c\.?|dc|in[- ]person|tbd|tba)[\s,.]*", q, re.I) or "(" in q and "venue" in q.lower():
+        v = _match_venue(host, venues) or _match_venue(src, venues)
+        return (float(v["lat"]), float(v["lon"]), "venue") if v else (None, None, "none")
     if "washington" not in q.lower() and "dc" not in q.lower() and not re.search(r"\b(va|md|virginia|maryland)\b", q, re.I):
         q = f"{q}, Washington, DC"
     cached = db.geocache_get(con, q)

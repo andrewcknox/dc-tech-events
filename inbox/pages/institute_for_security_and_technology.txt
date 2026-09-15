@@ -1,0 +1,102 @@
+# Institute for Security and Technology
+# https://securityandtechnology.org/events/
+# fetched 2026-09-15T00:02:11.294567-04:00
+# tags: think-tank
+
+Skip to content
+Events
+View the Institute for Security and Technology's upcoming and past events. 
+FEATURED EVENT 
+ July 1, 2026 11:00 am 
+ Vulns + AI = Oh My! 
+ AI is reshaping vulnerability management… and reshaping policy debates along with it. Join Institute for Security and Technology friends and adjunct advisors (and some CVE board members!) for a lively conversation on Wednesday, July 1 at 11 am ET. <https://securityandtechnology.org/event/vulns-ai-oh-my/>
+All Events
+Search
+Filters
+Year
+Center & Projects
+Panelists
+Event Type
+Topics
+Event <https://securityandtechnology.org/events/>
+February 4, 2027 6:00 pm 
+ Fourth Annual Cyber Policy Awards 
+ On the evening of Thursday, February 4, 2027, IST will host the Fourth Annual Cyber Policy Awards™ Gala in Washington, DC. During the event, members of the cyber policy community will present The Atlas awards to deserving recipients who have driven meaningful progress over the last year, along with a special award for Lifetime Achievement. <https://securityandtechnology.org/event/fourth-annual-cyber-policy-awards/>
+awards <https://securityandtechnology.org/resource_topic/awards/>
+, 
+cyber policy <https://securityandtechnology.org/resource_topic/cyber-policy/>
+, 
+gala <https://securityandtechnology.org/resource_topic/gala/>
+ September 9, 2026 
+Event <https://securityandtechnology.org/events/>
+September 14, 2026 3:00 pm 
+ E-Rate: No Connectivity Without Cybersecurity 
+ As schools face increasing cyber threats, the Future of Universal Service Fund Reform Task Force has issued recommendations for Congress to consider in the rewriting of the E-Rate Program. IST’s experts hosted this webinar with members of the task force to discuss their recommendations, the FCC’s cybersecurity pilot, and the broader context of E-Rate reform. <https://securityandtechnology.org/event/e-rate-no-connectivity-without-cybersecurity/>
+cybersecurity <https://securityandtechnology.org/resource_topic/cybersecurity/>
+, 
+E-Rate <https://securityandtechnology.org/resource_topic/e-rate/>
+, 
+Universal Service Fund <https://securityandtechnology.org/resource_topic/universal-service-fund/>
+ September 14, 2026 
+Event <https://securityandtechnology.org/events/>
+September 3, 2026 12:00 pm 
+ AMA: Exploring the Presidential Memorandum on Combating Transnational Cyber-Enabled Crime 
+ The Trump Administration recently announced a program to enlist vetted private companies in cyber operations against foreign cybercriminals. IST recently hosted a webinar unpacking the news. Due to popular demand, we’re back to host a pop-up AMA webinar! <https://securityandtechnology.org/event/ama-exploring-the-presidential-memorandum/>
+Cyber Strategy <https://securityandtechnology.org/resource_topic/cyber-strategy/>
+, 
+cybercrime <https://securityandtechnology.org/resource_topic/cybercrime/>
+, 
+cybersecurity <https://securityandtechnology.org/resource_topic/cybersecurity/>
+, 
+offensive cyber <https://securityandtechnology.org/resource_topic/offensive-cyber/>
+ September 3, 2026 
+Event <https://securityandtechnology.org/events/>
+September 2, 2026 1:30 pm 
+ AI and the Future of National Security: Results From a Landmark Survey of 111 National Security Policy Professionals 
+ IST, in partnership with the Future of Life Institute, conducted the first unclassified survey of national security practitioners to cut through the hype and identify the risks and opportunities that experts see in advanced AI deployment. Join report authors and contributing experts in a launch event to celebrate the report’s release, share key findings, and explore what’s next for AI in national security. <https://securityandtechnology.org/event/ai-and-the-future-of-national-security/>
+artificial inteligence <https://securityandtechnology.org/resource_topic/artificial-inteligence/>
+, 
+cybersecurity <https://securityandtechnology.org/resource_topic/cybersecurity/>
+, 
+military <https://securityandtechnology.org/resource_topic/military/>
+, 
+national security <https://securityandtechnology.org/resource_topic/national-security/>
+ September 2, 2026 
+Event <https://securityandtechnology.org/events/>
+August 24, 2026 10:30 am 
+ Exploring the Presidential Memorandum on Combating Transnational Cyber-Enabled Crime 
+ A Presidential Memorandum this month changed the role of private companies in U.S. cyber operations. On Monday, IST’s cybersecurity and legal experts will sit down for a pop-up webinar to discuss the implications of the Memorandum and debate what may be covered under "cyber-enabled crime." <https://securityandtechnology.org/event/exploring-the-presidential-memorandum-on-combating-transnational-cyber-enabled-crime/>
+Cyber Strategy <https://securityandtechnology.org/resource_topic/cyber-strategy/>
+, 
+cybercrime <https://securityandtechnology.org/resource_topic/cybercrime/>
+, 
+cybersecurity <https://securityandtechnology.org/resource_topic/cybersecurity/>
+, 
+offensive cyber <https://securityandtechnology.org/resource_topic/offensive-cyber/>
+ August 24, 2026 
+Event <https://securityandtechnology.org/events/>
+July 31, 2026 10:30 am 
+ Vulns + AI = Oh My! From Sandbox Escapes to Record Patches 
+ From the OpenAI breakout to Microsoft’s record-breaking Patch Day surge, AI is reshaping both offense and defense across the cybersecurity landscape. Join IST’s friends and experts on July 31 to cut through the noise, headline hype, and press release launches to figure out what’s happening on the ground. <https://securityandtechnology.org/event/vulns-ai-oh-my-from-sandbox-escapes-to-record-patches/>
+AI
+, 
+CISA <https://securityandtechnology.org/resource_topic/cisa/>
+, 
+Microsoft <https://securityandtechnology.org/resource_topic/microsoft/>
+, 
+OpenAI <https://securityandtechnology.org/resource_topic/openai/>
+, 
+patching <https://securityandtechnology.org/resource_topic/patching/>
+, 
+software <https://securityandtechnology.org/resource_topic/software/>
+, 
+vulnerability <https://securityandtechnology.org/resource_topic/vulnerability/>
+ July 31, 2026 
+ MENU 
+HOME PAGE <https://securityandtechnology.org/catalinknew/>
+GET IN TOUCH
+Email: 
+[email protected] <https://securityandtechnology.org/cdn-cgi/l/email-protection#dbb8baafbab7b2b5b09ba8beb8aea9b2afa2bab5bfafbeb8b3b5b4b7b4bca2f5b4a9bc>
+Send us a message: 
+Contact <https://securityandtechnology.org/catalinknew/contact/>
+JOIN THE CATALINK MAILING LIST

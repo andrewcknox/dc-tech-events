@@ -35,6 +35,9 @@ DEFAULTS: dict[str, Any] = {
     "map_center": [38.905, -77.036],
     "map_zoom": 13,
     "user_agent": "dc-tech-events/0.1",
+    "extraction": "session",
+    "site_days_back": 90,
+    "site_days_ahead": 90,
 }
 
 

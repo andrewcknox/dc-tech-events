@@ -24,9 +24,11 @@ def fetch(
     from .fetch import run_fetch
     from .geocode import geocode_pending
 
+    from .config import load_config
+
     today = datetime.now(TZ)
     report = run_fetch(only=source or None, today=today)
-    n_cls = 0 if no_classify else run_classify(today)
+    n_cls = 0 if (no_classify or load_config().get("extraction") != "api") else run_classify(today)
     con = db.connect()
     n_geo = geocode_pending(con, today.isoformat())
     con.close()
@@ -70,6 +72,24 @@ def digest():
     apply_reviews()
     path = run_digest()
     console.print(f"wrote {path} and docs/index.html")
+
+
+@app.command("import")
+def import_cmd(path: list[str] = typer.Argument(..., help="JSON file(s) of events, e.g. inbox/2026-09-14.json")):
+    """Import events from JSON written by a Claude Code session (or by hand). Idempotent."""
+    from pathlib import Path
+
+    from . import db
+    from .geocode import geocode_pending
+    from .importer import import_file
+
+    for p in path:
+        stats = import_file(Path(p))
+        console.print(f"{p}: {stats['new']} new, {stats['updated']} updated, {stats['skipped']} skipped")
+    con = db.connect()
+    n = geocode_pending(con, "1970-01-01")
+    con.close()
+    console.print(f"geocoded {n}")
 
 
 @app.command()

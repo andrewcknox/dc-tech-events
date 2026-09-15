@@ -1,5 +1,13 @@
-# Runtime settings. Model name lives here so it can be changed without touching code.
-model: claude-haiku-4-5
+# Runtime settings.
+#
+# extraction: session  -> `dte fetch` saves each HTML page as text under inbox/pages/ and a Claude Code
+#                         session (scheduled daily) reads them, writes inbox/*.json, and runs `dte import`.
+#                         No API key needed. This is the default.
+# extraction: api      -> `dte fetch` calls the Anthropic API directly (needs ANTHROPIC_API_KEY).
+extraction: session
+model: claude-haiku-4-5         # only used when extraction: api
+site_days_back: 90              # the map keeps this much history so past events stay browsable
+site_days_ahead: 90
 timezone: America/New_York
 max_chunk_chars: 24000          # ~6-8k tokens per Claude extraction call
 dedupe_threshold: 85            # rapidfuzz similarity (0-100) to treat two titles as the same event

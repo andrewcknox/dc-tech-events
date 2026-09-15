@@ -52,3 +52,10 @@ geocode_cache(query TEXT PK, lat, lon, display_name, created_at)
 
 sources.yaml + probe → fetch (feeds, then HTML extraction) → dedupe → classify → geocode →
 review → digest + map → GH Actions → tests → README.
+
+## Revision 2026-09-14: no API key
+
+Extraction and classification are done by a scheduled Claude Code session on the user's machine
+(see `DAILY.md`), not by the Anthropic API. `dte fetch` dumps HTML pages to `inbox/pages/`; the
+session writes `inbox/*.json`; `dte import` loads it. Events carry `tags`; `sais-internal` events
+get their own map page. The map has date-range and time-of-day filters and a 90-day backlog.

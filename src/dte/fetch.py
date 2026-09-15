@@ -216,7 +216,22 @@ def fetch_source(con, src: Source, cfg: dict[str, Any], today: datetime) -> list
         raise ValueError(f"unknown source type {src.type!r}")
     if len(text) < 200:
         return []
-    return extract_with_cache(con, text, src, cfg, today)
+    if cfg.get("extraction", "session") == "api":
+        return extract_with_cache(con, text, src, cfg, today)
+    # session mode: save the page text for a Claude Code session to read; no events extracted here
+    from .importer import dump_pages_dir, source_stub
+    out = dump_pages_dir() / f"{source_stub(src)}.txt"
+    header = f"# {src.name}\n# {src.url}\n# fetched {today.isoformat()}\n# tags: {', '.join(src.tags)}\n\n"
+    out.write_text(header + text, encoding="utf-8")
+    raise PageDumped(out.name, len(text))
+
+
+class PageDumped(Exception):
+    """Not an error: the page text was written to inbox/pages for a session to read."""
+
+    def __init__(self, path: str, n_chars: int):
+        super().__init__(path)
+        self.path, self.n_chars = path, n_chars
 
 
 def upsert_events(con, events: list[dict[str, Any]], src: Source, cfg: dict[str, Any], today: datetime) -> tuple[int, int]:
@@ -231,7 +246,7 @@ def upsert_events(con, events: list[dict[str, Any]], src: Source, cfg: dict[str,
         lo, hi = window_bounds(start, int(cfg["dedupe_window_days"]))
         dup = find_duplicate(ev, db.events_between(con, lo, hi), int(cfg["dedupe_threshold"]), int(cfg["dedupe_window_days"]))
         if dup:
-            db.touch_event(con, dup["id"], ev.get("url"))
+            db.touch_event(con, dup["id"], ev.get("url"), ev.get("tags"))
             seen += 1
         else:
             db.insert_event(con, ev)
@@ -250,10 +265,15 @@ def run_fetch(only: list[str] | None = None, today: datetime | None = None) -> l
             continue
         try:
             events = fetch_source(con, src, cfg, today)
+            for ev in events:
+                ev["tags"] = list(src.tags)
             new, seen = upsert_events(con, events, src, cfg, today)
             status = "ok" if events else "empty"
             msg = f"{len(events)} parsed, {new} new, {seen} seen again"
             db.log_source_status(con, src.name, status, len(events), msg)
+        except PageDumped as d:
+            status, msg, new = "ok", f"saved inbox/pages/{d.path} ({d.n_chars:,} chars) for session extraction", 0
+            db.log_source_status(con, src.name, status, 0, msg)
         except Exception as e:  # noqa: BLE001
             status, msg, new = "failed", f"{type(e).__name__}: {e}", 0
             db.log_source_status(con, src.name, status, 0, msg)

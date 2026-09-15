@@ -1,0 +1,78 @@
+# CSET Georgetown
+# https://cset.georgetown.edu/events/
+# fetched 2026-09-15T00:02:11.294567-04:00
+# tags: think-tank, university, georgetown
+
+Events
+China’s AI Leap <https://cset.georgetown.edu/event/chinas-ai-leap/>
+ October 7, 2025
+ 125 E Street NW, Washington, DC, 20001
+Check out the recording and recap of CSET's event diving deep on China's military modernization below. 
+Applications
+ Filter events
+CyberAI (12) <https://cset.georgetown.edu/events/?ep_filter_topic=cyberai>
+Applications (12) <https://cset.georgetown.edu/events/?ep_filter_topic=applications-and-implications>
+Compete (7) <https://cset.georgetown.edu/events/?ep_filter_topic=compete>
+China (7) <https://cset.georgetown.edu/events/?ep_filter_topic=china>
+Workforce (6) <https://cset.georgetown.edu/events/?ep_filter_topic=workforce>
+Investment (6) <https://cset.georgetown.edu/events/?ep_filter_topic=investment>
+International standing (5) <https://cset.georgetown.edu/events/?ep_filter_topic=international-standing>
+Hardware and compute (5) <https://cset.georgetown.edu/events/?ep_filter_topic=hardware-and-compute>
+Assessment (4) <https://cset.georgetown.edu/events/?ep_filter_topic=assessment>
+Biotech (3) <https://cset.georgetown.edu/events/?ep_filter_topic=biotech>
+Talent (2) <https://cset.georgetown.edu/events/?ep_filter_topic=talent>
+Supply Chains (2) <https://cset.georgetown.edu/events/?ep_filter_topic=supply-chains>
+Peer Watch (2) <https://cset.georgetown.edu/events/?ep_filter_topic=peer-watch>
+Foundations (1) <https://cset.georgetown.edu/events/?ep_filter_topic=foundations>
+CSET Events (50) <https://cset.georgetown.edu/events/?ep_filter_event_type=cset-events>
+Our Experts at Other Events (2) <https://cset.georgetown.edu/events/?ep_filter_event_type=our-experts-at-other-events>
+Expert Testimony (1) <https://cset.georgetown.edu/events/?ep_filter_event_type=expert-testimony>
+Upcoming Events <https://cset.georgetown.edu/events/?event_type=upcoming>
+Past Events <https://cset.georgetown.edu/events/?event_type=past>
+The New Bio Frontier <https://cset.georgetown.edu/event/the-new-bio-frontier/>
+ March 25, 2026
+ 500 First Street NW
+9th Floor
+Washington, DC 20001
+On March 25, CSET hosted a fireside chat with IQT’s Vice President of Technology, Dr. Jessica Dymond, to discuss the current state of emerging biotechnology, the promises it holds, and the steps that policymakers, investors, and practitioners can take to build a robust biotechnology sector. 
+Future-Ready: Building Tomorrow’s Tech Workforce <https://cset.georgetown.edu/event/future-ready-building-tomorrows-tech-workforce/>
+ March 10, 2026
+ 125 E Street NW
+9th Floor
+Washington, DC 20001
+Please join the Center for Security and Emerging Technology on Tuesday, March 10, for our 2026 Spring Symposium, which will include discussions on building the AI and emerging technology workforce. The event will feature a fireside chat with Senator Lisa Blunt Rochester, as well as insights from industry and labor experts at the cutting edge of technology workforce policy. 
+ CSET thanks the NobleReach Foundation for their sponsorship of this event.
+The Talent Map <https://cset.georgetown.edu/event/the-talent-map/>
+ December 2, 2025
+ Online
+On December 2, CSET hosted a webinar to highlight the new PATHWISE tool and discuss the full range of emerging technology training and workforce issues. Following a demo of the new tool, Senior Fellow Matthias Oschinski moderated a discussion with leading experts on how this new data can inform the critical policy discussions central to the U.S. developing a robust domestic AI and cyber workforce. 
+China’s AI Leap <https://cset.georgetown.edu/event/chinas-ai-leap/>
+ October 7, 2025
+ 125 E Street NW
+Washington, DC
+20001
+Check out the recording and recap of CSET's event diving deep on China's military modernization below. 
+High Stakes in High Tech: The U.S. China AI Power Race <https://cset.georgetown.edu/event/high-stakes-in-high-tech-the-u-s-china-ai-power-race/>
+ September 17, 2025
+ Online
+Owen J. Daniels discusses China's progress in AI and its implications for U.S. national security and economic competitiveness. 
+Rewiring the Chip Landscape <https://cset.georgetown.edu/event/rewiring-the-chip-landscape/>
+ July 16, 2025
+ Online
+On July 16, CSET hosted a webinar with a breakdown of CSET's latest data and analysis on the global semiconductor manufacturing equipment market. 
+How the U.S. Wins the Global Tech Competition <https://cset.georgetown.edu/event/how-the-u-s-wins-the-global-tech-competition/>
+ April 30, 2025
+ 125 E St NW, Washington, DC 20001 - 9th Floor
+What will it take for the U.S. to win the global technology race? From artificial intelligence to biotechnology, the stakes are high — and the time to act is now. Join leading voices from the worlds of government, industry, and policy for an afternoon of candid conversation about the forces shaping the next era of innovation and competition.
+What’s Next for AI Red-Teaming? <https://cset.georgetown.edu/event/whats-next-for-ai-red-teaming/>
+ March 25, 2025
+ Online
+On March 25, CSET hosted an in-depth discussion about AI red-teaming — what it is, how it works in practice, and how to make it more useful in the future.
+How the U.S. Government Hires, Uses, and Pays for AI Tools and Talent <https://cset.georgetown.edu/event/how-the-u-s-government-hires-uses-and-pays-for-ai-tools-and-talent/>
+ February 24, 2025
+ Online
+On February 24, CSET, the Beeck Center for Social Impact + Innovation, and Georgetown Law’s Institute for Technology Law and Policy hosted a discussion on the federal government's procurement and use of AI tools and talent.
+What’s Next in AI Governance? <https://cset.georgetown.edu/event/whats-next-in-ai-governance/>
+ December 11, 2024
+ Online
+In this event, we discussed potential forecasts for AI governance efforts around the world in 2025. We also provided an exclusive introduction to AGORA, a new tool designed to help researchers and the public examine AI-relevant laws, regulations, and standards.

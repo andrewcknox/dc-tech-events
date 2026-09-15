@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SAIS internal events</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+<style>
+  :root { --bg:#fafaf7; --ink:#1d1d1b; --muted:#6b6b66; --line:#e3e1da; --accent:#1f5fbf; --chip:#eef2fa; --past:#9a9a94; }
+  * { box-sizing: border-box; }
+  html, body { margin:0; height:100%; font: 14px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; color:var(--ink); background:var(--bg); }
+  header { display:flex; align-items:baseline; gap:14px; padding:10px 16px; border-bottom:1px solid var(--line); background:#fff; flex-wrap:wrap; }
+  header h1 { font-size:17px; margin:0; }
+  header .sub { color:var(--muted); font-size:12px; }
+  header nav { margin-left:auto; font-size:12px; }
+  header nav a { color:var(--accent); text-decoration:none; margin-left:12px; }
+  #layout { display:grid; grid-template-columns: 420px 1fr; height: calc(100% - 46px); }
+  #side { overflow-y:auto; border-right:1px solid var(--line); background:#fff; }
+  #map { height:100%; }
+  #controls { padding:10px 14px; border-bottom:1px solid var(--line); position:sticky; top:0; background:#fff; z-index:5; }
+  .row { display:flex; flex-wrap:wrap; gap:6px; align-items:center; margin-bottom:8px; }
+  .row:last-child { margin-bottom:0; }
+  .lbl { font-size:11px; color:var(--muted); text-transform:uppercase; letter-spacing:.04em; min-width:48px; }
+  input[type=date] { font: inherit; font-size:12px; padding:2px 4px; border:1px solid var(--line); border-radius:4px; }
+  .chip { font-size:11px; padding:2px 8px; border-radius:999px; background:var(--chip); color:var(--accent); border:1px solid transparent; cursor:pointer; user-select:none; }
+  .chip.on { background:var(--accent); color:#fff; }
+  .chip.static { cursor:default; }
+  .chip.tag { background:#f2f2ee; color:var(--muted); }
+  .day { padding:8px 14px 2px; font-weight:600; font-size:12px; color:var(--muted); text-transform:uppercase; letter-spacing:.04em; border-top:1px solid var(--line); }
+  .day.today { color:var(--accent); }
+  .ev { padding:10px 14px; border-bottom:1px solid var(--line); cursor:pointer; }
+  .ev:hover, .ev.active { background:#f3f6fc; }
+  .ev.past { opacity:.62; }
+  .ev .t { font-weight:600; }
+  .ev .m { color:var(--muted); font-size:12px; margin-top:2px; }
+  .ev .w { font-size:12px; margin-top:4px; }
+  .ev .chips { margin-top:5px; display:flex; flex-wrap:wrap; gap:4px; align-items:center; }
+  .ev a { color:var(--accent); text-decoration:none; }
+  .empty { padding:30px 14px; color:var(--muted); }
+  .count { font-size:12px; color:var(--muted); padding:6px 14px; }
+  .warn { margin:10px 14px; padding:8px 10px; background:#fff6e5; border:1px solid #f0d9a8; border-radius:6px; font-size:12px; }
+  .leaflet-popup-content { font-size:13px; line-height:1.4; }
+  .leaflet-popup-content b { display:block; margin-bottom:2px; }
+  .num { display:inline-block; min-width:18px; height:18px; border-radius:9px; background:var(--accent); color:#fff; font-size:11px; text-align:center; line-height:18px; margin-right:6px; }
+  .num.grey { background:var(--past); }
+  .num.virt { background:#fff; color:var(--accent); border:1px solid var(--accent); line-height:16px; }
+  .marker-pin { background:var(--accent); color:#fff; border-radius:50% 50% 50% 0; transform:rotate(-45deg); width:26px; height:26px; display:flex; align-items:center; justify-content:center; box-shadow:0 1px 4px rgba(0,0,0,.35); border:2px solid #fff; }
+  .marker-pin span { transform:rotate(45deg); font-size:11px; font-weight:700; }
+  .marker-pin.grey { background:var(--past); }
+  @media (max-width: 800px) { #layout { grid-template-columns:1fr; grid-template-rows: 45% 55%; } #side { border-right:0; border-top:1px solid var(--line); order:2; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>SAIS internal events</h1>
+  <span class="sub" id="sub"></span>
+  <nav id="nav"></nav>
+</header>
+<div id="layout">
+  <aside id="side">
+    <div id="controls">
+      <div class="row"><span class="lbl">When</span>
+        <span class="chip" data-range="week">This week</span>
+        <span class="chip on" data-range="14">Next 14 days</span>
+        <span class="chip" data-range="30">Next 30 days</span>
+        <span class="chip" data-range="past">Past 90 days</span>
+        <span class="chip" data-range="all">Everything</span>
+      </div>
+      <div class="row"><span class="lbl">Dates</span>
+        <input type="date" id="from"> <span class="lbl" style="min-width:0">to</span> <input type="date" id="to">
+      </div>
+      <div class="row"><span class="lbl">Time</span>
+        <span class="chip on" data-tod="morning">Morning</span>
+        <span class="chip on" data-tod="afternoon">Afternoon</span>
+        <span class="chip on" data-tod="evening">Evening</span>
+        <span class="chip on" data-tod="tbd">Time TBD</span>
+      </div>
+      <div class="row"><span class="lbl">Topic</span><span id="topics"></span></div>
+      <div class="row"><span class="lbl">Show</span>
+        <span class="chip on" id="virtChip">Virtual-only events</span>
+        <span class="chip" id="hillChip">Hill hearings</span>
+      </div>
+    </div>
+    <div id="warn"></div>
+    <div class="count" id="count"></div>
+    <div id="list"></div>
+  </aside>
+  <div id="map"></div>
+</div>
+<script>
+const DATA = {"generated_at": "2026-09-15T00:04:50-04:00", "today": "2026-09-15", "window_start": "2026-09-15", "window_days": 14, "map_center": [38.905, -77.036], "map_zoom": 13, "flagged_sources": [], "events": [{"id": 85, "title": "Strat & Tech Open Meeting", "start": "2026-09-02T12:00:00-04:00", "end": "2026-09-02T14:00:00-04:00", "host": "SAIS Strat & Tech focus areas", "source": "SAIS T&I mailing list (sais.ti@lists.jh.edu), email of 2026-09-02", "location": "The Link (Rooms 426/428/430), Hopkins Bloomberg Center", "virtual": false, "url": null, "topics": ["AI", "cyber", "tech-geopolitics"], "tags": ["campusgroups", "sais", "sais-internal"], "fit": 4, "why": "Semester kickoff for all Strategy, Security, Tech and Intelligence programming at SAIS; lunch provided.", "description": "Introductory open meeting covering focus areas, faculty, affiliated centers and student clubs.", "speakers": [], "lat": 38.894, "lon": -77.0203, "in_dc": true, "time": "12:00 PM–2:00 PM", "where": "The Link (Rooms 426/428/430), Hopkins Bloomberg Center"}, {"id": 86, "title": "AI & the Future of Warfare", "start": "2026-09-09T12:45:00-04:00", "end": "2026-09-09T14:15:00-04:00", "host": "SAIS SSS focus area and D&I Club", "source": "SAIS T&I mailing list (sais.ti@lists.jh.edu), email of 2026-09-02", "location": "Room 422, Hopkins Bloomberg Center", "virtual": false, "url": null, "topics": ["AI", "tech-geopolitics"], "tags": ["campusgroups", "sais", "sais-internal"], "fit": 5, "why": "Panel with RAND, the Joint Staff Chief AI Officer and CDAO, moderated by Mara Karlin; lunch provided.", "description": "", "speakers": ["Buzz Phillips", "Bianca Herlory", "Aaron Schumacher", "Mara Karlin"], "lat": 38.894, "lon": -77.0203, "in_dc": true, "time": "12:45 PM–2:15 PM", "where": "Room 422, Hopkins Bloomberg Center"}, {"id": 60, "title": "Getting Tech Right: U.S. China Policy for a New Era", "start": "2026-09-11T08:30:00-04:00", "end": "2026-09-11T17:00:00-04:00", "host": "Johns Hopkins SAIS", "source": "Caleb Knapp Weekly AI Digest (Substack)", "location": "Johns Hopkins SAIS, 555 Pennsylvania Ave NW", "virtual": false, "url": "https://www.eventbrite.com/e/getting-tech-right-us-china-policy-for-a-new-era-tickets-1995920699541", "topics": ["China", "tech-geopolitics", "AI", "semiconductors"], "tags": ["public", "sais", "substack", "sais-internal"], "fit": 5, "why": "Full-day SAIS conference on US-China tech policy, held in ETI's own building.", "description": "", "speakers": [], "lat": 38.894, "lon": -77.0203, "in_dc": true, "time": "8:30 AM–5:00 PM", "where": "Johns Hopkins SAIS, 555 Pennsylvania Ave NW"}, {"id": 87, "title": "Information Session: SAIS Emerging Technologies Fellowship", "start": "2026-09-11T12:30:00-04:00", "end": "2026-09-11T13:30:00-04:00", "host": "SAIS Emerging Technologies Initiative", "source": "SAIS T&I mailing list (sais.ti@lists.jh.edu), email of 2026-09-02", "location": "Room 622, Hopkins Bloomberg Center", "virtual": false, "url": null, "topics": [], "tags": ["campusgroups", "eti", "sais", "sais-internal"], "fit": 5, "why": "Q&A with ETI Director Olga Belogolova on the fellowship; applications due September 14 via SMILE.", "description": "", "speakers": ["Olga Belogolova"], "lat": 38.894, "lon": -77.0203, "in_dc": true, "time": "12:30 PM–1:30 PM", "where": "Room 622, Hopkins Bloomberg Center"}, {"id": 88, "title": "The Many Faces of AI Governance: How Cities and States are Shaping Policy Across the US", "start": "2026-09-14T12:45:00-04:00", "end": "2026-09-14T14:15:00-04:00", "host": "SAIS T&I focus area", "source": "SAIS T&I mailing list (sais.ti@lists.jh.edu), email of 2026-09-02", "location": "Room 422, Hopkins Bloomberg Center", "virtual": false, "url": null, "topics": ["AI", "trust-and-safety", "data/privacy"], "tags": ["sais", "sais-internal"], "fit": 5, "why": "T&I panel on state and city AI policy with FAS, CDT, Public Citizen and the State of Maryland, hosted by Melissa Griffith. In person only.", "description": "", "speakers": ["Melissa Griffith", "Caroline Siegel Singh", "Quinn Anex-Ries", "J.B. Branch", "Lauren Maffeo"], "lat": 38.894, "lon": -77.0203, "in_dc": true, "time": "12:45 PM–2:15 PM", "where": "Room 422, Hopkins Bloomberg Center"}, {"id": 89, "title": "Who Governs the Machine? Rules, Responsibilities, and the Public Good", "start": "2026-09-14T17:30:00-04:00", "end": "2026-09-14T19:30:00-04:00", "host": "Johns Hopkins University", "source": "SAIS T&I mailing list (sais.ti@lists.jh.edu), email of 2026-09-02", "location": "Theater, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW", "virtual": false, "url": "https://hub.jhu.edu/events/2026/09/14/next-conversations-who-governs-the-machine/", "topics": ["AI", "trust-and-safety"], "tags": ["hub", "sais", "sais-internal"], "fit": 5, "why": "Stuart Russell, Dean Ball (OpenAI) and Gillian Hadfield on who sets the rules for AI; free, registration required.", "description": "", "speakers": ["Stuart Russell", "Dean Ball", "Gillian Hadfield", "Eugene Scott"], "lat": 38.894, "lon": -77.0203, "in_dc": true, "time": "5:30 PM–7:30 PM", "where": "Theater, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"}, {"id": 90, "title": "AAAS Tech & Diplomacy Panel", "start": "2026-09-16T13:00:00-04:00", "end": "2026-09-16T14:30:00-04:00", "host": "SAIS T&I focus area", "source": "SAIS T&I mailing list (sais.ti@lists.jh.edu), email of 2026-09-02", "location": "Room 422, Hopkins Bloomberg Center", "virtual": false, "url": null, "topics": ["tech-geopolitics"], "tags": ["sais", "sais-internal"], "fit": 4, "why": "How policymakers work with scientists in government, with a SAIS alum and a State Department AAAS fellow; lunch at 1, panel at 1:30.", "description": "", "speakers": ["Olga Belogolova", "Sydney Freeman", "Kyle Nichols"], "lat": 38.894, "lon": -77.0203, "in_dc": true, "time": "1:00 PM–2:30 PM", "where": "Room 422, Hopkins Bloomberg Center"}, {"id": 91, "title": "Conference: Envisioning the Future of Global Supply Chains", "start": "2026-09-17T09:00:00-04:00", "end": "2026-09-17T17:00:00-04:00", "host": "JHU Carey Business School", "source": "SAIS T&I mailing list (sais.ti@lists.jh.edu), email of 2026-09-02", "location": "Hopkins Bloomberg Center, Washington, DC", "virtual": false, "url": null, "topics": ["AI", "industrial-policy", "tech-geopolitics"], "tags": ["sais", "sais-internal"], "fit": 4, "why": "Geoeconomics and resilience workshop; the afternoon panel on supply chains for AI (WSJ moderator, Wharton, McKinsey, CMU) is the T&I-relevant part.", "description": "", "speakers": ["Amrith Ramkumar", "Gad Allon", "Arvind Govindarajan", "Todd Schatzki", "Sridhar Tayur"], "lat": 38.894, "lon": -77.0203, "in_dc": true, "time": "9:00 AM–5:00 PM", "where": "Hopkins Bloomberg Center, Washington, DC"}, {"id": 92, "title": "The Economic Impact of AI", "start": "2026-09-23T13:00:00-04:00", "end": "2026-09-23T14:15:00-04:00", "host": "SAIS T&I speaker series", "source": "SAIS T&I mailing list (sais.ti@lists.jh.edu), email of 2026-09-02", "location": "Room 422, Hopkins Bloomberg Center", "virtual": false, "url": null, "topics": ["AI", "industrial-policy"], "tags": ["sais", "sais-internal"], "fit": 4, "why": "Fabio Curto of Google on the macroeconomic shifts driven by AI, hosted by Deb Watuski. In person only.", "description": "", "speakers": ["Fabio Curto", "Deb Watuski"], "lat": 38.894, "lon": -77.0203, "in_dc": true, "time": "1:00 PM–2:15 PM", "where": "Room 422, Hopkins Bloomberg Center"}, {"id": 93, "title": "Energy Trading Institute Annual Conference: Power Markets at a Crossroads", "start": "2026-09-29T09:00:00-04:00", "end": null, "host": "JHU Energy Trading Institute and ROSEI", "source": "SAIS T&I mailing list (sais.ti@lists.jh.edu), email of 2026-09-02", "location": "Hopkins Bloomberg Center", "virtual": false, "url": null, "topics": ["energy-tech", "AI"], "tags": ["eventbrite", "sais", "sais-internal"], "fit": 3, "why": "Data centers, market design and the new grid; free for Hopkins affiliates via Eventbrite.", "description": "", "speakers": [], "lat": 38.894, "lon": -77.0203, "in_dc": true, "time": "9:00 AM", "where": "Hopkins Bloomberg Center"}, {"id": 98, "title": "Accenture Federal Services Early Career Build Challenge", "start": "2026-10-02T09:00:00-04:00", "end": null, "host": "Accenture Federal Services", "source": "SAIS T&I mailing list (sais.ti@lists.jh.edu), email of 2026-09-02", "location": "The Forge, Washington, DC", "virtual": false, "url": null, "topics": ["AI"], "tags": ["opportunity", "sais", "sais-internal"], "fit": 3, "why": "Full-day hands-on challenge in Palantir Foundry with AFS engineers; SAIS alum Garrett Berntsen kicks off. Register by September 11.", "description": "", "speakers": ["Garrett Berntsen"], "lat": 38.894, "lon": -77.0203, "in_dc": true, "time": "9:00 AM", "where": "The Forge, Washington, DC"}, {"id": 94, "title": "Authors & Insights: Kevin Roose on the Race for AGI", "start": "2026-10-06T18:30:00-04:00", "end": "2026-10-06T20:30:00-04:00", "host": "Hopkins Bloomberg Center", "source": "SAIS T&I mailing list (sais.ti@lists.jh.edu), email of 2026-09-02", "location": "Hopkins Bloomberg Center", "virtual": false, "url": null, "topics": ["AI"], "tags": ["hub", "sais", "sais-internal"], "fit": 4, "why": "New York Times journalist Kevin Roose on his book The AGI Chronicles; register via JHU Hub.", "description": "", "speakers": ["Kevin Roose"], "lat": 38.894, "lon": -77.0203, "in_dc": true, "time": "6:30 PM–8:30 PM", "where": "Hopkins Bloomberg Center"}, {"id": 95, "title": "Disrupting Politics: A Front Row Seat to the Collision of Technology and Democracy", "start": "2026-10-27T11:30:00-04:00", "end": "2026-10-27T13:00:00-04:00", "host": "SAIS Emerging Technologies Initiative", "source": "SAIS T&I mailing list (sais.ti@lists.jh.edu), email of 2026-09-02", "location": "Room 422, Hopkins Bloomberg Center", "virtual": false, "url": null, "topics": ["trust-and-safety", "AI"], "tags": ["eti", "eventbrite", "sais", "sais-internal"], "fit": 5, "why": "ETI fireside chat with Katie Harbath, former Facebook executive, on platforms and politics; moderated by Olga Belogolova.", "description": "", "speakers": ["Katie Harbath", "Olga Belogolova"], "lat": 38.894, "lon": -77.0203, "in_dc": true, "time": "11:30 AM–1:00 PM", "where": "Room 422, Hopkins Bloomberg Center"}, {"id": 96, "title": "How Energy Innovation Will Scale AI", "start": "2026-10-28T12:45:00-04:00", "end": "2026-10-28T14:15:00-04:00", "host": "SAIS T&I focus area and Energy and Environment Club", "source": "SAIS T&I mailing list (sais.ti@lists.jh.edu), email of 2026-09-02", "location": "Room 422, Hopkins Bloomberg Center", "virtual": true, "url": null, "topics": ["energy-tech", "AI"], "tags": ["sais", "sais-internal"], "fit": 4, "why": "Hybrid panel on data-center energy demand, grid modernization and power supply chains; lunch provided.", "description": "Speakers TBD.", "speakers": [], "lat": 38.894, "lon": -77.0203, "in_dc": true, "time": "12:45 PM–2:15 PM", "where": "Room 422, Hopkins Bloomberg Center (+ virtual)"}, {"id": 97, "title": "Careers in Technology and National Security", "start": "2026-11-16T12:30:00-05:00", "end": "2026-11-16T14:15:00-05:00", "host": "SAIS T&I and SSS focus areas", "source": "SAIS T&I mailing list (sais.ti@lists.jh.edu), email of 2026-09-02", "location": "The Link, Hopkins Bloomberg Center", "virtual": false, "url": null, "topics": ["AI", "cyber", "tech-geopolitics"], "tags": ["sais", "sais-internal"], "fit": 5, "why": "Semesterly careers roundtable with 13+ guests from the tech and security world; RSVP via Global Careers.", "description": "Lunch provided.", "speakers": [], "lat": 38.894, "lon": -77.0203, "in_dc": true, "time": "12:30 PM–2:15 PM", "where": "The Link, Hopkins Bloomberg Center"}], "page_title": "SAIS internal events", "other_pages": [["index.html", "DC emerging-tech policy events"]]};
+const events = (DATA && DATA.events) || [];
+const TODAY = DATA ? DATA.today : new Date().toISOString().slice(0,10);
+const fmtDay = iso => new Date(iso).toLocaleDateString('en-US', {weekday:'long', month:'long', day:'numeric'});
+const esc = s => String(s==null?'':s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const addDays = (iso, n) => { const d = new Date(iso + 'T00:00:00'); d.setDate(d.getDate() + n); return d.toISOString().slice(0,10); };
+
+document.getElementById('sub').textContent = DATA
+  ? `${events.length} events in the database window · updated ${DATA.generated_at.slice(0,16).replace('T',' ')}`
+  : 'no data yet';
+if (DATA && DATA.other_pages) document.getElementById('nav').innerHTML = DATA.other_pages.map(([f,t]) => `<a href="${f}">${esc(t)} →</a>`).join('');
+
+// ---- map ----
+const map = L.map('map').setView(DATA ? DATA.map_center : [38.905,-77.036], DATA ? DATA.map_zoom : 13);
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors', maxZoom:19
+}).addTo(map);
+const group = L.featureGroup().addTo(map);
+const markers = {};
+function pinIcon(n, grey) {
+  return L.divIcon({ className:'', html:`<div class="marker-pin${grey?' grey':''}"><span>${n}</span></div>`, iconSize:[26,26], iconAnchor:[13,26], popupAnchor:[0,-24] });
+}
+function popupHtml(e) {
+  const chips = e.topics.map(t => `<span class="chip static">${t}</span>`).join(' ');
+  return `<b>${e.n}. ${esc(e.title)}</b>${esc(e.host)} · ${fmtDay(e.start)} · ${e.time}<br>${esc(e.where)}<br>
+    <div style="margin:4px 0">${chips}</div><i>${esc(e.why||'')}</i><br>${e.url ? `<a href="${e.url}" target="_blank" rel="noopener">Event page ↗</a>` : ''}`;
+}
+
+// ---- state ----
+const state = { from: TODAY, to: addDays(TODAY, 14), tod: new Set(['morning','afternoon','evening','tbd']), topics: new Set(), virtual: true, hill: false };
+const fromEl = document.getElementById('from'), toEl = document.getElementById('to');
+function setRange(kind) {
+  const d = new Date(TODAY + 'T00:00:00'); const dow = (d.getDay() + 6) % 7; // Monday=0
+  if (kind === 'week') { state.from = addDays(TODAY, -dow); state.to = addDays(state.from, 7); }
+  else if (kind === 'past') { state.from = addDays(TODAY, -90); state.to = TODAY; }
+  else if (kind === 'all') { state.from = addDays(TODAY, -90); state.to = addDays(TODAY, 90); }
+  else { state.from = TODAY; state.to = addDays(TODAY, +kind); }
+  fromEl.value = state.from; toEl.value = state.to;
+  document.querySelectorAll('[data-range]').forEach(c => c.classList.toggle('on', c.dataset.range === kind));
+  render();
+}
+document.querySelectorAll('[data-range]').forEach(c => c.onclick = () => setRange(c.dataset.range));
+fromEl.onchange = () => { state.from = fromEl.value; document.querySelectorAll('[data-range]').forEach(c => c.classList.remove('on')); render(); };
+toEl.onchange = () => { state.to = toEl.value; document.querySelectorAll('[data-range]').forEach(c => c.classList.remove('on')); render(); };
+document.querySelectorAll('[data-tod]').forEach(c => c.onclick = () => { const k = c.dataset.tod; state.tod.has(k) ? state.tod.delete(k) : state.tod.add(k); c.classList.toggle('on', state.tod.has(k)); render(); });
+const virtChip = document.getElementById('virtChip'); virtChip.onclick = () => { state.virtual = !state.virtual; virtChip.classList.toggle('on', state.virtual); render(); };
+const hillChip = document.getElementById('hillChip'); hillChip.onclick = () => { state.hill = !state.hill; hillChip.classList.toggle('on', state.hill); render(); };
+const hasHill = events.some(e => e.tags.includes('hill'));
+if (!hasHill) hillChip.style.display = 'none';
+
+const topicsEl = document.getElementById('topics');
+const allTopics = [...new Set(events.flatMap(e => e.topics))].sort();
+const allChip = document.createElement('span'); allChip.className = 'chip on'; allChip.textContent = 'All';
+allChip.onclick = () => { state.topics.clear(); render(); };
+topicsEl.appendChild(allChip);
+allTopics.forEach(t => { const c = document.createElement('span'); c.className = 'chip'; c.textContent = t; c.onclick = () => { state.topics.has(t) ? state.topics.delete(t) : state.topics.add(t); render(); }; topicsEl.appendChild(c); });
+
+if (DATA && DATA.flagged_sources && DATA.flagged_sources.length)
+  document.getElementById('warn').innerHTML = `<div class="warn">⚠ Sources failing repeatedly: ${DATA.flagged_sources.map(f => esc(f.name)+' ('+f.failures+')').join(', ')}. Check sources.yaml.</div>`;
+
+function todOf(e) { const h = new Date(e.start).getHours(), m = new Date(e.start).getMinutes(); if (h === 0 && m === 0) return 'tbd'; return h < 12 ? 'morning' : h < 17 ? 'afternoon' : 'evening'; }
+function visible(e) {
+  const day = e.start.slice(0,10);
+  if (day < state.from || day > state.to) return false;
+  if (!state.tod.has(todOf(e))) return false;
+  if (state.topics.size && !e.topics.some(t => state.topics.has(t))) return false;
+  if (!state.virtual && e.lat == null) return false;
+  if (!state.hill && e.tags.includes('hill')) return false;
+  return true;
+}
+
+function render() {
+  [...topicsEl.children].forEach(c => { if (c !== allChip) c.classList.toggle('on', state.topics.has(c.textContent)); });
+  allChip.classList.toggle('on', state.topics.size === 0);
+  group.clearLayers();
+  const vis = events.filter(visible);
+  vis.forEach((e, i) => e.n = i + 1);
+  vis.forEach(e => {
+    if (e.lat == null) return;
+    const past = e.start.slice(0,10) < TODAY;
+    const m = L.marker([e.lat, e.lon], { icon: pinIcon(e.n, past || !e.in_dc) }).bindPopup(popupHtml(e));
+    m.on('click', () => highlight(e.id));
+    markers[e.id] = m; group.addLayer(m);
+  });
+  const dcPins = vis.filter(e => e.lat != null && e.in_dc).map(e => [e.lat, e.lon]);
+  if (dcPins.length) map.fitBounds(L.latLngBounds(dcPins).pad(0.15), { maxZoom: 15 });
+  else if (group.getLayers().length) map.fitBounds(group.getBounds().pad(0.15), { maxZoom: 15 });
+  document.getElementById('count').textContent = `${vis.length} events · ${state.from} to ${state.to}`;
+  const list = document.getElementById('list'); list.innerHTML = '';
+  if (!vis.length) { list.innerHTML = '<div class="empty">Nothing matches these filters.</div>'; return; }
+  let lastDay = '';
+  vis.forEach(e => {
+    const day = e.start.slice(0,10);
+    if (day !== lastDay) { const d = document.createElement('div'); d.className = 'day' + (day === TODAY ? ' today' : ''); d.textContent = fmtDay(e.start) + (day === TODAY ? ' · today' : ''); list.appendChild(d); lastDay = day; }
+    const past = day < TODAY;
+    const div = document.createElement('div'); div.className = 'ev' + (past ? ' past' : ''); div.id = 'ev-' + e.id;
+    const numCls = e.lat == null ? 'num virt' : (past || !e.in_dc ? 'num grey' : 'num');
+    const tagChips = e.tags.filter(t => t !== 'sais-internal').map(t => `<span class="chip static tag">${esc(t)}</span>`).join('');
+    div.innerHTML = `<div class="t"><span class="${numCls}">${e.lat == null ? '~' : e.n}</span>${esc(e.title)}</div>
+      <div class="m">${esc(e.host)} · ${e.time} · ${esc(e.where)}</div>
+      <div class="w">${esc(e.why || '')}</div>
+      <div class="chips">${e.topics.map(t => `<span class="chip static">${t}</span>`).join('')}${tagChips} ${e.url ? `<a href="${e.url}" target="_blank" rel="noopener">event page ↗</a>` : ''}</div>`;
+    div.onclick = ev => { if (ev.target.tagName === 'A') return; highlight(e.id); const m = markers[e.id]; if (m) { map.flyTo(m.getLatLng(), Math.max(map.getZoom(), 15)); m.openPopup(); } };
+    list.appendChild(div);
+  });
+}
+function highlight(id) { document.querySelectorAll('.ev.active').forEach(x => x.classList.remove('active')); const d = document.getElementById('ev-' + id); if (d) { d.classList.add('active'); d.scrollIntoView({ block: 'nearest' }); } }
+setRange('14');
+</script>
+</body>
+</html>
