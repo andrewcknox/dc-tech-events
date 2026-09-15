@@ -1,8 +1,8 @@
-name: Daily fetch
+name: Fetch via Anthropic API (optional, manual)
 
+# Only useful if config.yaml has `extraction: api` and the ANTHROPIC_API_KEY secret is set.
+# The normal path is the scheduled Claude desktop task (see DAILY.md).
 on:
-  schedule:
-    - cron: "0 11 * * *"   # 07:00 US Eastern (11:00 UTC) every day
   workflow_dispatch:
 
 permissions:

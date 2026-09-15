@@ -36,7 +36,9 @@ reading yourself. Work inside this repo. Be economical: skip anything already in
 4. `uv run dte import inbox/YYYY-MM-DD.json` — this dedupes against everything already stored, so
    over-including is harmless. Then `uv run dte digest` to rebuild `digest/` and the two map pages.
 
-5. `git add -A && git commit -m "daily: YYYY-MM-DD" && git push` (if a remote is configured).
+5. `git add -A && git commit -m "daily: YYYY-MM-DD" && git push origin main`. The push is what
+   updates the public site at https://andrewcknox.github.io/dc-tech-events/ (GitHub Pages serves
+   the `docs/` folder). Before running git, clear any proxy variables: `unset HTTP_PROXY HTTPS_PROXY`.
 
 6. Report in three lines: how many new events, which sources failed, anything odd (a venue that could
    not be pinned, a page that changed shape). If a venue is unknown, add it to `venues.yaml`.

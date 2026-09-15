@@ -1,4 +1,4 @@
-name: Weekly digest + map
+name: Weekly digest rebuild (Pages serves docs/ from main)
 
 on:
   schedule:
@@ -10,8 +10,6 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
   group: pipeline
@@ -37,16 +35,3 @@ jobs:
           git add data/events.db digest/ docs/
           git diff --cached --quiet || git commit -m "digest: $(date -u +%F)"
           git push
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: docs
-  deploy:
-    needs: digest
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - id: deployment
-        uses: actions/deploy-pages@v4
