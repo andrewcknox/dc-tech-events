@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-15T00:34:47-04:00",
- "today": "2026-09-15",
- "window_start": "2026-09-15",
+ "generated_at": "2026-09-21T07:39:54-04:00",
+ "today": "2026-09-21",
+ "window_start": "2026-09-21",
  "window_days": 14,
  "map_center": [
   38.905,
@@ -1725,6 +1725,34 @@
    "where": "Hudson Institute, 1201 Pennsylvania Ave NW"
   },
   {
+   "id": 118,
+   "title": "Following the Money On-Chain: Crypto Tracing for Illicit Finance",
+   "start": "2026-09-28T12:30:00-04:00",
+   "end": "2026-09-28T14:00:00-04:00",
+   "host": "SAIS T&I focus area, Defense and Intelligence Club, and TRM Labs",
+   "source": "SAIS mailing lists (sais.ti@lists.jh.edu, CampusGroups), messages of 2026-09-14 to 2026-09-21",
+   "location": "Room 422, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://cglink.me/2dh/r1993936",
+   "topics": [
+    "cyber"
+   ],
+   "tags": [
+    "campusgroups",
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 5,
+   "why": "Rare hands-on tradecraft session at SAIS on tracing crypto used for sanctions evasion and illicit finance; RSVP required and seating is limited.",
+   "description": "Hands-on TRM Labs workshop on reading a blockchain as an analyst: transaction models, address-clustering heuristics on a real Bitcoin transaction, and money-laundering typologies. Free browser-based tools; no prerequisites. Lunch from 12:15.",
+   "speakers": [],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "12:30 PM–2:00 PM",
+   "where": "Room 422, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
+  },
+  {
    "id": 93,
    "title": "Energy Trading Institute Annual Conference: Power Markets at a Crossroads",
    "start": "2026-09-29T09:00:00-04:00",
@@ -1929,6 +1957,35 @@
    "in_dc": true,
    "time": "12:45 PM–2:15 PM",
    "where": "Room 422, Hopkins Bloomberg Center (+ virtual)"
+  },
+  {
+   "id": 119,
+   "title": "TRM Labs User Conference + Blockchain Capture the Flag",
+   "start": "2026-11-02T00:00:00-05:00",
+   "end": "2026-11-03T00:00:00-05:00",
+   "host": "TRM Labs; SAIS delegation via the Defense and Intelligence Club with the T&I and SSS focus areas",
+   "source": "SAIS mailing lists (sais.ti@lists.jh.edu, CampusGroups), messages of 2026-09-14 to 2026-09-21",
+   "location": "Washington, DC",
+   "virtual": false,
+   "url": null,
+   "topics": [
+    "cyber",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "campusgroups",
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 3,
+   "why": "Strong practitioner exposure to blockchain intelligence and illicit finance, but SAIS attendance is by application only and the Sept. 28 workshop is a prerequisite.",
+   "description": "Two-day TRM Labs user conference and hands-on blockchain capture-the-flag competition bringing together government and private-sector practitioners in blockchain intelligence, illicit finance and cyber. SAIS sends a selected student team.",
+   "speakers": [],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "time TBD",
+   "where": "Washington, DC"
   },
   {
    "id": 97,
