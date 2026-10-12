@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-28T15:12:56-04:00",
- "today": "2026-09-28",
- "window_start": "2026-09-28",
+ "generated_at": "2026-10-12T07:39:21-04:00",
+ "today": "2026-10-12",
+ "window_start": "2026-10-12",
  "window_days": 14,
  "map_center": [
   38.905,
@@ -1898,6 +1898,67 @@
    "where": "Hopkins Bloomberg Center"
   },
   {
+   "id": 120,
+   "title": "Frontier AI and the Public Sector: Fireside Chat with Katrina Mulligan (OpenAI)",
+   "start": "2026-10-19T12:30:00-04:00",
+   "end": "2026-10-19T13:30:00-04:00",
+   "host": "SAIS Technology & Innovation focus area",
+   "source": "SAIS mailing lists",
+   "location": "Room 422, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://cglink.me/2dh/r1996471",
+   "topics": [
+    "AI"
+   ],
+   "tags": [
+    "campusgroups",
+    "eti",
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 5,
+   "why": "Direct access to the person running OpenAI's national-security government partnerships, hosted by ETI's director in Room 422.",
+   "description": "Fireside chat moderated by Prof. Olga Belogolova with OpenAI's head of national security partnerships, a former DoD, DOJ, IC and NSC official, on how governments use frontier AI. Lunch from 12:15; RSVP required.",
+   "speakers": [
+    "Katrina Mulligan",
+    "Olga Belogolova"
+   ],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "12:30 PM–1:30 PM",
+   "where": "Room 422, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
+  },
+  {
+   "id": 121,
+   "title": "Boundary Breakers: Tech & National Security Showcase",
+   "start": "2026-10-20T00:00:00-04:00",
+   "end": null,
+   "host": "Emerging Technologies Initiative, JHTV, Technical.ly and Squadra Ventures",
+   "source": "SAIS mailing lists",
+   "location": "Johns Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://luma.com/boundarybreakers",
+   "topics": [
+    "tech-geopolitics",
+    "industrial-policy"
+   ],
+   "tags": [
+    "eti",
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 4,
+   "why": "ETI-co-hosted networking showcase linking defense-tech founders and researchers with policy students; students can apply to give a lightning talk.",
+   "description": "Second annual showcase during DC Startup & Tech Week on critical technology innovations in national security: R&D and deployment stories from entrepreneurs, researchers and scientists, plus eight lightning talks (applications open).",
+   "speakers": [],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "time TBD",
+   "where": "Johns Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
+  },
+  {
    "id": 95,
    "title": "Disrupting Politics: A Front Row Seat to the Collision of Technology and Democracy",
    "start": "2026-10-27T11:30:00-04:00",
@@ -1946,7 +2007,8 @@
    ],
    "tags": [
     "sais",
-    "sais-internal"
+    "sais-internal",
+    "campusgroups"
    ],
    "fit": 4,
    "why": "Hybrid panel on data-center energy demand, grid modernization and power supply chains; lunch provided.",
