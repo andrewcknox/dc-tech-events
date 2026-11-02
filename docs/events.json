@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-26T14:12:50-04:00",
- "today": "2026-10-26",
- "window_start": "2026-10-26",
+ "generated_at": "2026-11-02T16:23:13-05:00",
+ "today": "2026-11-02",
+ "window_start": "2026-11-02",
  "window_days": 14,
  "map_center": [
   38.905,
@@ -10,89 +10,6 @@
  "map_zoom": 13,
  "flagged_sources": [],
  "events": [
-  {
-   "id": 29,
-   "title": "Intelligent Networks: Powering Artificial Intelligence and Transforming Communications",
-   "start": "2026-07-29T10:00:00-04:00",
-   "end": null,
-   "host": "Senate Commerce Committee",
-   "source": "Caleb Knapp Weekly AI Digest (Substack)",
-   "location": "SR-253, Russell Senate Office Building",
-   "virtual": false,
-   "url": "https://www.commerce.senate.gov/meetings/intelligent-networks-powering-artificial-intelligence-and-transforming-communications/",
-   "topics": [
-    "AI"
-   ],
-   "tags": [
-    "hill",
-    "substack"
-   ],
-   "fit": 3,
-   "why": "Senate Commerce hearing on AI infrastructure and telecom; useful for tracking where the frontier-AI bill conversation sits.",
-   "description": "",
-   "speakers": [],
-   "lat": 38.8899,
-   "lon": -77.0091,
-   "in_dc": true,
-   "time": "10:00 AM",
-   "where": "SR-253, Russell Senate Office Building"
-  },
-  {
-   "id": 30,
-   "title": "The Impact of AI on the Workforce",
-   "start": "2026-07-29T14:00:00-04:00",
-   "end": null,
-   "host": "Senate HELP Committee",
-   "source": "Caleb Knapp Weekly AI Digest (Substack)",
-   "location": "430 Dirksen Senate Office Building",
-   "virtual": false,
-   "url": "https://www.help.senate.gov/hearings/the-impact-of-ai-on-the-workforce",
-   "topics": [
-    "AI",
-    "industrial-policy"
-   ],
-   "tags": [
-    "hill",
-    "substack"
-   ],
-   "fit": 3,
-   "why": "Senate hearing on AI and jobs, one of the political fault lines shaping federal AI policy.",
-   "description": "",
-   "speakers": [],
-   "lat": 38.8899,
-   "lon": -77.0091,
-   "in_dc": true,
-   "time": "2:00 PM",
-   "where": "430 Dirksen Senate Office Building"
-  },
-  {
-   "id": 37,
-   "title": "Is Quantum Computing Ready for Real-World Impact? with Professor Amlan Chakrabarti",
-   "start": "2026-08-03T18:00:00-04:00",
-   "end": "2026-08-03T20:00:00-04:00",
-   "host": "DC Industrial Policy Salon",
-   "source": "Caleb Knapp Weekly AI Digest (Substack)",
-   "location": "Teaism Penn Quarter, 400 8th St NW",
-   "virtual": false,
-   "url": "https://luma.com/59mtsm2x",
-   "topics": [
-    "quantum",
-    "industrial-policy"
-   ],
-   "tags": [
-    "public",
-    "substack"
-   ],
-   "fit": 4,
-   "why": "Informal quantum-policy salon, exactly the kind of small DC gathering where students can meet practitioners.",
-   "description": "",
-   "speakers": [],
-   "lat": 38.8951,
-   "lon": -77.0232,
-   "in_dc": true,
-   "time": "6:00 PM–8:00 PM",
-   "where": "Teaism Penn Quarter, 400 8th St NW"
-  },
   {
    "id": 34,
    "title": "Your Data, Their Profit: The Consumer Cost of AI Surveillance Pricing",
