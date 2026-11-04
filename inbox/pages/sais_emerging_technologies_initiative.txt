@@ -1,6 +1,6 @@
 # SAIS Emerging Technologies Initiative
 # https://emergingtech.sais.jhu.edu/events
-# fetched 2026-09-15T00:02:11.294567-04:00
+# fetched 2026-11-04T13:15:06.937065-05:00
 # tags: sais, eti, jhu, university
 
 Upcoming Events
@@ -11,6 +11,10 @@ Summer events related to the TTLT program and open to the SAIS community coming 
 Share
 Details <https://emergingtech.sais.jhu.edu/event-details/trilateral-technologies-leadership-program>
 Past Events
+Disrupting Politics: A Conversation with Katie Harbath <https://emergingtech.sais.jhu.edu/event-details/disrupting-politics-a-conversation-with-katie-harbath>
+Tue, Oct 27
+Johns Hopkins University HBC
+DETAILS <https://emergingtech.sais.jhu.edu/event-details/disrupting-politics-a-conversation-with-katie-harbath>
 Emerging Tech Symposium 2026 <https://www.eventbrite.com/e/emerging-technologies-symposium-2026-tickets-1983364665104?aff=oddtdtcreator>
 Thu, Apr 16
 555 Pennsylvania Ave NW

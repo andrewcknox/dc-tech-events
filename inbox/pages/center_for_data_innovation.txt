@@ -1,6 +1,6 @@
 # Center for Data Innovation
 # https://datainnovation.org/category/events/
-# fetched 2026-09-15T00:02:11.294567-04:00
+# fetched 2026-11-04T13:15:06.937065-05:00
 # tags: think-tank
 
 Events <https://datainnovation.org/category/events/>

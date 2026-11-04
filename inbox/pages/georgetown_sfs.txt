@@ -1,6 +1,6 @@
 # Georgetown SFS
 # https://sfs.georgetown.edu/events-news/
-# fetched 2026-09-15T00:02:11.294567-04:00
+# fetched 2026-11-04T13:15:06.937065-05:00
 # tags: university, georgetown
 
 News & Events
@@ -17,64 +17,68 @@ Faculty <https://sfs.georgetown.edu/category/faculty/>
 News <https://sfs.georgetown.edu/category/news/>
 , 
 Research <https://sfs.georgetown.edu/category/research/>
-What does a far-right victory mean for Germany?
-September 11, 2026
-Scholar Anna von der Goltz answers questions about the Alternative for Germany party’s recent victory in a state election in Germany.
-Read more <https://sfs.georgetown.edu/news/what-does-a-far-right-victory-mean-for-germany/>
+Oil, Energy and the Midterms with Professor Theresa Sabonis-Helf
+October 22, 2026
+SFS Professor Theresa Sabonis-Helf explains how Strait of Hormuz disruptions impact global oil markets and U.S. energy policy.
+Read more <https://sfs.georgetown.edu/news/theresa-sabonis-helf-energy/>
 Faculty <https://sfs.georgetown.edu/category/faculty/>
 , 
 News <https://sfs.georgetown.edu/category/news/>
 , 
 Research <https://sfs.georgetown.edu/category/research/>
-The global order is breaking down, but what comes next?
-September 8, 2026
-SFS Professor Charles Kupchan explores the global order, U.S. foreign policy and how AI and economic change are reshaping the world.
-Read more <https://sfs.georgetown.edu/news/the-global-order-is-breaking-down-but-what-comes-next/>
-Faculty <https://sfs.georgetown.edu/category/faculty/>
-, 
-News <https://sfs.georgetown.edu/category/news/>
-25 years after September 11, terrorism scholars reflect 
-September 8, 2026
-Twenty-five years later, SFS Professors Bruce Hoffman and Daniel Byman reflect on the impact of 9/11 and the state of terrorism and counterterrorism efforts today. 
-Read more <https://sfs.georgetown.edu/news/25-years-after-september-11-terrorism-scholars-reflect/>
-News <https://sfs.georgetown.edu/category/news/>
-The Institute for the Study of Diplomacy’s new fellows bridge theory and real-world statecraft
-August 31, 2026
-ISD fellows bring decades of diplomacy and military experience to the classroom, helping students connect theory to practice and prepare for public service.
-Read more <https://sfs.georgetown.edu/news/the-institute-for-the-study-of-diplomacys-new-fellows-bridge-theory-and-real-world-statecraft/>
+Six questions on the protests erupting across France and Spain
+October 19, 2026
+SFS Professor Pauliina Patana examines the context and risks of protest movements in France and Spain, and their potential to spread.
+Read more <https://sfs.georgetown.edu/news/six-questions-on-the-protests-erupting-across-france-and-spain/>
 News <https://sfs.georgetown.edu/category/news/>
 , 
 Students <https://sfs.georgetown.edu/category/students/>
-Emily Austin (SFS’29) bridges gaps for veterans during summer internship
-August 14, 2026
-For Emily Austin (SFS’29), a summer internship with The Joel Fund offered lessons in community, service and supporting veterans.
-Read more <https://sfs.georgetown.edu/news/emily-austin-sfs29-bridges-gaps-for-veterans-during-summer-internship/>
+Georgetown celebrates its international students
+October 1, 2026
+SFS and the College of Arts and Sciences brought Georgetown together in the ICC Galleria to celebrate our vibrant international student community.
+Read more <https://sfs.georgetown.edu/news/georgetown-celebrates-its-international-students/>
+Faculty <https://sfs.georgetown.edu/category/faculty/>
+, 
+News <https://sfs.georgetown.edu/category/news/>
+, 
+Research <https://sfs.georgetown.edu/category/research/>
+Joanna Lewis mentors postdoctoral fellows advancing research in energy, climate policy and China
+September 23, 2026
+Professor Joanna Lewis mentors postdocs at Georgetown, fostering research on energy, climate policy and China’s global role.
+Read more <https://sfs.georgetown.edu/news/joanna-lewis-mentors-postdoctoral-fellows-advancing-research-in-energy-climate-policy-and-china/>
+News <https://sfs.georgetown.edu/category/news/>
+, 
+Students <https://sfs.georgetown.edu/category/students/>
+2026 Pelosi Scholars reflect on internships in public service 
+September 21, 2026
+2026 Pelosi Scholars reflect on their summer internships at a range of public service organizations in the United States and abroad.
+Read more <https://sfs.georgetown.edu/news/2026-pelosi-scholars-reflect-on-internships-in-public-service/>
 Upcoming events 
 View all upcoming events <https://events.georgetown.edu/sfs>
-Sep
-11
-Istanbul Course with Travel: Info Session
-McGhee Library (ICC 301)
-3:00pm
+Nov
+2
+Israel’s Elections: What Next?
+Zoom Webinar
+9:00am
  – 
-3:30pm
-View Event <https://events.georgetown.edu/live/events/41333-istanbul-course-with-travel-info-session>
-Sep
-11
-Gender, Peace and Security Certificate Program Welcome Mixer
-Car Barn Patio
+10:00am
+View Event <https://events.georgetown.edu/live/events/44011-israels-elections-what-next>
+Nov
+2
+American Pogroms: How Forgotten Massacres Shape America with Daniel Byman
+Mortara Center for International Studies
 4:00pm
  – 
 5:30pm
-View Event <https://events.georgetown.edu/live/events/41786-gender-peace-and-security-certificate-program>
-Sep
-14
-Bolivia 2027 SFS Centennial Lab Information Session
-McGhee Library (ICC 301)
-4:00pm
+View Event <https://events.georgetown.edu/live/events/43407-american-pogroms>
+Nov
+3
+Indranil Chakravarty, “The Power of Intercultural Dialogue: Octavio Paz between Mexico and India”
+Old North 205
+5:00pm
  – 
-4:30pm
-View Event <https://events.georgetown.edu/live/events/41341-bolivia-2027-sfs-centennial-lab-information>
+6:30pm
+View Event <https://events.georgetown.edu/live/events/41891-indranil-chakravarty-the-power-of-intercultural-dialog>
 Dean’s Coffee Chats
 Coffee Chats provide a unique opportunity to engage directly with influential professionals and successful alumni who have made significant impacts in their fields. During these informal gatherings, you can ask questions about their experiences and gain valuable insights.
 Explore previous guests <https://sfs.georgetown.edu/news-events/coffee-chats/>

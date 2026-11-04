@@ -1,6 +1,6 @@
 # Federation of American Scientists
 # https://fas.org/events/
-# fetched 2026-09-15T00:02:11.294567-04:00
+# fetched 2026-11-04T13:15:06.937065-05:00
 # tags: think-tank
 
 Events
@@ -8,7 +8,7 @@ Global Risk
  AI & Global Risk Gala 
  05.20.26 
  |
- 6:00 PM – 9:00 PM 
+ 5:00 PM – 8:00 PM 
  Washington, DC 
  Our AI Impact Awards will recognize key leaders in the field for their contributions to risk reduction at the AI and global risks nexus. 
  View Details <https://fas.org/events/?event=ai-global-risk-gala>
@@ -16,7 +16,7 @@ Global Risk
  AI & Global Risk Capitol Hill Forum 
  05.20.26 
  |
- 12:00 PM – 4:00 PM 
+ 11:00 AM – 3:00 PM 
  Washington, DC 
  The Hill Forum will feature a series of panel discussions designed to share policy insights on the AI × Global Risk nexus. 
  View Details <https://fas.org/events/?event=ai-global-risk-summit>
@@ -24,7 +24,7 @@ Global Risk
  AI & Global Risk Gala 
  05.20.26 
 |
- 6:00 PM – 9:00 PM 
+ 5:00 PM – 8:00 PM 
  Washington, DC 
  AI & Global Risk Gala 
 apply to register here <https://luma.com/axe5m685>

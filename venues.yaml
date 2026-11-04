@@ -206,3 +206,33 @@ venues:
     address: 79 JFK St, Cambridge, MA 02138
     lat: 42.3712
     lon: -71.1217
+
+  - name: The Observatory at America's Square
+    match: ["america's square", "300 new jersey"]
+    address: 300 New Jersey Ave NW, Washington, DC 20001
+    lat: 38.8957
+    lon: -77.0110
+
+  - name: Hyatt Regency Crystal City
+    match: ["hyatt regency crystal city", "2799 richmond"]
+    address: 2799 Richmond Hwy, Arlington, VA 22202
+    lat: 38.8566
+    lon: -77.0503
+
+  - name: Eaton DC (WILD DAYS rooftop)
+    match: ["wild days", "eaton dc", "1201 k st"]
+    address: 1201 K St NW, Washington, DC 20005
+    lat: 38.9025
+    lon: -77.0285
+
+  - name: Conservative Partnership Institute
+    match: ["conservative partnership institute", "300 independence ave se"]
+    address: 300 Independence Ave SE, Washington, DC 20003
+    lat: 38.8874
+    lon: -77.0015
+
+  - name: National Union Building
+    match: ["national union building", "918 f st"]
+    address: 918 F St NW, Washington, DC 20004
+    lat: 38.8973
+    lon: -77.0241

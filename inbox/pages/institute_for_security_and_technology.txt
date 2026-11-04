@@ -1,15 +1,15 @@
 # Institute for Security and Technology
 # https://securityandtechnology.org/events/
-# fetched 2026-09-15T00:02:11.294567-04:00
+# fetched 2026-11-04T13:15:06.937065-05:00
 # tags: think-tank
 
 Skip to content
 Events
 View the Institute for Security and Technology's upcoming and past events. 
 FEATURED EVENT 
- July 1, 2026 11:00 am 
- Vulns + AI = Oh My! 
- AI is reshaping vulnerability management… and reshaping policy debates along with it. Join Institute for Security and Technology friends and adjunct advisors (and some CVE board members!) for a lively conversation on Wednesday, July 1 at 11 am ET. <https://securityandtechnology.org/event/vulns-ai-oh-my/>
+ October 23, 2026 12:00 pm 
+ Vulns + AI = Oh, My! A Long Week for Defenders: PHP2Shell, 3-bit Private Keys, and Storm-0940 
+ Between two remote code execution PHP vulnerabilities, the discovery of easy-to-access keys issued by an Indian certificate authority, and new reports of a China-state aligned hacking campaign that leveraged AI, it's been a long week for cyber defenders. What should policymakers take away from this week? Is this a manifestation of the so-called “AI-powered vulnpocalypse” that has been heralded over the past year? <https://securityandtechnology.org/event/vulns-ai-oh-my-a-long-week-for-defenders/>
 All Events
 Search
 Filters
@@ -28,6 +28,62 @@ cyber policy <https://securityandtechnology.org/resource_topic/cyber-policy/>
 , 
 gala <https://securityandtechnology.org/resource_topic/gala/>
  September 9, 2026 
+Event <https://securityandtechnology.org/events/>
+November 19, 2026 12:00 pm 
+ Introducing the Religious Voices and Responsible AI Curriculum: How to Use the Christian Curriculum in Your Community 
+ How can Christian perspectives contribute to our understanding of artificial intelligence’s impact on how humans interact with technology, society, and one another? IST and AI and Faith partnered with religious scholars, educators, and organizations to create a curriculum that provides resources for understanding AI and what guidance their faith offers for navigating it. <https://securityandtechnology.org/event/introducing-the-religious-voices-and-responsible-ai-christian-curriculum/>
+AI
+, 
+artificial intelligence <https://securityandtechnology.org/resource_topic/artificial-intelligence/>
+, 
+Christianity <https://securityandtechnology.org/resource_topic/christianity/>
+, 
+ethics <https://securityandtechnology.org/resource_topic/ethics/>
+, 
+faith <https://securityandtechnology.org/resource_topic/faith/>
+, 
+religion <https://securityandtechnology.org/resource_topic/religion/>
+, 
+tradition <https://securityandtechnology.org/resource_topic/tradition/>
+ October 27, 2026 
+Event <https://securityandtechnology.org/events/>
+November 9, 2026 12:00 pm 
+ Introducing the Religious Voices and Responsible AI Curriculum: Sharing Muslim Perspectives 
+ How can Islamic perspectives contribute to our understanding of artificial intelligence’s impact on how humans interact with technology, society, and one another? On November 9 at 9 am PT, join a webinar with authors of the curriculum to learn more. <https://securityandtechnology.org/event/introducing-the-religious-voices-and-responsible-ai-curriculum-sharing-muslim-perspectives/>
+AI
+, 
+artificial intelligence <https://securityandtechnology.org/resource_topic/artificial-intelligence/>
+, 
+curriculum <https://securityandtechnology.org/resource_topic/curriculum/>
+, 
+faith <https://securityandtechnology.org/resource_topic/faith/>
+, 
+Islam <https://securityandtechnology.org/resource_topic/islam/>
+, 
+religion <https://securityandtechnology.org/resource_topic/religion/>
+ October 21, 2026 
+Event <https://securityandtechnology.org/events/>
+October 23, 2026 12:00 pm 
+ Vulns + AI = Oh, My! A Long Week for Defenders: PHP2Shell, 3-bit Private Keys, and Storm-0940 
+ Between two remote code execution PHP vulnerabilities, the discovery of easy-to-access keys issued by an Indian certificate authority, and new reports of a China-state aligned hacking campaign that leveraged AI, it's been a long week for cyber defenders. What should policymakers take away from this week? Is this a manifestation of the so-called “AI-powered vulnpocalypse” that has been heralded over the past year? <https://securityandtechnology.org/event/vulns-ai-oh-my-a-long-week-for-defenders/>
+BGP <https://securityandtechnology.org/resource_topic/bgp/>
+, 
+China <https://securityandtechnology.org/resource_topic/china/>
+, 
+cyber defense <https://securityandtechnology.org/resource_topic/cyber-defense/>
+, 
+cybersecurity <https://securityandtechnology.org/resource_topic/cybersecurity/>
+, 
+exploitation <https://securityandtechnology.org/resource_topic/exploitation/>
+, 
+PHP <https://securityandtechnology.org/resource_topic/php/>
+, 
+SSL <https://securityandtechnology.org/resource_topic/ssl/>
+, 
+vulnerability disclosure <https://securityandtechnology.org/resource_topic/vulnerability-disclosure/>
+, 
+vulnerability management <https://securityandtechnology.org/resource_topic/vulnerability-management/>
+ October 22, 2026 
 Event <https://securityandtechnology.org/events/>
 September 14, 2026 3:00 pm 
  E-Rate: No Connectivity Without Cybersecurity 
@@ -50,53 +106,11 @@ cybersecurity <https://securityandtechnology.org/resource_topic/cybersecurity/>
 , 
 offensive cyber <https://securityandtechnology.org/resource_topic/offensive-cyber/>
  September 3, 2026 
-Event <https://securityandtechnology.org/events/>
-September 2, 2026 1:30 pm 
- AI and the Future of National Security: Results From a Landmark Survey of 111 National Security Policy Professionals 
- IST, in partnership with the Future of Life Institute, conducted the first unclassified survey of national security practitioners to cut through the hype and identify the risks and opportunities that experts see in advanced AI deployment. Join report authors and contributing experts in a launch event to celebrate the report’s release, share key findings, and explore what’s next for AI in national security. <https://securityandtechnology.org/event/ai-and-the-future-of-national-security/>
-artificial inteligence <https://securityandtechnology.org/resource_topic/artificial-inteligence/>
-, 
-cybersecurity <https://securityandtechnology.org/resource_topic/cybersecurity/>
-, 
-military <https://securityandtechnology.org/resource_topic/military/>
-, 
-national security <https://securityandtechnology.org/resource_topic/national-security/>
- September 2, 2026 
-Event <https://securityandtechnology.org/events/>
-August 24, 2026 10:30 am 
- Exploring the Presidential Memorandum on Combating Transnational Cyber-Enabled Crime 
- A Presidential Memorandum this month changed the role of private companies in U.S. cyber operations. On Monday, IST’s cybersecurity and legal experts will sit down for a pop-up webinar to discuss the implications of the Memorandum and debate what may be covered under "cyber-enabled crime." <https://securityandtechnology.org/event/exploring-the-presidential-memorandum-on-combating-transnational-cyber-enabled-crime/>
-Cyber Strategy <https://securityandtechnology.org/resource_topic/cyber-strategy/>
-, 
-cybercrime <https://securityandtechnology.org/resource_topic/cybercrime/>
-, 
-cybersecurity <https://securityandtechnology.org/resource_topic/cybersecurity/>
-, 
-offensive cyber <https://securityandtechnology.org/resource_topic/offensive-cyber/>
- August 24, 2026 
-Event <https://securityandtechnology.org/events/>
-July 31, 2026 10:30 am 
- Vulns + AI = Oh My! From Sandbox Escapes to Record Patches 
- From the OpenAI breakout to Microsoft’s record-breaking Patch Day surge, AI is reshaping both offense and defense across the cybersecurity landscape. Join IST’s friends and experts on July 31 to cut through the noise, headline hype, and press release launches to figure out what’s happening on the ground. <https://securityandtechnology.org/event/vulns-ai-oh-my-from-sandbox-escapes-to-record-patches/>
-AI
-, 
-CISA <https://securityandtechnology.org/resource_topic/cisa/>
-, 
-Microsoft <https://securityandtechnology.org/resource_topic/microsoft/>
-, 
-OpenAI <https://securityandtechnology.org/resource_topic/openai/>
-, 
-patching <https://securityandtechnology.org/resource_topic/patching/>
-, 
-software <https://securityandtechnology.org/resource_topic/software/>
-, 
-vulnerability <https://securityandtechnology.org/resource_topic/vulnerability/>
- July 31, 2026 
  MENU 
 HOME PAGE <https://securityandtechnology.org/catalinknew/>
 GET IN TOUCH
 Email: 
-[email protected] <https://securityandtechnology.org/cdn-cgi/l/email-protection#dbb8baafbab7b2b5b09ba8beb8aea9b2afa2bab5bfafbeb8b3b5b4b7b4bca2f5b4a9bc>
+[email protected] <https://securityandtechnology.org/cdn-cgi/l/email-protection#b4d7d5c0d5d8dddadff4c7d1d7c1c6ddc0cdd5dad0c0d1d7dcdadbd8dbd3cd9adbc6d3>
 Send us a message: 
 Contact <https://securityandtechnology.org/catalinknew/contact/>
 JOIN THE CATALINK MAILING LIST

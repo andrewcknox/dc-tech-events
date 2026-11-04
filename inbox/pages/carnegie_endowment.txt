@@ -1,44 +1,53 @@
 # Carnegie Endowment
 # https://carnegieendowment.org/events
-# fetched 2026-09-15T00:02:11.294567-04:00
+# fetched 2026-11-04T13:15:06.937065-05:00
 # tags: think-tank
 
 Global - Events
-SEPTEMBER
-15
+NOVEMBER
+5
 2026
 Event
-Global Guardrails for Agentic AI: Can the UN, or Anybody Else, Provide Them? <https://carnegieendowment.org/events/2026/09/global-guardrails-for-agentic-ai-can-the-un-or-anybody-else-provide-them>
-September 15, 2026
-2:00 PM - 3:00 PM EDT
-Stewart Patrick
-, 
-Scott Singer
-, 
-Lucia Velasco
-SEPTEMBER
-17
-2026
-Event
-Earthshaking: Lessons from Kazakhstan for Managing Today’s Nuclear Dangers <https://carnegieendowment.org/events/2026/09/earthshaking-lessons-from-kazakhstan-for-managing-todays-nuclear-dangers>
-September 17, 2026
-2:00 PM - 3:30 PM EDT
+Is Europe Ready? Domestic Politics and EU Enlargement Strategy <https://carnegieendowment.org/europe/events/2026/10/is-europe-ready-domestic-politics-and-eu-enlargement-strategy>
+November 5, 2026
+5:30 PM - 6:30 PM GMT+1
 +
-4
-David E. Hoffman
+1
+Gert Jan Koopman
 , 
-Corey Hinderstein
+Rosa Balfour
 , 
-Dina Titus
+Stefan Lehne
 , 
 …
-OCTOBER
-14
+NOVEMBER
+6
 2026
-Conference
-Prism: West Coast Ideas Impacting the World <https://carnegieendowment.org/events/2026/08/prism-west-coast-ideas-impacting-the-world>
-October 14, 2026
-1:00 PM - 4:30 PM PDT
+Event
+Assessing the U.S. Midterms <https://carnegieendowment.org/events/2026/10/assessing-the-us-midterms>
+November 6, 2026
+11:00 AM - 11:45 AM EST
+Aaron David Miller
+, 
+S.E. Cupp
+, 
+Norman Ornstein
+NOVEMBER
+12
+2026
+Event
+Authoritarianism in the Arab World <https://carnegieendowment.org/events/2026/10/authoritarianism-in-the-arab-world>
+November 12, 2026
+9:30 AM - 10:45 AM EST
++
+1
+Dana El Kurd
+, 
+Mai El-Sadany
+, 
+Sarah Yerkes
+, 
+…
 DECEMBER
 2
 2026
@@ -46,3 +55,26 @@ Conference
 2026 Global Technology Summit <https://carnegieendowment.org/india/events/2026/07/2026-global-technology-summit>
 December 2, 2026
 8:00 AM - 8:00 PM GMT+5:30
+DECEMBER
+9
+2026
+Conference
+Global Shifts, Regional Stakes: Looking Ahead to 2027 <https://carnegieendowment.org/middle-east/events/2026/10/global-shifts-regional-stakes-looking-ahead-to-2027>
+December 9, 2026
+9:00 AM - 6:00 PM GMT+2
++
+9
+Jihad Azour
+, 
+Ghassan Salameh
+, 
+Paul Salem
+, 
+…
+JUNE
+7
+2027
+Event
+2027 Carnegie International Nuclear Policy Conference <https://carnegieendowment.org/events/2026/10/2027-carnegie-international-nuclear-policy-conference>
+June 7, 2027
+12:00 AM - 12:00 AM EDT

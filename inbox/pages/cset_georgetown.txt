@@ -1,34 +1,41 @@
 # CSET Georgetown
 # https://cset.georgetown.edu/events/
-# fetched 2026-09-15T00:02:11.294567-04:00
+# fetched 2026-11-04T13:15:06.937065-05:00
 # tags: think-tank, university, georgetown
 
 Events
-China’s AI Leap <https://cset.georgetown.edu/event/chinas-ai-leap/>
- October 7, 2025
- 125 E Street NW, Washington, DC, 20001
-Check out the recording and recap of CSET's event diving deep on China's military modernization below. 
-Applications
+Unlocking S&T Insights <https://cset.georgetown.edu/event/unlocking-st-insights/>
+ October 21, 2026
+ 125 E Street NW, 9th Floor, Washington, DC 20001
+On October 21, CSET hosted an event highlighting Project ATLAS. The afternoon featured commentary from leading scientific and policy experts across government, the private sector, and research institutions. The event offered the opportunity for scholars, decision makers, media, and others to engage in formal and informal discussions on U.S. S&T leadership.
+Data
  Filter events
 CyberAI (12) <https://cset.georgetown.edu/events/?ep_filter_topic=cyberai>
-Applications (12) <https://cset.georgetown.edu/events/?ep_filter_topic=applications-and-implications>
+Applications (12) <https://cset.georgetown.edu/events/?ep_filter_topic=applications>
 Compete (7) <https://cset.georgetown.edu/events/?ep_filter_topic=compete>
 China (7) <https://cset.georgetown.edu/events/?ep_filter_topic=china>
 Workforce (6) <https://cset.georgetown.edu/events/?ep_filter_topic=workforce>
 Investment (6) <https://cset.georgetown.edu/events/?ep_filter_topic=investment>
 International standing (5) <https://cset.georgetown.edu/events/?ep_filter_topic=international-standing>
 Hardware and compute (5) <https://cset.georgetown.edu/events/?ep_filter_topic=hardware-and-compute>
-Assessment (4) <https://cset.georgetown.edu/events/?ep_filter_topic=assessment>
+AI Governance (4) <https://cset.georgetown.edu/events/?ep_filter_topic=ai-governance>
 Biotech (3) <https://cset.georgetown.edu/events/?ep_filter_topic=biotech>
 Talent (2) <https://cset.georgetown.edu/events/?ep_filter_topic=talent>
 Supply Chains (2) <https://cset.georgetown.edu/events/?ep_filter_topic=supply-chains>
 Peer Watch (2) <https://cset.georgetown.edu/events/?ep_filter_topic=peer-watch>
 Foundations (1) <https://cset.georgetown.edu/events/?ep_filter_topic=foundations>
-CSET Events (50) <https://cset.georgetown.edu/events/?ep_filter_event_type=cset-events>
+Data (1) <https://cset.georgetown.edu/events/?ep_filter_topic=data>
+CSET Events (51) <https://cset.georgetown.edu/events/?ep_filter_event_type=cset-events>
 Our Experts at Other Events (2) <https://cset.georgetown.edu/events/?ep_filter_event_type=our-experts-at-other-events>
 Expert Testimony (1) <https://cset.georgetown.edu/events/?ep_filter_event_type=expert-testimony>
 Upcoming Events <https://cset.georgetown.edu/events/?event_type=upcoming>
 Past Events <https://cset.georgetown.edu/events/?event_type=past>
+Unlocking S&T Insights <https://cset.georgetown.edu/event/unlocking-st-insights/>
+ October 21, 2026
+ 125 E Street NW
+9th Floor
+Washington, DC 20001
+On October 21, CSET hosted an event highlighting Project ATLAS. The afternoon featured commentary from leading scientific and policy experts across government, the private sector, and research institutions. The event offered the opportunity for scholars, decision makers, media, and others to engage in formal and informal discussions on U.S. S&T leadership.
 The New Bio Frontier <https://cset.georgetown.edu/event/the-new-bio-frontier/>
  March 25, 2026
  500 First Street NW
@@ -72,7 +79,3 @@ How the U.S. Government Hires, Uses, and Pays for AI Tools and Talent <https://c
  February 24, 2025
  Online
 On February 24, CSET, the Beeck Center for Social Impact + Innovation, and Georgetown Law’s Institute for Technology Law and Policy hosted a discussion on the federal government's procurement and use of AI tools and talent.
-What’s Next in AI Governance? <https://cset.georgetown.edu/event/whats-next-in-ai-governance/>
- December 11, 2024
- Online
-In this event, we discussed potential forecasts for AI governance efforts around the world in 2025. We also provided an exclusive introduction to AGORA, a new tool designed to help researchers and the public examine AI-relevant laws, regulations, and standards.

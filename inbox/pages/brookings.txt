@@ -1,6 +1,6 @@
 # Brookings
 # https://www.brookings.edu/events/
-# fetched 2026-09-15T00:02:11.294567-04:00
+# fetched 2026-11-04T13:15:06.937065-05:00
 # tags: think-tank
 
 Events
@@ -9,119 +9,156 @@ By registering for or attending a Brookings event, you indicate that you agree t
 Terms and Conditions of Attendance <https://www.brookings.edu/wp-content/uploads/2024/05/Event-Terms-and-Conditions-2024.pdf>
 .
  Featured Events
-September
-15
+November
+05
 2026
-Can communities mitigate their rising concerns about data centers? <https://www.brookings.edu/events/can-communities-mitigate-their-rising-concerns-about-data-centers/>
+Israel after the elections: What’s next for US-Israel relations? <https://www.brookings.edu/events/israel-after-the-elections-whats-next-for-us-israel-relations/>
+ Online Only
+ Thursday, 10:00 am - 11:00 am EST
+US biosafety policy and regulations: Assessing the landscape <https://www.brookings.edu/events/us-biosafety-policy-and-regulations-assessing-the-landscape/>
+ Upcoming Event
+November
+05
+2026
+Regulatory Policy <https://www.brookings.edu/topics/regulatory-policy/>
+ US biosafety policy and regulations: Assessing the landscape
  The Brookings Institution, Washington D.C.
- Tuesday, 10:00 am - 11:30 am EDT
-Making costs count: A new framework for better cost evidence generation and use in global education and ECCE <https://www.brookings.edu/events/making-costs-count/>
+ Thursday, 2:00 pm - 2:45 pm EST
+Building the conditions to thrive: Improving well-being for men and boys of color <https://www.brookings.edu/events/building-the-conditions-to-thrive-improving-well-being-for-men-and-boys-of-color/>
  Upcoming Event
-September
-17
-2026
-Global Education <https://www.brookings.edu/topics/education-in-developing-nations/>
- Making costs count: A new framework for better cost evidence generation and use in global education and ECCE
- Online only
- Thursday, 9:00 am - 10:00 am EDT
-America&#8217;s Rural Future: What do we lose without local news? <https://creativeartsandmedia.wvu.edu/events/americas-rural-future>
- Upcoming Event
-September
-23
-2026
-Media & Journalism <https://www.brookings.edu/topics/media-journalism/>
- America’s Rural Future: What do we lose without local news?
- West Virginia University Media Innovation Center, Morgantown West Virgina
- Wednesday, 5:00 pm - 7:00 pm EDT
-BPEA Fall 2026 Conference <https://www.brookings.edu/events/bpea-fall-2026-conference/>
- Upcoming Event
-September
-24-25
-2026
-U.S. Economy <https://www.brookings.edu/topics/u-s-economy/>
- BPEA Fall 2026 Conference
- Thursday, 1:00 pm - 5:15 pm EDT
-Friday, 9:00 am - 1:15 pm EDT
-Upcoming
-Can communities mitigate their rising concerns about data centers? <https://www.brookings.edu/events/can-communities-mitigate-their-rising-concerns-about-data-centers/>
- Upcoming Event
-September
-15
-2026
-Artificial Intelligence <https://www.brookings.edu/topics/artificial-intelligence/>
- Can communities mitigate their rising concerns about data centers?
- The Brookings Institution, Washington D.C.
- Tuesday, 10:00 am - 11:30 am EDT
-Making costs count: A new framework for better cost evidence generation and use in global education and ECCE <https://www.brookings.edu/events/making-costs-count/>
- Upcoming Event
-September
-17
-2026
-Global Education <https://www.brookings.edu/topics/education-in-developing-nations/>
- Making costs count: A new framework for better cost evidence generation and use in global education and ECCE
- Online only
- Thursday, 9:00 am - 10:00 am EDT
-America&#8217;s Rural Future: What do we lose without local news? <https://creativeartsandmedia.wvu.edu/events/americas-rural-future>
- Upcoming Event
-September
-23
-2026
-Media & Journalism <https://www.brookings.edu/topics/media-journalism/>
- America’s Rural Future: What do we lose without local news?
- West Virginia University Media Innovation Center, Morgantown West Virgina
- Wednesday, 5:00 pm - 7:00 pm EDT
-BPEA Fall 2026 Conference <https://www.brookings.edu/events/bpea-fall-2026-conference/>
- Upcoming Event
-September
-24-25
-2026
-U.S. Economy <https://www.brookings.edu/topics/u-s-economy/>
- BPEA Fall 2026 Conference
- Thursday, 1:00 pm - 5:15 pm EDT
-Friday, 9:00 am - 1:15 pm EDT
-The next generation of reforms to the retirement saving system <https://www.brookings.edu/events/the-next-generation-of-reforms-to-the-retirement-saving-system/>
- Upcoming Event
-September
-30
-2026
-Retirement <https://www.brookings.edu/topics/retirement-pensions-social-security/>
- The next generation of reforms to the retirement saving system
- The Brookings Institution, Washington D.C.
- Wednesday, 10:00 am - 11:30 am EDT
-Recent Past Events
-The 9/11 terrorist attacks at 25: Assessing the legacy, addressing the future <https://www.brookings.edu/events/the-9-11-terrorist-attacks-at-25-assessing-the-legacy-addressing-the-future/>
- Past Event
-September
-11
-2026
-Defense & Security <https://www.brookings.edu/topics/national-security/>
- The 9/11 terrorist attacks at 25: Assessing the legacy, addressing the future
- The Brookings Institution, Washington DC
- Friday, 1:00 pm - 4:00 pm EDT
-Generation AI starts early symposium <https://www.brookings.edu/events/generation-ai-starts-early-symposium/>
- Past Event
-September
+November
 09
 2026
-Artificial Intelligence <https://www.brookings.edu/topics/artificial-intelligence/>
- Generation AI starts early symposium
- Wednesday, 9:00 am - 11:45 am EDT
-How schools can help to cultivate intellectual humility in America&#8217;s students <https://www.brookings.edu/events/how-schools-can-help-to-cultivate-intellectual-humility-in-americas-students/>
- Past Event
-August
-31
-2026
-Education <https://www.brookings.edu/topics/education-2/>
- How schools can help to cultivate intellectual humility in America’s students
+Race in Public Policy <https://www.brookings.edu/topics/race-in-american-public-policy/>
+ Building the conditions to thrive: Improving well-being for men and boys of color
  Online only
- Monday, 2:00 pm - 3:00 pm EDT
-Strengthening education ecosystems through collaborative research and action: Learnings from Asia <https://edusymposium.agu.edu.vn/>
- Past Event
-August
+ Monday, 11:00 am - 12:00 pm EST
+What comes next: The consequences of the 2026 midterm elections <https://www.brookings.edu/events/what-comes-next-the-consequences-of-the-2026-midterm-elections/>
+ Upcoming Event
+November
+09
+2026
+Campaigns & Elections <https://www.brookings.edu/topics/campaigns-elections/>
+ What comes next: The consequences of the 2026 midterm elections
+ Online only
+ Monday, 2:00 pm - 3:00 pm EST
+Upcoming
+Israel after the elections: What&#8217;s next for US-Israel relations? <https://www.brookings.edu/events/israel-after-the-elections-whats-next-for-us-israel-relations/>
+ Upcoming Event
+November
+05
+2026
+Israel <https://www.brookings.edu/regions/middle-east-north-africa/israel/>
+ Israel after the elections: What’s next for US-Israel relations?
+ Online Only
+ Thursday, 10:00 am - 11:00 am EST
+US biosafety policy and regulations: Assessing the landscape <https://www.brookings.edu/events/us-biosafety-policy-and-regulations-assessing-the-landscape/>
+ Upcoming Event
+November
+05
+2026
+Regulatory Policy <https://www.brookings.edu/topics/regulatory-policy/>
+ US biosafety policy and regulations: Assessing the landscape
+ The Brookings Institution, Washington D.C.
+ Thursday, 2:00 pm - 2:45 pm EST
+Building the conditions to thrive: Improving well-being for men and boys of color <https://www.brookings.edu/events/building-the-conditions-to-thrive-improving-well-being-for-men-and-boys-of-color/>
+ Upcoming Event
+November
+09
+2026
+Race in Public Policy <https://www.brookings.edu/topics/race-in-american-public-policy/>
+ Building the conditions to thrive: Improving well-being for men and boys of color
+ Online only
+ Monday, 11:00 am - 12:00 pm EST
+What comes next: The consequences of the 2026 midterm elections <https://www.brookings.edu/events/what-comes-next-the-consequences-of-the-2026-midterm-elections/>
+ Upcoming Event
+November
+09
+2026
+Campaigns & Elections <https://www.brookings.edu/topics/campaigns-elections/>
+ What comes next: The consequences of the 2026 midterm elections
+ Online only
+ Monday, 2:00 pm - 3:00 pm EST
+Deterrence in the Pacific: A conversation with Admiral Paparo <https://www.brookings.edu/events/deterrence-in-the-pacific-a-conversation-with-admiral-paparo/>
+ Upcoming Event
+November
+16
+2026
+Defense & Security <https://www.brookings.edu/topics/national-security/>
+ Deterrence in the Pacific: A conversation with Admiral Paparo
+ The Brookings Institution, Washington DC
+ Monday, 6:30 pm - 7:30 pm EST
+Strengthening the resilience and liquidity of the US Treasury market <https://www.brookings.edu/events/strengthening-the-resilience-and-liquidity-of-the-us-treasury-market/>
+ Upcoming Event
+November
+17
+2026
+Federal Fiscal & Tax Policy <https://www.brookings.edu/topics/federal-fiscal-tax-policy/>
+ Strengthening the resilience and liquidity of the US Treasury market
+ The Brookings Institution, Washington D.C.
+ Tuesday, 9:30 am - 11:30 am EST
+The state of broadband access and affordability <https://www.brookings.edu/events/the-state-of-broadband-access-and-affordability/>
+ Upcoming Event
+November
+18
+2026
+Internet & Telecommunications <https://www.brookings.edu/topics/telecommunications-internet/>
+ The state of broadband access and affordability
+ The Brookings Institution, Washington D.C.
+ Wednesday, 1:30 pm - 2:45 pm EST
+Coming of age in an uncertain era <https://www.brookings.edu/events/coming-of-age-in-an-uncertain-era/>
+ Upcoming Event
+November
 20
 2026
+Society & Culture <https://www.brookings.edu/topics/social-issues/>
+ Coming of age in an uncertain era
+ The Brookings Institution, Washington D.C.
+ Friday, 10:00 am - 11:30 am EST
+What is next for the US-China AI safety dialogue? <https://www.brookings.edu/events/what-is-next-for-the-us-china-ai-safety-dialogue/>
+ Upcoming Event
+November
+23
+2026
+Artificial Intelligence <https://www.brookings.edu/topics/artificial-intelligence/>
+ What is next for the US-China AI safety dialogue?
+ Online only
+ Monday, 10:00 am - 11:00 am EST
+Recent Past Events
+Modernizing the Current Population Survey <https://www.brookings.edu/events/modernizing-the-current-population-survey/>
+ Past Event
+October
+29
+2026
+Labor & Unemployment <https://www.brookings.edu/topics/labor-policy-unemployment/>
+ Modernizing the Current Population Survey
+ The Brookings Institution, Washington D.C.
+ Thursday, 3:00 pm - 5:15 pm EDT
+The hidden price of college: Three perspectives on how families can navigate their most important financial decision <https://www.brookings.edu/events/the-hidden-price-of-college-three-perspectives-on-how-families-can-navigate-their-most-important-financial-decision/>
+ Past Event
+October
+27
+2026
+Higher Education <https://www.brookings.edu/topics/higher-education-2/>
+ The hidden price of college: Three perspectives on how families can navigate their most important financial decision
+ Online only
+ Tuesday, 10:00 am - 11:00 am EDT
+Climate education in action: A collective agenda for building resilient education ecosystems <https://www.brookings.edu/events/climate-education-in-action-a-collective-agenda-for-building-resilient-education-ecosystems/>
+ Past Event
+October
+26
+2026
 Global Education <https://www.brookings.edu/topics/education-in-developing-nations/>
- Strengthening education ecosystems through collaborative research and action: Learnings from Asia
- Majestic Hotel, Ho Chi Minh City, Vietnam
- Thursday, 8:30 am - 5:30 pm +07
+ Climate education in action: A collective agenda for building resilient education ecosystems
+ Online only
+ Monday, 9:00 am - 10:00 am EDT
+Opportunity Zones: What we learned and what comes next <https://www.brookings.edu/events/opportunity-zones-what-comes-next/>
+ Past Event
+October
+22
+2026
+Economic Development <https://www.brookings.edu/topics/economic-development/>
+ Opportunity Zones: What we learned and what comes next
+ Online only
+ Thursday, 2:00 pm - 3:00 pm EDT
 See all past events <https://www.brookings.edu/past-events/>

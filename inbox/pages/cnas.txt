@@ -1,17 +1,27 @@
 # CNAS
 # https://www.cnas.org/events
-# fetched 2026-09-15T00:02:11.294567-04:00
+# fetched 2026-11-04T13:15:06.937065-05:00
 # tags: think-tank
 
 Upcoming Events
-Event <https://www.cnas.org/events/redrawing-the-map-assessing-military-and-veteran-serving-nonprofit-sector>
-Next Up <https://www.cnas.org/events/redrawing-the-map-assessing-military-and-veteran-serving-nonprofit-sector>
- National Security Human Capital
-Redrawing the Map: Assessing the Military- and Veteran-Serving Nonprofit Sector <https://www.cnas.org/events/redrawing-the-map-assessing-military-and-veteran-serving-nonprofit-sector>
-Sep 15, 2026
-12:00p.m. ET
-Read More <https://www.cnas.org/events/redrawing-the-map-assessing-military-and-veteran-serving-nonprofit-sector>
+Event <https://www.cnas.org/events/fireside-chat-with-ben-buchanan>
+Next Up <https://www.cnas.org/events/fireside-chat-with-ben-buchanan>
+ Technology & National Security
+Fireside Chat with Ben Buchanan <https://www.cnas.org/events/fireside-chat-with-ben-buchanan>
+Nov 12, 2026
+3:30p.m. ET
+Read More <https://www.cnas.org/events/fireside-chat-with-ben-buchanan>
 Recent Events
+Event
+Indo-Pacific Security <https://www.cnas.org/research/indo-pacific-security>
+Digital Lifelines <https://www.cnas.org/events/digital-lifelines>
+ Ryan Claffey, Richard Fontaine 
+ Oct 21, 2026
+Event
+National Security Human Capital <https://www.cnas.org/research/national-security-human-capital>
+Redrawing the Map: Assessing the Military- and Veteran-Serving Nonprofit Sector <https://www.cnas.org/events/redrawing-the-map-assessing-military-and-veteran-serving-nonprofit-sector>
+ Katherine L. Kuzminski 
+ Sep 15, 2026
 Event
 National Security Law <https://www.cnas.org/research/national-security-law>
 Twenty-Five Years After 9/11: The Future of Counterterrorism Law & Investigations <https://www.cnas.org/events/twenty-five-years-after-9-11-the-future-of-counterterrorism-law-investigations>
@@ -81,16 +91,6 @@ Transatlantic Security <https://www.cnas.org/research/transatlantic-security>
 Beyond the Sahel: Russia’s Toolbox for Influence in Africa <https://www.cnas.org/events/beyond-the-sahel-russias-toolbox-for-influence-in-africa>
  Kate Johnston, David McKenzie 
  May 18, 2026
-Event
-Indo-Pacific Security <https://www.cnas.org/research/indo-pacific-security>
-U.S.-Japan-Philippines Trilateral Cooperation <https://www.cnas.org/events/u-s-japan-philippines-trilateral-cooperation-2>
- Lisa Curtis, Ryan Claffey 
- May 6, 2026
-Event
-Energy, Economics & Security <https://www.cnas.org/research/energy-economics-and-security>
-Fireside Chat with Assistant Secretary Chris Pilkerton <https://www.cnas.org/events/fireside-chat-with-chris-pilkerton>
- Emily Kilcrease 
- Apr 28, 2026
 Previous Page
  Previous <https://www.cnas.org/events>
  of 39

@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-12T07:39:21-04:00",
- "today": "2026-10-12",
- "window_start": "2026-10-12",
+ "generated_at": "2026-11-04T13:22:20-05:00",
+ "today": "2026-11-04",
+ "window_start": "2026-11-04",
  "window_days": 14,
  "map_center": [
   38.905,
@@ -10,146 +10,6 @@
  "map_zoom": 13,
  "flagged_sources": [],
  "events": [
-  {
-   "id": 29,
-   "title": "Intelligent Networks: Powering Artificial Intelligence and Transforming Communications",
-   "start": "2026-07-29T10:00:00-04:00",
-   "end": null,
-   "host": "Senate Commerce Committee",
-   "source": "Caleb Knapp Weekly AI Digest (Substack)",
-   "location": "SR-253, Russell Senate Office Building",
-   "virtual": false,
-   "url": "https://www.commerce.senate.gov/meetings/intelligent-networks-powering-artificial-intelligence-and-transforming-communications/",
-   "topics": [
-    "AI"
-   ],
-   "tags": [
-    "hill",
-    "substack"
-   ],
-   "fit": 3,
-   "why": "Senate Commerce hearing on AI infrastructure and telecom; useful for tracking where the frontier-AI bill conversation sits.",
-   "description": "",
-   "speakers": [],
-   "lat": 38.8899,
-   "lon": -77.0091,
-   "in_dc": true,
-   "time": "10:00 AM",
-   "where": "SR-253, Russell Senate Office Building"
-  },
-  {
-   "id": 30,
-   "title": "The Impact of AI on the Workforce",
-   "start": "2026-07-29T14:00:00-04:00",
-   "end": null,
-   "host": "Senate HELP Committee",
-   "source": "Caleb Knapp Weekly AI Digest (Substack)",
-   "location": "430 Dirksen Senate Office Building",
-   "virtual": false,
-   "url": "https://www.help.senate.gov/hearings/the-impact-of-ai-on-the-workforce",
-   "topics": [
-    "AI",
-    "industrial-policy"
-   ],
-   "tags": [
-    "hill",
-    "substack"
-   ],
-   "fit": 3,
-   "why": "Senate hearing on AI and jobs, one of the political fault lines shaping federal AI policy.",
-   "description": "",
-   "speakers": [],
-   "lat": 38.8899,
-   "lon": -77.0091,
-   "in_dc": true,
-   "time": "2:00 PM",
-   "where": "430 Dirksen Senate Office Building"
-  },
-  {
-   "id": 37,
-   "title": "Is Quantum Computing Ready for Real-World Impact? with Professor Amlan Chakrabarti",
-   "start": "2026-08-03T18:00:00-04:00",
-   "end": "2026-08-03T20:00:00-04:00",
-   "host": "DC Industrial Policy Salon",
-   "source": "Caleb Knapp Weekly AI Digest (Substack)",
-   "location": "Teaism Penn Quarter, 400 8th St NW",
-   "virtual": false,
-   "url": "https://luma.com/59mtsm2x",
-   "topics": [
-    "quantum",
-    "industrial-policy"
-   ],
-   "tags": [
-    "public",
-    "substack"
-   ],
-   "fit": 4,
-   "why": "Informal quantum-policy salon, exactly the kind of small DC gathering where students can meet practitioners.",
-   "description": "",
-   "speakers": [],
-   "lat": 38.8951,
-   "lon": -77.0232,
-   "in_dc": true,
-   "time": "6:00 PM–8:00 PM",
-   "where": "Teaism Penn Quarter, 400 8th St NW"
-  },
-  {
-   "id": 34,
-   "title": "Your Data, Their Profit: The Consumer Cost of AI Surveillance Pricing",
-   "start": "2026-08-04T14:30:00-04:00",
-   "end": null,
-   "host": "Senate Judiciary Committee",
-   "source": "Caleb Knapp Weekly AI Digest (Substack)",
-   "location": "226 Dirksen Senate Office Building",
-   "virtual": false,
-   "url": "https://www.judiciary.senate.gov/committee-activity/hearings/your-data-their-profit-the-consumer-cost-of-ai-surveillance-pricing",
-   "topics": [
-    "AI",
-    "data/privacy"
-   ],
-   "tags": [
-    "hill",
-    "substack"
-   ],
-   "fit": 3,
-   "why": "Senate Judiciary on algorithmic pricing and data; a live privacy-regulation thread.",
-   "description": "",
-   "speakers": [],
-   "lat": 38.8899,
-   "lon": -77.0091,
-   "in_dc": true,
-   "time": "2:30 PM",
-   "where": "226 Dirksen Senate Office Building"
-  },
-  {
-   "id": 35,
-   "title": "Senate Commerce Executive Session 24: Markup of Kids Online Safety Act, CHATBOT Act, Youth AI Privacy Act",
-   "start": "2026-08-05T10:00:00-04:00",
-   "end": null,
-   "host": "Senate Commerce Committee",
-   "source": "Caleb Knapp Weekly AI Digest (Substack)",
-   "location": "SR-253, Russell Senate Office Building",
-   "virtual": false,
-   "url": "https://www.commerce.senate.gov/meetings/executive-session-24-08-05-2026/",
-   "topics": [
-    "AI",
-    "trust-and-safety",
-    "data/privacy"
-   ],
-   "tags": [
-    "hill",
-    "substack"
-   ],
-   "fit": 4,
-   "why": "Markup that advanced KOSA and the CHATBOT Act; the year's main kids-and-AI legislative moment.",
-   "description": "",
-   "speakers": [],
-   "lat": 38.8899,
-   "lon": -77.0091,
-   "in_dc": true,
-   "time": "10:00 AM",
-   "where": "SR-253, Russell Senate Office Building"
-  },
   {
    "id": 39,
    "title": "NextGen State Capacity Happy Hour",
@@ -1603,6 +1463,34 @@
    "where": "CSIS, 1616 Rhode Island Ave NW"
   },
   {
+   "id": 152,
+   "title": "Responsible Tech Happy Hour",
+   "start": "2026-09-21T18:00:00-04:00",
+   "end": "2026-09-21T20:00:00-04:00",
+   "host": "ATIHx DC (All Tech Is Human)",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": "Teaism Penn Quarter, 400 8th St NW",
+   "virtual": false,
+   "url": "https://luma.com/ngo0tpyj",
+   "topics": [
+    "AI",
+    "trust-and-safety"
+   ],
+   "tags": [
+    "public",
+    "substack"
+   ],
+   "fit": 3,
+   "why": "Networking with DC's responsible-tech community.",
+   "description": "",
+   "speakers": [],
+   "lat": 38.8951,
+   "lon": -77.0232,
+   "in_dc": true,
+   "time": "6:00 PM–8:00 PM",
+   "where": "Teaism Penn Quarter, 400 8th St NW"
+  },
+  {
    "id": 102,
    "title": "Pfizer's Albert Bourla on AI, health, and innovation in a changing world",
    "start": "2026-09-22T00:00:00-04:00",
@@ -1618,7 +1506,8 @@
     "data/privacy"
    ],
    "tags": [
-    "think-tank"
+    "think-tank",
+    "substack"
    ],
    "fit": 4,
    "why": "AI-and-biotech regulation from a pharma CEO in the AC Front Page series; time to be announced.",
@@ -1631,6 +1520,94 @@
    "in_dc": true,
    "time": "time TBD",
    "where": "Atlantic Council, 1030 15th St NW (+ virtual)"
+  },
+  {
+   "id": 157,
+   "title": "Navigating the U.S.-China Relationship: A Conversation With Sen. Tammy Duckworth",
+   "start": "2026-09-22T11:00:00-04:00",
+   "end": "2026-09-22T12:00:00-04:00",
+   "host": "Center for American Progress",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": "Center for American Progress, 1333 H St NW",
+   "virtual": true,
+   "url": "https://www.americanprogress.org/events/navigating-the-u-s-china-relationship-a-conversation-with-sen-tammy-duckworth/",
+   "topics": [
+    "China",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "substack",
+    "think-tank"
+   ],
+   "fit": 4,
+   "why": "A senator's view on US-China relations after the summit.",
+   "description": "",
+   "speakers": [
+    "Tammy Duckworth"
+   ],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "11:00 AM–12:00 PM",
+   "where": "Center for American Progress, 1333 H St NW (+ virtual)"
+  },
+  {
+   "id": 158,
+   "title": "Exelon CEO Calvin Butler on Powering the AI Future",
+   "start": "2026-09-22T11:00:00-04:00",
+   "end": null,
+   "host": "Atlantic Council",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": null,
+   "virtual": true,
+   "url": "https://www.atlanticcouncil.org/event/exelon-ceo-calvin-butler-on-powering-the-ai-future/",
+   "topics": [
+    "AI",
+    "energy-tech"
+   ],
+   "tags": [
+    "substack",
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Utility CEO on AI power demand and the grid.",
+   "description": "",
+   "speakers": [
+    "Calvin Butler"
+   ],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "11:00 AM",
+   "where": "Virtual"
+  },
+  {
+   "id": 153,
+   "title": "Verifying Science in the Age of AI",
+   "start": "2026-09-22T18:00:00-04:00",
+   "end": "2026-09-22T20:00:00-04:00",
+   "host": "DC Industrial Policy Salon",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": "Teaism Penn Quarter, 400 8th St NW",
+   "virtual": false,
+   "url": "https://luma.com/6q0yr47r",
+   "topics": [
+    "AI",
+    "industrial-policy"
+   ],
+   "tags": [
+    "public",
+    "substack"
+   ],
+   "fit": 3,
+   "why": "Industrial-policy salon on AI and science; good crowd for ETI students.",
+   "description": "",
+   "speakers": [],
+   "lat": 38.8951,
+   "lon": -77.0232,
+   "in_dc": true,
+   "time": "6:00 PM–8:00 PM",
+   "where": "Teaism Penn Quarter, 400 8th St NW"
   },
   {
    "id": 92,
@@ -1664,6 +1641,90 @@
    "where": "Room 422, Hopkins Bloomberg Center"
   },
   {
+   "id": 154,
+   "title": "Trust but Verify: Evaluating AI for the Public Interest",
+   "start": "2026-09-23T13:30:00-04:00",
+   "end": "2026-09-23T18:00:00-04:00",
+   "host": "VALS AI",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": "STATION DC",
+   "virtual": false,
+   "url": "https://luma.com/anjcuxwz?tk=CrgQ7H",
+   "topics": [
+    "AI"
+   ],
+   "tags": [
+    "public",
+    "substack"
+   ],
+   "fit": 3,
+   "why": "AI evaluation and public-interest assurance, a core governance question.",
+   "description": "",
+   "speakers": [],
+   "lat": 38.8983696,
+   "lon": -77.0058628,
+   "in_dc": true,
+   "time": "1:30 PM–6:00 PM",
+   "where": "STATION DC"
+  },
+  {
+   "id": 151,
+   "title": "Always Watching: Flock's Nationwide AI Surveillance Network",
+   "start": "2026-09-23T14:30:00-04:00",
+   "end": null,
+   "host": "Senate Judiciary Subcommittee on Crime and Counterterrorism",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": "SD-562, Dirksen Senate Office Building",
+   "virtual": false,
+   "url": "https://www.judiciary.senate.gov/committee-activity/hearings/always-watching-flocks-nationwide-ai-surveillance-network",
+   "topics": [
+    "AI",
+    "data/privacy"
+   ],
+   "tags": [
+    "hill",
+    "substack"
+   ],
+   "fit": 3,
+   "why": "Hawley-led hearing on AI license-plate surveillance; a live AI-and-privacy oversight thread.",
+   "description": "Post listed it as Wed Sept 16; the hearing was held Wed Sept 23 (news coverage).",
+   "speakers": [],
+   "lat": 38.8899,
+   "lon": -77.0091,
+   "in_dc": true,
+   "time": "2:30 PM",
+   "where": "SD-562, Dirksen Senate Office Building"
+  },
+  {
+   "id": 155,
+   "title": "Talking Tech: A Mixer for Privacy, AI, and Youth Safety Policy",
+   "start": "2026-09-23T17:00:00-04:00",
+   "end": "2026-09-23T20:00:00-04:00",
+   "host": "Future of Privacy Forum and SIIA",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": "Union Pub, 201 Massachusetts Ave NE",
+   "virtual": false,
+   "url": "https://forms.monday.com/forms/f0b325a0f474239d71077add1210bdef?r=use1",
+   "topics": [
+    "AI",
+    "data/privacy",
+    "trust-and-safety"
+   ],
+   "tags": [
+    "public",
+    "substack"
+   ],
+   "fit": 3,
+   "why": "Privacy and AI policy mixer near the Hill.",
+   "description": "",
+   "speakers": [],
+   "lat": 38.8946397,
+   "lon": -77.0028364,
+   "in_dc": true,
+   "time": "5:00 PM–8:00 PM",
+   "where": "Union Pub, 201 Massachusetts Ave NE"
+  },
+  {
    "id": 111,
    "title": "AR/VR Policy Conference 2026",
    "start": "2026-09-24T00:00:00-04:00",
@@ -1682,7 +1743,7 @@
    ],
    "fit": 3,
    "why": "Annual immersive-tech policy conference; venue to be announced.",
-   "description": "",
+   "description": "Sixth annual AR/VR Policy Conference from ITIF and the XR Association.",
    "speakers": [],
    "lat": 38.9024,
    "lon": -77.0221,
@@ -1725,6 +1786,90 @@
    "where": "Hudson Institute, 1201 Pennsylvania Ave NW"
   },
   {
+   "id": 156,
+   "title": "CTS Launch Party",
+   "start": "2026-09-24T17:30:00-04:00",
+   "end": "2026-09-24T20:00:00-04:00",
+   "host": "Center for Technology & Statecraft (CTS)",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": "Signal House",
+   "virtual": false,
+   "url": "https://luma.com/8e8u7wji",
+   "topics": [
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "public",
+    "substack"
+   ],
+   "fit": 3,
+   "why": "Launch of a new tech-and-statecraft center; squarely ETI territory for networking.",
+   "description": "",
+   "speakers": [],
+   "lat": 38.908588,
+   "lon": -77.0005651,
+   "in_dc": true,
+   "time": "5:30 PM–8:00 PM",
+   "where": "Signal House"
+  },
+  {
+   "id": 160,
+   "title": "What Did Trump and Xi Agree to at the White House? State of Play",
+   "start": "2026-09-25T09:00:00-04:00",
+   "end": "2026-09-25T10:00:00-04:00",
+   "host": "CSIS",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": null,
+   "virtual": true,
+   "url": "https://www.csis.org/events/what-did-trump-and-xi-agree-white-house-state-play",
+   "topics": [
+    "China",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "substack",
+    "think-tank"
+   ],
+   "fit": 4,
+   "why": "Readout of the Trump-Xi summit outcomes, including tech and trade.",
+   "description": "",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "9:00 AM–10:00 AM",
+   "where": "Virtual"
+  },
+  {
+   "id": 164,
+   "title": "Takeaways from the Trump-Xi Summit: The Economic Security Angles",
+   "start": "2026-09-28T09:00:00-04:00",
+   "end": "2026-09-28T10:00:00-04:00",
+   "host": "CSIS",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": null,
+   "virtual": true,
+   "url": "https://www.csis.org/events/takeaways-trump-xi-summit-economic-security-angles",
+   "topics": [
+    "China",
+    "tech-geopolitics",
+    "industrial-policy"
+   ],
+   "tags": [
+    "substack",
+    "think-tank"
+   ],
+   "fit": 5,
+   "why": "Economic-security takeaways from the summit, including export controls.",
+   "description": "",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "9:00 AM–10:00 AM",
+   "where": "Virtual"
+  },
+  {
    "id": 118,
    "title": "Following the Money On-Chain: Crypto Tracing for Illicit Finance",
    "start": "2026-09-28T12:30:00-04:00",
@@ -1751,6 +1896,34 @@
    "in_dc": true,
    "time": "12:30 PM–2:00 PM",
    "where": "Room 422, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
+  },
+  {
+   "id": 166,
+   "title": "Building a US Technology Strategy for the Global South",
+   "start": "2026-09-28T12:30:00-04:00",
+   "end": null,
+   "host": "Atlantic Council",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": null,
+   "virtual": true,
+   "url": "https://www.atlanticcouncil.org/event/building-a-us-technology-strategy-for-the-global-south/",
+   "topics": [
+    "tech-geopolitics",
+    "AI"
+   ],
+   "tags": [
+    "substack",
+    "think-tank"
+   ],
+   "fit": 4,
+   "why": "US tech diplomacy toward the Global South, a core tech-geopolitics question.",
+   "description": "",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "12:30 PM",
+   "where": "Virtual"
   },
   {
    "id": 93,
@@ -1796,17 +1969,48 @@
     "industrial-policy"
    ],
    "tags": [
-    "think-tank"
+    "think-tank",
+    "substack"
    ],
    "fit": 3,
    "why": "Lunchtime briefing on AI and jobs, a live legislative theme.",
-   "description": "",
+   "description": "In-person briefing with Cornell Atkinson Center on AI and worker displacement.",
    "speakers": [],
    "lat": 38.9024,
    "lon": -77.0326,
    "in_dc": true,
    "time": "12:00 PM–1:00 PM",
    "where": "R Street Institute, 1411 K St NW"
+  },
+  {
+   "id": 167,
+   "title": "Can the U.S. Still Lead in Today's World? A Conversation with Jake Sullivan",
+   "start": "2026-09-29T13:00:00-04:00",
+   "end": "2026-09-29T13:45:00-04:00",
+   "host": "Carnegie Endowment for International Peace",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": null,
+   "virtual": true,
+   "url": "https://carnegieendowment.org/events/2026/09/can-the-us-still-lead-in-todays-world-a-conversation-with-jake-sullivan",
+   "topics": [
+    "tech-geopolitics",
+    "China"
+   ],
+   "tags": [
+    "substack",
+    "think-tank"
+   ],
+   "fit": 4,
+   "why": "Former NSA Jake Sullivan, architect of the tech-controls strategy.",
+   "description": "",
+   "speakers": [
+    "Jake Sullivan"
+   ],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "1:00 PM–1:45 PM",
+   "where": "Virtual"
   },
   {
    "id": 112,
@@ -1829,13 +2033,70 @@
    ],
    "fit": 5,
    "why": "US-China biopharma competition panel on the Hill; squarely on the biotech and China tracks.",
-   "description": "",
+   "description": "Capitol Hill expert panel briefing on U.S.-China competition for biopharmaceutical leadership.",
    "speakers": [],
    "lat": 38.9024,
    "lon": -77.0221,
    "in_dc": true,
    "time": "time TBD",
    "where": "Capitol Hill, Washington, DC"
+  },
+  {
+   "id": 168,
+   "title": "Regional Reactions to the US-China Summit",
+   "start": "2026-09-30T12:30:00-04:00",
+   "end": "2026-09-30T13:30:00-04:00",
+   "host": "Hudson Institute",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": "Hudson Institute, 1201 Pennsylvania Ave NW, Suite 400",
+   "virtual": true,
+   "url": "https://www.hudson.org/events/regional-reactions-us-china-summit",
+   "topics": [
+    "China",
+    "Japan-Korea",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "substack",
+    "think-tank"
+   ],
+   "fit": 4,
+   "why": "How allies read the US-China summit.",
+   "description": "",
+   "speakers": [],
+   "lat": 38.896,
+   "lon": -77.0286,
+   "in_dc": true,
+   "time": "12:30 PM–1:30 PM",
+   "where": "Hudson Institute, 1201 Pennsylvania Ave NW, Suite 400 (+ virtual)"
+  },
+  {
+   "id": 161,
+   "title": "Rogue AI: Securing the Homeland Against AI Agent Attacks",
+   "start": "2026-09-30T14:30:00-04:00",
+   "end": null,
+   "host": "Senate HSGAC Subcommittee",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": "SD-342, Dirksen Senate Office Building",
+   "virtual": false,
+   "url": "https://www.hsgac.senate.gov/subcommittees/dmdcc/hearings/rogue-ai-securing-the-homeland-against-ai-agent-attacks/",
+   "topics": [
+    "AI",
+    "cyber"
+   ],
+   "tags": [
+    "hill",
+    "substack"
+   ],
+   "fit": 4,
+   "why": "Senate hearing on AI-agent security threats; directly on AI-security policy.",
+   "description": "",
+   "speakers": [],
+   "lat": 38.8899,
+   "lon": -77.0091,
+   "in_dc": true,
+   "time": "2:30 PM",
+   "where": "SD-342, Dirksen Senate Office Building"
   },
   {
    "id": 98,
@@ -1868,6 +2129,152 @@
    "where": "The Forge, Washington, DC"
   },
   {
+   "id": 169,
+   "title": "What's Next for US-China Relations? A Conversation with Kevin Rudd",
+   "start": "2026-10-02T11:00:00-04:00",
+   "end": "2026-10-02T12:00:00-04:00",
+   "host": "Brookings",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": null,
+   "virtual": true,
+   "url": "https://www.brookings.edu/events/whats-next-for-us-china-relations-a-conversation-with-kevin-rudd/",
+   "topics": [
+    "China",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "substack",
+    "think-tank"
+   ],
+   "fit": 4,
+   "why": "Kevin Rudd on the US-China trajectory.",
+   "description": "",
+   "speakers": [
+    "Kevin Rudd"
+   ],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "11:00 AM–12:00 PM",
+   "where": "Virtual"
+  },
+  {
+   "id": 173,
+   "title": "Tackling the Grid Reliability and Affordability Challenge in the Age of AI",
+   "start": "2026-10-05T12:00:00-04:00",
+   "end": "2026-10-05T13:15:00-04:00",
+   "host": "Belfer Center",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": "Belfer Center, Harvard Kennedy School, Cambridge, MA",
+   "virtual": true,
+   "url": "https://www.belfercenter.org/event/tackling-grid-reliability-and-affordability-challenge-age-ai",
+   "topics": [
+    "AI",
+    "energy-tech"
+   ],
+   "tags": [
+    "substack",
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "AI power demand and the grid; attend virtually.",
+   "description": "",
+   "speakers": [],
+   "lat": 42.3712,
+   "lon": -71.1217,
+   "in_dc": false,
+   "time": "12:00 PM–1:15 PM",
+   "where": "Belfer Center, Harvard Kennedy School, Cambridge, MA (+ virtual)"
+  },
+  {
+   "id": 174,
+   "title": "How China and the US Will Regulate AI Models for Safety",
+   "start": "2026-10-06T10:00:00-04:00",
+   "end": "2026-10-06T11:00:00-04:00",
+   "host": "Brookings",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": null,
+   "virtual": true,
+   "url": "https://www.brookings.edu/events/how-china-and-the-us-will-regulate-ai-models-for-safety/",
+   "topics": [
+    "AI",
+    "China",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "substack",
+    "think-tank"
+   ],
+   "fit": 5,
+   "why": "US vs China approaches to frontier AI safety regulation.",
+   "description": "",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "10:00 AM–11:00 AM",
+   "where": "Virtual"
+  },
+  {
+   "id": 175,
+   "title": "AI for Development: A Conversation with Gaurav Nayyar, Director of the World Development Report 2026",
+   "start": "2026-10-06T10:00:00-04:00",
+   "end": "2026-10-06T10:55:00-04:00",
+   "host": "CSIS",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": null,
+   "virtual": true,
+   "url": "https://www.csis.org/events/ai-development-conversation-gaurav-nayyar-director-world-development-report-2026",
+   "topics": [
+    "AI"
+   ],
+   "tags": [
+    "substack",
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "World Bank view on AI and development.",
+   "description": "",
+   "speakers": [
+    "Gaurav Nayyar"
+   ],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "10:00 AM–10:55 AM",
+   "where": "Virtual"
+  },
+  {
+   "id": 170,
+   "title": "When Everyone Has AI, What Sets You Apart? Book Talk with Jonathan Aberman and Rep. Don Beyer",
+   "start": "2026-10-06T17:30:00-04:00",
+   "end": "2026-10-06T19:00:00-04:00",
+   "host": "STATION DC",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": "STATION DC",
+   "virtual": false,
+   "url": "https://luma.com/stationdc-rtcl?tk=07C9z0",
+   "topics": [
+    "AI"
+   ],
+   "tags": [
+    "public",
+    "substack"
+   ],
+   "fit": 3,
+   "why": "Book talk with a congressman deep in AI policy.",
+   "description": "",
+   "speakers": [
+    "Jonathan Aberman",
+    "Don Beyer"
+   ],
+   "lat": 38.8983696,
+   "lon": -77.0058628,
+   "in_dc": true,
+   "time": "5:30 PM–7:00 PM",
+   "where": "STATION DC"
+  },
+  {
    "id": 94,
    "title": "Authors & Insights: Kevin Roose on the Race for AGI",
    "start": "2026-10-06T18:30:00-04:00",
@@ -1883,7 +2290,9 @@
    "tags": [
     "hub",
     "sais",
-    "sais-internal"
+    "sais-internal",
+    "public",
+    "substack"
    ],
    "fit": 4,
    "why": "New York Times journalist Kevin Roose on his book The AGI Chronicles; register via JHU Hub.",
@@ -1896,6 +2305,175 @@
    "in_dc": true,
    "time": "6:30 PM–8:30 PM",
    "where": "Hopkins Bloomberg Center"
+  },
+  {
+   "id": 172,
+   "title": "AI and Tech Policy Happy Hour",
+   "start": "2026-10-08T18:00:00-04:00",
+   "end": "2026-10-08T20:00:00-04:00",
+   "host": "IAPS",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": "Sonoma Restaurant and Wine Bar, 223 Pennsylvania Ave SE",
+   "virtual": false,
+   "url": "https://luma.com/e6mdfs3u",
+   "topics": [
+    "AI"
+   ],
+   "tags": [
+    "public",
+    "substack"
+   ],
+   "fit": 3,
+   "why": "AI-policy networking hosted by IAPS.",
+   "description": "",
+   "speakers": [],
+   "lat": 38.8870056,
+   "lon": -77.0026388,
+   "in_dc": true,
+   "time": "6:00 PM–8:00 PM",
+   "where": "Sonoma Restaurant and Wine Bar, 223 Pennsylvania Ave SE"
+  },
+  {
+   "id": 177,
+   "title": "ai+ robotics",
+   "start": "2026-10-14T09:30:00-04:00",
+   "end": null,
+   "host": "SCSP",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": "Waldorf Astoria Washington DC, 1100 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://www.scsp.ai/ai-robotics/",
+   "topics": [
+    "AI",
+    "tech-geopolitics",
+    "industrial-policy"
+   ],
+   "tags": [
+    "public",
+    "substack"
+   ],
+   "fit": 4,
+   "why": "SCSP's AI and robotics expo; competitiveness with China framing.",
+   "description": "",
+   "speakers": [],
+   "lat": 38.8941177,
+   "lon": -77.0275626,
+   "in_dc": true,
+   "time": "9:30 AM",
+   "where": "Waldorf Astoria Washington DC, 1100 Pennsylvania Ave NW"
+  },
+  {
+   "id": 180,
+   "title": "2026 Energy & Defense Summit",
+   "start": "2026-10-14T12:00:00-04:00",
+   "end": null,
+   "host": "Atlantic Council",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": "Atlantic Council, 1400 L St NW",
+   "virtual": true,
+   "url": "https://www.atlanticcouncil.org/event/2026-energy-defense-summit/",
+   "topics": [
+    "energy-tech",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "substack",
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Energy security and defense; adjacent to ETI.",
+   "description": "",
+   "speakers": [],
+   "lat": 38.903,
+   "lon": -77.0345,
+   "in_dc": true,
+   "time": "12:00 PM",
+   "where": "Atlantic Council, 1400 L St NW (+ virtual)"
+  },
+  {
+   "id": 178,
+   "title": "BlueDot DC Happy Hour",
+   "start": "2026-10-14T18:30:00-04:00",
+   "end": "2026-10-14T21:00:00-04:00",
+   "host": "BlueDot Impact",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": "The Observatory at America's Square, 300 New Jersey Ave NW",
+   "virtual": false,
+   "url": "https://luma.com/bluedot-in-dc?tk=GssY8L",
+   "topics": [
+    "AI"
+   ],
+   "tags": [
+    "public",
+    "substack"
+   ],
+   "fit": 3,
+   "why": "AI-safety community networking.",
+   "description": "",
+   "speakers": [],
+   "lat": 38.8957,
+   "lon": -77.011,
+   "in_dc": true,
+   "time": "6:30 PM–9:00 PM",
+   "where": "The Observatory at America's Square, 300 New Jersey Ave NW"
+  },
+  {
+   "id": 181,
+   "title": "Commercially Available Data: The Fourth Amendment Loophole?",
+   "start": "2026-10-15T13:00:00-04:00",
+   "end": "2026-10-15T14:00:00-04:00",
+   "host": "Cato Institute",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": null,
+   "virtual": true,
+   "url": "https://www.cato.org/events/cato-surveillance-week-2026-commercially-available-data-fourth-amendment-loophole",
+   "topics": [
+    "data/privacy"
+   ],
+   "tags": [
+    "substack",
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Data-broker surveillance and privacy law.",
+   "description": "",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "1:00 PM–2:00 PM",
+   "where": "Virtual"
+  },
+  {
+   "id": 182,
+   "title": "Outcompeting China Through Technology, Industry, and Allied Power with Senator Dave McCormick",
+   "start": "2026-10-16T14:00:00-04:00",
+   "end": "2026-10-16T15:00:00-04:00",
+   "host": "Hudson Institute",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": "Hudson Institute, 1201 Pennsylvania Ave NW, Suite 400",
+   "virtual": true,
+   "url": "https://www.hudson.org/events/outcompeting-china-through-technology-industry-allied-power-senator-dave-mccormick",
+   "topics": [
+    "China",
+    "tech-geopolitics",
+    "industrial-policy"
+   ],
+   "tags": [
+    "substack",
+    "think-tank"
+   ],
+   "fit": 5,
+   "why": "A senator on tech competition with China and allied industrial policy.",
+   "description": "",
+   "speakers": [
+    "Dave McCormick"
+   ],
+   "lat": 38.896,
+   "lon": -77.0286,
+   "in_dc": true,
+   "time": "2:00 PM–3:00 PM",
+   "where": "Hudson Institute, 1201 Pennsylvania Ave NW, Suite 400 (+ virtual)"
   },
   {
    "id": 120,
@@ -1959,6 +2537,442 @@
    "where": "Johns Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
   },
   {
+   "id": 133,
+   "title": "Korean Competition Policy and the Stakes for the US-Korea Relationship",
+   "start": "2026-10-20T00:00:00-04:00",
+   "end": null,
+   "host": "ITIF",
+   "source": "daily page scan 2026-11-04",
+   "location": "ITIF, 700 K St NW",
+   "virtual": false,
+   "url": "https://itif.org/events/2026/10/20/korean-competition-policy-stakes-for-us-korea-relationship/",
+   "topics": [
+    "Japan-Korea",
+    "industrial-policy"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Platform regulation abroad and its alliance implications.",
+   "description": "Panel on a report analysing a decade of KFTC enforcement data and its implications for U.S.-Korea economic relations.",
+   "speakers": [],
+   "lat": 38.9024,
+   "lon": -77.0221,
+   "in_dc": true,
+   "time": "time TBD",
+   "where": "ITIF, 700 K St NW"
+  },
+  {
+   "id": 195,
+   "title": "Google Public Sector Summit",
+   "start": "2026-10-20T08:00:00-04:00",
+   "end": "2026-10-20T13:45:00-04:00",
+   "host": "Google Public Sector / GovExec",
+   "source": "SAIS mailing lists",
+   "location": "Ronald Reagan Building and International Trade Center, 1300 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://events.govexec.com/google-public-sector-summit/",
+   "topics": [
+    "AI"
+   ],
+   "tags": [
+    "industry",
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 3,
+   "why": "Shows how DoD and civilian agencies are actually buying and deploying agentic AI, a short walk from SAIS.",
+   "description": "Industry summit flagged by ETI for its tech and defense sessions: AI-era mission data, agentic AI across government (CDAO, NOAA, NVIDIA speakers), predictive Army sustainment, and securing the agentic era with Navy and NNSA.",
+   "speakers": [],
+   "lat": 38.8938,
+   "lon": -77.0308,
+   "in_dc": true,
+   "time": "8:00 AM–1:45 PM",
+   "where": "Ronald Reagan Building and International Trade Center, 1300 Pennsylvania Ave NW"
+  },
+  {
+   "id": 186,
+   "title": "Toward a New Golden Age of Science: A Conversation with Michael Kratsios, Director of the White House OSTP",
+   "start": "2026-10-20T15:30:00-04:00",
+   "end": "2026-10-20T17:30:00-04:00",
+   "host": "AEI",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": "AEI, 1789 Massachusetts Ave NW",
+   "virtual": true,
+   "url": "https://www.aei.org/events/",
+   "topics": [
+    "AI",
+    "industrial-policy"
+   ],
+   "tags": [
+    "substack",
+    "think-tank"
+   ],
+   "fit": 5,
+   "why": "The White House science and tech chief on administration S&T policy.",
+   "description": "",
+   "speakers": [
+    "Michael Kratsios"
+   ],
+   "lat": 38.91,
+   "lon": -77.0426,
+   "in_dc": true,
+   "time": "3:30 PM–5:30 PM",
+   "where": "AEI, 1789 Massachusetts Ave NW (+ virtual)"
+  },
+  {
+   "id": 196,
+   "title": "Boundary Breakers Student Pre-Mixer",
+   "start": "2026-10-20T16:30:00-04:00",
+   "end": "2026-10-20T18:00:00-04:00",
+   "host": "VentureNEST, SAIS Entrepreneurship Club and SAIS Tech Club",
+   "source": "SAIS mailing lists",
+   "location": "Johns Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/venturenest/rsvp_boot?id=1996057",
+   "topics": [
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "campusgroups",
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 3,
+   "why": "Networking warm-up with JHU founders and engineers before the ETI-co-hosted defense-tech showcase.",
+   "description": "Student mixer for Baltimore and DC campuses ahead of the Boundary Breakers national-security tech showcase (DC Startup & Tech Week). Free for students; light refreshments.",
+   "speakers": [],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "4:30 PM–6:00 PM",
+   "where": "Johns Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
+  },
+  {
+   "id": 184,
+   "title": "IFP's Oktoberfest Bierhalle",
+   "start": "2026-10-20T17:00:00-04:00",
+   "end": "2026-10-20T21:00:00-04:00",
+   "host": "Institute for Progress",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": "1 Thomas Circle NW",
+   "virtual": false,
+   "url": "https://luma.com/ifpoktoberfest",
+   "topics": [
+    "AI",
+    "industrial-policy"
+   ],
+   "tags": [
+    "public",
+    "substack"
+   ],
+   "fit": 3,
+   "why": "IFP networking; science and industrial-policy crowd.",
+   "description": "",
+   "speakers": [],
+   "lat": 38.9053,
+   "lon": -77.0325244,
+   "in_dc": true,
+   "time": "5:00 PM–9:00 PM",
+   "where": "1 Thomas Circle NW"
+  },
+  {
+   "id": 183,
+   "title": "The Alliance After Hours: Oktoberfest Edition",
+   "start": "2026-10-20T18:00:00-04:00",
+   "end": "2026-10-20T20:00:00-04:00",
+   "host": "The Alliance for Secure AI",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": "20 F St NW",
+   "virtual": false,
+   "url": "https://luma.com/allianceoktoberfest",
+   "topics": [
+    "AI"
+   ],
+   "tags": [
+    "public",
+    "substack"
+   ],
+   "fit": 3,
+   "why": "AI-security community networking near the Hill.",
+   "description": "",
+   "speakers": [],
+   "lat": 38.896996,
+   "lon": -77.0098957,
+   "in_dc": true,
+   "time": "6:00 PM–8:00 PM",
+   "where": "20 F St NW"
+  },
+  {
+   "id": 128,
+   "title": "Digital Lifelines",
+   "start": "2026-10-21T00:00:00-04:00",
+   "end": null,
+   "host": "CNAS",
+   "source": "daily page scan 2026-11-04",
+   "location": "CNAS, 1152 15th St NW",
+   "virtual": false,
+   "url": "https://www.cnas.org/events/digital-lifelines",
+   "topics": [
+    "cyber",
+    "tech-geopolitics",
+    "China"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Follows CNAS work on protecting Taiwan's communications networks.",
+   "description": "CNAS Indo-Pacific Security event with Ryan Claffey and Richard Fontaine on resilient communications networks.",
+   "speakers": [
+    "Ryan Claffey",
+    "Richard Fontaine"
+   ],
+   "lat": 38.8994,
+   "lon": -77.0397,
+   "in_dc": true,
+   "time": "time TBD",
+   "where": "CNAS, 1152 15th St NW"
+  },
+  {
+   "id": 132,
+   "title": "Unlocking S&T Insights",
+   "start": "2026-10-21T00:00:00-04:00",
+   "end": "2026-10-21T16:00:00-04:00",
+   "host": "CSET Georgetown",
+   "source": "daily page scan 2026-11-04",
+   "location": "CSET, 125 E Street NW, 9th Floor",
+   "virtual": false,
+   "url": "https://cset.georgetown.edu/event/unlocking-st-insights/",
+   "topics": [
+    "AI",
+    "tech-geopolitics",
+    "industrial-policy"
+   ],
+   "tags": [
+    "georgetown",
+    "think-tank",
+    "university",
+    "substack"
+   ],
+   "fit": 4,
+   "why": "CSET data tooling on S&T competitiveness.",
+   "description": "Afternoon event launching CSET's Project ATLAS with experts on U.S. science and technology leadership.",
+   "speakers": [],
+   "lat": 38.8961,
+   "lon": -77.0125,
+   "in_dc": true,
+   "time": "time TBD",
+   "where": "CSET, 125 E Street NW, 9th Floor"
+  },
+  {
+   "id": 187,
+   "title": "AI on the Ballot: Data Centers and the 2026 Midterms",
+   "start": "2026-10-21T10:00:00-04:00",
+   "end": "2026-10-21T11:30:00-04:00",
+   "host": "Brookings",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": "Brookings Institution, 1775 Massachusetts Ave NW",
+   "virtual": true,
+   "url": "https://www.brookings.edu/events/",
+   "topics": [
+    "AI",
+    "energy-tech"
+   ],
+   "tags": [
+    "substack",
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Data-center politics ahead of the midterms.",
+   "description": "",
+   "speakers": [],
+   "lat": 38.9093,
+   "lon": -77.041,
+   "in_dc": true,
+   "time": "10:00 AM–11:30 AM",
+   "where": "Brookings Institution, 1775 Massachusetts Ave NW (+ virtual)"
+  },
+  {
+   "id": 188,
+   "title": "Dragon in the Americas: China's Power, Presence, and Regional Influence",
+   "start": "2026-10-21T11:00:00-04:00",
+   "end": "2026-10-21T12:00:00-04:00",
+   "host": "Hudson Institute",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": "Hudson Institute, 1201 Pennsylvania Ave NW, Suite 400",
+   "virtual": true,
+   "url": "https://www.hudson.org/events/dragon-americas-chinas-power-presence-regional-influence",
+   "topics": [
+    "China",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "substack",
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "China's influence in Latin America, including tech and infrastructure.",
+   "description": "",
+   "speakers": [],
+   "lat": 38.896,
+   "lon": -77.0286,
+   "in_dc": true,
+   "time": "11:00 AM–12:00 PM",
+   "where": "Hudson Institute, 1201 Pennsylvania Ave NW, Suite 400 (+ virtual)"
+  },
+  {
+   "id": 197,
+   "title": "Africa's Innovation Economy: Careers, Technology, and Opportunity",
+   "start": "2026-10-21T12:30:00-04:00",
+   "end": "2026-10-21T14:00:00-04:00",
+   "host": "SAIS BSU, Africa Club, Technology Club, Africa and T&I Focus Areas, Global Careers",
+   "source": "SAIS mailing lists",
+   "location": "Room B244, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://cglink.me/2dh/r1996891",
+   "topics": [
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "campusgroups",
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 3,
+   "why": "T&I-co-sponsored look at African tech ecosystems and career paths for students working at the tech-development intersection.",
+   "description": "Conversation with Caleb Maru, founder and CEO of Tech Safari and The Big Move, on Africa's innovation ecosystem, emerging tech trends, entrepreneurship, diaspora engagement and careers. SAIS/Hopkins students only.",
+   "speakers": [
+    "Caleb Maru"
+   ],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "12:30 PM–2:00 PM",
+   "where": "Room B244, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
+  },
+  {
+   "id": 136,
+   "title": "Semiconductors, Onshoring, and US Government Capital: A Conversation with Commerce's Bill Frauenhofer",
+   "start": "2026-10-23T10:00:00-04:00",
+   "end": "2026-10-23T11:00:00-04:00",
+   "host": "Hudson Institute",
+   "source": "daily page scan 2026-11-04",
+   "location": "Hudson Institute, 1201 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://www.hudson.org/events/semiconductors-onshoring-us-government-capital-conversation-commerces-bill-frauenhofer",
+   "topics": [
+    "semiconductors",
+    "industrial-policy"
+   ],
+   "tags": [
+    "think-tank",
+    "substack"
+   ],
+   "fit": 4,
+   "why": "CHIPS-era investment strategy from the official running it (invite only).",
+   "description": "Invitation-only fireside chat with Commerce's semiconductor investment chief on onshoring and government capital.",
+   "speakers": [
+    "Bill Frauenhofer",
+    "David Feith"
+   ],
+   "lat": 38.896,
+   "lon": -77.0286,
+   "in_dc": true,
+   "time": "10:00 AM–11:00 AM",
+   "where": "Hudson Institute, 1201 Pennsylvania Ave NW"
+  },
+  {
+   "id": 147,
+   "title": "Vulns + AI = Oh, My! A Long Week for Defenders: PHP2Shell, 3-bit Private Keys, and Storm-0940",
+   "start": "2026-10-23T12:00:00-04:00",
+   "end": null,
+   "host": "Institute for Security and Technology",
+   "source": "daily page scan 2026-11-04",
+   "location": null,
+   "virtual": true,
+   "url": "https://securityandtechnology.org/event/vulns-ai-oh-my-a-long-week-for-defenders/",
+   "topics": [
+    "cyber",
+    "AI",
+    "China"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "AI-enabled offensive cyber and policy takeaways.",
+   "description": "Webinar on a week of major vulnerabilities and an AI-assisted China-aligned hacking campaign, and what policymakers should take away.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "12:00 PM",
+   "where": "Virtual"
+  },
+  {
+   "id": 185,
+   "title": "AI Governance Happy Hour",
+   "start": "2026-10-23T20:00:00-04:00",
+   "end": "2026-10-23T23:00:00-04:00",
+   "host": "DCMC",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": "1 Thomas Circle NW",
+   "virtual": false,
+   "url": "https://luma.com/86skidl7",
+   "topics": [
+    "AI"
+   ],
+   "tags": [
+    "public",
+    "substack"
+   ],
+   "fit": 3,
+   "why": "AI-governance networking.",
+   "description": "",
+   "speakers": [],
+   "lat": 38.9053,
+   "lon": -77.0325244,
+   "in_dc": true,
+   "time": "8:00 PM–11:00 PM",
+   "where": "1 Thomas Circle NW"
+  },
+  {
+   "id": 150,
+   "title": "Disrupting Politics: A Conversation with Katie Harbath",
+   "start": "2026-10-27T00:00:00-04:00",
+   "end": "2026-10-27T13:00:00-04:00",
+   "host": "SAIS Emerging Technologies Initiative",
+   "source": "daily page scan 2026-11-04",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://emergingtech.sais.jhu.edu/event-details/disrupting-politics-a-conversation-with-katie-harbath",
+   "topics": [
+    "trust-and-safety",
+    "AI"
+   ],
+   "tags": [
+    "eti",
+    "jhu",
+    "sais",
+    "university",
+    "campusgroups",
+    "sais-internal"
+   ],
+   "fit": 5,
+   "why": "ETI's own event on platforms and democracy.",
+   "description": "ETI conversation with former Facebook public-policy director Katie Harbath on tech, platforms and elections.",
+   "speakers": [
+    "Katie Harbath"
+   ],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "time TBD",
+   "where": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
+  },
+  {
    "id": 95,
    "title": "Disrupting Politics: A Front Row Seat to the Collision of Technology and Democracy",
    "start": "2026-10-27T11:30:00-04:00",
@@ -1992,6 +3006,92 @@
    "where": "Room 422, Hopkins Bloomberg Center"
   },
   {
+   "id": 189,
+   "title": "Defense Tech DC 020",
+   "start": "2026-10-27T17:30:00-04:00",
+   "end": "2026-10-27T19:30:00-04:00",
+   "host": "Defense Tech DC",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": null,
+   "virtual": false,
+   "url": "https://luma.com/dtdc020",
+   "topics": [
+    "AI",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "public",
+    "substack"
+   ],
+   "fit": 3,
+   "why": "Defense-tech community meetup.",
+   "description": "",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "5:30 PM–7:30 PM",
+   "where": "location TBD"
+  },
+  {
+   "id": 126,
+   "title": "China's Power: Up for Debate 2026",
+   "start": "2026-10-28T00:00:00-04:00",
+   "end": "2026-10-29T00:00:00-04:00",
+   "host": "CSIS",
+   "source": "daily page scan 2026-11-04",
+   "location": "CSIS, 1616 Rhode Island Ave NW",
+   "virtual": false,
+   "url": "https://www.csis.org/events/chinas-power-debate-2026",
+   "topics": [
+    "China",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "think-tank",
+    "substack"
+   ],
+   "fit": 3,
+   "why": "Annual China debates usually include a tech-competition motion.",
+   "description": "China Power Project's annual two-day debate series on contested questions about Chinese power.",
+   "speakers": [],
+   "lat": 38.9061,
+   "lon": -77.0378,
+   "in_dc": true,
+   "time": "time TBD",
+   "where": "CSIS, 1616 Rhode Island Ave NW"
+  },
+  {
+   "id": 199,
+   "title": "Astropolitics in the Americas: Latin America's Place in the New Space Race",
+   "start": "2026-10-28T12:30:00-04:00",
+   "end": "2026-10-28T14:00:00-04:00",
+   "host": "SAIS Americas Focus Area / Latin America Studies Initiative",
+   "source": "SAIS mailing lists",
+   "location": "Room 258, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://cglink.me/2dh/r1995894",
+   "topics": [
+    "space"
+   ],
+   "tags": [
+    "campusgroups",
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 3,
+   "why": "Rare on-campus space-policy talk that looks at the space economy from outside the US-China frame.",
+   "description": "Americas Lunch Speaker Series #4 with space policy and international cooperation expert Laura Delgado López (AzurX, FIU) on Latin America's bid to play a bigger role in the space economy. Lunch provided.",
+   "speakers": [
+    "Laura Delgado López"
+   ],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "12:30 PM–2:00 PM",
+   "where": "Room 258, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
+  },
+  {
    "id": 96,
    "title": "How Energy Innovation Will Scale AI",
    "start": "2026-10-28T12:45:00-04:00",
@@ -2021,6 +3121,127 @@
    "where": "Room 422, Hopkins Bloomberg Center (+ virtual)"
   },
   {
+   "id": 203,
+   "title": "Johns Hopkins Sesquicentennial Symposium on The Future of Technology Transfer and Academic Innovation",
+   "start": "2026-10-29T08:30:00-04:00",
+   "end": "2026-10-29T19:00:00-04:00",
+   "host": "Johns Hopkins University",
+   "source": "SAIS mailing lists",
+   "location": "Johns Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://hub.jhu.edu/events/2026/10/29/johns-hopkins-sesquicentennial-symposium-on-the-future-of-technology-transfer-and-academic-innovation/",
+   "topics": [
+    "biotech",
+    "industrial-policy"
+   ],
+   "tags": [
+    "hub",
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 3,
+   "why": "Federal R&D and dual-use tech-transfer policy with the NIH and NSF directors, in the SAIS building.",
+   "description": "One-day symposium on technology transfer and academic entrepreneurship policy, with NIH Director Jay Bhattacharya, NSF Director James O'Neill and panels on dual-use technology, federal translation programs and corporate partnerships.",
+   "speakers": [
+    "Jay Bhattacharya",
+    "James O'Neill"
+   ],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "8:30 AM–7:00 PM",
+   "where": "Johns Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
+  },
+  {
+   "id": 190,
+   "title": "Reading the Signals: The Geopolitical Implications of a New Congress",
+   "start": "2026-10-29T11:00:00-04:00",
+   "end": null,
+   "host": "Atlantic Council",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": "Atlantic Council, 1400 L St NW",
+   "virtual": true,
+   "url": "https://www.atlanticcouncil.org/event/reading-the-signals-the-geopolitical-implications-of-a-new-congress/",
+   "topics": [
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "substack",
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "What the midterms mean for foreign and tech policy.",
+   "description": "",
+   "speakers": [],
+   "lat": 38.903,
+   "lon": -77.0345,
+   "in_dc": true,
+   "time": "11:00 AM",
+   "where": "Atlantic Council, 1400 L St NW (+ virtual)"
+  },
+  {
+   "id": 201,
+   "title": "Past, Present, Prompted: DPRK Hacking Enters the AI Era",
+   "start": "2026-10-29T12:00:00-04:00",
+   "end": "2026-10-29T13:30:00-04:00",
+   "host": "SAIS Asia Focus Area (Asia Policy & Career Roundtable Series)",
+   "source": "SAIS mailing lists",
+   "location": "Room 222, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/saisfocusareaevents/rsvp_boot?id=1997112",
+   "topics": [
+    "cyber",
+    "AI",
+    "Japan-Korea"
+   ],
+   "tags": [
+    "campusgroups",
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 4,
+   "why": "Practitioner briefing on AI-enabled state hacking, squarely in the cyber-and-AI lane ETI covers.",
+   "description": "Cyber threat intelligence analyst Daniel Gordon, a specialist on North Korean hacking with a decade in CTI and incident response, on how DPRK cyber operations are adapting to AI. Lunch for registered guests; cross-posted to sais.ti.",
+   "speakers": [
+    "Daniel Gordon"
+   ],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "12:00 PM–1:30 PM",
+   "where": "Room 222, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
+  },
+  {
+   "id": 204,
+   "title": "Envisioning the Future of National Security: Healthcare Resilience and Predictive Innovation in an Era of Hybrid Warfare",
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T16:30:00-04:00",
+   "host": "Johns Hopkins Bloomberg School of Public Health and Uniformed Services University",
+   "source": "SAIS mailing lists",
+   "location": "Johns Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jh-150-national-security.vercel.app/",
+   "topics": [
+    "biotech",
+    "AI"
+   ],
+   "tags": [
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 3,
+   "why": "Biotech supply-chain security and AI for readiness, promoted by ETI and held in the SAIS building.",
+   "description": "Conference on how military conflict shapes biomedical innovation, pharmaceutical supply-chain vulnerabilities, and how AI can predict disruptions and strengthen readiness. Keynote by Keith Bass, Assistant Secretary of War for Health Affairs.",
+   "speakers": [
+    "Keith Bass"
+   ],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "8:30 AM–4:30 PM",
+   "where": "Johns Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
+  },
+  {
    "id": 119,
    "title": "TRM Labs User Conference + Blockchain Capture the Flag",
    "start": "2026-11-02T00:00:00-05:00",
@@ -2048,6 +3269,460 @@
    "in_dc": true,
    "time": "time TBD",
    "where": "Washington, DC"
+  },
+  {
+   "id": 194,
+   "title": "Beneath the Fab: Securing the Semiconductor Materials Layer",
+   "start": "2026-11-02T09:00:00-05:00",
+   "end": "2026-11-02T10:00:00-05:00",
+   "host": "AEI",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": "AEI, 1789 Massachusetts Ave NW",
+   "virtual": true,
+   "url": "https://www.aei.org/events/beneath-the-fab-securing-the-semiconductor-materials-layer/",
+   "topics": [
+    "semiconductors",
+    "industrial-policy",
+    "China"
+   ],
+   "tags": [
+    "substack",
+    "think-tank"
+   ],
+   "fit": 5,
+   "why": "Semiconductor materials supply-chain security.",
+   "description": "",
+   "speakers": [],
+   "lat": 38.91,
+   "lon": -77.0426,
+   "in_dc": true,
+   "time": "9:00 AM–10:00 AM",
+   "where": "AEI, 1789 Massachusetts Ave NW (+ virtual)"
+  },
+  {
+   "id": 205,
+   "title": "Code, Country, and Contracts: Demystifying China's Cyber Ecosystem",
+   "start": "2026-11-02T13:00:00-05:00",
+   "end": "2026-11-02T14:00:00-05:00",
+   "host": "SAIS Technology & Innovation and China Focus Areas (T&I Speaker Series)",
+   "source": "SAIS mailing lists",
+   "location": "Room 422, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://cglink.me/2dh/r1997136",
+   "topics": [
+    "cyber",
+    "China"
+   ],
+   "tags": [
+    "campusgroups",
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 5,
+   "why": "T&I flagship panel with leading China-cyber researchers, in Room 422.",
+   "description": "Panel on China's cyber ecosystem from 1990s patriotic hackers to state-linked contractors like i-SOON, the post-Snowden talent pipeline, and how researchers unmask Chinese hacking groups. Moderated by Prof. Melissa Griffith; lunch from 12:45.",
+   "speakers": [
+    "Dakota Cary",
+    "Mei Danowski",
+    "Eugenio Benincasa",
+    "Melissa Griffith"
+   ],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "1:00 PM–2:00 PM",
+   "where": "Room 422, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
+  },
+  {
+   "id": 135,
+   "title": "AI Power and National Security Conference: Open Models, Governance, and US-China Military Competition",
+   "start": "2026-11-02T14:00:00-05:00",
+   "end": "2026-11-02T18:00:00-05:00",
+   "host": "Hudson Institute",
+   "source": "daily page scan 2026-11-04",
+   "location": "Hudson Institute, 1201 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://www.hudson.org/events/ai-power-national-security-conference-open-models-governance-us-china-military-competition",
+   "topics": [
+    "AI",
+    "China",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "think-tank",
+    "substack"
+   ],
+   "fit": 5,
+   "why": "Open-weights and military AI competition with China.",
+   "description": "Conference on open models, AI governance and US-China military AI competition with industry, government and defense speakers.",
+   "speakers": [
+    "Jack Shanahan",
+    "Sam Bresnick",
+    "Bill Drexel",
+    "Steve Kelly",
+    "David Helvey"
+   ],
+   "lat": 38.896,
+   "lon": -77.0286,
+   "in_dc": true,
+   "time": "2:00 PM–6:00 PM",
+   "where": "Hudson Institute, 1201 Pennsylvania Ave NW"
+  },
+  {
+   "id": 206,
+   "title": "Reflections on Promoting Innovation in Defense: Madeline Hart (Palantir)",
+   "start": "2026-11-04T13:00:00-05:00",
+   "end": "2026-11-04T14:15:00-05:00",
+   "host": "Philip Merrill Center for Strategic Studies (Defense Industry Speaker Series)",
+   "source": "SAIS mailing lists",
+   "location": "Room 422, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://cglink.me/2dh/r1997511",
+   "topics": [
+    "industrial-policy",
+    "AI"
+   ],
+   "tags": [
+    "campusgroups",
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 4,
+   "why": "Defense-tech industrial-base debate and careers from a Palantir insider, cross-posted to sais.ti.",
+   "description": "Conversation and Q&A led by Prof. Thomas Mahnken with Palantir national security lead Madeline Hart, author of Mobilize, on the changing defense industrial ecosystem and careers in defense tech. Lunch provided.",
+   "speakers": [
+    "Madeline Hart",
+    "Thomas G. Mahnken"
+   ],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "1:00 PM–2:15 PM",
+   "where": "Room 422, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
+  },
+  {
+   "id": 123,
+   "title": "Antitrust and National Security: Balancing Competition, Innovation, and Technological Leadership",
+   "start": "2026-11-05T10:00:00-05:00",
+   "end": "2026-11-05T11:00:00-05:00",
+   "host": "CSIS",
+   "source": "daily page scan 2026-11-04",
+   "location": null,
+   "virtual": true,
+   "url": "https://www.csis.org/events/antitrust-and-national-security-balancing-competition-innovation-and-technological",
+   "topics": [
+    "AI",
+    "industrial-policy",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "think-tank",
+    "substack"
+   ],
+   "fit": 4,
+   "why": "Competition policy vs. tech-champion arguments are core ETI material.",
+   "description": "Livestreamed discussion on antitrust enforcement, national security and U.S. technological leadership, hosted by the Strategic Technologies Program.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "10:00 AM–11:00 AM",
+   "where": "Virtual"
+  },
+  {
+   "id": 129,
+   "title": "US biosafety policy and regulations: Assessing the landscape",
+   "start": "2026-11-05T14:00:00-05:00",
+   "end": "2026-11-05T14:45:00-05:00",
+   "host": "Brookings",
+   "source": "daily page scan 2026-11-04",
+   "location": "Brookings Institution, 1775 Massachusetts Ave NW",
+   "virtual": false,
+   "url": "https://www.brookings.edu/events/us-biosafety-policy-and-regulations-assessing-the-landscape/",
+   "topics": [
+    "biotech"
+   ],
+   "tags": [
+    "think-tank",
+    "substack"
+   ],
+   "fit": 3,
+   "why": "Biosecurity governance is a standing ETI topic.",
+   "description": "Assessment of the U.S. biosafety policy and regulatory landscape.",
+   "speakers": [],
+   "lat": 38.9093,
+   "lon": -77.041,
+   "in_dc": true,
+   "time": "2:00 PM–2:45 PM",
+   "where": "Brookings Institution, 1775 Massachusetts Ave NW"
+  },
+  {
+   "id": 144,
+   "title": "Caught on Camera: A Candid Conversation on Public Safety, Privacy, and Police Surveillance",
+   "start": "2026-11-09T15:00:00-05:00",
+   "end": "2026-11-09T16:00:00-05:00",
+   "host": "R Street Institute",
+   "source": "daily page scan 2026-11-04",
+   "location": null,
+   "virtual": true,
+   "url": "https://www.rstreet.org/events/caught-on-camera-a-candid-conversation-on-public-safety-privacy-and-police-surveillance/",
+   "topics": [
+    "data/privacy"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Surveillance-tech privacy policy.",
+   "description": "Virtual conversation on police surveillance technology, privacy and public safety.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "3:00 PM–4:00 PM",
+   "where": "Virtual"
+  },
+  {
+   "id": 124,
+   "title": "How can the future of AI center human rights?",
+   "start": "2026-11-10T00:00:00-05:00",
+   "end": null,
+   "host": "CSIS",
+   "source": "daily page scan 2026-11-04",
+   "location": "CSIS, 1616 Rhode Island Ave NW",
+   "virtual": false,
+   "url": "https://www.csis.org/events/how-can-future-ai-center-human-rights",
+   "topics": [
+    "AI",
+    "trust-and-safety"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "AI governance through a rights lens; time not yet posted.",
+   "description": "CSIS Human Rights Initiative conversation on the role human rights should play in the future of AI.",
+   "speakers": [],
+   "lat": 38.9061,
+   "lon": -77.0378,
+   "in_dc": true,
+   "time": "time TBD",
+   "where": "CSIS, 1616 Rhode Island Ave NW"
+  },
+  {
+   "id": 141,
+   "title": "Elisabeth Braw on \"Undersea War\" and the battle over cables and pipelines",
+   "start": "2026-11-10T15:00:00-05:00",
+   "end": null,
+   "host": "Atlantic Council",
+   "source": "daily page scan 2026-11-04",
+   "location": null,
+   "virtual": true,
+   "url": "https://www.atlanticcouncil.org/event/elisabeth-braw-on-undersea-war-and-the-battle-over-cables-and-pipelines/",
+   "topics": [
+    "cyber",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Subsea-cable security is a digital-infrastructure geopolitics issue.",
+   "description": "Online book talk on threats to undersea cables and pipelines.",
+   "speakers": [
+    "Elisabeth Braw"
+   ],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "3:00 PM",
+   "where": "Virtual"
+  },
+  {
+   "id": 208,
+   "title": "The Bitter Struggle: Superintelligence, Superpowers, and the Fate of the World",
+   "start": "2026-11-11T10:30:00-05:00",
+   "end": "2026-11-11T11:30:00-05:00",
+   "host": "Alperovitch Institute & Emerging Technologies Initiative",
+   "source": "SAIS mailing lists",
+   "location": "Room 822, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://luma.com/hydaizid",
+   "topics": [
+    "AI",
+    "China",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "eti",
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 5,
+   "why": "Book launch by SAIS's own former White House AI adviser on AI and great-power competition.",
+   "description": "Prof. Ben Buchanan, former White House Special Advisor for AI, and NYT correspondent David Sanger discuss Buchanan's new book: US-China AI competition, whether export controls just buy time, frontier-lab power and democratic values. Books for sale; refreshments.",
+   "speakers": [
+    "Ben Buchanan",
+    "David E. Sanger"
+   ],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "10:30 AM–11:30 AM",
+   "where": "Room 822, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
+  },
+  {
+   "id": 142,
+   "title": "From anthrax to AI: Biological attribution then and now",
+   "start": "2026-11-12T09:00:00-05:00",
+   "end": null,
+   "host": "Atlantic Council",
+   "source": "daily page scan 2026-11-04",
+   "location": "Atlantic Council, 1030 15th St NW",
+   "virtual": false,
+   "url": "https://www.atlanticcouncil.org/event/from-anthrax-to-ai-biological-attribution-then-and-now/",
+   "topics": [
+    "biotech",
+    "AI"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 4,
+   "why": "AI x biosecurity, in person and open to the public.",
+   "description": "Public event on biological attack attribution from the 2001 anthrax letters to AI-enabled forensics.",
+   "speakers": [],
+   "lat": 38.903,
+   "lon": -77.0345,
+   "in_dc": true,
+   "time": "9:00 AM",
+   "where": "Atlantic Council, 1030 15th St NW"
+  },
+  {
+   "id": 137,
+   "title": "From Dependence to Resilience: Financing a Secure Pharmaceutical Supply Chain",
+   "start": "2026-11-12T13:00:00-05:00",
+   "end": "2026-11-12T14:00:00-05:00",
+   "host": "Hudson Institute",
+   "source": "daily page scan 2026-11-04",
+   "location": "Hudson Institute, 1201 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://www.hudson.org/events/dependence-resilience-financing-secure-pharmaceutical-supply-chain",
+   "topics": [
+    "biotech",
+    "industrial-policy"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Supply-chain industrial policy in pharma.",
+   "description": "DFC's Caroline Vik and Amneal's Maryll Toufanian on securing pharmaceutical supply chains.",
+   "speakers": [
+    "Caroline Vik",
+    "Maryll Toufanian",
+    "Nick Snyder"
+   ],
+   "lat": 38.896,
+   "lon": -77.0286,
+   "in_dc": true,
+   "time": "1:00 PM–2:00 PM",
+   "where": "Hudson Institute, 1201 Pennsylvania Ave NW"
+  },
+  {
+   "id": 127,
+   "title": "Fireside Chat with Ben Buchanan",
+   "start": "2026-11-12T15:30:00-05:00",
+   "end": null,
+   "host": "CNAS",
+   "source": "daily page scan 2026-11-04",
+   "location": "CNAS, 1152 15th St NW",
+   "virtual": false,
+   "url": "https://www.cnas.org/events/fireside-chat-with-ben-buchanan",
+   "topics": [
+    "AI",
+    "tech-geopolitics",
+    "cyber"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 5,
+   "why": "Former White House AI special adviser and SAIS faculty on AI and national security.",
+   "description": "CNAS Technology & National Security program fireside chat with former White House AI adviser Ben Buchanan.",
+   "speakers": [
+    "Ben Buchanan"
+   ],
+   "lat": 38.8994,
+   "lon": -77.0397,
+   "in_dc": true,
+   "time": "3:30 PM",
+   "where": "CNAS, 1152 15th St NW"
+  },
+  {
+   "id": 138,
+   "title": "The Future of US-Japan Cooperation in a Competitive World: Economic Security and Strategy",
+   "start": "2026-11-13T10:00:00-05:00",
+   "end": "2026-11-13T11:00:00-05:00",
+   "host": "Hudson Institute",
+   "source": "daily page scan 2026-11-04",
+   "location": "Hudson Institute, 1201 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://www.hudson.org/events/future-us-japan-cooperation-competitive-world-economic-security-strategy",
+   "topics": [
+    "Japan-Korea",
+    "industrial-policy"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Allied economic security; invitation only.",
+   "description": "Invite-only conversation with JBIC's Hiroyuki Nakashima on US-Japan economic security cooperation.",
+   "speakers": [
+    "Hiroyuki Nakashima",
+    "Nick Snyder"
+   ],
+   "lat": 38.896,
+   "lon": -77.0286,
+   "in_dc": true,
+   "time": "10:00 AM–11:00 AM",
+   "where": "Hudson Institute, 1201 Pennsylvania Ave NW"
+  },
+  {
+   "id": 210,
+   "title": "Africa and the AI Economy",
+   "start": "2026-11-13T16:30:00-05:00",
+   "end": "2026-11-13T19:30:00-05:00",
+   "host": "SAIS Tech Club, SAIS Africa Club, Village Ties and Africa Business Club",
+   "source": "SAIS mailing lists",
+   "location": "Rooms 940/944, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://cglink.me/2dh/r1997272",
+   "topics": [
+    "AI",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "campusgroups",
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 4,
+   "why": "Tech Club panel on AI infrastructure and Africa's place in the global AI economy, promoted by T&I.",
+   "description": "Panel on how Africa can seize AI-driven opportunities in technology, digital infrastructure and investment, with Kenya's Deputy Chief of Mission and leaders from Amazon, Cassava Technologies and Fonbnk. Moderated by Hanan Awel; networking and light bites.",
+   "speakers": [
+    "Christopher Kirigua",
+    "Christian Duffus",
+    "Olivia Igbokwe-Curry",
+    "Eric Chemhere",
+    "Hanan Awel"
+   ],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "4:30 PM–7:30 PM",
+   "where": "Rooms 940/944, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
   },
   {
    "id": 97,
@@ -2098,13 +3773,178 @@
    ],
    "fit": 4,
    "why": "ITIF's flagship conference on the techno-economic contest with China.",
-   "description": "",
+   "description": "Policy conference on how the U.S. can avoid defeat in its techno-economic competition with China in advanced traded-sector industries.",
    "speakers": [],
    "lat": 38.9024,
    "lon": -77.0221,
    "in_dc": true,
    "time": "time TBD",
    "where": "Washington, DC"
+  },
+  {
+   "id": 130,
+   "title": "The state of broadband access and affordability",
+   "start": "2026-11-18T13:30:00-05:00",
+   "end": "2026-11-18T14:45:00-05:00",
+   "host": "Brookings",
+   "source": "daily page scan 2026-11-04",
+   "location": "Brookings Institution, 1775 Massachusetts Ave NW",
+   "virtual": false,
+   "url": "https://www.brookings.edu/events/the-state-of-broadband-access-and-affordability/",
+   "topics": [
+    "industrial-policy"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Telecom policy; domestic but relevant to digital infrastructure debates.",
+   "description": "Panel on U.S. broadband access, affordability and telecom policy.",
+   "speakers": [],
+   "lat": 38.9093,
+   "lon": -77.041,
+   "in_dc": true,
+   "time": "1:30 PM–2:45 PM",
+   "where": "Brookings Institution, 1775 Massachusetts Ave NW"
+  },
+  {
+   "id": 139,
+   "title": "Rebuilding the Arsenal of Freedom and Reindustrializing America",
+   "start": "2026-11-18T14:00:00-05:00",
+   "end": "2026-11-18T15:00:00-05:00",
+   "host": "Hudson Institute",
+   "source": "daily page scan 2026-11-04",
+   "location": "Hudson Institute, 1201 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://www.hudson.org/events/rebuilding-arsenal-freedom-reindustrializing-america",
+   "topics": [
+    "industrial-policy"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Defense-industrial policy from the HASC chair.",
+   "description": "HASC Chairman Mike Rogers with Nadia Schadlow on Congress's role in revitalizing the defense industrial base.",
+   "speakers": [
+    "Mike Rogers",
+    "Nadia Schadlow"
+   ],
+   "lat": 38.896,
+   "lon": -77.0286,
+   "in_dc": true,
+   "time": "2:00 PM–3:00 PM",
+   "where": "Hudson Institute, 1201 Pennsylvania Ave NW"
+  },
+  {
+   "id": 211,
+   "title": "CYBERWARCON 2026",
+   "start": "2026-11-20T00:00:00-05:00",
+   "end": null,
+   "host": "CYBERWARCON",
+   "source": "SAIS mailing lists",
+   "location": "Hyatt Regency Crystal City, Arlington, VA",
+   "virtual": false,
+   "url": null,
+   "topics": [
+    "cyber"
+   ],
+   "tags": [
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 4,
+   "why": "Premier DC-area cyber threat-intel conference with strong SAIS/Alperovitch ties; volunteering earns free entry.",
+   "description": "Annual cyber conflict conference. ETI circulated a call for student volunteers (free registration; background check and Nov 3 virtual orientation required); the volunteer deadline was Oct 23.",
+   "speakers": [],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "time TBD",
+   "where": "Hyatt Regency Crystal City, Arlington, VA"
+  },
+  {
+   "id": 146,
+   "title": "Foreign Threats to Free Speech and Domestic Policy Responses",
+   "start": "2026-11-20T12:00:00-05:00",
+   "end": "2026-11-20T13:00:00-05:00",
+   "host": "R Street Institute",
+   "source": "daily page scan 2026-11-04",
+   "location": "R Street Institute, 1411 K St NW",
+   "virtual": false,
+   "url": "https://www.rstreet.org/events/foreign-threats-to-free-speech-and-domestic-policy-responses/",
+   "topics": [
+    "trust-and-safety",
+    "EU"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Platform-speech regulation and transatlantic friction.",
+   "description": "In-person discussion of foreign threats to free speech, such as overseas content rules, and U.S. policy responses.",
+   "speakers": [],
+   "lat": 38.9024,
+   "lon": -77.0326,
+   "in_dc": true,
+   "time": "12:00 PM–1:00 PM",
+   "where": "R Street Institute, 1411 K St NW"
+  },
+  {
+   "id": 131,
+   "title": "What is next for the US-China AI safety dialogue?",
+   "start": "2026-11-23T10:00:00-05:00",
+   "end": "2026-11-23T11:00:00-05:00",
+   "host": "Brookings",
+   "source": "daily page scan 2026-11-04",
+   "location": null,
+   "virtual": true,
+   "url": "https://www.brookings.edu/events/what-is-next-for-the-us-china-ai-safety-dialogue/",
+   "topics": [
+    "AI",
+    "China",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 5,
+   "why": "US-China AI diplomacy, squarely on the ETI mission.",
+   "description": "Online discussion of the future of U.S.-China dialogue on AI safety.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "10:00 AM–11:00 AM",
+   "where": "Virtual"
+  },
+  {
+   "id": 212,
+   "title": "Lessons in Leadership: Navigating Digital Democracy",
+   "start": "2026-11-30T09:30:00-05:00",
+   "end": "2026-11-30T16:00:00-05:00",
+   "host": "Latin America Studies Initiative, SAIS Women Lead and Global Women in Leadership",
+   "source": "SAIS mailing lists",
+   "location": "Kenney Link (Rooms 426/428/430), Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://cglink.me/2dh/r1997474",
+   "topics": [
+    "trust-and-safety"
+   ],
+   "tags": [
+    "campusgroups",
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 3,
+   "why": "Disinformation and online-harassment policy content, in the SAIS building.",
+   "description": "Day of conversations with women leaders from Latin America and Africa on defending democracy in the digital age: election monitoring, countering disinformation and online harassment, and technology as both tool and threat. Lunch served.",
+   "speakers": [],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "9:30 AM–4:00 PM",
+   "where": "Kenney Link (Rooms 426/428/430), Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
   }
  ]
 }
