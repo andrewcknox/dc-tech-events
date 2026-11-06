@@ -1,6 +1,6 @@
 # Georgetown SFS
 # https://sfs.georgetown.edu/events-news/
-# fetched 2026-11-04T13:15:06.937065-05:00
+# fetched 2026-11-06T08:01:15.266581-05:00
 # tags: university, georgetown
 
 News & Events
@@ -12,6 +12,15 @@ Browse events <https://events.georgetown.edu/sfs/>
 Latest news
 Discover the latest news stories and updates from the School of Foreign Service.
 View all news <https://sfs.georgetown.edu/news>
+Faculty <https://sfs.georgetown.edu/category/faculty/>
+, 
+News <https://sfs.georgetown.edu/category/news/>
+, 
+Research <https://sfs.georgetown.edu/category/research/>
+Six questions on the Israeli election
+October 30, 2026
+Oren Kessler discusses Israel’s election results, coalition negotiations and what comes next for Israel, the region and U.S.-Israel relations.
+Read more <https://sfs.georgetown.edu/news/six-questions-on-the-israeli-election/>
 Faculty <https://sfs.georgetown.edu/category/faculty/>
 , 
 News <https://sfs.georgetown.edu/category/news/>
@@ -46,13 +55,6 @@ Joanna Lewis mentors postdoctoral fellows advancing research in energy, climate 
 September 23, 2026
 Professor Joanna Lewis mentors postdocs at Georgetown, fostering research on energy, climate policy and China’s global role.
 Read more <https://sfs.georgetown.edu/news/joanna-lewis-mentors-postdoctoral-fellows-advancing-research-in-energy-climate-policy-and-china/>
-News <https://sfs.georgetown.edu/category/news/>
-, 
-Students <https://sfs.georgetown.edu/category/students/>
-2026 Pelosi Scholars reflect on internships in public service 
-September 21, 2026
-2026 Pelosi Scholars reflect on their summer internships at a range of public service organizations in the United States and abroad.
-Read more <https://sfs.georgetown.edu/news/2026-pelosi-scholars-reflect-on-internships-in-public-service/>
 Upcoming events 
 View all upcoming events <https://events.georgetown.edu/sfs>
 Nov

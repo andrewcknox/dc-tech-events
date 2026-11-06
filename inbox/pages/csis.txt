@@ -1,60 +1,79 @@
 # CSIS
 # https://www.csis.org/events
-# fetched 2026-11-04T13:15:06.937065-05:00
+# fetched 2026-11-06T08:01:15.266581-05:00
 # tags: think-tank
 
 Events
 CSIS organizes & hosts a variety of international relations & policy events featuring expert speakers. Register for live events, webinars, series & conferences.
  Next Up
 Webcast
-The Return of the Nuclear Sea-Launched Cruise Missile (SLCM-N) | HTK <https://www.csis.org/events/return-nuclear-sea-launched-cruise-missile-slcm-n-htk>
-Presented by
-HTK Series <https://www.csis.org/programs/htk-series>
-November 4, 2026 • 1:00 – 2:00 pm EST
- Upcoming Events
-Image
-Photo: Petty Officer 1st Class Dylan Kinee/DVIDS
-The Modernization of South American Militaries: Opportunities, Challenges, and Future Directions <https://www.csis.org/events/modernization-south-american-militaries-opportunities-challenges-and-future-directions>
-November 4, 2026 • 2:00 – 3:00 pm EST
-Webcast
- Hosted by 
-Americas Program
-Image
-Photo: Al Drago/Bloomberg via Getty Images
-Antitrust and National Security: Balancing Competition, Innovation, and Technological Leadership <https://www.csis.org/events/antitrust-and-national-security-balancing-competition-innovation-and-technological>
-November 5, 2026 • 10:00 – 11:00 am EST
-Webcast
- Hosted by 
-Strategic Technologies Program
-Image
-Photo: Houssam Shbaro/Anadolu/Getty Images
 Rebuilding Regional Connectivity: A Conversation with Lebanon’s Minister of Public Works and Transport H.E. Fayez Rasamny <https://www.csis.org/events/rebuilding-regional-connectivity-conversation-lebanons-minister-public-works-and-transport>
+Presented by
+Middle East Program <https://www.csis.org/programs/middle-east-program>
 November 9, 2026 • 9:00 – 10:00 am EST
-Webcast
- Hosted by 
-Middle East Program
+ Upcoming Events
 Image
 Photo: Eric Thayer/Getty Images
 Press Briefing: Previewing President Trump's Trip to Asia <https://www.csis.org/events/press-briefing-previewing-president-trumps-trip-asia>
 November 9, 2026 • 10:00 – 11:00 am EST
 Webinar
+Image
+Photo: CSIS
+Why Agriculture is Africa’s Superpower <https://www.csis.org/events/why-agriculture-africas-superpower>
+November 10, 2026 • 9:00 – 9:45 am EST
+Webcast
+ Hosted by 
+Global Development
+Image
+Photo: Kevin Frayer/Getty Images
+How Can the Future of AI Center Human Rights? <https://www.csis.org/events/how-can-future-ai-center-human-rights>
+November 10, 2026 • 10:00 – 11:00 am EST
+In Person
+Webcast
+ Hosted by 
+Human Rights Initiative
+Image
+Photo: CSIS
+The Impossible State Live Podcast: Camp David, Three Years On: Still Standing? <https://www.csis.org/events/impossible-state-live-podcast-camp-david-three-years-still-standing>
+November 10, 2026 • 11:00 – 11:40 am EST
+Webcast
+ Hosted by 
+Korea Chair
 See all upcoming events <https://www.csis.org/events?f%5B0%5D=event_type%3A3004&f%5B1%5D=event_type%3A3005&f%5B2%5D=event_type%3A3012>
  Recent Events
 Image
+Photo: Al Drago/Bloomberg via Getty Images
+Antitrust and National Security: Balancing Competition, Innovation, and Technological Leadership <https://www.csis.org/events/antitrust-and-national-security-balancing-competition-innovation-and-technological>
+November 5, 2026 • 10:00 – 11:00 am EST
+ Hosted by 
+Strategic Technologies Program
+Image
+Photo: Petty Officer 1st Class Dylan Kinee/DVIDS
+The Modernization of South American Militaries: Opportunities, Challenges, and Future Directions <https://www.csis.org/index%2ephp/events/modernization-south-american-militaries-opportunities-challenges-and-future-directions>
+November 4, 2026 • 2:00 – 3:00 pm EST
+ Hosted by 
+Americas Program
+Image
+Photo: U.S. Navy photo by Neil Boorjian/DVIDS
+The Return of the Nuclear Sea-Launched Cruise Missile (SLCM-N) | HTK <https://www.csis.org/events/return-nuclear-sea-launched-cruise-missile-slcm-n-htk>
+November 4, 2026 • 1:00 – 2:00 pm EST
+ Hosted by 
+HTK Series
+Image
 Photo: Jung Yeon-je/AFP/Getty Images
-What’s Happening Between the Two Koreas at the DMZ? | The Capital Cable #145 <https://www.csis.org/index%2Ephp/events/whats-happening-between-two-koreas-dmz-capital-cable-145>
+What’s Happening Between the Two Koreas at the DMZ? | The Capital Cable #145 <https://www.csis.org/events/whats-happening-between-two-koreas-dmz-capital-cable-145>
 November 2, 2026 • 9:30 – 10:15 am EST
  Hosted by 
 Korea Chair
 Image
 Photo: Dominick Rabrun/DVIDS
-All About the Base | AATB on Location: Conversations from AUSA <https://www.csis.org/index%2ephp/events/all-about-base-aatb-location-conversations-ausa>
+All About the Base | AATB on Location: Conversations from AUSA <https://www.csis.org/events/all-about-base-aatb-location-conversations-ausa>
 November 2, 2026 • 9:00 – 9:30 am EST
  Hosted by 
 All About the Base
 Image
 Photo: CSIS
-China's Power: Up for Debate 2026 <https://www.csis.org/index%2Ephp/events/chinas-power-debate-2026>
+China's Power: Up for Debate 2026 <https://www.csis.org/index%2ephp/events/chinas-power-debate-2026>
 October 28 – 29, 2026
  Hosted by 
 China Power Project
@@ -66,27 +85,10 @@ October 28, 2026 • 9:00 – 10:00 am EDT
 Middle East Program
 Image
 Photo: CSIS
-New Zealand Votes: What’s at Stake for Foreign and Defense Policy <https://www.csis.org/index%2Ephp/events/new-zealand-votes-whats-stake-foreign-and-defense-policy>
+New Zealand Votes: What’s at Stake for Foreign and Defense Policy <https://www.csis.org/events/new-zealand-votes-whats-stake-foreign-and-defense-policy>
 October 27, 2026 • 4:00 – 5:00 pm EDT
  Hosted by 
 Australia Chair
-Image
-Photo: CSIS
-Book Event: Lifeline by John Donnelly <https://www.csis.org/events/book-event-lifeline-john-donnelly>
-October 27, 2026 • 4:00 – 6:00 pm EDT
- Hosted by 
-The CSIS Bipartisan Alliance for Global Health Security
-Image
-The Impossible State Live Podcast: Bridge to Beijing? Kim Jong-un Crosses the Yalu <https://www.csis.org/events/impossible-state-live-podcast-bridge-beijing-kim-jong-un-crosses-yalu>
-October 27, 2026 • 9:30 – 10:00 am EDT
- Hosted by 
-Korea Chair
-Image
-Photo: CSIS
-Who Does What in Development After the Aid Cuts? <https://www.csis.org/index%2Ephp/events/who-does-what-development-after-aid-cuts>
-October 27, 2026 • 9:00 – 9:45 am EDT
- Hosted by 
-Global Development
 See all past events <https://www.csis.org/events?past_events=1>
 Upcoming Events <https://www.csis.org/events?upcoming_events=1>
 Past Events <https://www.csis.org/events?past_events=1>
@@ -95,18 +97,20 @@ Conference
  (2) <https://www.csis.org/events?f%5B0%5D=event_type%3A3004>
 Event
  (9) <https://www.csis.org/events?f%5B0%5D=event_type%3A3012>
-Series
- (1) <https://www.csis.org/events?f%5B0%5D=event_type%3A3005>
 Africa
- (1) <https://www.csis.org/events?f%5B0%5D=regions%3A789>
+ (2) <https://www.csis.org/events?f%5B0%5D=regions%3A789>
 Americas
  (1) <https://www.csis.org/events?f%5B0%5D=regions%3A792>
 Asia
- (1) <https://www.csis.org/events?f%5B0%5D=regions%3A797>
+ (3) <https://www.csis.org/events?f%5B0%5D=regions%3A797>
 Egypt and the Levant
  (2) <https://www.csis.org/events?f%5B0%5D=regions%3A1323>
+India
+ (1) <https://www.csis.org/events?f%5B0%5D=regions%3A809>
+Japan
+ (1) <https://www.csis.org/events?f%5B0%5D=regions%3A799>
 Korea
- (1) <https://www.csis.org/events?f%5B0%5D=regions%3A798>
+ (2) <https://www.csis.org/events?f%5B0%5D=regions%3A798>
 Middle East
  (2) <https://www.csis.org/events?f%5B0%5D=regions%3A785>
 North America
@@ -115,8 +119,6 @@ Russia
  (1) <https://www.csis.org/events?f%5B0%5D=regions%3A815>
 Russia and Eurasia
  (1) <https://www.csis.org/events?f%5B0%5D=regions%3A802>
-South America
- (1) <https://www.csis.org/events?f%5B0%5D=regions%3A793>
 Artificial Intelligence
  (1) <https://www.csis.org/events?f%5B0%5D=topics%3A3056>
 Conflict and Humanitarian Crises
@@ -124,9 +126,7 @@ Conflict and Humanitarian Crises
 Defense and Security
  (3) <https://www.csis.org/events?f%5B0%5D=topics%3A817>
 Defense Strategy and Capabilities
- (2) <https://www.csis.org/events?f%5B0%5D=topics%3A826>
-Economic Security
- (1) <https://www.csis.org/events?f%5B0%5D=topics%3A823>
+ (1) <https://www.csis.org/events?f%5B0%5D=topics%3A826>
 Energy and Geopolitics
  (1) <https://www.csis.org/events?f%5B0%5D=topics%3A838>
 Energy and Sustainability
@@ -135,47 +135,41 @@ Energy Innovation
  (1) <https://www.csis.org/events?f%5B0%5D=topics%3A836>
 Energy Markets, Trends, and Outlooks
  (1) <https://www.csis.org/events?f%5B0%5D=topics%3A835>
+Family Planning and Maternal and Child Health
+ (1) <https://www.csis.org/events?f%5B0%5D=topics%3A842>
 Food Security
  (1) <https://www.csis.org/events?f%5B0%5D=topics%3A831>
 Geopolitics and International Security
- (2) <https://www.csis.org/events?f%5B0%5D=topics%3A824>
+ (3) <https://www.csis.org/events?f%5B0%5D=topics%3A824>
+Global Health
+ (1) <https://www.csis.org/events?f%5B0%5D=topics%3A820>
+Health and Security
+ (1) <https://www.csis.org/events?f%5B0%5D=topics%3A840>
 Human Rights
  (1) <https://www.csis.org/events?f%5B0%5D=topics%3A821>
 International Development
  (2) <https://www.csis.org/events?f%5B0%5D=topics%3A818>
-Missile Defense
- (1) <https://www.csis.org/events?f%5B0%5D=topics%3A1338>
+Multilateral Health Institutions
+ (1) <https://www.csis.org/events?f%5B0%5D=topics%3A841>
 Nuclear Issues
- (2) <https://www.csis.org/events?f%5B0%5D=topics%3A829>
+ (1) <https://www.csis.org/events?f%5B0%5D=topics%3A829>
+Routine Immunizations
+ (1) <https://www.csis.org/events?f%5B0%5D=topics%3A3128>
 Technology
  (1) <https://www.csis.org/events?f%5B0%5D=topics%3A822>
-Technology and Innovation
- (1) <https://www.csis.org/events?f%5B0%5D=topics%3A847>
 Trade and International Business
  (1) <https://www.csis.org/events?f%5B0%5D=topics%3A851>
 2026 <https://www.csis.org/events?f%5B0%5D=event_dates%3A2026>
 2027 <https://www.csis.org/events?f%5B0%5D=event_dates%3A2027>
 Defense and Security
- (3) <https://www.csis.org/events?f%5B0%5D=department%3ADefense%20and%20Security>
+ (2) <https://www.csis.org/events?f%5B0%5D=department%3ADefense%20and%20Security>
 Economic Security and Technology
- (2) <https://www.csis.org/events?f%5B0%5D=department%3AEconomic%20Security%20and%20Technology>
+ (1) <https://www.csis.org/events?f%5B0%5D=department%3AEconomic%20Security%20and%20Technology>
 Geopolitics and Foreign Policy
  (4) <https://www.csis.org/events?f%5B0%5D=department%3AGeopolitics%20and%20Foreign%20Policy>
 Global Development
- (2) <https://www.csis.org/events?f%5B0%5D=department%3AGlobal%20Development>
+ (3) <https://www.csis.org/events?f%5B0%5D=department%3AGlobal%20Development>
  Display Archived Results
-The Return of the Nuclear Sea-Launched Cruise Missile (SLCM-N) | HTK <https://www.csis.org/events/return-nuclear-sea-launched-cruise-missile-slcm-n-htk>
-Please join the CSIS Defense and Security Department for a conversation on the Nuclear Sea-Launched Cruise Missile (SLCM-N).
- Event
-— November 4, 2026
-The Modernization of South American Militaries: Opportunities, Challenges, and Future Directions <https://www.csis.org/events/modernization-south-american-militaries-opportunities-challenges-and-future-directions>
-Join the CSIS Americas Program for an event analyzing defense procurement and military modernization trends in South America.
- Event
-— November 4, 2026
-Antitrust and National Security: Balancing Competition, Innovation, and Technological Leadership <https://www.csis.org/events/antitrust-and-national-security-balancing-competition-innovation-and-technological>
-A livestreamed virtual event exploring the intersection of antitrust enforcement, national security, and U.S. technological leadership.
- Event
-— November 5, 2026
 Rebuilding Regional Connectivity: A Conversation with Lebanon’s Minister of Public Works and Transport H.E. Fayez Rasamny <https://www.csis.org/events/rebuilding-regional-connectivity-conversation-lebanons-minister-public-works-and-transport>
 Please join the CSIS Middle East Program for a discussion with Lebanon's Minister of Public Works and Transport H.E. Fayez Rasamny.
  Event
@@ -189,8 +183,12 @@ Dr. Agnes Kalibata and Enoh T. Ebong explore why agriculture is an engine for Af
 how infrastructure, trade corridors, blended finance, and institutional leadership can unlock the potential of smallholder farmers and accelerate growth. 
  Event
 — November 10, 2026
-How can the future of AI center human rights? <https://www.csis.org/events/how-can-future-ai-center-human-rights>
+How Can the Future of AI Center Human Rights? <https://www.csis.org/events/how-can-future-ai-center-human-rights>
 Join the Human Rights Initiative for a conversation on what role human rights can and should play in the future of AI.
+ Event
+— November 10, 2026
+The Impossible State Live Podcast: Camp David, Three Years On: Still Standing? <https://www.csis.org/events/impossible-state-live-podcast-camp-david-three-years-still-standing>
+Please join us for The Impossible State Live podcast on the U.S.–Japan–ROK trilateral partnership since the Camp David summit and what to expect from the upcoming APEC summit in two weeks.
  Event
 — November 10, 2026
 Israel’s Elections and the Future of the Middle East <https://www.csis.org/events/israels-elections-and-future-middle-east>
@@ -205,3 +203,11 @@ The Strategic Implications of the Russia-North Korea Axis <https://www.csis.org/
 CSIS convenes a conference examining the durability of the North Korea-Russia partnership, and what it means for the United States and its allies in Europe and the Indo-Pacific by bringing together leading specialists on Russia, North Korea and alliance theory. 
  Event
 — November 16, 2026
+PONI 2026 Fall Conference <https://www.csis.org/events/poni-2026-fall-conference>
+PONI's Fall Conference convenes rising nuclear experts to examine a strained global nuclear order — the future of arms control, the nonproliferation regime, verification, deterrence, and restraint. 
+ Event
+— November 17, 2026
+Global Collaboration to Eliminate Cervical Cancer <https://www.csis.org/events/global-collaboration-eliminate-cervical-cancer>
+Please join the CSIS Bipartisan Alliance for Global Health Security for a broadcast conversation on how countries are advancing towards the global goal of cervical cancer elimination and how collaboration can address the remaining challenges.
+ Event
+— November 18, 2026

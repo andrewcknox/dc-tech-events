@@ -1,6 +1,6 @@
 # JHU Hub Events (SAIS)
 # https://hub.jhu.edu/events/feed/
-# fetched 2026-11-04T13:15:06.937065-05:00
+# fetched 2026-11-06T08:01:15.266581-05:00
 # tags: jhu, university
 
 ### Dreams of Scholarship: 150 Years of Discovery
@@ -36,155 +36,10 @@ For more on the center's history, watch this video <https://www.youtube.com/watc
 .
 The exhibit will be available to view from Thursday, Oct. 15, to Friday, Nov. 20, in Levering Lounge.
 
-### Naviance Cancer Support Group
-Link: https://hub.jhu.edu/events/2026/11/04/naviance-cancer-support-group/
-Published: 
-When: November 4th 12:00pm - 1:00pm
-Are you currently undergoing cancer treatment? You are invited to attend the monthly Naviance Support Group. Hosted by Nurse Navigator Rose Wolfe, these virtual sessions provide a supportive space to share, learn and receive personalized answers to your cancer-related questions.
-Support group sessions are held the first Wednesday of every month from noon–1 p.m. EST. All sessions are virtual.
-What is Naviance? 
-Naviance is a free benefit program available to all Johns Hopkins employees. It provides comprehensive educational information and Nurse Navigator support to help all those impacted by cancer — whether personally, as a caregiver, or as a manager. For more information, visit 
-gonaviance.com/jh <https://gonaviance.com/jh>
-. Or to reach out to a Nurse Navigator directly, call 844-446-6229 or email 
-naviance@jh.edu
-.
-
-### The Ball Is in Your Court | From Discovery to Deployment: Celebrating 150 Years of Entrepreneurship
-Link: https://hub.jhu.edu/events/2026/11/04/the-ball-is-in-your-court/
-Published: 
-When: November 4th 12:00pm - 7:00pm
-As part of the 150th anniversary of Johns Hopkins University, this event brings together students, researchers, entrepreneurs, investors, and policymakers to explore how breakthrough ideas move from the lab to the marketplace. Join the broader innovation ecosystem for an afternoon focused on technology commercialization, venture creation, and climate tech entrepreneurship.
-The program includes:
-​Three expert panels — lab to deployment, the funding pathway, campus to company
-​
-$5,000 pitch competition and prototype fair <https://lnkd.in/e2qjMEig?utm_source=luma>
-​Tours of R. House and the Pava Center
-​Networking happy hour and awards
-
-### LCSR Seminar Series: Defining the Discipline of Robotics for Excellence and Equity in an AI-Driven World
-Link: https://hub.jhu.edu/events/2026/11/04/lcsr-seminar-series-odest-chadwicke-jenkins-defining-the-discipline-of-robotics-for-excellence-and-equity-in-an-ai-driven-world/
-Published: 
-When: November 4th 12:00pm - 1:00pm
-Where: Hackerman Hall, Homewood Campus
-Odest Chadwicke "Chad" Jenkins <https://web.eecs.umich.edu/~ocj/>
-, a professor of robotics and of electrical engineering and computer science at the University of Michigan, will give a talk titled "Defining the Discipline of Robotics for Excellence and Equity in an AI-driven World" for the 
-Laboratory for Computational Sensing + Robotics <https://lcsr.jhu.edu/>
-.
-Abstract:
-Start with a simple question: What is the best major for a student to become a roboticist? In my role leading the creation of the robotics undergraduate major at Michigan, we tackled this question through the curricular challenge of how to both: 1) educate people to put ideas of the robotics discipline into practice and 2) endow them with the intellectual lens for creating new ideas that extend the frontiers of the robotics discipline—where mobility and dexterity through humanoid robots are poised to have a transformative impact in our increasingly AI-driven world.
-In this talk, I will discuss my work to both advance the state of the art in semantic understanding for robotics and prepare students for possible futures where robotics and AI are abundant and ubiquitous. I will present the design, launch, and innovations for the Michigan robotics major for undergraduates, as robotics emerges into its own as a true academic discipline. I will describe highlights from research in semantic 3D perception for mobile manipulation robots (including humanoids) to understand the form and function (or affordances) for a diversity of objects in common environments. I will also share insights from my role as program chair of the AAAI-26 Conference (and its roughly 30,000 submissions) and how this role, and my experiences with Amazon AWS Machine Learning University, has reshaped my perspective on AI for teaching at the university level. Finally, I will discuss new efforts in my course this semester to formulate "mutation assessments" that gauge student understanding of agentically coded projects.
-Bio:
-Jenkins' research addresses problems in robot learning from demonstration and human-robot interaction, primarily focused on dexterous mobile manipulation and robot perception. He was the founding chair of the robotics major degree program launched in 2022 for undergraduates at the University of Michigan. Jenkins was recently program chair for the AAAI-26 Conference and inaugural editor-in-chief for the 
-ACM Transactions on Human-Robot Interaction
-. Jenkins earned his Bachelor of Science in computer science and mathematics at Alma College (1996), Master of Science in computer science at Georgia Tech (1998), and doctorate in computer science at the University of Southern California (2003). Jenkins is a fellow of the American Association for the Advancement of Science, Association for the Advancement of Artificial Intelligence, and the Association for Computing Machinery.
-
-### WSE Fall 2026 Book Club Series | Slow AI: Knowing When to Use AI and When to Leave It Alone
-Link: https://hub.jhu.edu/events/2026/11/04/wse-fall-2026-book-club-slow-ai/
-Published: 
-When: November 4th 12:00pm - 1:00pm
-With so much pressure to keep up with artificial intelligence, taking time to consider how and when to use it can feel like a welcome change of pace.
-Join colleagues for the Whiting School of Engineering Fall 2026 Faculty Book Club featuring 
-Slow AI: Knowing When to Use AI and When to Leave It Alone
- by 
-Sam Illingworth <https://samillingworth.com/about>
-. This accessible, thought-provoking read explores how to make meaningful, responsible use of AI while protecting the human judgment and original thinking central to educators' work.
-Across three virtual conversations, attendees will connect the book's ideas to their own teaching and professional practice, considering practical questions:
-Does AI actually save time on a particular task?
-How can we set clear boundaries for its use?
-What consequences should we consider beyond the immediate result?
-How can we ensure that AI supports our thinking while keeping us actively engaged in the work?
-Bring your questions, experiences, and curiosity for a collegial exchange of ideas and practical approaches. Author Sam Illingworth will join the final session, offering an opportunity to discuss the book directly with him.
-This is a three-part series:
-Nov. 4: Book club discussion
-Nov. 18: Book club discussion
-Dec. 2: Book club discussion with author Sam Illingworth
-
-### Meeting Menopause with Moxie Networking Group
-Link: https://hub.jhu.edu/events/2026/11/04/meeting-menopause-with-moxie-networking-group-2026/
-Published: 
-When: November 4th 1:00pm - 2:00pm
-Moxie is energy, determination, and courage. Menopause can bring a host of challenges but together we can meet menopause with moxie and face those challenges head on. Join other Hopkins employees to discuss experiences and share resources and support about menopause and the menopause transition. This group meets the first Wednesday of each month from 1 to 2 p.m. EST.
-This group is one of several recurring 
-Virtual Networking Groups <https://hr.jhu.edu/benefits-worklife/support-programs/networking-groups-2/>
- hosted by the 
-Office of Benefits & Worklife <https://hr.jhu.edu/benefits-worklife/>
-. These networking groups are opportunities for employees to connect with Hopkins peers who may be going through similar life experiences.
-Registration is required and intended only for Johns Hopkins employees. To protect everyone's privacy, please keep discussions confidential and refrain from recording or taking photos.
-
-### What Are Students Learning? A Practical Workshop on Assessment Review and Redesign (Online)
-Link: https://hub.jhu.edu/events/2026/11/04/what-are-students-learning-a-practical-workshop-on-assessment-review-and-redesign/
-Published: 
-When: November 4th 1:00pm - 2:00pm
-Olysha Magruder, assistant dean of teaching and learning design, and Amir Saeed, adjunct faculty in data science and artificial intelligence at the Whiting School of Engineering, Data Science, will present "What Are Students Learning? A Practical Workshop on Assessment Review and Redesign."
-This hands-on workshop helps faculty examine how their assessments support learning and provide evidence of what students know and can do in the age of artificial intelligence. Using a guided rubric, participants will analyze an engineering assessment, critique redesign recommendations from the Course AI Auditor, and apply the same process to an assessment from their own teaching. Participants will weigh learning value against workload, accessibility, and feasibility, leaving with a reusable framework and one justified decision about what to change or retain in their assessment.
-There will be an opportunity to attend this workshop in person on Nov. 3 and online on Nov. 4.
-
-### DMSE Fall 2026 Seminar Series | NIST and Material Measurement: Enabling Trustworthy, High-Value Tools for Science-Based Businesses in the Age of AI
-Link: https://hub.jhu.edu/events/2026/11/04/dmse-fall-2026-seminar-series-nist-and-material-measurement-enabling-trustworthy-high-value-tools-for-science-based-businesses-in-the-age-of-ai/
-Published: 
-When: November 4th 3:00pm - 4:00pm
-Where: Maryland Hall, Homewood Campus
-Kate Beers <https://www.nist.gov/people/kathryn-l-beers>
-, the director of the Material Measurement Laboratory (MML) at the National Institute of Standards and Technology (NIST), will discuss enabling trustworthy, high-value tools for science-based businesses in the age of artificial intelligence for the 
-Department of Materials Science & Engineering <https://engineering.jhu.edu/materials/>
-.
-As part of the U.S. National Metrology Institute, the NIST laboratories play a key role in advancing trust in measurement and technology in ways that enhance U.S. economic security and quality of life. For NIST's MML, impacts focus on measurement innovation, measurement services, and the convening power of an objective, nonregulatory agency dedicated to industrial translation in materials science, chemistry, and biology. Examples in this talk will illustrate these areas of impact and then dive deeper into work MML researchers are conducting to improve the quality of data and analytical tools at the interface of traditional scientific research and the new world of discovery enabled by AI and machine learning technologies. Examples will include orthogonal training datasets for improved interpretation of near-infrared spectroscopy, autonomous sampling of complex compositional spaces, and the next generation of reference materials and reference data products.
-Speaker bio
-Kathryn "Kate" Beers is the director of the MML at the NIST in the U.S. Department of Commerce. MML, one of NIST's six research laboratories, conducts measurement science research in the chemical, biological, and material sciences and contributes technical expertise to the development of standards through MML's Office of Reference Materials. MML also stewards a large portfolio of data products, including standard reference data, and world-class programs supporting food safety, forensic science, illicit drug detection, semiconductors, and emerging biotechnology, as well as many critical manufacturing sectors.
-Beers has served as a bench scientist and project leader, directed the Combinatorial Methods Center, and led staff and programs as Group Leader and Deputy Division Chief. In her most recent role, prior to becoming MML Director, she served as the Circular Economy Program Director. She has more than 100 publications spanning many areas of soft matter and polymer science.
-In addition, Beers has held influential roles externally such as assistant director for physical sciences and engineering at the White House Office of Science and Technology Policy, chair of the Polymer Chemistry Division of the American Chemical Society (ACS), and chair of the scientific advisory board of the ACS Green Chemistry Institute. She has served on many interagency working groups and on editorial and advisory boards. She has been recognized with numerous awards, including the Arthur S. Flemming Award for Public Service, the Presidential Early Career Award for Scientists and Engineers, the Department of Commerce Silver Medal, and the Mark Scholar Award from the ACS Division of Polymer Chemistry. She is an ACS Fellow. Beers earned a Master of Science in polymer science and a doctorate in chemistry from Carnegie Mellon University and a Bachelor of Science in chemistry with high honors from The College of William and Mary.
-
-### RISE@APL
-Link: https://hub.jhu.edu/events/2026/11/04/riseapl/
-Published: 
-When: November 4th 4:30pm - 6:00pm
-Where: Glass Pavilion, Homewood Campus
-Since 2014, the Whiting School of Engineering and Johns Hopkins Applied Physics Laboratory (APL) have hosted the 
-RISE@APL (Research Internships in Science and Engineering) <https://engineering.jhu.edu/research/spur-apl/rise-apl/>
-, a cohort of the Pathways College Internship Program, which welcomes highly qualified undergraduate and graduate students an opportunity to work side by side with APL researchers as paid scholars on APL-sponsored projects.
-Interns have conducted research in areas ranging from ballistic missile systems and computer vision to prosthetics and secure mobile communications.
-Come hear RISE@APL scholars share their internship experiences and innovative projects and APL recruiters providing details about the application process. Following the information session, there will be an opportunity to network with current students, APL mentors, and Johns Hopkins engineering alumni during a reception.
-Pizza will be provided during the reception.
-
-### 'Beyond the Wire' screening and panel discussion
-Link: https://hub.jhu.edu/events/2026/11/04/beyond-the-wire-screening-and-panel-discussion/
-Published: 
-When: November 4th 5:00pm - 8:00pm
-Where: Bloomberg Student Center, Homewood Campus
-Join us for a screening and panel discussion of 
-Beyond the Wire
-, a powerful counter-narrative documentary that challenges the long-standing media distortion of Baltimore City—particularly the reductive, harmful image popularized by 
-The Wire
-.
-Rather than accept depictions of the city as a hub of violence, drugs, and despair, this film uplifts the truths that mainstream narratives ignore: Baltimore's enduring legacy of resistance, cultural vibrancy, and neighborhood-based resilience.
-The screening will be followed by a panel discussion with the filmmaker and Baltimore community advocates.
-5-6 p.m., Hors d'oeuvres and refreshments served.
-6-7:30 p.m., film screening
-7:30-8:30 p.m., panel discussion
-Special thanks to the office of the Dean at Krieger School of Arts and Sciences. This event is co-sponsored by the Center for Social Concern and the School of Education.
-Registration is encouraged, but not required using this link <https://www.eventbrite.com/e/beyond-the-wire-screening-and-panel-discussion-tickets-2003520094536>
-.
-For questions or more information, please contact Lindi Shepard at 
-Lshepar6@jh.edu
-.
-
-### Computer Music Department Recital
-Link: https://hub.jhu.edu/events/2026/11/04/peabody-fall-2026-computer-music-department-recital/
-Published: 
-When: November 4th 6:00pm - 8:00pm
-Where: Cohen-Davison Family Theatre, Peabody Institute
-
-### Volleyball: Gettysburg at Johns Hopkins
-Link: https://hub.jhu.edu/events/2026/11/04/fall-sports-2026-volleyball-gettysburg-at-johns-hopkins/
-Published: 
-When: November 4th 7:00pm - 9:00pm
-Where: White Athletic Center, Homewood Campus
-The Blue Jays host Gettysburg College in a Centennial Conference game.
-
 ### Volunteer Opportunity: Building a New Play Space at Adams Park
-Link: https://hub.jhu.edu/events/2026/11/05/help-build-a-new-playspace-at-adams-park/
+Link: https://hub.jhu.edu/events/2026/11/06/help-build-a-new-playspace-at-adams-park/
 Published: 
-When: November 5th 9:00am - 4:00pm
+When: November 6th 9:00am - 4:00pm
 Join approximately 50 volunteers from the Baltimore City Recreation and Parks, Parks & People, Coldstream, Holmstead Montebello Community Corp., Green & Healthy Homes Initiative, Johns Hopkins University & Medicine, and KABOOM.
 Work is available for volunteers of all levels of skill and ability. Some of the tasks include mulch surfacing, mixing concrete, and assembling components. Side projects like painting and planting are for kids and anyone who can't be on the build footprint.
 You will have the chance to pick one, two, or three days. Please note that you are not required to stay the whole day; you can leave when you need to. The Johns Hopkins team would love to have a nice crew on Saturday, Nov. 7, to be present at the ribbon-cutting ceremony, which will take place at 2:30 p.m.
@@ -218,12 +73,143 @@ The use or carry of firearms is prohibited
 with the exception of certified, active officers
 .
 
-### The Hopkins Village: Networking Group for Expecting and New Parents
-Link: https://hub.jhu.edu/events/2026/11/05/the-hopkins-village-networking-group-for-new-parents-going-back-to-work-2026/
+### First Friday FA1 Faculty Fika
+Link: https://hub.jhu.edu/events/2026/11/06/first-friday-fa1-faculty-fika-0/
 Published: 
-When: November 5th 12:00pm - 1:00pm
-Whether you're welcoming your first child or adding to your growing family, the Hopkins Village is here to support you. This group supports expectant and new parents through every stage of family leave. Open to birth, non-birth, and adoptive parents, it offers
-resources, peer connection, and encouragement while preparing for leave, during leave, and throughout the return-to-work transition. This group is open to any parent transitioning back to work after welcoming a new addition to their family. The group meets the first Thursday of each month from noon to 1 p.m.
+When: November 6th 10:30am - 12:00pm
+Where: Homewood Campus
+Come and get coffee and snacks and relax with the University Writing Program. This is meant to be a free form space/time where faculty can chat about teaching, discuss writing assignments, or ask questions about FA1 resources. Or maybe just grab some coffee and snacks. Hosted by the University Writing Program's Writing in the Majors (WiM) Committee.
+
+### Protecting Human Subject Data Privacy Part II: De-identification Techniques
+Link: https://hub.jhu.edu/events/2026/11/06/protecting-human-subject-data-privacy-part-ii-de-identification-techniques/
+Published: 
+When: November 6th 12:00pm - 1:30pm
+Prerequisite: Protecting Human Subject Data Privacy: An Introduction or reviewing our online resources 
+This class builds upon the introductory session on privacy protection for shared data as a next step toward applying techniques for de-identifying several types of personal and health identifiers. Join 
+Johns Hopkins Data Services <https://dataservices.library.jhu.edu/>
+ to work through case examples and anonymization methods at an "intermediate" level suitable for preparing data for external collaborations and restricted access research databases. Presenters also discuss the more common advanced statistical techniques for anonymization and risk assessment and their use cases as well as current software options.
+Note: If you attended Data Services' de-identification webinar in prior years, reviewing the 
+online module and guide <https://dataservices.library.jhu.edu/resources/#deidentify>
+ or webinar recording can prepare you for this session.
+
+### Aronson Center Fall Speaker Series | The Archive and the Prison: What Prison Witness Can Teach Us About Democracy
+Link: https://hub.jhu.edu/events/2026/11/06/the-archive-and-the-prison-what-prison-witness-can-teach-us-about-democracy/
+Published: 
+When: November 6th 12:15pm - 1:15pm
+Where: Mergenthaler Hall, Homewood Campus
+Vesla Weaver <https://politicalscience.jhu.edu/directory/vesla-weaver/>
+, Bloomberg Distinguished Professor of political science and sociology at Johns Hopkins, will give a talk titled "The Archive and the Prison: What Prison Witness Can Teach Us About Democracy," the final seminar of the 
+Aronson Center Fall Speaker Series <https://krieger.jhu.edu/internationalstudies/aronson-center/aronson-center-conference/>
+ hosted by the Program in International Studies. The theme of the series is "Midterms in Focus: Global and Domestic Perspectives."
+
+### Friday Noon:30 Recital Series: Woodwinds
+Link: https://hub.jhu.edu/events/2026/11/06/peabody-fall-2026-friday-noon30-recital-series-woodwinds/
+Published: 
+When: November 6th 12:30pm - 1:30pm
+Where: Leith Symington Griswold Hall, Peabody Institute
+
+### Volunteer Opportunity: Building a New Play Space at Adams Park
+Link: https://hub.jhu.edu/events/2026/11/07/help-build-a-new-playspace-at-adams-park/
+Published: 
+When: November 7th 8:00am - 3:00pm
+Join approximately 50 volunteers from the Baltimore City Recreation and Parks, Parks & People, Coldstream, Holmstead Montebello Community Corp., Green & Healthy Homes Initiative, Johns Hopkins University & Medicine, and KABOOM.
+Work is available for volunteers of all levels of skill and ability. Some of the tasks include mulch surfacing, mixing concrete, and assembling components. Side projects like painting and planting are for kids and anyone who can't be on the build footprint.
+You will have the chance to pick one, two, or three days. Please note that you are not required to stay the whole day; you can leave when you need to. The Johns Hopkins team would love to have a nice crew on Saturday, Nov. 7, to be present at the ribbon-cutting ceremony, which will take place at 2:30 p.m.
+Schedule
+Prep Day 1: Nov. 5 (20 volunteers are needed)
+9 a.m.—Volunteers arrive and check in
+4 p.m.—All prep work completed (approximate time)
+Prep Day 2: Nov. 6 (10 volunteers should be on stand-by in case they are needed)
+9 a.m.—Volunteers arrive and check in
+TBD—All prep work completed
+Build Day: Nov. 7 (50 volunteers are needed)
+6:30 a.m.—Team leaders arrive
+8 a.m.—Volunteers arrive and check in
+8:30 a.m.—Kick-off ceremony
+2:30 p.m.—Ribbon-cutting ceremony
+What's provided
+Breakfast, lunch, and water will be provided. Gloves and other safety materials will be provided for the projects that require them.
+What to wear
+The playground build will happen rain or shine. Please come dressed for the weather. Closed-toe shoes are required; sneakers or work boots that you don't mind getting dirty are advisable. Please leave valuables at home as secure storage is not available on-site.
+Build site rules
+All participants must comply with the following practices. These rules have been established and agreed upon to ensure the safety, comfort, and respect for all involved. Failure to comply will result in immediate dismissal from the project.
+Work together, treat everyone with respect, and use family-friendly, inclusive language.
+Report any unsafe or inappropriate behavior to on-site staff.
+Please comply with all requests from on-site staff.
+Follow all safety guidelines.
+Only pre-approved power tools are permitted.
+Closed-toe shoes are required.
+Youth may not participate in areas of active construction.
+No smoking, alcohol, or drugs.
+The use or carry of firearms is prohibited 
+with the exception of certified, active officers
+.
+
+### Archive Fever &amp; AI: Found Text and Creative Practice in the Age of Generative AI
+Link: https://hub.jhu.edu/events/2026/11/07/archive-fever-ai-found-text-and-creative-practice-in-the-age-of-generative-ai/
+Published: 
+When: November 7th 9:30am - 5:30pm
+Where: Stavros Niarchos Foundation Parkway Theater, Station North
+Archive Fever & AI: Found Text and Creative Practice in the Age of Generative AI is a one-day convening. Named for Jacques Derrida's 
+Archive Fever
+, it brings together archival scientists, computational researchers, poets, and artists to ask what generative artificial intelligence means for archives, memory, and the making of knowledge.
+Eight guests join two moderated sessions, "The Archive Under Pressure" and "Found Text as Method," followed by a sound performance by Victoria Keddie.
+This event is presented by 
+Film and Media Studies at Johns Hopkins <https://krieger.jhu.edu/film-media/>
+, supported by the 
+Johns Hopkins Sesquicentennial Envisioning the Future Award <https://150.jhu.edu/join-the-celebration/awards-program/>
+.
+Schedule
+9:45 a.m. to 12:15 p.m.: The Archive Under Pressure
+: Moderated by Kyle Stine, Film and Media Studies, Johns Hopkins University
+Maria Antoniak, Computer Science, University of Colorado Boulder
+Tom Lippincott, Computer Science and English, Johns Hopkins University
+Richard Marciano, College of Information, University of Maryland
+George Oates, Deep Keep
+1:45 to 4:15 p.m.: Found Text as Method
+: Moderated by Liz Flyntz, Film and Media Studies, Johns Hopkins University
+Lillian-Yvonne Bertram, English, University of Maryland
+Victoria Keddie, University of Pennsylvania; Spatial Sound Union
+Eryk Salvaggio, Gates Scholar, Digital Humanities, University of Cambridge
+Mark Shepard, Architecture; AI and Society, University at Buffalo
+4:30 to 5:30 p.m.: Sound performance by Victoria Keddie
+
+### Football: Johns Hopkins at McDaniel College
+Link: https://hub.jhu.edu/events/2026/11/07/fall-sports-2026-football-johns-hopkins-at-mcdaniel-college/
+Published: 
+When: November 7th 12:00pm - 2:00pm
+The Blue Jays visit McDaniel College for a Centennial Conference game.
+
+### Young Artists Orchestra/Peabody Youth Orchestra Fall Concert
+Link: https://hub.jhu.edu/events/2026/11/07/peabody-fall-2026-young-artists-orchestrapeabody-youth-orchestra-fall-concert/
+Published: 
+When: November 7th 7:00pm - 9:00pm
+Where: Miriam A. Friedberg Concert Hall, Peabody Institute
+
+### Vocal Ensembles with Scott Metcalfe, guest artist: Music of Music of Guillaume de Machaut
+Link: https://hub.jhu.edu/events/2026/11/07/peabody-fall-2026-vocal-ensembles-with-scott-metcalfe-guest-artist-music-of-music-of-guillaume-de-machaut/
+Published: 
+When: November 7th 7:30pm - 9:30pm
+Peabody vocal ensembles, under the direction of Director of Choral Studies Beth Willer and featuring Blue Heron artistic director Scott Metcalfe as guest artist, perform the music of medieval composer Guillaume de Machaut at Grace and St. Peters Church in midtown Baltimore.
+
+### Music at Evergreen: Viano Quartet
+Link: https://hub.jhu.edu/events/2026/11/08/music-at-evergreen-viano-quartet/
+Published: 
+When: November 8th 2:00pm - 4:00pm
+Where: Evergreen Museum & Library, Homewood Campus
+Praised for their "virtuosity, visceral expression, and rare unity of intention" (
+Boston Globe
+), the 
+Viano Quartet <https://vianoquartet.com/>
+ has earned international recognition as one of the most compelling string quartets of its generation. Winners of the 2025 Avery Fisher Career Grant, the ensemble continues to captivate audiences with performances that combine technical brilliance and expressive depth.
+The performance will be followed by a meet-and-greet reception with the artists.
+
+### Caring for Children with Disabilities Networking Group
+Link: https://hub.jhu.edu/events/2026/11/09/caring-for-children-with-disabilities-networking-group-2026/
+Published: 
+When: November 9th 12:00pm - 1:00pm
+If you care for a child with disabilities, finding support and integrating your own personal care and everyday needs into your routine can be challenging. This group is an opportunity to connect and share resources with Hopkins peers who may be facing similar challenges in caring for a child with disabilities.
+The group meets quarterly from noon to 1 p.m. EST on the second Monday of the month.
 This group is one of several recurring 
 Virtual Networking Groups <https://hr.jhu.edu/benefits-worklife/support-programs/networking-groups-2/>
  hosted by the 
@@ -231,45 +217,67 @@ Office of Benefits & Worklife <https://hr.jhu.edu/benefits-worklife/>
 . These networking groups are opportunities for employees to connect with Hopkins peers who may be going through similar life experiences.
 Registration is required and intended only for Johns Hopkins employees. To protect everyone's privacy, please keep discussions confidential and refrain from recording or taking photos.
 
-### Protecting Human Subject Data Privacy: An Introduction
-Link: https://hub.jhu.edu/events/2026/11/05/protecting-human-subject-data-privacy-an-introduction/
+### Community, Connection and Support for Families of Children With Disabilities
+Link: https://hub.jhu.edu/events/2026/11/09/community-connection-and-support-for-families-of-children-with-disabilities/
 Published: 
-When: November 5th 12:00pm - 1:00pm
-Protecting research participant and patients' privacy is challenging not just for security but also when anonymizing data for external collaborators, publications, and research databases. Join 
-Johns Hopkins Data Services <https://dataservices.library.jhu.edu/>
- for an overview of common privacy disclosure risks from personal and health identifiers in data. Presenters discuss how to comply with institutional review board and HIPAA guidance for data security within the research team and introduce techniques for de-identifying data for external collaborators and public databases. You may preview session topics in the 
-online module and guide <https://dataservices.library.jhu.edu/resources/#deidentify>
-.
-Note: This class is preparation for Part II: De-identification Techniques. This class will be recorded.
+When: November 9th 12:00pm - 1:00pm
+Join the Caregiving for Children with Disabilities Networking Group for a special guest speaker.
+Welcome David Greenberg, President & CEO of 
+The League for People with Disabilities <https://leagueforpeople.org/>
+. With nearly two decades leading The League and a lifelong commitment to disability services, David brings a wealth of knowledge, practical insight, and inspiration for families raising children with disabilities. David will share more about The League's century-long mission of
+empowering children and adults with disabilities through recreation, education, advocacy, and community programs while engaging in a meaningful conversation about resources, opportunities, and the future of disability support.
 
-### Faculty Voice, Learner Success: Humanizing Quality in Course Design
-Link: https://hub.jhu.edu/events/2026/11/05/faculty-voice-learner-success-humanizing-quality-in-course-design/
+### Translational Research and Commercial Collaboration
+Link: https://hub.jhu.edu/events/2026/11/09/translational-research-and-commercial-collaboration/
 Published: 
-When: November 5th 12:00pm - 1:00pm
-Join Madalina Tincu, senior instructional designer with the 
-Johns Hopkins Advanced Academic Programs Instructional Research Center <https://irc.jhu.edu/index.html>
-, to explore how human-centered learning objectives can make student thinking visible, support meaningful engagement with artificial intelligence, and lay the foundation for authentic assessment.
-As AI reshapes how students access, generate, and apply information, faculty are increasingly asking: What should students know, do, and become in an AI-enabled world? This interactive micro-workshop explores how to humanize Bloom's Taxonomy by moving beyond traditional cognitive verbs and redesigning learning objectives that cultivate critical thinking, ethical reasoning, creativity, reflection, and authentic application.
-Through guided discussion and hands-on redesign of activities, participants will leave with practical strategies for creating rigorous learning experiences that emphasize process, judgment, and real-world application in an increasingly AI-rich educational landscape.
+When: November 9th 12:00pm - 1:30pm
+Hear from School of Medicine colleagues who have collaborated with the private sector to build commercial applications based on their research and clinical innovations. This moderated panel features three faculty members sharing how translational pathways have shaped their careers and expanded their impact. Learn about support and resources offered through JHTV.
+Moderator:
+Sashank Reddy, Associate Professor, Plastic & Reconstruction
+Panelist
+Mary Austin, Assistant Professor of Physical Therapy and Rehabilitation 
+Greg Newby, Assistant Professor of Genetic Medicine
+Mandeep Singh, Associate Professor of Ophthalmology & Genetic Medicine
 
-### Idea to Industry: From First Deposit to Growth: Banking 101 for Startups
-Link: https://hub.jhu.edu/events/2026/11/05/idea-to-industry-from-first-deposit-to-growth-banking-101-for-startups/
+### Webinar | ChatGPT, We Need to Talk: AI &amp; Your Money
+Link: https://hub.jhu.edu/events/2026/11/09/chatgpt-we-need-to-talk-ai-your-money-webinar/
 Published: 
-When: November 5th 12:00pm - 1:00pm
-Choosing a bank is one of a founder's earliest financial decisions, and one of the most overlooked. In this session, 
-Sara Dauber, Vice President of Startup Banking at JPMorgan <https://www.linkedin.com/in/saradauber/>
-, brings a banker's perspective to the fundamentals every founder should know.
-Why a startup-savvy banker matters, and how to choose the right bank
-Key banking terms, startup finance basics, and liquidity options
-Payment tools, from credit, debit, and virtual cards to ACH and wire transfers
-How your banking needs change as your company grows
-Whether you are a researcher preparing to launch a company or a founder managing your first business account, you'll leave with practical steps for building banking practices that grow with your company.
+When: November 9th 5:00pm - 6:00pm
+Artificial intelligence might be able to write your email. But should it write your financial plan?
+In "ChatGPT, We Need to Talk: AI & Your Money," part of 
+Student Financial Support <https://sfs.jhu.edu/>
+'s Financial Wellness webinar series, discover how AI can help you budget, plan, and make more informed financial decisions—while learning where to draw the line between helpful technology and advice you definitely shouldn't take at face value. The Financial Wellness Webinar Series is hosted by personal finance expert Shahar Ziv.
+This webinar will cover:
+How AI can help with budgeting, saving, and everyday financial decisions
+Using AI to set financial goals and create personalized money strategies
+What AI can—and can't—tell you about investing and other financial topics
+How to spot inaccurate, biased, or misleading financial information generated by AI
+Privacy and security: what you should never share with an AI tool
+Tips for using AI as a financial resource without letting it make the decisions for you
+Three students who attend the session will win a budget planner and Sony wireless on-ear headphones. Students who attend 
+at least six financial wellness webinars during the year <https://sfs.jhu.edu/events/>
+ will be entered to win an iPad.
 
-### Cell Biology Speaker Seminar Series | Nuclear Deformation Activates the Nucleolus: A Structure-Function Link Between Two Hallmarks of Aging
-Link: https://hub.jhu.edu/events/2026/11/05/cell-biology-speaker-seminar-series/
+### Johns Hopkins&#8211;India Community Mixer
+Link: https://hub.jhu.edu/events/2026/11/09/jhu-india-community-mixer/
 Published: 
-When: November 5th 12:00pm - 1:00pm
-Where: 1830 Building, East Baltimore Campus
-[Xiaoyu Shi](https://www.faculty.uci.edu/profile/?facultyId=70230, an associate professor in the departments of Developmental and Cell Biology, of Chemistry, and of Biomedical Engineering at the University of California, Irvine, will deliver a talk titled "Nuclear Deformation Activates the Nucleolus: A Structure-Function Link Between Two Hallmarks of Aging," hosted by the 
-Cell Biology Department <https://cellbio.jhmi.edu/>
-.
+When: November 9th 5:00pm - 8:30pm
+Where: Bloomberg Student Center, Homewood Campus
+The 
+Gupta-Klinsky India Institute <https://indiainstitute.jhu.edu/>
+, in partnership with the 
+Carey Indian Student Association <https://jhu.campusgroups.com/careyisa/home/>
+, will host the annual Johns Hopkins–India community mixer. The event will bring together Johns Hopkins students, faculty, staff, and alumni for an evening of networking, food, music, and cultural exchange celebrating Diwali and the connections between India and the Johns Hopkins community.
+
+### HopStart 2027 Competitor Info Session
+Link: https://hub.jhu.edu/events/2026/11/09/hopstart-2027-competitor-info-session/
+Published: 
+When: November 9th 6:00pm - 7:00pm
+Where: Pava Center
+Have an idea for a startup? 
+HopStart <https://engineering.jhu.edu/cle/hopstart/>
+ provides an opportunity for Johns Hopkins students to receive mentorship while developing their business plan and to pitch their concept to industry leaders for the chance to win up to $5,000 in prizes.
+At this info session, you can:
+meet the HopStart team
+learn more about the competition, including workshops, the mentorship program, important deadlines, and eligibility requirements
+enjoy pizza from Ribaldi's

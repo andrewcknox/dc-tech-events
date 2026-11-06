@@ -1,0 +1,124 @@
+# NIST events
+# https://www.nist.gov/news-events/events/rss.xml
+# fetched 2026-11-06T08:01:15.266581-05:00
+# tags: government
+
+### NIST Small Business Cybersecurity Community of Interest Call
+Link: https://www.nist.gov/news-events/events/2026/11/nist-small-business-cybersecurity-community-interest-call
+Published: Tue, 10 Nov 2026 14:00:00 -0500
+NIST's Small Business Cybersecurity Community of Interest (COI) has been established to convene the public and private sectors to share business insights, expertise, challenges, and perspectives to guide our work and assist NIST in addressing the
+
+### TREC 2026
+Link: https://www.nist.gov/news-events/events/2026/11/trec-2026
+Published: Mon, 16 Nov 2026 00:00:00 -0500
+TREC is an annual evaluation workshop series hosted by the National Institute of Standards and Technology (NIST). The workshop's goal is to encourage research in information retrieval by providing large test collections, uniform scoring procedures
+
+### NICE Webinar - Breaking into Cyber: Gateway Roles and the Skills that Matter
+Link: https://www.nist.gov/news-events/events/2026/12/nice-webinar-breaking-cyber-gateway-roles-and-skills-matter
+Published: Wed, 02 Dec 2026 14:00:00 -0500
+Speakers: Patrick Edwards Data Analyst Opportunity@Work Danielle Santos NICE Deputy Director and Lead for International Engagement NIST Additional speakers to be announced. Synopsis: Upward mobility and economic opportunity are built on accessible
+
+### NIST OWM Volume Metrology Seminar (Class 2065 December 2026)
+Link: https://www.nist.gov/news-events/events/2026/12/nist-owm-volume-metrology-seminar-class-2065-december-2026
+Published: Mon, 07 Dec 2026 00:00:00 -0500
+This 5-day NIST Office of Weights and Measures (OWM) Volume Metrology seminar enables metrologists to apply fundamental measurement concepts and hands-on laboratory procedures to volume calibrations. A large percentage of time is spent on hands-on
+
+### Second Semiconductor Traceability and Provenance Workshop
+Link: https://www.nist.gov/news-events/events/2026/12/second-semiconductor-traceability-and-provenance-workshop
+Published: Tue, 08 Dec 2026 08:30:00 -0500
+Semiconductor supply chains span a complex network of design, fabrication, assembly and test, packaging, distribution, integration, and deployment. Establishing confidence in the origin, identity, history, and movement of semiconductor products
+
+### NIST Postmortem Toxicology Testing and Death Reporting (Certificates) Workshop #2
+Link: https://www.nist.gov/news-events/events/2026/12/nist-postmortem-toxicology-testing-and-death-reporting-certificates
+Published: Thu, 10 Dec 2026 00:00:00 -0500
+The National Institute of Standards and Technology ( NIST), in support of the 2026 National Drug Control Strategy published by Office of National Drug Control Policy on May 4, 2026, is hosting a second in-person workshop to address the challenges of
+
+### NIST OWM Fundamentals of Metrology Seminar (January 2027)
+Link: https://www.nist.gov/news-events/events/2027/01/nist-owm-fundamentals-metrology-seminar-january-2027
+Published: Mon, 25 Jan 2027 00:00:00 -0500
+The NIST Office of Weights and Measures (OWM) Fundamentals of Metrology seminar is an intensive course that introduces participants to measurement systems, units, good laboratory practices, data integrity, measurement uncertainty, and Quality
+
+### Super Intelligence in the Fire Service
+Link: https://www.nist.gov/news-events/events/2027/01/super-intelligence-fire-service
+Published: Tue, 26 Jan 2027 00:00:00 -0500
+An interactive workshop discussing the use of super intelligence in the fire service will be hosted, on-site, at the National Institute of Standards and Technology (NIST) in Gaithersburg, MD. The focus of the workshop is on Problems super
+
+### FISSEA Winter Forum: February 9, 2027
+Link: https://www.nist.gov/news-events/events/2027/02/fissea-winter-forum-february-9-2027
+Published: Tue, 09 Feb 2027 13:00:00 -0500
+FISSEA Forums are designed to provide opportunities for the exchange of best practices and discussion and engagement among members of the Federal Information Security Educators (FISSEA) community. Submit a proposal to speak at the Winter Forum. Learn
+
+### NIST Small Business Cybersecurity Community of Interest Call
+Link: https://www.nist.gov/news-events/events/2027/02/nist-small-business-cybersecurity-community-interest-call-0
+Published: Wed, 10 Feb 2027 14:00:00 -0500
+NIST's Small Business Cybersecurity Community of Interest (COI) has been established to convene the public and private sectors to share business insights, expertise, challenges, and perspectives to guide our work and assist NIST in addressing the
+
+### NIST OWM Conducting an Effective Management Review Webinar (February 2027)
+Link: https://www.nist.gov/news-events/events/2027/02/nist-owm-conducting-effective-management-review-webinar-february-2027
+Published: Thu, 18 Feb 2027 14:00:00 -0500
+This 2-hour webinar from the NIST Office of Weights and Measures (OWM) introduces the Laboratory Management Review process as an essential tool to align top management with laboratory operations and foster quality calibration practices. Class
+
+### 6th NIST Quantum Matters in Material Sciences (QMMS) Workshop
+Link: https://www.nist.gov/news-events/events/2027/02/6th-nist-quantum-matters-material-sciences-qmms-workshop
+Published: Wed, 24 Feb 2027 00:00:00 -0500
+The 6th Quantum Matters in Materials Science (QMMS) workshop organized by the National Institute of Standards and Technology (NIST) will be held as an in-person only event at the NIST Gaithersburg campus, Maryland on February 24-25, 2027. The
+
+### NIST OWM Calibration Certificate Evaluation Webinar (April 2027)
+Link: https://www.nist.gov/news-events/events/2027/04/nist-owm-calibration-certificate-evaluation-webinar-april-2027
+Published: Thu, 01 Apr 2027 14:00:00 -0400
+This 2-hour webinar from the NIST Office of Weights and Measures (OWM) introduces concepts necessary to successfully implement ISO/IEC 17025:2017 compliant calibration certificates within the laboratory and evaluate service provider certificates
+
+### NIST OWM Fundamentals of Metrology Seminar (April 2027)
+Link: https://www.nist.gov/news-events/events/2027/04/nist-owm-fundamentals-metrology-seminar-april-2027
+Published: Mon, 05 Apr 2027 00:00:00 -0400
+The NIST Office of Weights and Measures (OWM) Fundamentals of Metrology seminar is an intensive course that introduces participants to measurement systems, units, good laboratory practices, data integrity, measurement uncertainty, and Quality
+
+### NIST OWM Software Verification and Validation Part I &amp; II Webinar (April 2027)
+Link: https://www.nist.gov/news-events/events/2027/04/nist-owm-software-verification-and-validation-part-i-ii-webinar-april
+Published: Thu, 22 Apr 2027 00:00:00 -0400
+Session I (April 22, 2027) and Session II (May 13, 2027) These two 2-hour sessions on Software Verification and Validation, hosted by the NIST Office of Weights and Measures (OWM), focus on using Microsoft Excel in calibration laboratories and
+
+### NIST OWM Mass Metrology Seminar (May 2027)
+Link: https://www.nist.gov/news-events/events/2027/05/nist-owm-mass-metrology-seminar-may-2027
+Published: Mon, 17 May 2027 00:00:00 -0400
+The NIST Office of Weights and Measures (OWM) Mass Metrology seminar is a two-week, "hands-on" course. It incorporates approximately 30 percent lectures and 70 percent demonstrations and laboratory work in which the participant performs measurements
+
+### NIST Small Business Cybersecurity Community of Interest Call
+Link: https://www.nist.gov/news-events/events/2027/06/nist-small-business-cybersecurity-community-interest-call
+Published: Thu, 10 Jun 2027 14:00:00 -0400
+NIST's Small Business Cybersecurity Community of Interest (COI) has been established to convene the public and private sectors to share business insights, expertise, challenges, and perspectives to guide our work and assist NIST in addressing the
+
+### NIST OWM Internal Auditing Best Practices Webinar (June 2027)
+Link: https://www.nist.gov/news-events/events/2027/06/nist-owm-internal-auditing-best-practices-webinar-june-2027
+Published: Thu, 17 Jun 2027 14:00:00 -0400
+This NIST Office of Weights and Measures (OWM) 2-hour webinar will consider internal auditing techniques and best practices that are used by a metrology laboratory to comply with ISO/IEC 17025:2017 criteria. Class Information Pre-Event
+
+### NIST OWM State Laboratory Annual Submission Process Webinar (July 2027)
+Link: https://www.nist.gov/news-events/events/2027/07/nist-owm-state-laboratory-annual-submission-process-webinar-july-2027
+Published: Thu, 08 Jul 2027 14:00:00 -0400
+The NIST Office of Weights and Measures (OWM) State Laboratory Annual Submission Process webinar provides guidance on how to successfully submit all required materials to develop a complete and timely Recognition Application according to NIST
+
+### NIST Small Business Cybersecurity Community of Interest Call
+Link: https://www.nist.gov/news-events/events/2027/08/nist-small-business-cybersecurity-community-interest-call
+Published: Tue, 10 Aug 2027 14:00:00 -0400
+NIST's Small Business Cybersecurity Community of Interest (COI) has been established to convene the public and private sectors to share business insights, expertise, challenges, and perspectives to guide our work and assist NIST in addressing the
+
+### NIST OWM Fundamentals of Metrology Seminar (September 2027)
+Link: https://www.nist.gov/news-events/events/2027/09/nist-owm-fundamentals-metrology-seminar-september-2027
+Published: Mon, 13 Sep 2027 00:00:00 -0400
+The NIST Office of Weights and Measures (OWM) Fundamentals of Metrology seminar is an intensive course that introduces participants to measurement systems, units, good laboratory practices, data integrity, measurement uncertainty, and Quality
+
+### NIST OWM Volume Metrology Seminar (September 2027)
+Link: https://www.nist.gov/news-events/events/2027/09/nist-owm-volume-metrology-seminar-september-2027
+Published: Mon, 20 Sep 2027 00:00:00 -0400
+This 5-day NIST Office of Weights and Measures (OWM) Volume Metrology seminar enables metrologists to apply fundamental measurement concepts and hands-on laboratory procedures to volume calibrations. A large percentage of time is spent on hands-on
+
+### NIST OWM Mass Metrology Seminar (October 2027)
+Link: https://www.nist.gov/news-events/events/2027/10/nist-owm-mass-metrology-seminar-october-2027
+Published: Mon, 25 Oct 2027 00:00:00 -0400
+The NIST Office of Weights and Measures (OWM) Mass Metrology seminar is a two-week, "hands-on" course. It incorporates approximately 30 percent lectures and 70 percent demonstrations and laboratory work in which the participant performs measurements
+
+### 19th Annual NICE Conference and Expo
+Link: https://www.nist.gov/news-events/events/19th-annual-nice-conference-and-expo
+Published: Mon, 05 Jun 2028 00:00:00 -0400
+The NICE Conference and Expo will take place June 5-7, 2028. Location to be announced. This event is supported by the National Initiative for Cybersecurity Education (NICE), a program of the National Institute of Standards and Technology in the U.S

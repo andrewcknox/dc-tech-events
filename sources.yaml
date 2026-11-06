@@ -43,6 +43,13 @@ sources:
     tags: [jhu, university]
     enabled: true
 
+  - name: JHU Data Science and AI Institute
+    url: https://ai.jhu.edu/events/
+    type: html
+    js: false
+    tags: [jhu, university]
+    enabled: true
+
   # ---------- Think tanks ----------
   - name: CSIS
     url: https://www.csis.org/events
@@ -149,6 +156,163 @@ sources:
     tags: [think-tank]
     enabled: true
 
+  # --- added 2026-11-05 (probed OK with our own user-agent; see TRAWL.md) ---
+  - name: AEI
+    url: https://www.aei.org/events/
+    type: html
+    js: false
+    tags: [think-tank]
+    enabled: true
+
+  - name: Foundation for American Innovation
+    url: https://www.thefai.org/events-feed.xml   # events-only RSS; item text carries the event date
+    type: rss
+    js: false
+    tags: [think-tank]
+    enabled: true
+
+  - name: New America
+    url: https://www.newamerica.org/events/
+    type: html
+    js: false
+    tags: [think-tank]
+    enabled: true
+
+  - name: Center for American Progress
+    url: https://www.americanprogress.org/events/
+    type: html
+    js: false
+    tags: [think-tank]
+    enabled: true
+
+  - name: Hoover Institution
+    url: https://www.hoover.org/events
+    type: html
+    js: false
+    tags: [think-tank]
+    enabled: true
+
+  - name: Niskanen Center
+    url: https://www.niskanencenter.org/events/
+    type: html
+    js: false
+    tags: [think-tank]
+    enabled: true
+
+  - name: German Marshall Fund
+    url: https://www.gmfus.org/events
+    type: html
+    js: false
+    tags: [think-tank]
+    enabled: true
+
+  - name: Council on Foreign Relations
+    url: https://www.cfr.org/events
+    type: html
+    js: false
+    tags: [think-tank]   # many NYC events; extraction should keep DC/virtual only
+    enabled: true
+
+  - name: Aspen Digital
+    url: https://www.aspendigital.org/events/
+    type: html
+    js: false
+    tags: [think-tank]
+    enabled: true
+
+  - name: Third Way
+    url: https://www.thirdway.org/events
+    type: html
+    js: false
+    tags: [think-tank]
+    enabled: true
+
+  - name: Bipartisan Policy Center
+    url: https://bipartisanpolicy.org/events/
+    type: html
+    js: false
+    tags: [think-tank]
+    enabled: true
+
+  - name: American Security Project
+    url: https://www.americansecurityproject.org/events/
+    type: html
+    js: false
+    tags: [think-tank]
+    enabled: true
+
+  - name: CEPA
+    url: https://cepa.org/events/
+    type: html
+    js: true
+    tags: [think-tank]
+    enabled: false   # serves a "confirm you are human" check; checked by hand (TRAWL.md tier 2)
+
+  - name: Korea Economic Institute
+    url: https://keia.org/events/
+    type: html
+    js: true
+    tags: [think-tank]
+    enabled: true
+
+  - name: Sasakawa Peace Foundation USA
+    url: https://spfusa.org/events/
+    type: html
+    js: false
+    tags: [think-tank]
+    enabled: true
+
+  # ---------- Civil society / science bodies (added 2026-11-05) ----------
+  - name: EPIC
+    url: https://epic.org/events/feed/
+    type: rss
+    js: false
+    tags: [civil-society]
+    enabled: true
+
+  - name: Future of Privacy Forum
+    url: https://fpf.org/fpf-events/
+    type: html
+    js: false
+    tags: [civil-society]
+    enabled: true
+
+  - name: National Academies
+    url: https://www.nationalacademies.org/events
+    type: html
+    js: false   # returned 429 once under rapid probing; fine at one hit per run
+    tags: [government, science]
+    enabled: true
+
+  - name: The Alliance for Secure AI
+    url: https://secureainow.org/events/
+    type: html
+    js: false
+    tags: [civil-society]
+    enabled: true
+
+  # ---------- Government / Hill (added 2026-11-05) ----------
+  - name: House Science Committee
+    url: https://science.house.gov/?a=rss.feed
+    type: rss
+    js: false
+    tags: [hill]
+    enabled: true
+
+  - name: US-China Economic and Security Review Commission
+    url: https://www.uscc.gov/hearings
+    type: html
+    js: true
+    tags: [government, hill]
+    enabled: true
+
+  - name: NIST events
+    url: https://www.nist.gov/news-events/events/rss.xml
+    type: rss
+    js: false
+    tags: [government]
+    enabled: true
+
   # ---------- Other universities ----------
   - name: GW Elliott School
     url: https://calendar.gwu.edu/search/events.ics?search=elliott
@@ -162,4 +326,40 @@ sources:
     type: html
     js: false
     tags: [university, georgetown]
+    enabled: true
+
+  # ---------- Luma calendars (iCal feeds; added 2026-11-06 from backup misses) ----------
+  - name: Fathom (Luma)
+    url: https://api.lu.ma/ics/get?entity=calendar&id=cal-WpSrRMVxhflSAm6
+    type: ics
+    js: false
+    tags: [public, civil-society]
+    enabled: true
+
+  - name: Institute for Progress (Luma)
+    url: https://api.lu.ma/ics/get?entity=calendar&id=cal-WzpdUQqj4iM0Yl6
+    type: ics
+    js: false
+    tags: [public, think-tank]
+    enabled: true
+
+  - name: Center for Technology & Statecraft (Luma)
+    url: https://api.lu.ma/ics/get?entity=calendar&id=cal-cvLhoiSidIrXJIi
+    type: ics
+    js: false
+    tags: [public, think-tank]
+    enabled: true
+
+  - name: Squadra Ventures (Luma)
+    url: https://api.lu.ma/ics/get?entity=calendar&id=cal-faJsEcJ06uVdslO
+    type: ics
+    js: false
+    tags: [public]
+    enabled: true
+
+  - name: ACE Health Foundation & Millennium Project (Luma)
+    url: https://api.lu.ma/ics/get?entity=calendar&id=cal-oFEiXyJHfoilbmL
+    type: ics
+    js: false
+    tags: [public]
     enabled: true

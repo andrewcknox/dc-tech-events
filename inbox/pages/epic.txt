@@ -1,0 +1,62 @@
+# EPIC
+# https://epic.org/events/feed/
+# fetched 2026-11-06T08:01:15.266581-05:00
+# tags: civil-society
+
+### Broadband and AI in the Next Congress
+Link: https://epic.org/events/broadband-and-ai-in-the-next-congress/
+Published: Tue, 27 Oct 2026 14:55:25 +0000
+Artificial Intelligence is now driving infrastructure investment and public policy. AI’s future will depend not only on breakthroughs in computing, but on the networks, data centers, energy systems, workforce, and institutions that support it. Beginning at 8:30 a.m. on Tuesday, December 1, Broadband Breakfast brings together lawmakers, regulators, industry leaders, and technology innovators at the … 
+Continued <https://epic.org/events/broadband-and-ai-in-the-next-congress/>
+
+### A Panel Discussion with Sherry Turkle
+Link: https://epic.org/events/a-panel-discussion-with-sherry-turkle/
+Published: Wed, 14 Oct 2026 14:18:26 +0000
+Join EPIC and the Georgetown Center for Digital Ethics for a panel discussion with Sherry Turkle on November 5th, 2026, 7:30pm at Gaston Hall on Georgetown University Campus. The panel will discuss Sherry’s new book, Artificial Intimacy, and the chatbot policy landscape. The panelists are: Alan Butler, the Executive Director and President at the Electronic … 
+Continued <https://epic.org/events/a-panel-discussion-with-sherry-turkle/>
+
+### Sherry Turkle @ Politics & Prose – Artificial Intimacy
+Link: https://epic.org/events/sherry-turkle-politics-prose-artificial-intimacy/
+Published: Wed, 14 Oct 2026 14:29:02 +0000
+Join the Electronic Privacy Information Center at Politics & Prose on November 4, 2026 at 7pm for a conversation with Sherry Turkle and Deborah Tannen on her new book Artificial Intimacy and the implications of our relationships with chatbots. Sherry Turkle is the Abby Rockefeller Mauzé Professor of the Social Studies of Science and Technology … 
+Continued <https://epic.org/events/sherry-turkle-politics-prose-artificial-intimacy/>
+
+### Subpoenaed: Queer Health Data as Surveillance Infrastructure
+Link: https://epic.org/events/subpoenaed-queer-health-data-as-surveillance-infrastructure/
+Published: Fri, 09 Oct 2026 20:16:34 +0000
+Hosted by the Georgetown Technology Policy Initiative and LGBTQ+ Policy Initiative
+
+### IP at the Supreme Court Series: Salazar v. Paramount Global
+Link: https://epic.org/events/ip-at-the-supreme-court-series-salazar-v-paramount-global/
+Published: Thu, 08 Oct 2026 16:18:16 +0000
+Who gets to be considered a “consumer” under federal video privacy law? The Supreme Court may soon have an opportunity to redefine the answer. PIJIP will host the next installment of its IP@SCOTUS Series, featuring a post-argument discussion of Salazar v. Paramount Global. The panel discussion will take place on October 14, 2025, from 5:00–6:00 … 
+Continued <https://epic.org/events/ip-at-the-supreme-court-series-salazar-v-paramount-global/>
+
+### EPIC Champions of Freedom 2026
+Link: https://epic.org/events/epic-champions-of-freedom-sept22/
+Published: Wed, 13 May 2026 18:49:34 +0000
+EPIC Champions of Freedom 2026 will be held on Tuesday, September 22, from 5:00 PM – 8:00 PM at the True Reformer Building in Washington, D.C. EPIC established the Champions of Freedom Awards in 2004 to honor individuals and organizations that have worked to safeguard the right to privacy, open government, and democratic values with courage and … 
+Continued <https://epic.org/events/epic-champions-of-freedom-sept22/>
+
+### AI, Speech, and the First Amendment: Where Are the Constitutional Lines?
+Link: https://epic.org/events/ai-speech-and-the-first-amendment-where-are-the-constitutional-lines/
+Published: Fri, 28 Aug 2026 16:13:05 +0000
+Megan Iorio, EPIC Senior Counsel and Director of the Platform Governance &#38; Accountability Program, will speak at a congressional briefing at noon on September 22 about the First Amendment and AI regulation. The event is open to all and will take place in person in Rayburn 2045 as well as via livestream. Register here: https://luma.com/yd3hter2.
+
+### RightsCon Continues Summit: Resisting Surveillance Union Busting: Global Strategies for Collective Worker Power
+Link: https://epic.org/events/rightscon-continues-summit-resisting-surveillance-union-busting-global-strategies-for-collective-worker-power/
+Published: Mon, 31 Aug 2026 20:46:52 +0000
+EPIC Counsel Abigail Kunkler and Mayu Tobin-Miyaji will host a virtual roundtable titled Resisting Surveillance Union Busting: Global Strategies for Collective Worker Power during the RightsCon Continues Summit on September 22, 2026. The time of the roundtable isn’t yet finalized. Register here to attend the online event and participate in 24 hours of discussions, debates, … 
+Continued <https://epic.org/events/rightscon-continues-summit-resisting-surveillance-union-busting-global-strategies-for-collective-worker-power/>
+
+### The Attention Sphere: Holding Big Tech Accountable: Tech Policy 101
+Link: https://epic.org/events/the-attention-sphere-holding-big-tech-accountable-tech-policy-101/
+Published: Mon, 14 Sep 2026 17:26:38 +0000
+On Monday, EPIC Counsel Kara Williams will join the Attention Sphere at Temperance Alley Garden for a conversation about data privacy and how policy can be used to hold Big Tech accountable. The event will be hosted by Kendall Schrohe, Executive Director of the Attention Sphere and EPIC’s Assistant to the Director for Development and … 
+Continued <https://epic.org/events/the-attention-sphere-holding-big-tech-accountable-tech-policy-101/>
+
+### DC Public Library: AI and our privacy: Screened & Scored in DC
+Link: https://epic.org/events/dc-public-library-ai-and-our-privacy-screened-scored-in-dc/
+Published: Tue, 21 Jul 2026 20:13:19 +0000
+The final session of the DC Public Library’s “AI and Us” series will include a discussion of the AI-fueled data collection and decision-making tools at work on DC residents, as outlined by EPIC’s 2022 report “Screened & Scored in DC.” The discussion will take place from 4 to 6 p.m. on Thursday, July 23, in Conference … 
+Continued <https://epic.org/events/dc-public-library-ai-and-our-privacy-screened-scored-in-dc/>

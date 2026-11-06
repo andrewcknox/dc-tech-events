@@ -1,6 +1,6 @@
 # CNAS
 # https://www.cnas.org/events
-# fetched 2026-11-04T13:15:06.937065-05:00
+# fetched 2026-11-06T08:01:15.266581-05:00
 # tags: think-tank
 
 Upcoming Events

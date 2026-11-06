@@ -1,0 +1,406 @@
+# House Science Committee
+# https://science.house.gov/?a=rss.feed
+# fetched 2026-11-06T08:01:15.266581-05:00
+# tags: hill
+
+### Chairman Babin Responds to GAO Report on NOAA's Next-Generation Weather Satellite Program
+Link: https://science.house.gov/2026/10/chairman-babin-responds-to-gao-report-on-noaa-s-next-generation-weather-satellite-program
+Published: Fri, 289 Oct 2026 12:00:00 EST
+(Washington, D.C.) – Today, House Science, Space, and Technology Committee Chairman Brian Babin issued the following statement in response to a Government Accountability Office (GAO) 
+report <https://urldefense.com/v3/__https:/www.gao.gov/products/gao-26-107739__;!!BSgrhSFG!FLNo83R6kZzmVjTRPzwINM3a2Jkggwm7h5iqalgfshFypBGsQK6kx4W9w0-XO5TpHIR5Lwf9QcnBh40NBNKHi6PWVebXExClQLrJVb0W1k2L2w$>
+ examining challenges facing the National Oceanic and Atmospheric Administration’s (NOAA) next-generation Geostationary Extended Observations (GeoXO) satellite program. The report follows a 
+request <https://science.house.gov/press-releases?ID=1F8B7DF0-C642-449D-98E1-C9C3412F1C34>
+ from the Committee in the 118th Congress to review the program’s cost, schedule, and management. GAO identified concerns with cost estimates, contingency planning, and technology readiness, including a potential gap in critical weather observations.
+"Taxpayers deserve accountability for major federal investments, especially when critical weather forecasting capabilities are at stake," 
+said Chairman Babin
+. "GAO’s findings underscore the need for continued oversight of GeoXO’s costs, schedule, and risk management. We are hopeful that the Administration’s recent restructuring of the program will address many of the concerns identified in this report. However, questions remain about how those changes will affect the program’s overall cost, timeline, and ability to provide uninterrupted weather data. This Committee will continue working to ensure NOAA manages this investment responsibly and preserves the satellite capabilities our nation depends on."
+
+### Investigations and Oversight Subcommittee Hearing - Balancing Biotechnology Innovation and Biosecurity: Securing U.S. Leadership in a Global Race
+Link: https://science.house.gov/2026/9/investigations-and-oversight-subcommittee-balancing-biotechnology-innovation-and-biosecurity
+Published: Wed, 259 Sep 2026 10:00:00 EST
+
+
+### Opening Statement of Chairman Rich McCormick at Balancing Biotechnology Innovation and Biosecurity: Securing U.S. Leadership in a Global Race
+Link: https://science.house.gov/2026/9/opening-statement-of-chairman-rich-mccormick-at-balancing biotechnology-innovation-and-biosecurity
+Published: Wed, 259 Sep 2026 12:00:00 EST
+Today’s hearing examines a question that goes to the heart of our national security and our economic future: is America's biotechnology enterprise adequately protected, and are your taxpayer dollars that fund it being spent wisely and safely?
+For decades, American biotechnology has led the world and has become one of our nation’s greatest strategic assets.
+Our researchers, our universities, and our companies have produced vaccines, therapeutics, and innovations that have saved countless lives and driven our economy forward.
+But that leadership is no longer guaranteed.
+The Chinese Communist Party has made biotechnology a national priority, pursuing it with the same coordination and intensity it has applied to semiconductors and artificial intelligence.
+The CCP understands that whoever leads in biotechnology will hold significant advantages in medicine, agriculture, industry, and defense for decades to come.
+We cannot afford to be complacent.
+At the same time, we must ask a question closer to home: has our oversight of high-risk biological research kept pace with the risks we face?
+In 2014, the federal government paused funding for certain gain-of-function research while it evaluated the risks and benefits.
+In 2017, the Department of Health and Human Services established the P3CO Framework, a case-by-case review process.
+Subsequent experience, particularly with federally funded research involving the Wuhan Institute of Virology and EcoHealth Alliance, raised serious questions about how effectively that system worked in practice.
+I am encouraged that this Administration has taken the threat seriously.
+Executive Order 14292 directs federal agencies to restrict support for dangerous gain-of-function and other high-risk biological research where adequate oversight and safeguards are lacking and calls for stronger screening of synthetic nucleic acids.
+These are important, overdue steps.
+But an executive order is only as strong as its implementation, and this Committee has an obligation to ensure these directives are carried out fully, consistently without loopholes for research conducted overseas or outside the scope of federal funding.
+We cannot discuss biosecurity today without also addressing artificial intelligence.
+AI is transforming biotechnology, helping accelerate drug discovery, protein design, and biomanufacturing in ways that strengthen American competitiveness and save lives.
+That’s progress that I welcome.
+But the same tools that accelerate beneficial research can lower the barriers to biological misuse, making it easier to search, organize, and analyze dangerous biological information which can be weaponized.
+We must ensure that federal support, open datasets, and widely accessible AI services do not become a shortcut for adversaries or bad actors.
+That is why I introduced the Biotechnology Workforce Alignment Act—to close the gap between the federal research dollars we invest in biotechnology and the trained workforce needed to build and scale those innovations here at home—not overseas.
+My home state of Georgia is a shining example of this put into action, with schools like Georgia Tech and the University of Georgia (UGA) helping lead the way.
+We need to ensure that American breakthroughs translate into real American jobs, manufacturing capacity, and economic strength.
+I also introduced the Biotechnology Diplomacy Leadership Act to ensure the United States speaks with a coordinated voice on biotechnology policy abroad and confronts the risks posed by adversaries seeking access to our data, technology, and capabilities.
+I welcome our witnesses today, who will help us examine whether federal biosecurity policy and oversight have kept pace with the challenges, how the convergence of AI and biotechnology is reshaping both opportunities and risks, and what additional steps Congress must take to keep
+America's biotechnology enterprise secure, competitive, and worthy of the American people's trust.
+With that, I yield back the balance of my time
+
+### Opening Statement of Chairman Brian Babin at Balancing Biotechnology Innovation and Biosecurity: Securing U.S. Leadership in a Global
+Link: https://science.house.gov/2026/9/opening-statement-of-chairman-brian-babin-at-balancing-biotechnology-innovation-and-biosecurity
+Published: Wed, 259 Sep 2026 12:00:00 EST
+Thank you, Chairman McCormick, for holding this hearing on an issue with significant implications for our country.
+Today, we are here to address a field that is increasingly consequential to our national security, economic competitiveness, and scientific leadership.
+Biotechnology is a term that many of us hear frequently, but may not fully grasp just how many industries it touches. Biotechnology uses biological systems to develop products, processes, and solutions. As these technologies advance, the field is reaching into an expanding range of industries, including healthcare, agriculture, chemical manufacturing, fuel development, and even artificial intelligence.
+Developments in biotechnology can provide tremendous benefits to our communities, industries, and economy. But these advances also present significant risks. Laboratory accidents, deliberate misuse, inadequate oversight, or the release of information or biological materials that could be used to harm the public pose serious threats to our national security and public health. Maintaining leadership in this field therefore requires not only sustained support for research and development, but also strong and effective safeguards.
+In May 2025, President Trump signed Executive Order 14292, 
+Improving the Safety and Security of Biological Research
+, which strengthened federal oversight of high-risk biological research, particularly dangerous gain-of-function research. The order seeks to distinguish legitimate and beneficial biological research from activities that could pose unacceptable risks to public health or national security.
+Not every country—or every company operating within it—shares the same concerns about biosafety and biosecurity. That is one reason Congress enacted the BIOSECURE Act last December. The Act establishes restrictions on federal procurement and contracting involving equipment, services, or other capabilities provided by identified biotechnology companies of concern. These actions are critical steps, but more work remains. We must continue developing policies, procedures, and oversight mechanisms that balance American leadership in biotechnology with the responsibility to protect our country from serious risks.
+China is not standing still. The CCP is rapidly expanding its biotechnology capabilities. Its biomanufacturing capacity, research and development efforts, and workforce continue to grow. The United States must strengthen and expand our own capabilities—and move faster to stay ahead.
+Biotechnology is one of the fastest-growing areas of scientific research and manufacturing. The United States must support this growth because it is critical to our economy, national security, and communities. We will only maintain our leadership in the face of strategic competition if we adopt policies that strengthen our domestic capabilities while protecting our research, resources, and people from bad actors.
+I look forward to hearing from our witnesses about what more we can do to advance American biotechnology research, domestic biomanufacturing, supply chain security, and innovation while ensuring the United States remains competitive with China.
+Thank you to our witnesses for being here today and for sharing your knowledge and expertise. And thank you again, Chairman McCormick, for holding this hearing.
+I yield back.
+
+### Full Committee Hearing - Innovation in Disaster Prevention: Advancing Technology for Prediction and Response
+Link: https://science.house.gov/2026/9/full-committee-hearing-innovation-in-disaster-prevention-advancing-tech-for-prediction-and-response
+Published: Tue, 258 Sep 2026 10:00:00 EST
+
+
+### Babin, Cruz: U.S. Space Academy Belongs in Texas
+Link: https://science.house.gov/2026/9/babin-cruz-u-s-space-academy-belongs-in-texas
+Published: Tue, 258 Sep 2026 12:00:00 EST
+(Washington, D.C.) – Today, House Science, Space, and Technology Committee 
+Chairman Brian Babin 
+and 
+Senate Commerce Committee Chairman Ted Cruz
+ released the following joint statement expressing support for Texas Governor Greg Abbott's decision to submit a proposal for Texas to host the U.S. Space Academy:
+"For more than six decades, Texas has been where America’s human spaceflight dreams become reality. We thank President Trump for his leadership in launching the U.S. Space Academy. Texas is ready to turn that vision into reality. If America is going to build the world’s premier academy for space, Texas has all the right stuff – the talent, institutions, infrastructure, and experience to launch the next generation of American space leaders. From Gemini and Apollo to Space Shuttle and Artemis, Texas has trained astronauts, managed missions, and helped advance America’s exploration pursuits beyond Earth’s orbit. America’s space program is built across the country, but Texas is where the pieces come together. We are ready to lead the next generation of space pioneers and look forward to showing why Texas is the right home for the U.S. Space Academy."
+On August 28th, President Trump signed an executive order establishing a new academy to advance U.S. interests in space, with a focus on NASA, the U.S. Space Force, and the commercial aerospace industry. Site selection for the academy is currently underway, with Texas Governor Greg Abbott advocating for it to be located near Johnson Space Center in Houston.
+
+### Chairman Babin Applauds House Passage of Science-Based Illegal Fishing Legislation
+Link: https://science.house.gov/2026/9/chairman-babin-applauds-house-passage-of-science-based-illegal-fishing-legislation
+Published: Tue, 258 Sep 2026 12:00:00 EST
+(Washington, D.C.) – House Science, Space, and Technology Committee 
+Chairman Brian Babin
+ issued the following statement following House passage of 
+S. 283, the Illegal Red Snapper and Tuna Enforcement Act <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001mMMBBCnYelufHiNgnPg6jxKrlcWy0oUz6F8zwAkIW7AeNzkmE1OmZdWDqB41_2n3XOsQbyWvdF1cfhYLPUh3xhzdlB7bXpAbZWIzlGcdyj5Asliupln5R7ehlqhaN9u5o4LWGj8r6Bz8IchIC42RPLm2KZv_RkG92QXpNzck5SXB1SQOkX-0AZicgrMkN92AOI5aY0ksRf_RKGwi4MCaOA==&c=wpP3OmJ_iaCFM5TbAX8X-TbuncSmsiDW0M-p4dCW-ervZYn32XdqZA==&ch=LeC7pwWKDLmkdOnNxOTCT_yY00Ceb3c64S4Ns5asHxckz54Ge9cb2Q==__;!!BSgrhSFG!E2nQeuChAyRmxbZGocT2GrKf3gaJzFXyssX9SR2WtBHz6iuwJpaKddXtfOb2MU6t33ZNek-D-PmB2RLrP7IZoVBdI4W2zr6ljESydSNNyJnDsQ$>
+, as amended. The House-passed legislation incorporates provisions from 
+H.R. 3706, the Standards for Understanding Source and Habitat Identification Act <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001mMMBBCnYelufHiNgnPg6jxKrlcWy0oUz6F8zwAkIW7AeNzkmE1OmZdWDqB41_2n3EOm0G6Y9Sm554Nru_2Zwj96F-8pV_Y28JC-l3JpG0PDVqckuH8tXaRGWUnsr-XUzg7A6kSQ_TkH54FZcv0mwrIUN8nsJjwb2yUYBhvn9MiLp-mcW7A1Kc9MORfD5BM9SefrOtBHKhB0aSqnlyKxzrwWMtkCbsJ1Xy1L0xuC_OG0=&c=wpP3OmJ_iaCFM5TbAX8X-TbuncSmsiDW0M-p4dCW-ervZYn32XdqZA==&ch=LeC7pwWKDLmkdOnNxOTCT_yY00Ceb3c64S4Ns5asHxckz54Ge9cb2Q==__;!!BSgrhSFG!E2nQeuChAyRmxbZGocT2GrKf3gaJzFXyssX9SR2WtBHz6iuwJpaKddXtfOb2MU6t33ZNek-D-PmB2RLrP7IZoVBdI4W2zr6ljESydSOW8JSlhA$>
+, introduced by Chairman Babin, to develop a science-based methodology for identifying the country of origin of seafood and strengthen enforcement against illegal, unreported, and unregulated (IUU) fishing and seafood fraud.
+"From the Gulf Coast of Texas to fishing communities across the country, American fishermen and seafood producers work hard to follow the rules and provide safe, high-quality seafood to consumers," 
+said Chairman Babin
+. "Red snapper is especially important to Gulf Coast communities, and our fishermen should not have to compete with illegally harvested seafood entering American markets. This legislation will give law enforcement another science-based tool to identify where seafood comes from and combat illegal fishing and seafood fraud. By leveling the playing field for American fishermen, we can strengthen our coastal communities, support our fishing economy, and ensure those who play by the rules are not undercut. I’m proud to see the House advance this commonsense legislation and look forward to getting it across the finish line."
+Legislation Highlights:
+Directs key federal agencies to jointly develop a standard methodology, based on chemical analysis, to identify the country of origin of seafood and support enforcement against IUU fishing and seafood fraud.
+Requires the methodology to meet the needs of federal and state law enforcement, minimize processing time, and use a portable field kit that can be carried by one person.
+Requires pilot studies using red snapper and tuna to test the methodology across both stationary and highly migratory fish stocks.
+Directs agencies, to the extent practicable, to develop a methodology capable of testing prepared seafood, including ceviche, sashimi, sushi, and poke. 
+Following House passage, S. 283 now returns to the Senate for consideration of the House amendment.
+
+### Opening Statement of Chairman Brian Babin at Innovation in Disaster Prevention: Advancing Technology for Prediction and Response
+Link: https://science.house.gov/2026/9/opening-statement-of-chairman-brian-babin-at-natural-disasters-hearing
+Published: Tue, 258 Sep 2026 12:00:00 EST
+Welcome to today’s hearing, “Innovation in Disaster Prevention: Advancing Technology for Prediction and Response.”
+I want to thank our witnesses for being here this morning to discuss how emerging technologies can help protect our communities from natural disasters.
+This Committee has a long history of examining how science and technology can protect American lives, and few missions are more urgent than helping communities better predict, prepare for, and respond to these events.
+Just last year, in my home state of Texas, we experienced catastrophic flooding in the Hill Country that claimed more than 130 innocent lives, including dozens of children.
+In the aftermath, Texas invested millions of dollars in new flood-warning infrastructure, including river gauges, outdoor sirens, and a real-time warning system. When flooding struck the region again this summer, county officials reported that the new system performed as intended, and no fatalities occurred.
+This is a powerful reminder of what is at stake. When communities have better information and more time to act, technology can help save lives.
+Of course, floods are far from the only threat we face. My district has been hit by hurricanes, tornadoes, floods, ice storms, and the occasional wildfire. Across Texas, we also face drought, earthquakes, and even landslides.
+Pretty much everything except volcanoes—and thankfully, we don’t have to worry much about those.
+Fortunately, our ability to understand and respond to these hazards is advancing rapidly.
+Artificial intelligence can improve forecasting and help emergency managers make sense of enormous amounts of data. Advanced sensors can monitor changing conditions in real time. Satellites can provide detailed information from areas that may be difficult or dangerous to reach. Autonomous systems can help assess damage and support search-and-rescue operations.
+We are well beyond the days when spotting a wildfire meant relying on someone sitting in a fire tower looking for smoke. Today, cameras equipped with machine-learning technology can scan continuously for signs of fire, while satellites can detect and track fires from space. In 2025 alone, ground-based systems detected more than 900 fires before they were reported by the public.
+But developing these technologies is only part of the challenge.
+A forecast is only useful if emergency managers receive it in time. A warning only works if it reaches the people in harm’s way—and gives them information they can understand and act on.
+The “last mile” between collecting and analyzing data and getting actionable information to the public remains a weak link in our disaster-response system. Gaps remain in message clarity, geographic precision, connectivity, and the ability to turn warnings into timely protective action.
+Today, we will hear directly from experts working to close those gaps. We will examine developments in artificial intelligence, autonomous systems, advanced sensing, commercial satellite capabilities, data analytics, and next-generation communications—and, importantly, what it takes to move promising technology out of the lab and into the hands of emergency managers and first responders.
+That means identifying the barriers standing in the way. Lengthy contracting processes, fragmented funding streams, and difficulty integrating new technologies into existing systems can all slow deployment, even when the technology itself is ready.
+This Committee has already taken steps to address some of these challenges. Last year, we advanced the Weather Act Reauthorization Act to strengthen weather research and forecasting, expand the use of commercial data, and improve how critical weather and flood alerts reach the public.
+And just this summer, we advanced legislation to modernize the National Earthquake Hazards Reduction Program, including efforts to improve earthquake monitoring, early warning, hazard mapping, and resilience.
+We must continue that work by breaking down barriers, supporting critical research, and helping ensure American innovation translates into practical tools that protect lives and property. Today’s hearing will help us build on these efforts and identify where emerging technologies can make an even greater difference.
+Again, I appreciate our witnesses being here today, and I look forward to your testimony and our discussion.
+With that, I yield back the balance of my time.
+
+### Chairman Babin Issues Statement Following Briefing on AI Agent Cyber Incident
+Link: https://science.house.gov/2026/9/chairman-babin-issues-statement-following-briefing-on-ai-agent-cyber-incident
+Published: Tue, 258 Sep 2026 12:00:00 EST
+(Washington, D.C.) – House Science, Space, and Technology Committee 
+Chairman Brian Babin
+ issued the following statement after a bipartisan, Committee-wide briefing with representatives from Hugging Face, METR, OpenAI, and Anthropic regarding security incidents initially disclosed by Hugging Face in July, as well as additional incidents reported more recently. The briefing provided Committee members an opportunity to assess these events, their broader implications for AI development and deployment, and potential policy considerations.
+"I thank these company representatives for appearing before Committee members and for today’s productive discussion surrounding this incident," 
+said Chairman Babin
+. "As AI becomes increasingly capable, we can promote the development of trustworthy and reliable systems without sacrificing the innovation that gives America a competitive edge. I look forward to continued engagement with AI and emerging technology companies as we navigate this evolving landscape. Like any new technology, AI presents both risks and opportunities. Our overarching goal remains clear: ensuring that America—not the Chinese Communist Party—leads the global AI race."
+
+### Babin, McCormick Probe Foreign Influence in U.S. AI and Energy Policy
+Link: https://science.house.gov/2026/9/babin-mccormick-probe-foreign-influence-in-u-s-ai-and-energy-policy
+Published: Thu, 253 Sep 2026 12:00:00 EST
+(Washington, D.C.) – Today, House Science, Space, and Technology Committee 
+Chairman Brian Babin
+ and
+ Investigations and Oversight Subcommittee Chairman Rich McCormick 
+sent letters to the National Science Foundation (NSF), Indivisible Project, Sierra Club, 350.org, and Oil Change International requesting information and documents concerning foreign funding, affiliations, and potential influence in U.S. artificial intelligence and energy infrastructure policy.
+The letters raise concerns about reports that foreign-funded organizations and networks may be seeking to shape U.S. AI and energy policy, including organized opposition to the development of AI infrastructure such as data centers. The Committee is seeking to better understand the extent of foreign funding and coordination involving organizations engaged in these policy debates.
+"Advancing AI capabilities and ensuring energy resilience are essential to U.S. national security and economic competitiveness," the Chairmen wrote.
+Recent reporting cited in the letters identifies foreign funding received by U.S.-based organizations involved in energy and AI policy. An April 2026 report from the American Energy Institute found that 12 organizations actively opposing U.S. data center development had collectively received more than $39 million from foreign donors. A separate 2025 report from Americans for Public Trust identified nearly $2 billion in funding from five foreign charities to a network of organizations involved in U.S. energy and climate advocacy.
+The letters also cite recent disclosures regarding foreign influence operations targeting the U.S. debate over AI infrastructure. On August 28, 2026, X Corp.’s Global Government Affairs team reported identifying approximately 200,000 suspected Chinese inauthentic accounts, including a subset that disseminated what X described as misleading claims about AI data centers and household electricity prices. The letters also reference a June 2026 report from OpenAI identifying PRC-linked influence operations targeting U.S. debates over AI and data center development.
+To NSF Acting Director Brian Stone, the Chairmen request a briefing on NSF’s efforts to identify, disclose, and mitigate the influence of foreign-affiliated NGOs on federally funded AI and energy research. The letter asks NSF to explain how it evaluates foreign affiliations and funding sources and whether existing authorities under the CHIPS and Science Act are sufficient to identify and address potential foreign influence.
+The letters to Indivisible Project, Sierra Club, 350?.org, and Oil Change International request documents concerning foreign principals, foreign donors, funding relationships, communications, and activities related to opposition to AI and data center development. The requests also seek information concerning any legal analysis, registration statements, or internal determinations regarding the organizations’ obligations, if any, under the Foreign Agents Registration Act.
+The Committee is seeking this information as part of its ongoing oversight of U.S. artificial intelligence and energy policy to determine whether foreign funding or coordination may be influencing research, advocacy, or policy discussions surrounding AI and energy infrastructure.
+To read the full letter to NSF, please click 
+here <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001BHQFhfo4ZmooAphA_NFLA1zjJEdFizR-ouIZapQhA6s0Epwxt_y7w80MAjGSLDbHEys92ReSM19ws6SJ7m_a2A5244KyIBjtTotPODeO1pIyFTHaKqLAZQO2n44LNC4nvxFjWjtg00YvmmYRUeuWYFjNIVSZ1gOFHlVwUJhErl2P43840xgKaEVFOZXx7zCxCaMuqzpK4uvUgzy6cQ7rx7-NzlIH8FLphyGi7i-2T5kehJbQsie2X7SES9tCE7SVVWUjW3j1cazsYwfT6IQzjsFsl1jAm3epAW9G8tVDiriIIHgWv8KjnHVweBtMYyMfYHYJB13B7xfFgMh7y9d74nYIYWjzQlvmTlYWuwBmGYNZPeyqrtJpoGWFmeDxJORzeZq1QAbSIV_YdAHLHTOFVw==&c=7LYUwATxnnefnrAx2LDwMio0sBTxg_NSMpmp-R-4ZaiM7i7DCZYLuQ==&ch=XoixP8wqEyy5sXdMCcgDdwnEHJbuSfJ5uA_tWz5EegbRqym9dSLdjw==__;!!BSgrhSFG!DpaCrSK62nZ1iw_n-6COK0j7_zYgEiLJS8pRp_3-77ygpRA0mb9rf8EEFKA_XGsBzvrdwuupk1ii-2puNS1AoaF1dpAwYbJisN4TtJJASy8DxQ$>
+.
+To read the full letter to Indivisible Project, please click 
+here <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001BHQFhfo4ZmooAphA_NFLA1zjJEdFizR-ouIZapQhA6s0Epwxt_y7w80MAjGSLDbHjxkyCDV4ir__z8dmNNJvJFonOfoJz-koYBt-TwncUJwNA3GsYvlzN-LXnogcr1yrtsWyQiwToudwbiH1nR4Ljr4d_HUn-4ghHOZC1uIQOvJZsk03rMa1wGNGbT5T5XoOnQBTXo_xaoO12EavAUKBrShfdnlnPHLaKTZnHISURubdJRYUU4RDiOfIMHCzJQbDSG5aBXlnG0hIwkBQxfpNjAF0EoQhDelX3MX3aqMHjk_T_5Rl3TBCj5okGjlcUly2_d-iztxSxW4E1piAahmQWv_7cyct8vvBPlxzk-6I7bPEw9pG_RtrUNqwgAkOCgK2dsHDyUvBqgnfLFmyUSPRtTFaNDv2dWYqWZ9HGO6Qb3I=&c=7LYUwATxnnefnrAx2LDwMio0sBTxg_NSMpmp-R-4ZaiM7i7DCZYLuQ==&ch=XoixP8wqEyy5sXdMCcgDdwnEHJbuSfJ5uA_tWz5EegbRqym9dSLdjw==__;!!BSgrhSFG!DpaCrSK62nZ1iw_n-6COK0j7_zYgEiLJS8pRp_3-77ygpRA0mb9rf8EEFKA_XGsBzvrdwuupk1ii-2puNS1AoaF1dpAwYbJisN4TtJLb97Y_2Q$>
+.
+To read the full letter to Sierra Club, please click 
+here <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001BHQFhfo4ZmooAphA_NFLA1zjJEdFizR-ouIZapQhA6s0Epwxt_y7w80MAjGSLDbHfLc3GidbS4L9gbSv-ChNX79qWn0oTFRBFIgSirULwHYuJYMVQrToTIy5ngTJTYHkmLksVU1rh94YPjYYFgdIKxazWibErpdVnUG2zvmLcmdJ3snKb9Ay08sPYRUqbGbfR2UMRXam_2N0VtH0ikU-w2QZPGZ9310yWpa1P_tfC2dea7QOKwbV-B1odS8UsyGxrRM1KVoas1VuoYhQkNNPNzSF_xDWbv_v5TOphOV6oRxEFmjagEVFExDn7WD8nGejzChwg5C5vXTYNfbNOirtjKV2ab1iQLsPG0kKsTjn67RBP64bZHTOMiobaei-0eW6Fsg5MRWOWQqScNxKf4oAzdF0I_7kaqUk&c=7LYUwATxnnefnrAx2LDwMio0sBTxg_NSMpmp-R-4ZaiM7i7DCZYLuQ==&ch=XoixP8wqEyy5sXdMCcgDdwnEHJbuSfJ5uA_tWz5EegbRqym9dSLdjw==__;!!BSgrhSFG!DpaCrSK62nZ1iw_n-6COK0j7_zYgEiLJS8pRp_3-77ygpRA0mb9rf8EEFKA_XGsBzvrdwuupk1ii-2puNS1AoaF1dpAwYbJisN4TtJKXEjh7rg$>
+.
+To read the full letter to 350.org, please click 
+here <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001BHQFhfo4ZmooAphA_NFLA1zjJEdFizR-ouIZapQhA6s0Epwxt_y7w80MAjGSLDbH38YTwBA4C2evXtOyIujUy9DQdEmH9cpDtblU6UYMihxh8QHmiyn-A6NJayn_Ti12DsQnj7dcw3gIdnRJ3Xf4I-NEz0buNeHex-L3tLvcvPhlF4lAoglPicoC9TapCSD6JyCg1ZkDqKMpcnjFP4BgTimuS9mjHuDifUf-mglwXwMBiMcw6mNusQFhSSwZqT6VFEXF6AgjjEUVLvy_q9K9yve68e4tpXTCIPSYvjcyBBpfRWbdQTbTTEiNqBNwIDQvKzi0JoMcr2U5rT_fjyWAKaXbIz7tRcL4LzCkmcobkCf7jUDaBbelHMhvbXFaQ1p9U1qAD59Z8IO2DSJWGkiCMss2xvtq20gz&c=7LYUwATxnnefnrAx2LDwMio0sBTxg_NSMpmp-R-4ZaiM7i7DCZYLuQ==&ch=XoixP8wqEyy5sXdMCcgDdwnEHJbuSfJ5uA_tWz5EegbRqym9dSLdjw==__;!!BSgrhSFG!DpaCrSK62nZ1iw_n-6COK0j7_zYgEiLJS8pRp_3-77ygpRA0mb9rf8EEFKA_XGsBzvrdwuupk1ii-2puNS1AoaF1dpAwYbJisN4TtJJ1q3gyaQ$>
+.
+To read the full letter to Oil Change International, please click 
+here <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001BHQFhfo4ZmooAphA_NFLA1zjJEdFizR-ouIZapQhA6s0Epwxt_y7w80MAjGSLDbHt4Vg1L4wkduYbGxj75Z3JHoC5lgps-NM5qdcLsJsglOA-mijIHg2QOQuTY-m7voaOndNt-KxOTqqJDAkEVraL__2gYvkasakBSTE8Rb7t-Exjbk99wWcWfgsKeXez4NZTfjHvHzdRroAY4QWqO1NVOYX2Wt3l-TTpT9Y34kGCBD2FWNtwo93jk6Fi4SHNN2XiVLDXvd1oTdZCe09_L5_-ma_20cQ9-EL0SGCW9K0wNum47nrJkNmn-ZEVeVsNXiOpaxT4816KPdCfqzx5NxX-zX8hz4puBgMW6zaKiL6bXp7Qb2UxKgeqREqnUf3JtMPsPiZAh6SaYr30Y1K1QwlZkejaR-slmAvdytZX97HlnLcAudeUqCgrg==&c=7LYUwATxnnefnrAx2LDwMio0sBTxg_NSMpmp-R-4ZaiM7i7DCZYLuQ==&ch=XoixP8wqEyy5sXdMCcgDdwnEHJbuSfJ5uA_tWz5EegbRqym9dSLdjw==__;!!BSgrhSFG!DpaCrSK62nZ1iw_n-6COK0j7_zYgEiLJS8pRp_3-77ygpRA0mb9rf8EEFKA_XGsBzvrdwuupk1ii-2puNS1AoaF1dpAwYbJisN4TtJJfUdknKA$>
+.
+
+### Babin, McCormick Seek Information on Federal Biotechnology Research and Security
+Link: https://science.house.gov/2026/9/babin-mccormick-seek-information-on-federal-biotechnology-research-and-security
+Published: Wed, 252 Sep 2026 12:00:00 EST
+(Washington, D.C.) – Today, House Science, Space, and Technology Committee 
+Chairman Brian Babin
+ and 
+Investigations and Oversight Subcommittee Chairman Rich McCormick
+ sent letters to U.S. Department of Energy (DOE) Secretary Chris Wright, National Institutes of Health (NIH) Director Jay Bhattacharya, and National Science Foundation (NSF) Acting Director Brian Stone requesting information on how their agencies are advancing U.S. leadership in biotechnology research while protecting against biosecurity and research security risks.
+In the letters, the Chairmen highlight the growing importance of biotechnology to U.S. economic competitiveness, scientific leadership, national security, healthcare, agriculture, energy, and manufacturing. They also emphasize that rapid advances in biotechnology—including synthetic biology, gene editing, DNA synthesis, automated laboratory technologies, and the convergence of biotechnology and artificial intelligence—present significant opportunities as well as emerging security risks.
+“The United States must lead in this area of research to support economic growth and societal benefit while strengthening safeguards against harm caused by negligent or malicious actors,” the Chairmen wrote.
+The letters also highlight the National Security Commission on Emerging Biotechnology’s April 2025 report, which concluded that “biotechnology will be a defining strategic technology of the twenty-first century” and warned that the United States risks falling behind global competitors without a coordinated national strategy. The report identified biotechnology as critical to economic competitiveness, national defense, public health, agriculture, energy, and industrial production.
+The Chairmen commend the Administration's leadership in this area, including President Trump’s May 5, 2025, Executive Order on Improving the Safety and Security of Biological Research.
+As part of their oversight, the Chairmen ask the agencies to identify any significant gaps, vulnerabilities, or emerging threats related to biotechnology; explain whether they have implemented recommendations from the National Security Commission on Emerging Biotechnology; and identify any additional authorities, resources, statutory changes, or policy tools needed to strengthen U.S. biotechnology leadership while protecting national security and biosecurity.
+The letters underscore the Committee's interest in ensuring that the United States remains a leader in biotechnology research and innovation while maintaining appropriate safeguards against the misuse of emerging biological capabilities.
+To read the full letter to DOE, please 
+click here <https://republicans-science.house.gov/_cache/files/c/5/c5dfd85d-94fc-4faf-8d40-7eb357d98b40/3A62BE0B5ECC05D28F891105074FF171ECDA811B378E0AEF40ED52B27FC1A3F8.09.09.26-iosst-to-doe-biotechnology-.pdf>
+.
+To read the full letter to NIH, please 
+click here <https://republicans-science.house.gov/_cache/files/0/d/0dc997c7-171f-4b5a-aefc-02295929671f/D32525C34B9121F829F560FE3BA229DC8EC83E7C5075BDCF771E0E042CA9AE37.09.09.26-iosst-to-nih-biotechnology-.pdf>
+.
+To read the full letter to NSF, please 
+click here <https://republicans-science.house.gov/_cache/files/8/8/880b5ad5-9f93-4c9c-b6a8-fd6cfb2c7b24/1E1EB8F504F62D3B42E80514BDE5F1A7D066E1AE3D71C81338C1BF6E3884A9AA.09.09.26-iosst-to-nsf-biotechnology-.pdf>
+.
+
+### Energy Subcommittee Hearing - Powering the Nuclear Renaissance: Accelerating U.S. Leadership in Advanced Nuclear Reactors
+Link: https://science.house.gov/2026/9/energy-subcommittee-hearing-nuclear-renaissance
+Published: Wed, 245 Sep 2026 10:00:00 EST
+
+
+### Opening Statement of Chairman Brian Babin at Powering the Nuclear Renaissance: Accelerating U.S. Leadership in Advanced Nuclear Reactors
+Link: https://science.house.gov/2026/9/opening-statement-of-chairman-brian-babin-at-powering-nuclear
+Published: Wed, 245 Sep 2026 12:00:00 EST
+Thank you, Chairman Weber.
+Today’s hearing will examine the future of nuclear energy and how the United States can maintain global leadership in advanced nuclear reactor technologies.
+Nuclear energy is one of America’s most reliable sources of baseload power. The U.S. Navy has relied on nuclear propulsion for decades, while expanded commercial maritime applications have remained limited.
+Nuclear power has also enabled NASA to explore the farthest reaches of our solar system and beyond, fueling missions such as New Horizons, the first probe to perform a flyby of Pluto, and the Voyager missions which are now beyond the solar system.
+Advanced nuclear technologies are unlocking new possibilities, from modernizing maritime propulsion and the global commercial fleet to powering Lunar outposts and future missions to Mars and beyond.
+Commercial nuclear companies are exploring new applications of nuclear energy in space, including space mining, orbital transportation, and fusion propulsion.
+These innovations are also delivering benefits here on Earth, including improved molecular imaging technologies for more targeted medical diagnostics and radionuclide therapies that are helping treat cancer. The U.S. military, through its Janus Program, is exploring advanced reactors to power installations independently of the civilian grid. This would provide U.S. forces overseas with greater energy security while reducing reliance on vulnerable fuel supply lines, with the goal of achieving these capabilities by 2028.
+None of these advances would be possible without strong public-private partnerships. The federal research enterprise plays a key role in supporting early-stage research, reducing barriers to deployment, and establishing the conditions for industry to develop and commercialize advanced nuclear technologies. America’s robust private sector is essential to turning nuclear innovation into reality. Companies like those represented here today are bringing new ideas, technologies, and investments to market, creating a pipeline of innovation that will strengthen America’s energy, economic, and national security.
+We cannot afford to lose this momentum or cede leadership to our international competitors. The People’s Republic of China (PRC) and Russia are aggressively investing in advanced nuclear technologies, fuel supply chains, and manufacturing capabilities, seeking to shape the next generation of global energy and technology markets. Following Russia’s invasion of Ukraine, uncertainty surrounding U.S. access to critical medical isotopes exposed vulnerabilities in our nuclear supply chains. The United States must strengthen our domestic capabilities and ensure that we lead in advanced nuclear technologies. As with so many other technologies we have discussed before this Committee, the nation that leads in nuclear innovation will help set the standards and shape the global nuclear industry for decades to come.
+To maintain this leadership, the United States must work closely with like-minded countries to develop these vital capabilities in a safe and responsible manner. Through workforce development and strategic civil nuclear cooperation, U.S. companies can gain access to emerging energy markets while our international partners can unlock vast amounts of reliable baseload power.
+This Committee has an important role to play in ensuring American innovations lead the way. While it is important to have thoughtful regulatory frameworks in place, we must also foster an economic environment that allows technological breakthroughs to thrive. I am eager to learn from our witnesses how we can help make that happen. 
+In closing, I want to echo Chairman Weber’s comments about the truly historic moment this sector is experiencing, made possible by the bold and aggressive vision of the current Administration and its recognition of the potential advanced nuclear reactors hold for our nation in the coming years.
+I want to thank our witnesses for their testimony today, and I look forward to a productive discussion.
+Thank you, Chairman Weber. I yield back the balance of my time.
+
+### Opening Statement of Chairman Randy Weber at Powering the Nuclear Renaissance: Accelerating U.S. Leadership in Advanced Nuclear Reactors
+Link: https://science.house.gov/2026/9/opening-statement-of-weber-powering-the-nuclear-renaissance-accelerating-u-s-leadership-in-advanced-nuclear-reactors
+Published: Wed, 245 Sep 2026 12:00:00 EST
+Welcome to today’s Energy Subcommittee hearing, “Powering the Nuclear Renaissance: Accelerating U.S. Leadership in Advanced Nuclear Reactors.”
+We are in the “Golden Era of Nuclear Power,” thanks in large part to the Administration’s leadership. The United States is the world’s largest producer of nuclear power, accounting for more than 30 percent of the world’s nuclear electricity generation.
+Decades of research at the Department of Energy (DOE) national laboratories, combined with renewed interest in more cost-effective, flexible, and fuel-efficient designs, have positioned advanced nuclear energy technologies to transform how we produce and manage power. These technologies could open the door to new applications, from providing reliable, around-the-clock electricity to meet the growing needs of data centers to supplying electricity and industrial heat for energy-intensive sectors such as manufacturing, chemical production, and mining.
+Idaho National Laboratory and Oak Ridge National Laboratory, represented by one of our witnesses today, play a critical role in advancing nuclear innovation. From developing and testing new reactor technologies and fuels to providing the research and infrastructure needed to move these technologies toward deployment, their work provides an essential foundation for America’s next generation of nuclear energy.
+In the last 15 months since President Trump signed four executive orders on nuclear energy, we have seen a historic shift in the nation’s approach to expanding nuclear power capacity. President Trump and DOE have moved quickly and decisively to usher in an American nuclear renaissance.
+That leadership has produced tangible results. Last spring, the Trump Administration set an ambitious goal of achieving criticality for at least three advanced reactor concepts outside a national laboratory by July 4, 2026. With support from DOE through the Reactor Pilot Program and the Nuclear Energy Launch Pad, that goal was not only met, but exceeded, with four advanced reactor projects successfully demonstrating zero-power fueled criticality by America’s 250th birthday.
+Today, we are joined by representatives from three of the companies that achieved these milestones: Antares Nuclear, Valar Atomics, and Aalo Atomics. These demonstrations represent significant progress in testing advanced nuclear technologies and moving advanced nuclear reactors closer to commercial deployment.
+Despite this remarkable progress, significant gaps remain, particularly in securing the nuclear fuel supply needed to support advanced reactors. Many advanced reactors will require High-Assay Low-Enriched Uranium (HALEU), which is not yet available at the scale needed for widespread deployment. Expanding domestic enrichment and fuel fabrication capacity will be vital to supporting future demonstrations and commercialization.
+Additionally, the Nuclear Regulatory Commission (NRC) must modernize its regulatory framework to keep pace with advanced nuclear technologies. Outdated processes, lengthy licensing timelines, and unnecessary regulatory burdens can slow innovation and drive up costs. We must ensure the NRC has a modern, risk-informed framework that enables the safe and timely deployment of advanced reactors.
+Nuclear energy plays a vital role in America’s energy security and long-term energy independence. By providing a reliable and secure source of baseload power, nuclear energy can help meet our nation’s growing energy demands.
+We should build on this momentum and continue to foster an environment where American nuclear innovation can move from demonstration to deployment. I look forward to hearing from our witnesses about the lessons learned from these demonstrations and what more we can do to advance safe, commercially viable reactors that strengthen our energy security and technological leadership.
+Thank you for your participation and your contributions to this great nation. I yield back the balance of my time.
+
+### Chairman Babin, Ranking Member Lofgren Request GAO Review of NOAA Weather Satellites
+Link: https://science.house.gov/2026/8/chairman-babin-ranking-member-lofgren-request-gao-review-of-noaa-weather-satellites
+Published: Fri, 240 Aug 2026 12:00:00 EST
+(Washington, D.C.) – Today, House Science, Space, and Technology Committee 
+Chairman Brian Babin
+ and 
+Ranking Member Zoe Lofgren
+ sent a 
+letter <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001lPOq3YH1CPVnH1AdMMlTpSrX181SXCW4sQgy8p37FN8TnIy19ABSvAAsBmbQIoyMTf3LvMEfVamFKoQXxjLmejBFvTSJR3QOs2kvCfB5ePrdtdPfneOXk5l-Qi6rX0ebP61mh5xLuCHiH4II6D51TK_iZn7rkSOxAo5rEJ1ZwfARDLw97AsGJCjae1uCLjC_r6gQDGzUbtiBtS12MWvnX4wUk3VJW0kvm6tguW6q-iV7aisLpJX13U-0gPOoSNxuBZM0ZM3lG_C2FKmjh7ZHzk-QQrBEukr95hAmoktbZTW6bD-b0hGhCFBXw1jZ2tw5mmYKRYvXHNiDlZZI0_clz4XqKumZJ3U9sYpXEE7UWa9nDSFIW1PPpzDHG1cwXdqtE6mMcag2SyY=&c=7y7zJGFKwU5LCc8kawi_wAjvG0pO7MAL60kSihtVGsXyFd4seklTBA==&ch=D1ISNdG6yk3NF-J6qbCVKqjjc7TIv75UpwuV9sfr4SNb4yG4URsTXA==__;!!BSgrhSFG!CdAj3EAoEihNnIeQ_VGZ2WARxaJjRkv8Xr_o10GDVsGxhBJgIge587e49i7ztft8RK0HcBP4dMIj2OyKxXDaLh_s9N1iUi_AtVp5r8yU4jsvOA$>
+to the Government Accountability Office (GAO) requesting recurring reviews of the National Oceanic and Atmospheric Administration’s (NOAA) weather satellite programs, including its next-generation Geostationary Extended Observations (GeoXO) program.
+In the letter, the bipartisan leaders emphasize that weather satellite data "is vital for enhancing severe weather forecasts, improving tornado and hurricane warnings, detecting wildfires, and monitoring flash floods."
+The letter comes as NOAA restructures the GeoXO program, reducing its planned constellation from six satellites to four and lowering its projected life-cycle cost from $19.6 billion to $12 billion. However, the Chairman and Ranking Member note that "these changes and their cost and schedule implications have not been finalized."
+The Members ask GAO to assess GeoXO’s cost, schedule, performance, data continuity, and program risks, as well as the oversight and governance of NOAA’s weather satellite programs and its partnership with NASA.
+To read the full letter, please click 
+here <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001lPOq3YH1CPVnH1AdMMlTpSrX181SXCW4sQgy8p37FN8TnIy19ABSvAAsBmbQIoyMTf3LvMEfVamFKoQXxjLmejBFvTSJR3QOs2kvCfB5ePrdtdPfneOXk5l-Qi6rX0ebP61mh5xLuCHiH4II6D51TK_iZn7rkSOxAo5rEJ1ZwfARDLw97AsGJCjae1uCLjC_r6gQDGzUbtiBtS12MWvnX4wUk3VJW0kvm6tguW6q-iV7aisLpJX13U-0gPOoSNxuBZM0ZM3lG_C2FKmjh7ZHzk-QQrBEukr95hAmoktbZTW6bD-b0hGhCFBXw1jZ2tw5mmYKRYvXHNiDlZZI0_clz4XqKumZJ3U9sYpXEE7UWa9nDSFIW1PPp0rUvRoE_rBZNU_AeUu44Dg=&c=7y7zJGFKwU5LCc8kawi_wAjvG0pO7MAL60kSihtVGsXyFd4seklTBA==&ch=D1ISNdG6yk3NF-J6qbCVKqjjc7TIv75UpwuV9sfr4SNb4yG4URsTXA==__;!!BSgrhSFG!CdAj3EAoEihNnIeQ_VGZ2WARxaJjRkv8Xr_o10GDVsGxhBJgIge587e49i7ztft8RK0HcBP4dMIj2OyKxXDaLh_s9N1iUi_AtVp5r8wTtIn4BQ$>
+.
+
+### Full Committee Hearing - Unleashing the Golden Age of Science: Examining the Priorities of the FY2027 Research and Technology Enterprise
+Link: https://science.house.gov/2026/7/full-committee-hearing-unleashing-golden-age-science-ostp-research-enterprise-priorities-fy27
+Published: Wed, 203 Jul 2026 10:15:00 EST
+
+
+### Opening Statement of Chairman Babin at Unleashing the Golden Age of Science: Examining the Priorities of the FY2027 Research and Technology Enterprise
+Link: https://science.house.gov/2026/7/opening-statement-of-chairman-babin-at-ostp-budget-kratsios
+Published: Wed, 203 Jul 2026 12:00:00 EST
+Good morning, and welcome to today’s hearing on “Unleashing the Golden Age of Science: Examining the Priorities of the FY2027 Research and Technology Enterprise.”
+Director Kratsios, welcome back. The last time you sat before this Committee, we discussed how Congress could build on President Trump’s AI Action Plan, the role of American innovation, and the national security challenges posed by foreign competitors. Six months later, I am glad to say that both the Administration and this Committee have taken meaningful action.
+Last year, President Trump asked you to usher in a Golden Age of American Innovation. This is the standard by which this budget should be judged. A Golden Age is not measured by how much government spends, but by whether taxpayer dollars are focused on the right priorities and produce results that strengthen America’s leadership in science and technology.
+Today’s hearing is about priorities. After years in which Washington too often measured success by dollars obligated rather than by results achieved, this Administration has begun to refocus the federal research enterprise on excellence, accountability, and outcomes.
+I expect today’s discussion will include funding levels, indirect cost policies, Uniform Guidance, and the President’s Budget Request. Those are important discussions, but funding alone is not a measurement of success. The real question is whether taxpayer dollars are being invested wisely and deliver results for the American people.
+This budget directs taxpayer dollars toward the technologies that will decide the next century—artificial intelligence, quantum, advanced manufacturing, nuclear, and biotechnology—while ensuring the science this government funds meets the highest scientific standards.
+The President’s Executive Order on Restoring Gold Standard Science reinforces that commitment by requiring federally funded research to be reproducible, transparent, and honest about uncertainty. Agencies will submit their first annual reports under that Executive Order this September, and this Committee will be reading them.
+Scientific leadership also requires protecting the research we fund. Congress has strengthened research security on a bipartisan basis, and American taxpayers should never subsidize the transfer of cutting-edge research to our foreign adversaries.
+America enters this competition from a position of strength. According to Stanford’s AI 2026 Index, private investment in American AI companies reached nearly $286 billion last year—more than twenty-three times China’s and more than the rest of the world combined.
+But we should be clear-eyed about the competition. The Chinese Communist Party has made artificial intelligence a national priority and is spending accordingly. Chinese frontier models now trail America’s by only a few points on leading benchmarks, and Beijing continues targeting our universities and National Laboratories to obtain cutting-edge research.
+That is exactly why this budget matters.
+The Administration has laid out a strategy to preserve American leadership in critical technologies. Executive Order 14409 hardens our systems against AI-enabled cyberattacks by partnering with American industry rather than regulating it into the ground.
+National Security Presidential Memorandum 11 is helping ensure our warfighters have access to reliable and trustworthy AI capabilities, while the Genesis Mission is leveraging our National Laboratories and supercomputing infrastructure to accelerate scientific discovery.
+This Committee has done its part. Across several markups this Congress, we have reported out the National Quantum Initiative Reauthorization Act, the NOAA Weather Radio Modernization Act, the NASA Reauthorization Act, the Weather Act Reauthorization Act, and other bipartisan measures to strengthen the American science and technology enterprise.
+Last month, we also approved ten bipartisan AI bills, including my AI-Ready Federal Data Guidelines Act, which implements a recommendation in the AI Action Plan to make scientific data AI-ready. We also approved the AI Security and Innovation Act, authorizing the Center for AI Standards and Innovation at NIST to bolster AI evaluation capabilities essential to both national security and American leadership.
+Director Kratsios, we look forward to hearing about how this budget advances the Administration’s priorities, strengthens OSTP, NSF, and NIST, implements Gold Standard Science, protects the federal research enterprise, and ensures the United States remains the world’s leader in science and technology.
+I appreciate your being here today, and I welcome your testimony.
+With that, I yield back the balance of my time.
+
+### Full Committee Markup of H.R. 3168, H.R. 8437, H.R. 9326, and H.R. 8981
+Link: https://science.house.gov/2026/7/full-committee-markup-of-h-r-3168-h-r-8437-and-h-r-9326
+Published: Tue, 202 Jul 2026 10:00:00 EST
+Opening Statement: 
+Chairman Brian Babin <https://science.house.gov/2026/7/opening-statement-of-chairman-babin-at-full-committee-markup-of-h-r>
+Full Committee Markup of:
+H.R. 3168, National Earthquake Hazards Reduction Program Reauthorization Act of 2025 <https://science.house.gov/2026/7/h-r-3168-national-earthquake-hazards-reduction-program-reauthorization-act-of-2025>
+ - favorably reported to the House by voice vote
+The National Earthquake Hazards Reduction Program Reauthorization Act of 2026 reauthorizes NEHRP through FY 2031 and modernizes federal efforts to improve earthquake monitoring, early warning capabilities, hazard mapping, and seismic resilience. It also strengthens coordination among federal agencies and with state, local, and Tribal partners.
+Amendment in the Nature of a Substitute (ANS) to H.R. 3168, offered by Rep. Babin (R-TX) <https://republicans-science.house.gov/_cache/files/5/a/5a8ac7f8-b7a2-4c93-a4e5-409205251dba/A1859C50C17840F30AD6BE0C256C17E584E42B5136AD8C2CC3D8B9B1ADF955C8.hr3168-ans-xml.pdf>
+ - passed by voice vote
+Makes conforming and technical changes to the bill.
+Amendment #049 to the ANS to H.R. 3168, offered by Rep. Webster (R-FL) <https://republicans-science.house.gov/_cache/files/2/0/20920988-bfa2-45a1-99df-79afab4f2598/429A1D63E6B5F559D4BA808A906330B138F3265E083B33B0ABA3A39E0DD1F726.webste-049-xml.pdf>
+ - passed by voice vote
+Coordinate with the Administrators of the FAA and NASA to study the feasibility of using earthquake monitor data to detect sonic booms caused by meteorites or uncontrolled space debris reentering Earth's atmosphere.
+Amendment #116 to the ANS to H.R. 3168, offered by Rep. Bonamici (D-OR) <https://republicans-science.house.gov/_cache/files/7/3/73a66f62-ecfe-4421-a9f0-8699a7ae5279/33A8AEC5146EF26BE116CBBDF6556D72F4629606EC1086B01701CBC777696B13.bonami-116-xml.pdf>
+ - passed by voice vote
+Directs NIST to conduct a national risk assessment of earthquake resilience gaps and progress with interagency, state, local, and Tribal partners.
+Amendment #117 to the ANS to H.R. 3168, offered by Rep. Bonamici (D-OR) <https://republicans-science.house.gov/_cache/files/7/1/71b45dfa-17db-429a-9ed4-c91be5cb6f80/B3861CF938F824EDF0B52105A04F62208C1837E8309D97D8E6567B8475C0CF7C.bonami-117-xml.pdf>
+ - passed by voice vote
+Directs FEMA to evaluate the reliability and timeliness of earthquake early warning communications and provide recommendations.
+H.R. 8437, Geo POWER Act <https://science.house.gov/2026/7/h-r-8437-geo-power-act>
+ - favorably reported to the House by voice vote
+The Geo POWER Act establishes a milestone-based demonstration program to accelerate next-generation geothermal energy projects in new regions across the United States. The bill uses innovative financing to reduce project risk, attract private investment, and expand reliable domestic geothermal electricity generation.
+Amendment in the Nature of a Substitute (ANS) to H.R. 8437, offered by Rep. Begich (R-AK) <https://republicans-science.house.gov/_cache/files/1/d/1d7bf378-6066-4e1f-98f5-0cad7de84ac4/5CBA7829B1ABFD85708AA21DF58D6A317AD1D72FC6C78512613BC3B6E96F5E9D.hr8437-ans-xml.pdf>
+ - passed by voice vote
+Makes conforming and technical changes to the bill.
+Amendment #114 to the ANS to H.R. 8437, offered by Rep. Bonamici (D-OR) <https://republicans-science.house.gov/_cache/files/b/1/b16a40d2-d5c0-47c2-8b2c-62818cd3ee28/4136D9A2CA1198989B9EC0A6EAF15DB6FBBF7A583CEFF8259C88A8A239712C25.bonami-114-xml.pdf>
+ - passed by voice vote
+Directs DOE to report on technical and financial milestones of selected projects and describe the innovative financing mechanisms used under the Program.
+Amendment #115 to the ANS to H.R. 8437, offered by Rep. Bonamici (D-OR) <https://republicans-science.house.gov/_cache/files/8/7/87283b9f-dbb7-478c-8a0e-ae5d82fc56a5/37ACA6095925B259A781A2FCADE526E238F703D3EFD634BE25D898A1C00C190C.bonami-115-xml.pdf>
+ - passed by voice vote
+Includes geothermal projects sited where DOE has previously invested in EGS data collection and infrastructure in Program priority criteria.
+H.R. 9326, USA Act <https://science.house.gov/2026/7/h-r-9326-usa-act>
+ - favorably reported to the House by voice vote
+The USA Act strengthens American leadership in setting international technical standards for artificial intelligence and other critical and emerging technologies. It promotes a private sector-led approach, improves federal coordination, and helps ensure U.S. companies—not foreign competitors—shape the rules governing the technologies of the future.
+Amendment in the Nature of a Substitute (ANS) to H.R. 9326, offered by Rep. Webster (R-FL) <https://republicans-science.house.gov/_cache/files/7/1/7103dc0a-aee3-48aa-9128-1eda0ff68662/6AAF042BCA33CD9A158D40FC339A4AD355F329CE8811B76B4582D11A51E3EB3A.hr9326-ans-xml.pdf>
+ - passed by voice vote
+Makes conforming and technical changes to the bill.
+Amendment #087 to the ANS to H.R. 9326, offered by Rep. Foushee (D-NC) <https://republicans-science.house.gov/_cache/files/f/3/f3cf9478-fbc4-40b5-ac8b-3ec5d8638c95/7C371D6455B4FB6CB4A5DEB088CAC98245BF904F638E535274227B332C30EDB8.foushe-087-xml-revised-.pdf>
+ - passed by voice vote
+To increase the participation of U.S. stakeholders in the standards development process.
+Amendment #086 to the ANS to H.R. 9326, offered by Rep. Foushee (D-NC) <https://republicans-science.house.gov/_cache/files/6/9/69c72806-5827-460a-ac4c-5102d3da55ad/A11F663EA85D428201BACD0D2397C80CCFAD7DCB73534B06BCBB237173F14511.foushe-086-xml.pdf>
+ - passed by voice vote
+To safeguard sensitive information against improper release
+Amendment #113 to the ANS to H.R. 9326, offered by Rep. Bonamici (D-OR) <https://republicans-science.house.gov/_cache/files/5/b/5b98b766-3bef-4509-8da3-28926681d047/DF8980FFAB1347E15B247798D623FA4EB6E491C90FC0A00E8AD09A9D8681B48E.bonami-113-xml.pdf>
+ - passed by voice vote
+Includes an assessment and recommendations to address barriers for small- and medium-sized business, universities, and nonprofits to participate in AI standards development in briefing elements.
+Amendment #112 to the ANS to H.R. 9326, offered by Rep. Bonamici (D-OR) <https://republicans-science.house.gov/_cache/files/9/6/96094c0f-2fbb-4185-af85-fef6876a2990/F25C8AB5290F0011F7C7957401F30050C5F85B631B01B0429C340F55DFD34703.bonami-112-xml.pdf>
+ - passed by voice vote
+Includes consideration of entities that support improved access to participation in standards development meetings in NIST grant decisions.
+H.R. 8981, Standards and Calibration for American Leadership in Engineering Biology Act <https://science.house.gov/2026/7/h-r-8981>
+ - passed by voice vote
+The Standards and Calibration for American Leadership in Engineering Biology (SCALE Biology) Act establishes a biometrology program at the National Institute of Standards and Technology (NIST) to advance measurement science, technical standards, and research for engineering biology, biomanufacturing, and biotechnology. The bill aims to strengthen U.S. leadership in the bioeconomy by improving the reliability of biological data, supporting innovation and industrial competitiveness, and promoting the safe, secure, and responsible development of biotechnology.
+Amendment in the Nature of a Substitute (ANS) to H.R. 8981, offered by Rep. McClain Delaney (D-MD) <https://republicans-science.house.gov/_cache/files/5/2/52331f90-e086-4df5-9cac-bf93c157fb96/81B1B919FC04A22FF5EDC00716CCD3C930841FEE585FE87839E0DFF1C9CDDAC9.hr8981-ans-xml.pdf>
+ - passed by voice vote
+Makes conforming and technical changes to the bill.
+Amendment #104 to the ANS to H.R. 8981, offered by Rep. McClain Delaney (D-MD) <https://republicans-science.house.gov/_cache/files/5/e/5ec69ae5-0dc7-43e7-85ca-51df0d104ffd/A65F667A75837AB193BB3375A225DDD1F0D29E3C5D9634487A8AFEB5EFDAC297.mcclmd-104-xml.pdf>
+ - withdrawn
+This amendment would authorize funding for the biometrology program established by the bill.
+
+### Chairman Babin Applauds Committee Passage of Bipartisan Legislation
+Link: https://science.house.gov/2026/7/chairman-babin-applauds-committee-passage-of-bipartisan-legislation
+Published: Tue, 202 Jul 2026 12:00:00 EST
+(Washington, D.C.) –
+ Today, House Science, Space, and Technology Committee 
+Chairman Brian Babin
+ released the following statement after the Committee 
+passed <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001i5SQKf6i7-m_MPiaxi2T38hmzGXzQe3BOhayvvzscYR6OZZFO4iExygc7jHir5LfJlUuvbLCJf6vtT5_V7U9ZsD5v4NH0zHMvU8IgwVAfyVXVJkAKesWbUQAk53krZg7V2Nib6C04ogg5B5-7TCgKOTxQHQs_it4Ed1zCPV9jpY-zQMYVFK6V4mOU-WLKAFAW3np9UxopKU2vj6kp2JviPl-o229eGOmISs7MBJpps25h5nblk_Qjg==&c=ScPVxCDoSbwpVVW-1MySP1Mb8PR-Bn3GEC8KGlY1h45B0XMbIF542Q==&ch=c7gbQxRilGn73L6JVzWpMx0YjuFp7Z-YV5-LPdmnYCL4NHS8ljPeWg==__;!!BSgrhSFG!GBQcrbsLbjtXDUnNYZUMR_xPCnxgZXelQ77IYuBcTjfMiRj-Q7MS5ik-qJkCB9_zEHgsoWgliKzHc805ZzUMvAt3JUULeOfQn9pnApSMw7lOQg$>
+ four bipartisan bills to strengthen America's research enterprise, improve public safety, support domestic energy development, and reinforce U.S. leadership in critical and emerging technologies. The Committee approved 
+H.R. 3168, the National Earthquake Hazards Reduction Program Reauthorization Act of 2025 <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001i5SQKf6i7-m_MPiaxi2T38hmzGXzQe3BOhayvvzscYR6OZZFO4iExygc7jHir5LfQQCjH7NZv58eX8mKkaYcRJMK9-rOshvanV7rzIJ9_y7DXDfkLYXu4eWSjt0rXaBGAAG1rKfh-ddgKFF05lyXegxoMYK3wVxN-SwcnOrng5GvWae2jIArOgHWjF_nGoAvAxEijbLNalP8sH0AFbq4rWydkAke1uWL_OJ_A5vSvvpfIzZ3UPILo9iOjwg3pHKlHjaMZUglHY1okfpfkKXdM7QxYzRNOKAZ&c=ScPVxCDoSbwpVVW-1MySP1Mb8PR-Bn3GEC8KGlY1h45B0XMbIF542Q==&ch=c7gbQxRilGn73L6JVzWpMx0YjuFp7Z-YV5-LPdmnYCL4NHS8ljPeWg==__;!!BSgrhSFG!GBQcrbsLbjtXDUnNYZUMR_xPCnxgZXelQ77IYuBcTjfMiRj-Q7MS5ik-qJkCB9_zEHgsoWgliKzHc805ZzUMvAt3JUULeOfQn9pnApRxwinl6A$>
+; 
+H.R. 8437, the Geo POWER Act <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001i5SQKf6i7-m_MPiaxi2T38hmzGXzQe3BOhayvvzscYR6OZZFO4iExygc7jHir5LfAyNBhJetyTXb4GFN0ilqTSYy1D3DPuew0cbzoO5jB0KRJG_B407T5qbRMsaXyXFGh8LgWFdzJrslxeHpbQK-wwcFT58UoVdaoyb0tAL4blNThQY-brJVqTKUl21ixgDZucWaIOarYS8=&c=ScPVxCDoSbwpVVW-1MySP1Mb8PR-Bn3GEC8KGlY1h45B0XMbIF542Q==&ch=c7gbQxRilGn73L6JVzWpMx0YjuFp7Z-YV5-LPdmnYCL4NHS8ljPeWg==__;!!BSgrhSFG!GBQcrbsLbjtXDUnNYZUMR_xPCnxgZXelQ77IYuBcTjfMiRj-Q7MS5ik-qJkCB9_zEHgsoWgliKzHc805ZzUMvAt3JUULeOfQn9pnApSO17iPqg$>
+;
+H.R. 9326, the Utilize Standards for All Act <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001i5SQKf6i7-m_MPiaxi2T38hmzGXzQe3BOhayvvzscYR6OZZFO4iExygc7jHir5LfNv1rJPlv0zC-ouH65fxkTucDj1n9rEvMvy4XLU6m5UXi5qyiMQiyxcq2eBff284pG6lbQUd5xjzfot4q4Fz7i7cJpAdp2z2rlERfvgxTy0BQZTv-UET5H5EXga4Gvn1mCGkoiZmD5fU=&c=ScPVxCDoSbwpVVW-1MySP1Mb8PR-Bn3GEC8KGlY1h45B0XMbIF542Q==&ch=c7gbQxRilGn73L6JVzWpMx0YjuFp7Z-YV5-LPdmnYCL4NHS8ljPeWg==__;!!BSgrhSFG!GBQcrbsLbjtXDUnNYZUMR_xPCnxgZXelQ77IYuBcTjfMiRj-Q7MS5ik-qJkCB9_zEHgsoWgliKzHc805ZzUMvAt3JUULeOfQn9pnApQzL7ixQQ$>
+; and 
+H.R. 8981, the SCALE Biology Act <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001i5SQKf6i7-m_MPiaxi2T38hmzGXzQe3BOhayvvzscYR6OZZFO4iEx1jaWcwaDtW2-RsnXMAb0bh41Cq4v8XRQ7B0NsxoARWugZjw7u2C1nKVI7D3vDY6E1UppfWEq3BqFnToT5_safsL-Z9WXYVDhIwmp-FbzQ5NIyQ7y7y01_KUXzhENzkTn4jrvOl_bClE&c=ScPVxCDoSbwpVVW-1MySP1Mb8PR-Bn3GEC8KGlY1h45B0XMbIF542Q==&ch=c7gbQxRilGn73L6JVzWpMx0YjuFp7Z-YV5-LPdmnYCL4NHS8ljPeWg==__;!!BSgrhSFG!GBQcrbsLbjtXDUnNYZUMR_xPCnxgZXelQ77IYuBcTjfMiRj-Q7MS5ik-qJkCB9_zEHgsoWgliKzHc805ZzUMvAt3JUULeOfQn9pnApS8e9VhOQ$>
+.
+“America's leadership depends on our ability to anticipate tomorrow's challenges while investing in tomorrow's opportunities,” 
+said Chairman Babin
+. “These bipartisan bills strengthen public safety, support American energy, promote U.S. leadership in global standards, and advance the research that will shape the future. I thank my colleagues for working together to move this legislation forward.”
+Highlights of 
+H.R. 3168 <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001i5SQKf6i7-m_MPiaxi2T38hmzGXzQe3BOhayvvzscYR6OZZFO4iExygc7jHir5LfQQCjH7NZv58eX8mKkaYcRJMK9-rOshvanV7rzIJ9_y7DXDfkLYXu4eWSjt0rXaBGAAG1rKfh-ddgKFF05lyXegxoMYK3wVxN-SwcnOrng5GvWae2jIArOgHWjF_nGoAvAxEijbLNalP8sH0AFbq4rWydkAke1uWL_OJ_A5vSvvpfIzZ3UPILo9iOjwg3pHKlHjaMZUglHY0dbs7WqJMCgrkXJFkN2V36&c=ScPVxCDoSbwpVVW-1MySP1Mb8PR-Bn3GEC8KGlY1h45B0XMbIF542Q==&ch=c7gbQxRilGn73L6JVzWpMx0YjuFp7Z-YV5-LPdmnYCL4NHS8ljPeWg==__;!!BSgrhSFG!GBQcrbsLbjtXDUnNYZUMR_xPCnxgZXelQ77IYuBcTjfMiRj-Q7MS5ik-qJkCB9_zEHgsoWgliKzHc805ZzUMvAt3JUULeOfQn9pnApTdDW7r0Q$>
+: 
+Strengthens earthquake early warning and expands detection capabilities.
+Modernizes hazard reduction through updated building standards and hazard mapping.
+Expands earthquake research and improves federal coordination with state, local, and tribal partners.
+Highlights of 
+H.R. 8437 <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001i5SQKf6i7-m_MPiaxi2T38hmzGXzQe3BOhayvvzscYR6OZZFO4iExygc7jHir5LfAyNBhJetyTXb4GFN0ilqTSYy1D3DPuew0cbzoO5jB0KRJG_B407T5qbRMsaXyXFGh8LgWFdzJrslxeHpbQK-wwcFT58UoVdaoyb0tAL4blNThQY-brJVqTKUl21ixgDZaDezg_U_XQI=&c=ScPVxCDoSbwpVVW-1MySP1Mb8PR-Bn3GEC8KGlY1h45B0XMbIF542Q==&ch=c7gbQxRilGn73L6JVzWpMx0YjuFp7Z-YV5-LPdmnYCL4NHS8ljPeWg==__;!!BSgrhSFG!GBQcrbsLbjtXDUnNYZUMR_xPCnxgZXelQ77IYuBcTjfMiRj-Q7MS5ik-qJkCB9_zEHgsoWgliKzHc805ZzUMvAt3JUULeOfQn9pnApTr0S0SEQ$>
+:
+Accelerates next-generation geothermal energy development through demonstration projects.
+Supports innovative technologies and expands access to new geothermal resources.
+Promotes data sharing and investment in emerging geothermal solutions.
+Highlights of 
+H.R. 9326 <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001i5SQKf6i7-m_MPiaxi2T38hmzGXzQe3BOhayvvzscYR6OZZFO4iExygc7jHir5LfNv1rJPlv0zC-ouH65fxkTucDj1n9rEvMvy4XLU6m5UXi5qyiMQiyxcq2eBff284pG6lbQUd5xjzfot4q4Fz7i7cJpAdp2z2rlERfvgxTy0BQZTv-UET5H7V5gEmEV6J0vTxCD9pm1IY=&c=ScPVxCDoSbwpVVW-1MySP1Mb8PR-Bn3GEC8KGlY1h45B0XMbIF542Q==&ch=c7gbQxRilGn73L6JVzWpMx0YjuFp7Z-YV5-LPdmnYCL4NHS8ljPeWg==__;!!BSgrhSFG!GBQcrbsLbjtXDUnNYZUMR_xPCnxgZXelQ77IYuBcTjfMiRj-Q7MS5ik-qJkCB9_zEHgsoWgliKzHc805ZzUMvAt3JUULeOfQn9pnApSQcHvkXg$>
+:
+Advances U.S. leadership in global AI standards efforts.
+Connects federal agencies and industry to strengthen standards engagement.
+Increases opportunities for U.S. participation in international standards development.
+Highlights of 
+H.R. 8981 <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001i5SQKf6i7-m_MPiaxi2T38hmzGXzQe3BOhayvvzscYR6OZZFO4iEx1jaWcwaDtW2-RsnXMAb0bh41Cq4v8XRQ7B0NsxoARWugZjw7u2C1nKVI7D3vDY6E1UppfWEq3BqFnToT5_safsL-Z9WXYVDhIwmp-FbzQ5NIyQ7y7y01_K1V6QqKDDmSepvFjg-MTnI&c=ScPVxCDoSbwpVVW-1MySP1Mb8PR-Bn3GEC8KGlY1h45B0XMbIF542Q==&ch=c7gbQxRilGn73L6JVzWpMx0YjuFp7Z-YV5-LPdmnYCL4NHS8ljPeWg==__;!!BSgrhSFG!GBQcrbsLbjtXDUnNYZUMR_xPCnxgZXelQ77IYuBcTjfMiRj-Q7MS5ik-qJkCB9_zEHgsoWgliKzHc805ZzUMvAt3JUULeOfQn9pnApS9vb8XYg$>
+:
+Advances biotechnology innovation through improved measurement science and standards.
+Strengthens collaboration between NIST, industry, and research partners.
+Supports safe and secure growth of the U.S. bioeconomy.
+
+### Chairman Babin, Ranking Member Lofgren Urge FCC to Postpone Vote on "Space Modernization" Rules
+Link: https://science.house.gov/2026/7/chairman-babin-ranking-member-lofgren-urge-fcc-to-postpone-vote-on-space-modernization-rules
+Published: Tue, 202 Jul 2026 12:00:00 EST
+(Washington, D.C.) – Today, House Science, Space, and Technology Committee 
+Chairman Brian Babin
+ and 
+Ranking Member Zoe Lofgren
+ sent a 
+letter <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001l5dLLXpAZV5yFnEX_hRKdyvYm__vNBqRVNeKmkGpCDKQRhukzycCAzPYxC-70ml94tuE-2Hjg-tNn27G7XXQQuk7CTySiGOr_jOhhk0NDuRMP8QjpaaHmBk9gv5EUxx-FGGErsgOks51XeiHpQhXpsuapbRJkILFTn2pqcdbk4j9og1Pm-PLfpqAhm-UiF7bKDUZz0sAs5ly8_Gnw8yzgcTVbjQBzmeJJI_QFvoWsOdMS7f7gCs078vnDN0tZpvSCGWbaHSqzvnQJt8Irx6kw7C68YvKMFQ3Ms_yp6C3B06NFAm86iYSL20PtsTIzDAjxspAkd2TctIj4CVC25VDDiozaFmQxfMNxFu3HTO0ftQNkANwSt98Z1vLTheG9KXUdbdCJP8i87ZQEyNoJJF05qG0pXB9fhnaOdlEUnsXsPnv7zurb_weYF-Th-YnJEkGBYquTT306RAPof3RoxXpSQ==&c=xCsySew1MeKyTs_FmrqoJTRSfV2DDbzsLuhnZpwySFbsbLjPoTMcYQ==&ch=3Kyv8fAqr3YKjp3CI5ZZjku3JW1eCbV5ESpSw7nrRYd_XLkfwDmEKQ==__;!!BSgrhSFG!FLrc7NdeHpqp5unnJe2qzLVjkbdfUrBD2gh9htIRcn-fhw5XDv2wXfkee1nTq4fP0sgGDr5Dz5pW_03QFhcnqzRybq9mLMknRphlKR5KXlDMvg$>
+ to Federal Communications Commission (FCC) Chairman Brendan Carr urging the Commission to postpone consideration of its Report and Order (R&O) and Further Notice of Proposed Rulemaking (FNPRM) related to its "Space Modernization for the 21st Century" proposal.
+In the letter, the bipartisan leaders urge the Commission to "postpone its consideration" of the proposal and "confine its regulations to the authority Congress has granted the FCC regarding radiofrequency communications licensing for private space systems."
+The Chairman and Ranking Member also note that they did not receive a response to their February 2026 letter and write that "the concerns we identified in our February letter remain" as the Commission moves forward with the R&O and FNPRM.
+The Members further write that Committee letters are intended "to establish dialogue, exchange information, and revisit our respective roles and authorities."
+The letter concludes, "In the absence of responsive action, constructive dialogue, and a meaningful exchange of information on this matter, we must consider all appropriate legislative and oversight tools available to us."
+To read the full letter, please click 
+here <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001l5dLLXpAZV5yFnEX_hRKdyvYm__vNBqRVNeKmkGpCDKQRhukzycCAzPYxC-70ml94tuE-2Hjg-tNn27G7XXQQuk7CTySiGOr_jOhhk0NDuRMP8QjpaaHmBk9gv5EUxx-FGGErsgOks51XeiHpQhXpsuapbRJkILFTn2pqcdbk4j9og1Pm-PLfpqAhm-UiF7bKDUZz0sAs5ly8_Gnw8yzgcTVbjQBzmeJJI_QFvoWsOdMS7f7gCs078vnDN0tZpvSCGWbaHSqzvnQJt8Irx6kw7C68YvKMFQ3Ms_yp6C3B06NFAm86iYSL20PtsTIzDAjxspAkd2TctIj4CVC25VDDiozaFmQxfMNxFu3HTO0ftQNkANwSt98Z1vLTheG9KXUdbdCJP8i87ZQEyNoJJF05qG0pXB9fhnaOdlEUnsXsPnv7zurb_weYF-Th-YnJEkG7d9YW6qtK41FuyV6o9EwQg==&c=xCsySew1MeKyTs_FmrqoJTRSfV2DDbzsLuhnZpwySFbsbLjPoTMcYQ==&ch=3Kyv8fAqr3YKjp3CI5ZZjku3JW1eCbV5ESpSw7nrRYd_XLkfwDmEKQ==__;!!BSgrhSFG!FLrc7NdeHpqp5unnJe2qzLVjkbdfUrBD2gh9htIRcn-fhw5XDv2wXfkee1nTq4fP0sgGDr5Dz5pW_03QFhcnqzRybq9mLMknRphlKR4DkkmJhw$>
+.
+To view previous letters the Committee has sent on this topic, please click the links below:
+2020 Letter to FCC Chairman Ajit Pai <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001l5dLLXpAZV5yFnEX_hRKdyvYm__vNBqRVNeKmkGpCDKQRhukzycCAz2hn0Axwx_8O1tWjgFzNIBP49AfueOr7cDZi4eMkNCNIYbTiaiwG-c4EMfcP1ERwIYFGnLocNzSu6MX8ufpU78kIPT1feTlLOvPTGtzk3oO1r5C7rjnd46jZZhredC8GqfBT4P_RflUHEpkJny_Bgc7rT4LuhtB-HsT4BC-CGG6-DtbAQN1vhXirLKeP3tbZLtO17c0jblOlAx-y88gi9WforsMIm-YQxmGRjUemPh-ig1b_WWRuG5yD06dtAWJIYOnszHfHw84fy_P6X4HJMSqci7QFNsTBFNrV2iAqedZm_WIr0pluAIe1c1ZfePChkTJcBabSNYvvk8GAzr_Mwyyrxj2GfUjhlW37HHmAtU6KSVFB5siF7M=&c=xCsySew1MeKyTs_FmrqoJTRSfV2DDbzsLuhnZpwySFbsbLjPoTMcYQ==&ch=3Kyv8fAqr3YKjp3CI5ZZjku3JW1eCbV5ESpSw7nrRYd_XLkfwDmEKQ==__;!!BSgrhSFG!FLrc7NdeHpqp5unnJe2qzLVjkbdfUrBD2gh9htIRcn-fhw5XDv2wXfkee1nTq4fP0sgGDr5Dz5pW_03QFhcnqzRybq9mLMknRphlKR5z5HD-HA$>
+2022 Letter to FCC Chairwoman Jessica Rosenworcel <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001l5dLLXpAZV5yFnEX_hRKdyvYm__vNBqRVNeKmkGpCDKQRhukzycCAz2hn0Axwx_8xRCu6PavLzq12YqutjiS-qU_rjv6D9Ug2CtvYjNMRFxWz-unlOoBQIpFdhb4SuDxhLN4cWmuvZFkABVJJJHh1KHUwLFtGyBZb_SN0uz8oCspUH6ALOzgc43oKke2Alwyq1s3IxrMgScXyHzFKPgviA00Nbzg_uTTjQXbz3BS0YRSxprU3FrOkHVUk2-Zp8XCzytfmhMYUZdCe_-lJWolf_iEnx79a-4-R5WPoPjxEkozSAbkgvdh2MekEEJjf-WT_4d57Bfl4To25cpufMubi8BReSo5DDSCjSTu0V1v6i1u2gsbzON9l65mu_OJqERXS0VOdZix3n692kOII_bGOyuQ-9xPZYqypiTtyIB3gbeLHwG6ShEiPg==&c=xCsySew1MeKyTs_FmrqoJTRSfV2DDbzsLuhnZpwySFbsbLjPoTMcYQ==&ch=3Kyv8fAqr3YKjp3CI5ZZjku3JW1eCbV5ESpSw7nrRYd_XLkfwDmEKQ==__;!!BSgrhSFG!FLrc7NdeHpqp5unnJe2qzLVjkbdfUrBD2gh9htIRcn-fhw5XDv2wXfkee1nTq4fP0sgGDr5Dz5pW_03QFhcnqzRybq9mLMknRphlKR5vmuuvSQ$>
+2026 Letter to FCC Chairman Brendan Carr <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001l5dLLXpAZV5yFnEX_hRKdyvYm__vNBqRVNeKmkGpCDKQRhukzycCAz2hn0Axwx_84Lfnj6zAl-lO5Sc8b1Ot6H5PW6mgYuArRr4QNcEAvAsAPq8jqsYYJn_TomMTIt68l6nLPNBYGEddIFjrmsXB3F1N7O2V9wEo-Wu0qSVxZfafVCjgqJf6B8_xykSgipcWbrSCgFPVxsvnN0HJZoIGY1GZ6l237M72F6ZzE-i-ZiKqZj3nT9IKxPDFwonKydBechqjZTJ3NV2REGTKHWjzQ7LKpxqpT8LZoYjr5zcfwXDfjyjMRhSqhm0mPmotdlzJByow4cgRjN2vtxZAxwOw5TyR6d7qgGG03sR6hfKVwziTQDQnNLuEn7VvLuQSc7zdBQwy1YFywqEU_O9MiPsY44puMEY4nuO-&c=xCsySew1MeKyTs_FmrqoJTRSfV2DDbzsLuhnZpwySFbsbLjPoTMcYQ==&ch=3Kyv8fAqr3YKjp3CI5ZZjku3JW1eCbV5ESpSw7nrRYd_XLkfwDmEKQ==__;!!BSgrhSFG!FLrc7NdeHpqp5unnJe2qzLVjkbdfUrBD2gh9htIRcn-fhw5XDv2wXfkee1nTq4fP0sgGDr5Dz5pW_03QFhcnqzRybq9mLMknRphlKR78xgT_dg$>

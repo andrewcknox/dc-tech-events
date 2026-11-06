@@ -1,0 +1,38 @@
+# JHU Data Science and AI Institute
+# https://ai.jhu.edu/events/
+# fetched 2026-11-06T08:01:15.266581-05:00
+# tags: jhu, university
+
+Events
+Refine Your Results:
+Nov
+10
+The Future of Next <https://ai.jhu.edu/event/the-future-of-next/>
+9:00 AM
+Location: 
+JHU Bloomberg Center, 555 Pennsylvania Avenue NW, Washington, DC
+Read More <https://ai.jhu.edu/event/the-future-of-next/>
+Nov
+10
+PLAY: Scale Simulation-Based Learning with AI <https://ai.jhu.edu/event/play-scale-simulation-based-learning-with-ai/>
+12:00 PM
+Location: 
+Zoom
+Organization: 
+Bloomberg School of Public Health Center for Teaching and Learning (CTL) <https://ai.jhu.edu/events/?organization[]=bloomberg-school-of-public-health-center-for-teaching-and-learning-ctl>
+Read More <https://ai.jhu.edu/event/play-scale-simulation-based-learning-with-ai/>
+Nov
+19
+Pitch Competition: Winning Strategies to Integrate AI into Gender and Health <https://ai.jhu.edu/event/ai-for-gender-equity-innovation-challenge/>
+9:00 AM
+Location: 
+Mt. Washington campus
+Read More <https://ai.jhu.edu/event/ai-for-gender-equity-innovation-challenge/>
+Dec
+14
+Johns Hopkins Research Symposium on Engineering in Healthcare: Embodied AI in Healthcare <https://ai.jhu.edu/event/2026-johns-hopkins-research-symposium-on-engineering-in-healthcare-embodied-ai-in-healthcare/>
+9:30 AM
+Location: 
+Glass Pavilion, Homewood campus
+Health and Medicine <https://ai.jhu.edu/events/?topic[]=health-and-medicine>
+Read More <https://ai.jhu.edu/event/2026-johns-hopkins-research-symposium-on-engineering-in-healthcare-embodied-ai-in-healthcare/>

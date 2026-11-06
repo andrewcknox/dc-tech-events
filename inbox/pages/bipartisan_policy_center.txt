@@ -1,0 +1,18 @@
+# Bipartisan Policy Center
+# https://bipartisanpolicy.org/events/
+# fetched 2026-11-06T08:01:15.266581-05:00
+# tags: think-tank
+
+Event
+ Aging of America: Supporting Family Caregivers and Direct Care Workers
+ The nation faces a severe, longstanding shortage of direct care workers to serve older adults and...
+ Health
+ Dec 1, 2026
+ 12:00 p.m. to 1:00 p.m. EST
+ Online <https://bipartisanpolicy.org/event/aging-of-america-supporting-family-caregivers-and-direct-care-workers/>
+Event
+ 2026 Elections Summit 
+ In a time of rapid change and evolving challenges to our electoral processes, collective reflection...
+ Governance
+ Dec 7, 2026
+ 9:00 a.m. to 4:00 p.m. EST <https://bipartisanpolicy.org/event/2026-elections-summit/>

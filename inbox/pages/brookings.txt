@@ -1,6 +1,6 @@
 # Brookings
 # https://www.brookings.edu/events/
-# fetched 2026-11-04T13:15:06.937065-05:00
+# fetched 2026-11-06T08:01:15.266581-05:00
 # tags: think-tank
 
 Events
@@ -10,27 +10,9 @@ Terms and Conditions of Attendance <https://www.brookings.edu/wp-content/uploads
 .
  Featured Events
 November
-05
-2026
-Israel after the elections: What’s next for US-Israel relations? <https://www.brookings.edu/events/israel-after-the-elections-whats-next-for-us-israel-relations/>
- Online Only
- Thursday, 10:00 am - 11:00 am EST
-US biosafety policy and regulations: Assessing the landscape <https://www.brookings.edu/events/us-biosafety-policy-and-regulations-assessing-the-landscape/>
- Upcoming Event
-November
-05
-2026
-Regulatory Policy <https://www.brookings.edu/topics/regulatory-policy/>
- US biosafety policy and regulations: Assessing the landscape
- The Brookings Institution, Washington D.C.
- Thursday, 2:00 pm - 2:45 pm EST
-Building the conditions to thrive: Improving well-being for men and boys of color <https://www.brookings.edu/events/building-the-conditions-to-thrive-improving-well-being-for-men-and-boys-of-color/>
- Upcoming Event
-November
 09
 2026
-Race in Public Policy <https://www.brookings.edu/topics/race-in-american-public-policy/>
- Building the conditions to thrive: Improving well-being for men and boys of color
+Building the conditions to thrive: Improving well-being for men and boys of color <https://www.brookings.edu/events/building-the-conditions-to-thrive-improving-well-being-for-men-and-boys-of-color/>
  Online only
  Monday, 11:00 am - 12:00 pm EST
 What comes next: The consequences of the 2026 midterm elections <https://www.brookings.edu/events/what-comes-next-the-consequences-of-the-2026-midterm-elections/>
@@ -42,25 +24,25 @@ Campaigns & Elections <https://www.brookings.edu/topics/campaigns-elections/>
  What comes next: The consequences of the 2026 midterm elections
  Online only
  Monday, 2:00 pm - 3:00 pm EST
-Upcoming
-Israel after the elections: What&#8217;s next for US-Israel relations? <https://www.brookings.edu/events/israel-after-the-elections-whats-next-for-us-israel-relations/>
+Deterrence in the Pacific: A conversation with Admiral Paparo <https://www.brookings.edu/events/deterrence-in-the-pacific-a-conversation-with-admiral-paparo/>
  Upcoming Event
 November
-05
+16
 2026
-Israel <https://www.brookings.edu/regions/middle-east-north-africa/israel/>
- Israel after the elections: What’s next for US-Israel relations?
- Online Only
- Thursday, 10:00 am - 11:00 am EST
-US biosafety policy and regulations: Assessing the landscape <https://www.brookings.edu/events/us-biosafety-policy-and-regulations-assessing-the-landscape/>
+Defense & Security <https://www.brookings.edu/topics/national-security/>
+ Deterrence in the Pacific: A conversation with Admiral Paparo
+ The Brookings Institution, Washington DC
+ Monday, 6:30 pm - 7:30 pm EST
+Strengthening the resilience and liquidity of the US Treasury market <https://www.brookings.edu/events/strengthening-the-resilience-and-liquidity-of-the-us-treasury-market/>
  Upcoming Event
 November
-05
+17
 2026
-Regulatory Policy <https://www.brookings.edu/topics/regulatory-policy/>
- US biosafety policy and regulations: Assessing the landscape
+Federal Fiscal & Tax Policy <https://www.brookings.edu/topics/federal-fiscal-tax-policy/>
+ Strengthening the resilience and liquidity of the US Treasury market
  The Brookings Institution, Washington D.C.
- Thursday, 2:00 pm - 2:45 pm EST
+ Tuesday, 9:30 am - 11:30 am EST
+Upcoming
 Building the conditions to thrive: Improving well-being for men and boys of color <https://www.brookings.edu/events/building-the-conditions-to-thrive-improving-well-being-for-men-and-boys-of-color/>
  Upcoming Event
 November
@@ -106,6 +88,15 @@ Internet & Telecommunications <https://www.brookings.edu/topics/telecommunicatio
  The state of broadband access and affordability
  The Brookings Institution, Washington D.C.
  Wednesday, 1:30 pm - 2:45 pm EST
+AI and energy costs: Market and policy solutions <https://www.brookings.edu/events/ai-and-energy-costs-market-and-policy-solutions/>
+ Upcoming Event
+November
+19
+2026
+Energy Markets & Governance <https://www.brookings.edu/topics/energy-markets-and-governance/>
+ AI and energy costs: Market and policy solutions
+ The Brookings Institution, Washington D.C.
+ Thursday, 2:00 pm - 3:30 pm EST
 Coming of age in an uncertain era <https://www.brookings.edu/events/coming-of-age-in-an-uncertain-era/>
  Upcoming Event
 November
@@ -125,6 +116,24 @@ Artificial Intelligence <https://www.brookings.edu/topics/artificial-intelligenc
  Online only
  Monday, 10:00 am - 11:00 am EST
 Recent Past Events
+US biosafety policy and regulations: Assessing the landscape <https://www.brookings.edu/events/us-biosafety-policy-and-regulations-assessing-the-landscape/>
+ Past Event
+November
+05
+2026
+Regulatory Policy <https://www.brookings.edu/topics/regulatory-policy/>
+ US biosafety policy and regulations: Assessing the landscape
+ The Brookings Institution, Washington D.C.
+ Thursday, 2:00 pm - 2:45 pm EST
+Israel after the elections: What&#8217;s next for US-Israel relations? <https://www.brookings.edu/events/israel-after-the-elections-whats-next-for-us-israel-relations/>
+ Past Event
+November
+05
+2026
+Israel <https://www.brookings.edu/regions/middle-east-north-africa/israel/>
+ Israel after the elections: What’s next for US-Israel relations?
+ Online Only
+ Thursday, 10:00 am - 11:00 am EST
 Modernizing the Current Population Survey <https://www.brookings.edu/events/modernizing-the-current-population-survey/>
  Past Event
 October
@@ -143,22 +152,4 @@ Higher Education <https://www.brookings.edu/topics/higher-education-2/>
  The hidden price of college: Three perspectives on how families can navigate their most important financial decision
  Online only
  Tuesday, 10:00 am - 11:00 am EDT
-Climate education in action: A collective agenda for building resilient education ecosystems <https://www.brookings.edu/events/climate-education-in-action-a-collective-agenda-for-building-resilient-education-ecosystems/>
- Past Event
-October
-26
-2026
-Global Education <https://www.brookings.edu/topics/education-in-developing-nations/>
- Climate education in action: A collective agenda for building resilient education ecosystems
- Online only
- Monday, 9:00 am - 10:00 am EDT
-Opportunity Zones: What we learned and what comes next <https://www.brookings.edu/events/opportunity-zones-what-comes-next/>
- Past Event
-October
-22
-2026
-Economic Development <https://www.brookings.edu/topics/economic-development/>
- Opportunity Zones: What we learned and what comes next
- Online only
- Thursday, 2:00 pm - 3:00 pm EDT
 See all past events <https://www.brookings.edu/past-events/>

@@ -1,25 +1,9 @@
 # Carnegie Endowment
 # https://carnegieendowment.org/events
-# fetched 2026-11-04T13:15:06.937065-05:00
+# fetched 2026-11-06T08:01:15.266581-05:00
 # tags: think-tank
 
 Global - Events
-NOVEMBER
-5
-2026
-Event
-Is Europe Ready? Domestic Politics and EU Enlargement Strategy <https://carnegieendowment.org/europe/events/2026/10/is-europe-ready-domestic-politics-and-eu-enlargement-strategy>
-November 5, 2026
-5:30 PM - 6:30 PM GMT+1
-+
-1
-Gert Jan Koopman
-, 
-Rosa Balfour
-, 
-Stefan Lehne
-, 
-…
 NOVEMBER
 6
 2026

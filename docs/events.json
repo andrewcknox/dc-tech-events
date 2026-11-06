@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-04T13:24:01-05:00",
- "today": "2026-11-04",
- "window_start": "2026-11-04",
+ "generated_at": "2026-11-06T08:07:26-05:00",
+ "today": "2026-11-06",
+ "window_start": "2026-11-06",
  "window_days": 14,
  "map_center": [
   38.905,
@@ -3291,7 +3291,7 @@
    ],
    "fit": 5,
    "why": "Semiconductor materials supply-chain security.",
-   "description": "",
+   "description": "Chris Miller and panel on semiconductor materials supply-chain security.",
    "speakers": [],
    "lat": 38.91,
    "lon": -77.0426,
@@ -3430,6 +3430,33 @@
    "where": "Virtual"
   },
   {
+   "id": 193,
+   "title": "Fed Supernova DC",
+   "start": "2026-11-05T13:00:00-05:00",
+   "end": "2026-11-05T19:00:00-05:00",
+   "host": "STATION DC",
+   "source": "calebknapp substack backlog 2026-09-15..2026-11-04",
+   "location": "STATION DC",
+   "virtual": false,
+   "url": "https://luma.com/stationdc-5fn4",
+   "topics": [
+    "AI"
+   ],
+   "tags": [
+    "public",
+    "substack"
+   ],
+   "fit": 2,
+   "why": "Gov-tech startup showcase.",
+   "description": "STATION DC's govtech/defense-tech showcase afternoon.",
+   "speakers": [],
+   "lat": 38.8983696,
+   "lon": -77.0058628,
+   "in_dc": true,
+   "time": "1:00 PM–7:00 PM",
+   "where": "STATION DC"
+  },
+  {
    "id": 129,
    "title": "US biosafety policy and regulations: Assessing the landscape",
    "start": "2026-11-05T14:00:00-05:00",
@@ -3486,7 +3513,7 @@
    "id": 124,
    "title": "How can the future of AI center human rights?",
    "start": "2026-11-10T00:00:00-05:00",
-   "end": null,
+   "end": "2026-11-10T11:00:00-05:00",
    "host": "CSIS",
    "source": "daily page scan 2026-11-04",
    "location": "CSIS, 1616 Rhode Island Ave NW",
@@ -3508,6 +3535,65 @@
    "in_dc": true,
    "time": "time TBD",
    "where": "CSIS, 1616 Rhode Island Ave NW"
+  },
+  {
+   "id": 230,
+   "title": "China, America, and the Fragmentation of the Global Economy: A Conversation with Aaron Friedberg",
+   "start": "2026-11-10T00:00:00-05:00",
+   "end": null,
+   "host": "AEI",
+   "source": "daily page scan 2026-11-06",
+   "location": "AEI, 1789 Massachusetts Ave NW",
+   "virtual": false,
+   "url": "https://www.aei.org/events/china-america-and-the-fragmentation-of-the-global-economy-a-conversation-with-aaron-friedberg/",
+   "topics": [
+    "China",
+    "tech-geopolitics",
+    "industrial-policy"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Economic-security framing of U.S.-China competition; tech is a thread, not the focus.",
+   "description": "Aaron Friedberg and Kori Schake on U.S.-China economic decoupling and the fragmentation of the global economy.",
+   "speakers": [
+    "Aaron Friedberg",
+    "Kori Schake"
+   ],
+   "lat": 38.91,
+   "lon": -77.0426,
+   "in_dc": true,
+   "time": "time TBD",
+   "where": "AEI, 1789 Massachusetts Ave NW"
+  },
+  {
+   "id": 229,
+   "title": "Security, Trade, and AI: New Geopolitics for the U.S.-South Korea Alliance",
+   "start": "2026-11-10T10:00:00-05:00",
+   "end": null,
+   "host": "Korea Economic Institute",
+   "source": "daily page scan 2026-11-06",
+   "location": "Korea Economic Institute, 1800 K St NW",
+   "virtual": false,
+   "url": "https://keia.org/event/security-trade-and-ai-new-geopolitics-for-the-u-s-south-korea-alliance/",
+   "topics": [
+    "AI",
+    "Japan-Korea",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 4,
+   "why": "Allied tech cooperation with Korea, squarely on ETI's alliance-tech agenda.",
+   "description": "KEI panel on how security, trade and AI competition are reshaping the U.S.-ROK alliance.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "10:00 AM",
+   "where": "Korea Economic Institute, 1800 K St NW"
   },
   {
    "id": 141,
@@ -3782,6 +3868,89 @@
    "where": "Washington, DC"
   },
   {
+   "id": 235,
+   "title": "Futurecraft: The Day After AGI (book launch)",
+   "start": "2026-11-17T19:00:00-05:00",
+   "end": null,
+   "host": "Foundation for American Innovation",
+   "source": "daily page scan 2026-11-06",
+   "location": "Foundation for American Innovation, Washington, DC",
+   "virtual": false,
+   "url": "https://luma.com/joinfai-48vw",
+   "topics": [
+    "AI"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "AGI-policy community gathering in DC.",
+   "description": "FAI celebrates the launch of Futurecraft: The Day After AGI.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "7:00 PM",
+   "where": "Foundation for American Innovation, Washington, DC"
+  },
+  {
+   "id": 228,
+   "title": "2026 Aspen Cyber Summit",
+   "start": "2026-11-18T00:00:00-05:00",
+   "end": null,
+   "host": "Aspen Digital",
+   "source": "daily page scan 2026-11-06",
+   "location": "Washington, DC",
+   "virtual": false,
+   "url": "https://www.aspendigital.org/event/aspen-cyber-summit-2026/",
+   "topics": [
+    "cyber",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 5,
+   "why": "Flagship DC cyber-policy gathering with senior officials.",
+   "description": "Aspen Digital's 11th annual Cyber Summit in Washington, DC, convening government, industry and civil-society cyber leaders.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "time TBD",
+   "where": "Washington, DC"
+  },
+  {
+   "id": 231,
+   "title": "The EU Digital Markets Act: Regulatory Template or Threat?",
+   "start": "2026-11-18T00:00:00-05:00",
+   "end": null,
+   "host": "AEI",
+   "source": "daily page scan 2026-11-06",
+   "location": null,
+   "virtual": true,
+   "url": "https://www.aei.org/events/the-eu-digital-markets-act-regulatory-template-or-threat/",
+   "topics": [
+    "EU",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Transatlantic platform regulation debate.",
+   "description": "Online AEI discussion of the EU Digital Markets Act and whether it should serve as a model for U.S. tech regulation.",
+   "speakers": [
+    "Bronwyn Howell",
+    "Mark Jamison"
+   ],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "time TBD",
+   "where": "Virtual"
+  },
+  {
    "id": 130,
    "title": "The state of broadband access and affordability",
    "start": "2026-11-18T13:30:00-05:00",
@@ -3835,6 +4004,61 @@
    "in_dc": true,
    "time": "2:00 PM–3:00 PM",
    "where": "Hudson Institute, 1201 Pennsylvania Ave NW"
+  },
+  {
+   "id": 236,
+   "title": "Amerithrax 25 Years Later: Fireside Chat with Asst. Secretary Robert Kadlec",
+   "start": "2026-11-18T17:30:00-05:00",
+   "end": null,
+   "host": "Foundation for American Innovation",
+   "source": "daily page scan 2026-11-06",
+   "location": "Foundation for American Innovation, Washington, DC",
+   "virtual": false,
+   "url": "https://luma.com/joinfai-5y2a",
+   "topics": [
+    "biotech"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Biosecurity policy with a senior official.",
+   "description": "Fireside chat on lessons of the 2001 anthrax attacks, U.S. biodefense and countering emerging biothreats, referencing the 2026 Biodeterrence Posture Review.",
+   "speakers": [
+    "Robert Kadlec"
+   ],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "5:30 PM",
+   "where": "Foundation for American Innovation, Washington, DC"
+  },
+  {
+   "id": 227,
+   "title": "AI and energy costs: Market and policy solutions",
+   "start": "2026-11-19T14:00:00-05:00",
+   "end": "2026-11-19T15:30:00-05:00",
+   "host": "Brookings",
+   "source": "daily page scan 2026-11-06",
+   "location": "Brookings Institution, 1775 Massachusetts Ave NW",
+   "virtual": false,
+   "url": "https://www.brookings.edu/events/ai-and-energy-costs-market-and-policy-solutions/",
+   "topics": [
+    "AI",
+    "energy-tech"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 4,
+   "why": "AI compute meets grid policy, a live ETI theme, walkable from SAIS.",
+   "description": "Brookings Energy Markets & Governance panel on how AI data-center demand is driving electricity costs and what market and policy fixes are available.",
+   "speakers": [],
+   "lat": 38.9093,
+   "lon": -77.041,
+   "in_dc": true,
+   "time": "2:00 PM–3:30 PM",
+   "where": "Brookings Institution, 1775 Massachusetts Ave NW"
   },
   {
    "id": 211,
@@ -3945,6 +4169,60 @@
    "in_dc": true,
    "time": "9:30 AM–4:00 PM",
    "where": "Kenney Link (Rooms 426/428/430), Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
+  },
+  {
+   "id": 233,
+   "title": "Broadband and AI in the Next Congress",
+   "start": "2026-12-01T08:30:00-05:00",
+   "end": null,
+   "host": "Broadband Breakfast / EPIC",
+   "source": "daily page scan 2026-11-06",
+   "location": "Washington, DC",
+   "virtual": false,
+   "url": "https://epic.org/events/broadband-and-ai-in-the-next-congress/",
+   "topics": [
+    "AI",
+    "energy-tech"
+   ],
+   "tags": [
+    "civil-society"
+   ],
+   "fit": 3,
+   "why": "AI infrastructure policy agenda for the incoming Congress.",
+   "description": "Broadband Breakfast convening of lawmakers, regulators and industry on networks, data centers, energy and workforce needs behind AI.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "8:30 AM",
+   "where": "Washington, DC"
+  },
+  {
+   "id": 240,
+   "title": "Second Semiconductor Traceability and Provenance Workshop",
+   "start": "2026-12-08T08:30:00-05:00",
+   "end": null,
+   "host": "NIST",
+   "source": "daily page scan 2026-11-06",
+   "location": "NIST, Gaithersburg, MD",
+   "virtual": false,
+   "url": "https://www.nist.gov/news-events/events/2026/12/second-semiconductor-traceability-and-provenance-workshop",
+   "topics": [
+    "semiconductors",
+    "industrial-policy"
+   ],
+   "tags": [
+    "government"
+   ],
+   "fit": 4,
+   "why": "Chip supply-chain security standards work, core ETI topic.",
+   "description": "NIST workshop on establishing confidence in the origin, identity and movement of semiconductor products across supply chains.",
+   "speakers": [],
+   "lat": 38.9,
+   "lon": -77.03,
+   "in_dc": true,
+   "time": "8:30 AM",
+   "where": "NIST, Gaithersburg, MD"
   }
  ]
 }
