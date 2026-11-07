@@ -1,6 +1,6 @@
 # JHU Hub Events (SAIS)
 # https://hub.jhu.edu/events/feed/
-# fetched 2026-11-06T08:01:15.266581-05:00
+# fetched 2026-11-07T09:24:07.099703-05:00
 # tags: jhu, university
 
 ### Dreams of Scholarship: 150 Years of Discovery
@@ -35,78 +35,6 @@ Center for Social Concern <https://students.jhu.edu/student-life/get-involved/ce
 For more on the center's history, watch this video <https://www.youtube.com/watch?v=njtqvcJXJAM>
 .
 The exhibit will be available to view from Thursday, Oct. 15, to Friday, Nov. 20, in Levering Lounge.
-
-### Volunteer Opportunity: Building a New Play Space at Adams Park
-Link: https://hub.jhu.edu/events/2026/11/06/help-build-a-new-playspace-at-adams-park/
-Published: 
-When: November 6th 9:00am - 4:00pm
-Join approximately 50 volunteers from the Baltimore City Recreation and Parks, Parks & People, Coldstream, Holmstead Montebello Community Corp., Green & Healthy Homes Initiative, Johns Hopkins University & Medicine, and KABOOM.
-Work is available for volunteers of all levels of skill and ability. Some of the tasks include mulch surfacing, mixing concrete, and assembling components. Side projects like painting and planting are for kids and anyone who can't be on the build footprint.
-You will have the chance to pick one, two, or three days. Please note that you are not required to stay the whole day; you can leave when you need to. The Johns Hopkins team would love to have a nice crew on Saturday, Nov. 7, to be present at the ribbon-cutting ceremony, which will take place at 2:30 p.m.
-Schedule
-Prep Day 1: Nov. 5 (20 volunteers are needed)
-9 a.m.—Volunteers arrive and check in
-4 p.m.—All prep work completed (approximate time)
-Prep Day 2: Nov. 6 (10 volunteers should be on stand-by in case they are needed)
-9 a.m.—Volunteers arrive and check in
-TBD—All prep work completed
-Build Day: Nov. 7 (50 volunteers are needed)
-6:30 a.m.—Team leaders arrive
-8 a.m.—Volunteers arrive and check in
-8:30 a.m.—Kick-off ceremony
-2:30 p.m.—Ribbon-cutting ceremony
-What's provided
-Breakfast, lunch, and water will be provided. Gloves and other safety materials will be provided for the projects that require them.
-What to wear
-The playground build will happen rain or shine. Please come dressed for the weather. Closed-toe shoes are required; sneakers or work boots that you don't mind getting dirty are advisable. Please leave valuables at home as secure storage is not available on-site.
-Build site rules
-All participants must comply with the following practices. These rules have been established and agreed upon to ensure the safety, comfort, and respect for all involved. Failure to comply will result in immediate dismissal from the project.
-Work together, treat everyone with respect, and use family-friendly, inclusive language.
-Report any unsafe or inappropriate behavior to on-site staff.
-Please comply with all requests from on-site staff.
-Follow all safety guidelines.
-Only pre-approved power tools are permitted.
-Closed-toe shoes are required.
-Youth may not participate in areas of active construction.
-No smoking, alcohol, or drugs.
-The use or carry of firearms is prohibited 
-with the exception of certified, active officers
-.
-
-### First Friday FA1 Faculty Fika
-Link: https://hub.jhu.edu/events/2026/11/06/first-friday-fa1-faculty-fika-0/
-Published: 
-When: November 6th 10:30am - 12:00pm
-Where: Homewood Campus
-Come and get coffee and snacks and relax with the University Writing Program. This is meant to be a free form space/time where faculty can chat about teaching, discuss writing assignments, or ask questions about FA1 resources. Or maybe just grab some coffee and snacks. Hosted by the University Writing Program's Writing in the Majors (WiM) Committee.
-
-### Protecting Human Subject Data Privacy Part II: De-identification Techniques
-Link: https://hub.jhu.edu/events/2026/11/06/protecting-human-subject-data-privacy-part-ii-de-identification-techniques/
-Published: 
-When: November 6th 12:00pm - 1:30pm
-Prerequisite: Protecting Human Subject Data Privacy: An Introduction or reviewing our online resources 
-This class builds upon the introductory session on privacy protection for shared data as a next step toward applying techniques for de-identifying several types of personal and health identifiers. Join 
-Johns Hopkins Data Services <https://dataservices.library.jhu.edu/>
- to work through case examples and anonymization methods at an "intermediate" level suitable for preparing data for external collaborations and restricted access research databases. Presenters also discuss the more common advanced statistical techniques for anonymization and risk assessment and their use cases as well as current software options.
-Note: If you attended Data Services' de-identification webinar in prior years, reviewing the 
-online module and guide <https://dataservices.library.jhu.edu/resources/#deidentify>
- or webinar recording can prepare you for this session.
-
-### Aronson Center Fall Speaker Series | The Archive and the Prison: What Prison Witness Can Teach Us About Democracy
-Link: https://hub.jhu.edu/events/2026/11/06/the-archive-and-the-prison-what-prison-witness-can-teach-us-about-democracy/
-Published: 
-When: November 6th 12:15pm - 1:15pm
-Where: Mergenthaler Hall, Homewood Campus
-Vesla Weaver <https://politicalscience.jhu.edu/directory/vesla-weaver/>
-, Bloomberg Distinguished Professor of political science and sociology at Johns Hopkins, will give a talk titled "The Archive and the Prison: What Prison Witness Can Teach Us About Democracy," the final seminar of the 
-Aronson Center Fall Speaker Series <https://krieger.jhu.edu/internationalstudies/aronson-center/aronson-center-conference/>
- hosted by the Program in International Studies. The theme of the series is "Midterms in Focus: Global and Domestic Perspectives."
-
-### Friday Noon:30 Recital Series: Woodwinds
-Link: https://hub.jhu.edu/events/2026/11/06/peabody-fall-2026-friday-noon30-recital-series-woodwinds/
-Published: 
-When: November 6th 12:30pm - 1:30pm
-Where: Leith Symington Griswold Hall, Peabody Institute
 
 ### Volunteer Opportunity: Building a New Play Space at Adams Park
 Link: https://hub.jhu.edu/events/2026/11/07/help-build-a-new-playspace-at-adams-park/
@@ -281,3 +209,53 @@ At this info session, you can:
 meet the HopStart team
 learn more about the competition, including workshops, the mentorship program, important deadlines, and eligibility requirements
 enjoy pizza from Ribaldi's
+
+### Peabody Songbook Series
+Link: https://hub.jhu.edu/events/2026/11/09/peabody-fall-2026-peabody-songbook-series/
+Published: 
+When: November 9th 7:30pm - 8:30pm
+Where: Cohen-Davison Family Theatre, Peabody Institute
+
+### The Future of Next
+Link: https://hub.jhu.edu/events/2026/11/10/future-of-next/
+Published: 
+When: November 10th 9:00am - 6:00pm
+Where: Hopkins Bloomberg Center
+Johns Hopkins closes its 150th anniversary year by looking ahead and bringing together the leaders, thinkers, and creators who can help shape what comes next. Surgeons and historians, mayors and artists, journalists and researchers will come together to explore the ideas shaping the future of health, technology, democracy, our cities, and the arts and how we can turn bold thinking into meaningful impact.
+Join Johns Hopkins University in Washington, D.C., for a free, full-day event celebrating 150 years of innovation and discovery. From health to technology to civic life, at the 
+Future of Next <https://web.cvent.com/event/3619b582-76fc-4d96-b937-599148764c56/summary>
+ attendees will ask: What does change mean for you?
+The day features a keynote from Kevin Ashton, who coined the term "Internet of Things," and conversations with Atul Gawande, Anne Applebaum, D. Watkins, Bologna Mayor Matteo Lepore, Peabody's Wendel Patrick, and Johns Hopkins President Ron Daniels, moderated by NBC News' Hallie Jackson. Afternoon breakout sessions dig into the future of cities, aging, and creativity, with a closing session on the future of the American research university.
+
+### Workshop | Teaching Writing in FA1 Courses and Beyond: Revision Strategies and Exercises for Students in Your Class
+Link: https://hub.jhu.edu/events/2026/11/10/workshop-teaching-writing-in-fa1-courses-and-beyond-revision-strategies-and-exercises-for-students-in-your-class/
+Published: 
+When: November 10th 11:00am - 12:30pm
+In this workshop for faculty, as students near the end of the term, 
+University Writing Program <https://krieger.jhu.edu/writing-program/>
+ (UWP) faculty discuss ways to help students revise their papers and final projects. Participants are invited to bring questions and concerns about how to assist students and get exercises and strategies that UWP faculty use in their classes.
+This workshop is facilitated by the UWP's 
+Writing in the Majors <https://krieger.jhu.edu/writing-program/writing-in-the-majors/>
+ committee.
+
+### The Flock Farm Stand with Hopkins Dining
+Link: https://hub.jhu.edu/events/2026/11/10/the-flock-farm-stand-with-hopkins-dining/
+Published: 
+When: November 10th 11:00am - 2:00pm
+Where: Levering Courtyard, Homewood Campus
+Join 
+Hopkins Dining <https://studentaffairs.jhu.edu/dining/>
+ and 
+Richfield Farm <https://www.richfieldfarm.com/>
+ and grab your local, seasonal produce at the last farm stand of the season. Cash, card, and tap are all accepted. Bring your own bag to be extra sustainable.
+
+### PLAY: Scale Simulation-Based Learning with AI
+Link: https://hub.jhu.edu/events/2026/11/10/play-scale-simulation-based-learning-with-ai/
+Published: 
+When: November 10th 12:00pm - 1:00pm
+This workshop is part of the PLAY: Pedagogy, Learning, and AI in Your Classroom series from the Bloomberg School of Public Health's 
+Center for Teaching and Learning <https://publichealth.jhu.edu/offices-and-services/center-for-teaching-and-learning>
+.
+Simulation-based learning helps students apply knowledge, make decisions, and practice navigating real-world challenges. This PLAY workshop will explore the benefits and pedagogy behind effective simulations, followed by a case study with 
+Davina Frick <https://carey.jhu.edu/faculty/faculty-directory/k-davina-frick-phd>
+, full-time faculty at Carey School of Business. She will share how she transformed one of her courses through simulation-based learning, including the instructional decisions, student experience, and lessons learned along the way. Frick will also explore how artificial intelligence (AI) supported the design process and discuss how AI can help make simulations more scalable and sustainable for future courses.

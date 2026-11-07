@@ -1,6 +1,6 @@
 # NIST events
 # https://www.nist.gov/news-events/events/rss.xml
-# fetched 2026-11-06T08:01:15.266581-05:00
+# fetched 2026-11-07T09:24:07.099703-05:00
 # tags: government
 
 ### NIST Small Business Cybersecurity Community of Interest Call
@@ -122,3 +122,8 @@ The NIST Office of Weights and Measures (OWM) Mass Metrology seminar is a two-we
 Link: https://www.nist.gov/news-events/events/19th-annual-nice-conference-and-expo
 Published: Mon, 05 Jun 2028 00:00:00 -0400
 The NICE Conference and Expo will take place June 5-7, 2028. Location to be announced. This event is supported by the National Initiative for Cybersecurity Education (NICE), a program of the National Institute of Standards and Technology in the U.S
+
+### NEWRAD 2029 - 17th International Conference on New Developments and Applications in Optical Radiometry
+Link: https://www.nist.gov/news-events/events/2029/09/newrad-2029-17th-international-conference-new-developments-and
+Published: Mon, 10 Sep 2029 00:00:00 -0400
+The 17 th International Conference on New Developments and Applications in Optical Radiometry (NEWRAD) will be hosted on the NIST campus in Gaithersburg, Maryland, September 10 to 13, 2029. The conference will continue the NEWRAD tradition of

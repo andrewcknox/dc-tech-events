@@ -1,6 +1,6 @@
 # Center for American Progress
 # https://www.americanprogress.org/events/
-# fetched 2026-11-06T08:01:15.266581-05:00
+# fetched 2026-11-07T09:24:07.099703-05:00
 # tags: think-tank
 
 Profiles in Cowardice: A Study of Collaboration in the Trump Era <https://www.americanprogress.org/events/profiles-in-cowardice-a-study-of-collaboration-in-the-trump-era/>

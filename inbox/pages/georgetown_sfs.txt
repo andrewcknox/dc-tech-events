@@ -1,6 +1,6 @@
 # Georgetown SFS
 # https://sfs.georgetown.edu/events-news/
-# fetched 2026-11-06T08:01:15.266581-05:00
+# fetched 2026-11-07T09:24:07.099703-05:00
 # tags: university, georgetown
 
 News & Events
@@ -12,6 +12,22 @@ Browse events <https://events.georgetown.edu/sfs/>
 Latest news
 Discover the latest news stories and updates from the School of Foreign Service.
 View all news <https://sfs.georgetown.edu/news>
+Alumni <https://sfs.georgetown.edu/category/alumni/>
+, 
+News <https://sfs.georgetown.edu/category/news/>
+, 
+Students <https://sfs.georgetown.edu/category/students/>
+How SFS graduates navigate a shifting global job market
+November 5, 2026
+SFS graduate programs prepare leaders for global challenges. Explore career outcomes, alumni stories and lifelong support from the SFS Career Center.
+Read more <https://sfs.georgetown.edu/news/how-sfs-graduates-navigate-a-shifting-global-job-market/>
+News <https://sfs.georgetown.edu/category/news/>
+, 
+Students <https://sfs.georgetown.edu/category/students/>
+Georgetown launches new undergraduate semester abroad in Jakarta
+November 3, 2026
+Georgetown launches its new undergraduate Semester in Jakarta study abroad program, focused on geopolitics, development and sustainability in Indonesia.
+Read more <https://sfs.georgetown.edu/news/georgetown-launches-new-undergraduate-semester-abroad-in-jakarta/>
 Faculty <https://sfs.georgetown.edu/category/faculty/>
 , 
 News <https://sfs.georgetown.edu/category/news/>
@@ -39,48 +55,28 @@ Six questions on the protests erupting across France and Spain
 October 19, 2026
 SFS Professor Pauliina Patana examines the context and risks of protest movements in France and Spain, and their potential to spread.
 Read more <https://sfs.georgetown.edu/news/six-questions-on-the-protests-erupting-across-france-and-spain/>
-News <https://sfs.georgetown.edu/category/news/>
-, 
-Students <https://sfs.georgetown.edu/category/students/>
-Georgetown celebrates its international students
-October 1, 2026
-SFS and the College of Arts and Sciences brought Georgetown together in the ICC Galleria to celebrate our vibrant international student community.
-Read more <https://sfs.georgetown.edu/news/georgetown-celebrates-its-international-students/>
-Faculty <https://sfs.georgetown.edu/category/faculty/>
-, 
-News <https://sfs.georgetown.edu/category/news/>
-, 
-Research <https://sfs.georgetown.edu/category/research/>
-Joanna Lewis mentors postdoctoral fellows advancing research in energy, climate policy and China
-September 23, 2026
-Professor Joanna Lewis mentors postdocs at Georgetown, fostering research on energy, climate policy and China’s global role.
-Read more <https://sfs.georgetown.edu/news/joanna-lewis-mentors-postdoctoral-fellows-advancing-research-in-energy-climate-policy-and-china/>
 Upcoming events 
 View all upcoming events <https://events.georgetown.edu/sfs>
 Nov
-2
-Israel’s Elections: What Next?
-Zoom Webinar
-9:00am
- – 
+10
+Meet the Moment: What’s at Stake if the U.S. Abandons Ukraine
+Online
 10:00am
-View Event <https://events.georgetown.edu/live/events/44011-israels-elections-what-next>
+View Event <https://events.georgetown.edu/live/events/44063-meet-the-moment-whats-at-stake-if-the-us-abandons>
 Nov
-2
-American Pogroms: How Forgotten Massacres Shape America with Daniel Byman
+10
+Climate, Development, and Generational Change in Gilgit-Baltistan and Chitral
+Online
+2:00pm
+View Event <https://events.georgetown.edu/live/events/42768-climate-development-and-generational-change-in>
+Nov
+10
+The Bitter Struggle: Superintelligence, Superpowers, and the Fate of the World
 Mortara Center for International Studies
 4:00pm
  – 
 5:30pm
-View Event <https://events.georgetown.edu/live/events/43407-american-pogroms>
-Nov
-3
-Indranil Chakravarty, “The Power of Intercultural Dialogue: Octavio Paz between Mexico and India”
-Old North 205
-5:00pm
- – 
-6:30pm
-View Event <https://events.georgetown.edu/live/events/41891-indranil-chakravarty-the-power-of-intercultural-dialog>
+View Event <https://events.georgetown.edu/live/events/43409-the-bitter-struggle>
 Dean’s Coffee Chats
 Coffee Chats provide a unique opportunity to engage directly with influential professionals and successful alumni who have made significant impacts in their fields. During these informal gatherings, you can ask questions about their experiences and gain valuable insights.
 Explore previous guests <https://sfs.georgetown.edu/news-events/coffee-chats/>

@@ -1,6 +1,6 @@
 # Hudson Institute
 # https://www.hudson.org/events
-# fetched 2026-11-06T08:01:15.266581-05:00
+# fetched 2026-11-07T09:24:07.099703-05:00
 # tags: think-tank
 
 11
@@ -71,6 +71,49 @@ Featured Speakers:
 Doug Collins
 Jeremy Hunt
 Learn More <https://www.hudson.org/events/putting-veterans-first-conversation-secretary-veterans-affairs-doug-collins>
+17
+November 2026
+ In-Person Event | Hudson Institute
+The Tenth US-ROK Joint Public-Private Economic Forum: Advancing Economic Security and Industrial Strength
+Featured Speakers:
+Congressman Ami Bera
+Kim Jina
+John P. Walters
+Elaine L. Chao
+Wendy Cutler
+Michael Coulter
+Brent Sadler
+Troy Stangarone
+Jane Nakano
+Patrick M. Cronin
+Nick Snyder
+Brigham A. McCown
+Bryan Clark
+Sek Hwan Hong
+Jiyoon Lee
+17
+November 2026
+ In-Person Event | Hudson Institute
+The Tenth US-ROK Joint Public-Private Economic Forum: Advancing Economic Security and Industrial Strength
+Join Hudson Institute for the tenth United States–Republic of Korea Joint Public-Private Economic Forum on November 17.
+ TUESDAY 9:30 a.m. - 1:00 p.m.
+Featured Speakers:
+Congressman Ami Bera
+Kim Jina
+John P. Walters
+Elaine L. Chao
+Wendy Cutler
+Michael Coulter
+Brent Sadler
+Troy Stangarone
+Jane Nakano
+Patrick M. Cronin
+Nick Snyder
+Brigham A. McCown
+Bryan Clark
+Sek Hwan Hong
+Jiyoon Lee
+Learn More <https://www.hudson.org/events/tenth-us-rok-joint-public-private-economic-forum-advancing-economic-security-industrial>
 18
 November 2026
  In-Person Event | Hudson Institute
@@ -246,22 +289,3 @@ Featured Speakers:
 Bill Frauenhofer
 David Feith
 Learn More <https://www.hudson.org/events/semiconductors-onshoring-us-government-capital-conversation-commerces-bill-frauenhofer>
-23
-October 2026
- Past Event
-The Annual Czech and Slovak Freedom Lecture
-Featured Speakers:
-Karel Řehka
-Daniel Kochis
-Luke Coffey
-23
-October 2026
- Past Event
-The Annual Czech and Slovak Freedom Lecture
-Hudson welcomes Karel Řehka, former chief of the General Staff of the Czech Armed Forces, to discuss the changing security environment in Europe and its implications for the Czech Republic, the North Atlantic Treaty Organization, and the transatlantic alliance.
- FRIDAY 9:00 a.m. - 10:00 a.m.
-Featured Speakers:
-Karel Řehka
-Daniel Kochis
-Luke Coffey
-Learn More <https://www.hudson.org/events/annual-czech-slovak-freedom-lecture-0>

@@ -1,6 +1,6 @@
 # Brookings
 # https://www.brookings.edu/events/
-# fetched 2026-11-06T08:01:15.266581-05:00
+# fetched 2026-11-07T09:24:07.099703-05:00
 # tags: think-tank
 
 Events
@@ -79,6 +79,15 @@ Federal Fiscal & Tax Policy <https://www.brookings.edu/topics/federal-fiscal-tax
  Strengthening the resilience and liquidity of the US Treasury market
  The Brookings Institution, Washington D.C.
  Tuesday, 9:30 am - 11:30 am EST
+Immigration policy and public opinion <https://www.brookings.edu/events/immigration-policy-and-public-opinion/>
+ Upcoming Event
+November
+17
+2026
+Immigrants & Immigration <https://www.brookings.edu/topics/immigration-5/>
+ Immigration policy and public opinion
+ Online only
+ Tuesday, 12:00 pm - 1:00 pm EST
 The state of broadband access and affordability <https://www.brookings.edu/events/the-state-of-broadband-access-and-affordability/>
  Upcoming Event
 November

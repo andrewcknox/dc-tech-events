@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-06T08:07:26-05:00",
- "today": "2026-11-06",
- "window_start": "2026-11-06",
+ "generated_at": "2026-11-07T09:27:35-05:00",
+ "today": "2026-11-07",
+ "window_start": "2026-11-07",
  "window_days": 14,
  "map_center": [
   38.905,
@@ -3642,7 +3642,8 @@
    "tags": [
     "eti",
     "sais",
-    "sais-internal"
+    "sais-internal",
+    "university"
    ],
    "fit": 5,
    "why": "Book launch by SAIS's own former White House AI adviser on AI and great-power competition.",
@@ -3811,6 +3812,35 @@
    "where": "Rooms 940/944, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
   },
   {
+   "id": 244,
+   "title": "Dynamics in U.S.-Japan Semiconductor Partnership For National Security",
+   "start": "2026-11-16T00:00:00-05:00",
+   "end": null,
+   "host": "CSIS",
+   "source": "daily page scan",
+   "location": "CSIS, 1616 Rhode Island Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.csis.org/events/dynamics-us-japan-semiconductor-partnership-national-security",
+   "topics": [
+    "semiconductors",
+    "Japan-Korea",
+    "industrial-policy",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 5,
+   "why": "Allied chip supply-chain cooperation is core ETI terrain and CSIS is a short walk from SAIS.",
+   "description": "Discussion of U.S. and Japanese assets and capabilities, and the challenges and opportunities for semiconductor cooperation for national security.",
+   "speakers": [],
+   "lat": 38.9061,
+   "lon": -77.0378,
+   "in_dc": true,
+   "time": "time TBD",
+   "where": "CSIS, 1616 Rhode Island Ave NW, Washington, DC"
+  },
+  {
    "id": 97,
    "title": "Careers in Technology and National Security",
    "start": "2026-11-16T12:30:00-05:00",
@@ -3866,6 +3896,43 @@
    "in_dc": true,
    "time": "time TBD",
    "where": "Washington, DC"
+  },
+  {
+   "id": 245,
+   "title": "The Tenth US-ROK Joint Public-Private Economic Forum: Advancing Economic Security and Industrial Strength",
+   "start": "2026-11-17T09:30:00-05:00",
+   "end": "2026-11-17T13:00:00-05:00",
+   "host": "Hudson Institute",
+   "source": "daily page scan",
+   "location": "Hudson Institute, 1201 Pennsylvania Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.hudson.org/events/tenth-us-rok-joint-public-private-economic-forum-advancing-economic-security-industrial",
+   "topics": [
+    "Japan-Korea",
+    "industrial-policy",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Economic-security and industrial-base agenda with Korea overlaps ETI's chips and supply-chain interests.",
+   "description": "Annual U.S.-South Korea public-private forum on economic security, industrial strength and supply chains, with Rep. Ami Bera, Elaine Chao, Wendy Cutler and others.",
+   "speakers": [
+    "Ami Bera",
+    "Kim Jina",
+    "Elaine L. Chao",
+    "Wendy Cutler",
+    "Troy Stangarone",
+    "Jane Nakano",
+    "Patrick M. Cronin",
+    "Bryan Clark"
+   ],
+   "lat": 38.896,
+   "lon": -77.0286,
+   "in_dc": true,
+   "time": "9:30 AM–1:00 PM",
+   "where": "Hudson Institute, 1201 Pennsylvania Ave NW, Washington, DC"
   },
   {
    "id": 235,
@@ -4223,6 +4290,32 @@
    "in_dc": true,
    "time": "8:30 AM",
    "where": "NIST, Gaithersburg, MD"
+  },
+  {
+   "id": 115,
+   "title": "Fourth Annual Cyber Policy Awards",
+   "start": "2027-02-04T18:00:00-05:00",
+   "end": null,
+   "host": "Institute for Security and Technology",
+   "source": "daily page scan 2026-09-15",
+   "location": "Washington, DC",
+   "virtual": false,
+   "url": "https://securityandtechnology.org/event/fourth-annual-cyber-policy-awards/",
+   "topics": [
+    "cyber"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "IST's gala where the DC cyber-policy community gathers; far out but worth a calendar note.",
+   "description": "IST's Cyber Policy Awards gala presenting the Atlas awards and a Lifetime Achievement award.",
+   "speakers": [],
+   "lat": 38.9,
+   "lon": -77.03,
+   "in_dc": true,
+   "time": "6:00 PM",
+   "where": "Washington, DC"
   }
  ]
 }
