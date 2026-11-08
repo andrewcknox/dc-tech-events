@@ -1,0 +1,2914 @@
+{
+ "instructions": "Fill fit (1-5), topics (from the DAILY.md list) and why for each event; add tags (e.g. bay-area) if needed; then `uv run dte score apply <this file>`. Leave fit null to skip.",
+ "events": [
+  {
+   "id": 262,
+   "title": "MAX POWER (NASA), Nov 7-8, 2026, KSC",
+   "start": "2026-11-07T07:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "Update, October 30: NASA issued a press release today with more details for the media. Media interview opportunities are available on November 6, but the event itself is November 7-8. Original Entry: NASA will hold the MAX POWER event at",
+   "url": "https://spacepolicyonline.com/events/max-power-nasa-nov-7-8-2026-ksc/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 258,
+   "title": "MeasureCamp DC Digital Analytics Unconference",
+   "start": "2026-11-07T09:00:00-05:00",
+   "location": "https://washingtondc.measurecamp.org/registration/?utm_source=dc2_luma_push",
+   "virtual": false,
+   "host": "DC Data & AI Events (Luma)",
+   "source": "DC Data & AI Events (Luma)",
+   "tags": [
+    "public",
+    "meetup"
+   ],
+   "description": "Find more information on https://luma.com/DC2",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-eCuIBRbS1atJOa6",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 359,
+   "title": "Mathematical Sociodynamics reading group (Psychohistory but real)",
+   "start": "2026-11-07T18:30:00-05:00",
+   "location": "Mox, 1680 Mission St, San Francisco, CA 94103, USA",
+   "virtual": false,
+   "host": "Mox SF (Luma)",
+   "source": "Mox SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/z4r92s41 Address: Mox San Francisco, CA United States Hosted by Grant Getzelman & Mox SF",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-nfkEvDFat3zN1fe",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 356,
+   "title": "California Revealed - \"Around the Bay in a Day\" - In-Person Archival Screening",
+   "start": "2026-11-07T21:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "Internet Archive",
+   "source": "Internet Archive",
+   "tags": [
+    "bay-area",
+    "public"
+   ],
+   "description": "Take a trip through the Bay Area as it was captured by the people who lived, worked, traveled, celebrated, and made history here! California Revealed and the San Francisco Public Library invite you to California Trips: Bay Area, a special",
+   "url": "https://blog.archive.org/event/california-revealed-around-the-bay-in-a-day-in-person-archival-screening/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 360,
+   "title": "Animals x AI #13",
+   "start": "2026-11-07T22:00:00-05:00",
+   "location": "https://partiful.com/e/sfz9cwShx0xlhHQyHHvL",
+   "virtual": false,
+   "host": "Mox SF (Luma)",
+   "source": "Mox SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Find more information on https://luma.com/mox",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-nfkEvDFat3zN1fe",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 368,
+   "title": "\"No More Thank Yous\" F/W 26 Fashion Show - Open Registration",
+   "start": "2026-11-07T22:00:00-05:00",
+   "location": "Frontier Tower @ Spaceship 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/venue-block-spaceship-fashion-show Address: Frontier Tower @ Spaceship 995 Market Street, San Francisco Hosted by Frontier Tower & Anto Dsigns",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 357,
+   "title": "Aaron Swartz Hackathon",
+   "start": "2026-11-08T13:00:00-05:00",
+   "location": "Internet Archive, 300 Funston Avenue, San Francisco, CA, 94118, United States",
+   "virtual": false,
+   "host": "Internet Archive",
+   "source": "Internet Archive",
+   "tags": [],
+   "description": "Join us on Sunday, November 8th as we celebrate Aaron’s memory, principles, and ongoing technical legacy with supporting organizations including the Internet Archive, Freedom of the Press Foundation, the Electronic Frontier Foundation, Creative Commons and the Free Law Project. Event",
+   "url": "https://blog.archive.org/event/aaron-swartz-hackathon-2026/",
+   "fit": 3,
+   "topics": [
+    "data/privacy"
+   ],
+   "why": "Open-access and digital-rights hackathon at the Internet Archive."
+  },
+  {
+   "id": 263,
+   "title": "SPACE & SATELLITES USA 2026 (Reuters), Nov 9-10, 2026, DC",
+   "start": "2026-11-09T07:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [],
+   "description": "Reuters Events will hold the Space & Satellites USA 2026 conference at the Marriott at the Metro Center, Washington, DC from Nov 9-10, 2026. More information is on the event’s website.",
+   "url": "https://spacepolicyonline.com/events/space-satellites-usa-2026-reuters-nov-9-10-2026-dc/",
+   "fit": 3,
+   "topics": [
+    "space"
+   ],
+   "why": "Reuters space & satellites conference in DC; government and industry speakers."
+  },
+  {
+   "id": 264,
+   "title": "COMMITTEE ON PLANETARY PROTECTION (Natl Acad), Nov 9-11, 2026, Irvine, CA",
+   "start": "2026-11-09T07:30:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "The Committee on Planetary Protection (CoPP) of the National Academies of Sciences, Engineering, and Medicine will meet November 9-11, 2026 at the Beckman Center in Irvine, CA. Some sessions are open and some are closed. Further details were not available",
+   "url": "https://spacepolicyonline.com/events/committee-on-planetary-protection-natl-acad-nov-9-11-2026-irvine-ca/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 265,
+   "title": "ITU PLENIPOTENTIARY, Nov 9-17, 2026, Doha, Qatar",
+   "start": "2026-11-09T07:30:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "The next International Telecommunication Union (ITU) Plenipotentiary conference will take place November 9-17, 2026 in Doha, Qatar. More information is on the event’s website. The “Plenipot” takes place every 4 years to, among other things, elect the Secretary-General of the",
+   "url": "https://spacepolicyonline.com/events/itu-plenipotentiary-nov-9-17-2026-doha-qatar/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 221,
+   "title": "NOBEL LAUREATE LECH WAŁĘSA: Defending Polish Solidarity with Ukraine",
+   "start": "2026-11-09T13:00:00-05:00",
+   "location": "Elliott School of International Affairs, The Lindner Family Commons, 6th Floor",
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [
+    "university",
+    "gwu"
+   ],
+   "description": "On the 37th anniversary of the fall of the Berlin Wall, please join us for a conversation with Lech Wałęsa, Nobel Peace Prize laureate and former President of Poland, on one of today's most important democratic struggles: Ukraine's effort to",
+   "url": "https://calendar.gwu.edu/event/nobel-laureate-lech-walesa-defending-polish-solidarity-with-ukraine",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 266,
+   "title": "NASA HELIOPHYSICS TOWN HALL, Nov 9, 2026, virtual, 1:00 pm ET",
+   "start": "2026-11-09T13:00:00-05:00",
+   "location": null,
+   "virtual": true,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "NASA’s Heliophysics Division will hold a virtual Town Hall meeting on November 9, 2026 at 1:00 pm ET. More information is on the event’s website, which says: NASA Heliophysics Division Virtual Community Meeting: Nov. 9, 2026, at 1:00 p.m. ET",
+   "url": "https://spacepolicyonline.com/events/nasa-heliophysics-town-hall-nov-9-2026-virtual-100-pm-et/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 348,
+   "title": "Ends of Prosody: Histories, Methods, Frictions",
+   "start": "2026-11-09T15:00:00-05:00",
+   "location": "210 South Hall and online",
+   "virtual": true,
+   "host": "Berkeley School of Information",
+   "source": "Berkeley School of Information",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "Speakers: Meredith Martin & Wouter Haverals — The Cultural Analytics Series highlights data-driven analysis of cultural phenomena. More info: https://www.ischool.berkeley.edu/events/cultural-analytics/2026/ends-prosody-histories-methods-frictions",
+   "url": "https://www.ischool.berkeley.edu/events/cultural-analytics/2026/ends-prosody-histories-methods-frictions",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 369,
+   "title": "Weekly Accountabili-tea Circle: Reflection & Planning #40 - Members Only",
+   "start": "2026-11-09T16:00:00-05:00",
+   "location": "Frontier Tower @ 16th Floor Teahouse, 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/weekly-accountabili-tea-circle-reflectio-f7d7 Address: Frontier Tower @ 16th Floor Teahouse, 995 Market Street, San Francisco Hosted by Frontier Tower & Laurence Ion",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 246,
+   "title": "Post-Midterm Election Briefing: What Founders and Investors Need to Know for 2027",
+   "start": "2026-11-09T17:00:00-05:00",
+   "location": "STATION DC, 1323 4th St NE Ste 200, Washington, DC 20002, USA",
+   "virtual": false,
+   "host": "STATION DC (Luma)",
+   "source": "STATION DC (Luma)",
+   "tags": [],
+   "description": "Get up-to-date information at: https://luma.com/xnlxd482 Address: STATION DC Washington, DC United States Hosted by STATION DC",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-AAO2oyuqOv3LHFu",
+   "fit": 3,
+   "topics": [
+    "industrial-policy"
+   ],
+   "why": "What the midterms mean for tech founders and investors in 2027."
+  },
+  {
+   "id": 222,
+   "title": "Book Seminar - Capitalism in South Korea, 1945-2025",
+   "start": "2026-11-09T17:30:00-05:00",
+   "location": "Elliott School of International Affairs, Lidner Commons, Room 602",
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [],
+   "description": "How did South Korea’s rapid economic transformation shape its democracy, institutions, and society? In his book, Keun Lee examines South Korea’s development since 1945 through a framework of compressed development, decompression, and convergence. He explores how rapid growth helped create",
+   "url": "https://calendar.gwu.edu/event/book-seminar-capitalism-in-south-korea-1945-2025",
+   "fit": 2,
+   "topics": [
+    "Japan-Korea"
+   ],
+   "why": "Book seminar on Korean capitalism."
+  },
+  {
+   "id": 223,
+   "title": "\"Inside Gaza\" Film Screening & Discussion",
+   "start": "2026-11-09T17:30:00-05:00",
+   "location": "Elliott School of International Affairs, B17",
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [
+    "university",
+    "gwu"
+   ],
+   "description": "The Institute for Middle East Studies is proud to announce a screening of the award winning documentary Inside Gaza, followed by remarks from film director Hélène Lam Trong and featured journalist Mai Yaghi. Since the Hamas attack on 7 October",
+   "url": "https://calendar.gwu.edu/event/inside-gaza-film-screening-discussion",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 347,
+   "title": "Discussion with Meredith Martin & Wouter Haverals",
+   "start": "2026-11-09T17:30:00-05:00",
+   "location": "AI Futures Lab, Downtown Berkeley",
+   "virtual": false,
+   "host": "Berkeley School of Information",
+   "source": "Berkeley School of Information",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "Speakers: Meredith Martin & Wouter Haverals — An in-person, collaborative deep dive with Cultural Analytics speakers Meredith Martin and Wouter Haverals. More info: https://www.ischool.berkeley.edu/events/cultural-analytics/2026/discussion-meredith-martin-wouter-haverals",
+   "url": "https://www.ischool.berkeley.edu/events/cultural-analytics/2026/discussion-meredith-martin-wouter-haverals",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 255,
+   "title": "Forensic Metascience for Policymakers: How AI Can Clean Up the Scientific Record",
+   "start": "2026-11-09T18:00:00-05:00",
+   "location": "Teaism Penn Quarter, 400 8th St NW, Washington, DC 20004, USA",
+   "virtual": false,
+   "host": "DC Industrial Policy Salon (Luma)",
+   "source": "DC Industrial Policy Salon (Luma)",
+   "tags": [],
+   "description": "Get up-to-date information at: https://luma.com/d2tvndzh Address: Teaism Penn Quarter Look for signs directing you to the meeting downstairs Washington, DC United States Hosted by Nicholas Wagner & Dan Elton",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-IL09IfV9o5t4x2z",
+   "fit": 3,
+   "topics": [
+    "AI"
+   ],
+   "why": "How AI tools can audit and clean up the scientific record for policymakers."
+  },
+  {
+   "id": 267,
+   "title": "ISU-DC SPACE CAFE WITH FORMER NASA CHIEF SCI JIM GREEN, Nov 9, 2026, Arlington, VA, 6:00-8:00 pm ET",
+   "start": "2026-11-09T18:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [],
+   "description": "The International Space University – USA Alumni Association’s Washington, DC Chapter will hold its next Space Café on November 9, 2026 from 6:00-8:00 pm ET at 1020 N. Highland, St., Arlington, VA (The Phoenix Clubhouse Room). The speaker is Jim",
+   "url": "https://spacepolicyonline.com/events/isu-dc-space-cafe-with-former-nasa-chief-sci-jim-green-nov-9-2026-arlington-va-600-800-pm-et/",
+   "fit": 3,
+   "topics": [
+    "space"
+   ],
+   "why": "Former NASA chief scientist Jim Green at the ISU-DC Space Cafe in Arlington."
+  },
+  {
+   "id": 287,
+   "title": "The Trials of Atlas",
+   "start": "2026-11-09T18:00:00-05:00",
+   "location": "SNF Agora Institute, 3102 Wyman Park Drive, Baltimore, MD, 21211, United States",
+   "virtual": false,
+   "host": "SNF Agora Institute (JHU, Baltimore)",
+   "source": "SNF Agora Institute (JHU, Baltimore)",
+   "tags": [
+    "jhu",
+    "university",
+    "baltimore"
+   ],
+   "description": "AN AI STANDS ACCUSED OF MURDER. YOU ARE ON THE JURY. Join the SNF Agora Institute and the Krieger School of Arts and Sciences for an interactive play by Alan Stoga, made possible by the Stavros Niarchos Foundation (SNF), exploring",
+   "url": "https://snfagora.jhu.edu/event/atlas/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 370,
+   "title": "Venue Placeholder – Spaceship (Nov 9) – Nucleate Bay Area Team Matching - Members Only",
+   "start": "2026-11-09T20:00:00-05:00",
+   "location": "Frontier Tower @ Spaceship 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/venue-placeholder-spaceship-nov-9-nuclea Address: Frontier Tower @ Spaceship 995 Market Street, San Francisco Hosted by Frontier Tower & Xenofon",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 311,
+   "title": "The People Power Play: An Event Co-Organized by GBC",
+   "start": "2026-11-10T09:00:00-05:00",
+   "location": "CareFirst BlueCross BlueShield, 6100 Merriweather Drive, Columbia, MD, 21044, United States",
+   "virtual": false,
+   "host": "Greater Baltimore Committee",
+   "source": "Greater Baltimore Committee",
+   "tags": [
+    "industry",
+    "baltimore"
+   ],
+   "description": "The People Power Play is a free event designed to help HR and business leaders seeking practical solutions to today’s most pressuring workforce issues. Through expert perspectives and peer discussion, attendees will leave with new ideas they can bring back",
+   "url": "https://gbc.org/event/the-people-power-play-an-event-co-organized-by-gbc/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 247,
+   "title": "The Future of Finance Roundtable (STATION DC MEMBERS ONLY)",
+   "start": "2026-11-10T10:00:00-05:00",
+   "location": "STATION DC, 1323 4th St NE Suite 200, Washington, DC 20002, USA",
+   "virtual": false,
+   "host": "STATION DC (Luma)",
+   "source": "STATION DC (Luma)",
+   "tags": [
+    "public",
+    "meetup"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/fjgnoapu Address: STATION DC Washington, District of Columbia United States Hosted by STATION DC",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-AAO2oyuqOv3LHFu",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 268,
+   "title": "SENATE COMMERCE HRG INCL NASA AND FCC NOMINATIONS, Nov 10, 2026, DC, 10:30 am ET",
+   "start": "2026-11-10T10:30:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "hill"
+   ],
+   "description": "The Senate Commerce, Science, and Transportation Committee will hold a hearing on November 10, 2026 at 10:30 am ET in 253 Russell Senate Office Building to consider four nominations including Joshua Shoemaker to be NASA Chief Financial Office, Robert Steinau",
+   "url": "https://spacepolicyonline.com/events/senate-commerce-hrg-incl-nasa-and-fcc-nominations-nov-10-2026-dc-1030-am-et/",
+   "fit": 4,
+   "topics": [
+    "space"
+   ],
+   "why": "Senate Commerce hearing on NASA and FCC nominations."
+  },
+  {
+   "id": 288,
+   "title": "Content Creators for Democracy?",
+   "start": "2026-11-10T12:00:00-05:00",
+   "location": "SNF Agora Institute, 3102 Wyman Park Drive, Baltimore, MD, 21211, United States",
+   "virtual": false,
+   "host": "SNF Agora Institute (JHU, Baltimore)",
+   "source": "SNF Agora Institute (JHU, Baltimore)",
+   "tags": [],
+   "description": "In-person attendance available in SNF Agora Institute Building Room 242. Lunch will be served! Nearly two-thirds of Americans say that social media is bad for democracy —even as more than half of us report that social media is our primary",
+   "url": "https://snfagora.jhu.edu/event/community-workshop-3/",
+   "fit": 3,
+   "topics": [
+    "trust-and-safety"
+   ],
+   "why": "Influencers, platforms and democratic information spaces (Baltimore)."
+  },
+  {
+   "id": 330,
+   "title": "Tom Ginsburg | Recovery from Democratic Backsliding: Lessons From—and For—Europe",
+   "start": "2026-11-10T15:00:00-05:00",
+   "location": "223 Philosophy Hall, UC Berkeley",
+   "virtual": false,
+   "host": "Berkeley Institute of International Studies",
+   "source": "Berkeley Institute of International Studies",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "Democracy in Peril: IES Director's Themed Lecture Series 2026-2027 &#160; This year's election in Hungary ending 16 years of Viktor Orban's rule raises important questions about the tactics of recovery from backsliding in Europe and around the world. Questions of",
+   "url": "https://events.berkeley.edu/live/events/333693-tom-ginsburg-recovery-from-democratic-backsliding",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 289,
+   "title": "Democracy Café",
+   "start": "2026-11-10T16:00:00-05:00",
+   "location": "SNF Agora Institute, 3102 Wyman Park Drive, Baltimore, MD, 21211, United States",
+   "virtual": false,
+   "host": "SNF Agora Institute (JHU, Baltimore)",
+   "source": "SNF Agora Institute (JHU, Baltimore)",
+   "tags": [
+    "jhu",
+    "university",
+    "baltimore"
+   ],
+   "description": "Democratic life begins with opportunities to connect, ask questions, exchange ideas, and learn from people whose experiences differ from our own. The SNF Agora Democracy Café is a casual weekly gathering where Johns Hopkins students, faculty, staff and other democracy",
+   "url": "https://snfagora.jhu.edu/event/democracy-cafe-9/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 259,
+   "title": "Data Science DC: Building with Decision Models AND You May Not Be Stable But Your Algorithms Should Be",
+   "start": "2026-11-10T17:30:00-05:00",
+   "location": "2112 Pennsylvania Ave NW, Washington, DC 20037, USA",
+   "virtual": false,
+   "host": "DC Data & AI Events (Luma)",
+   "source": "DC Data & AI Events (Luma)",
+   "tags": [],
+   "description": "Get up-to-date information at: https://luma.com/r8mu0x5q Address: 2112 Pennsylvania Ave NW Enter, check in with security, and take elevator to 2nd floor. Please register with your first & last name Washington, DC United States Hosted by Janet Dobbins & 7 others",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-eCuIBRbS1atJOa6",
+   "fit": 2,
+   "topics": [
+    "AI"
+   ],
+   "why": "Technical data-science meetup."
+  },
+  {
+   "id": 317,
+   "title": "Let's Talk Outsourcing: Building Great Teams Without Breaking the Bank",
+   "start": "2026-11-10T18:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "Baltimore Tech Meetup (Meetup)",
+   "source": "Baltimore Tech Meetup (Meetup)",
+   "tags": [
+    "meetup",
+    "baltimore",
+    "public"
+   ],
+   "description": "Baltimore Tech Let's Talk Outsourcing: Building Great Teams Without Breaking the Bank Great businesses need great people. But finding exceptional talent at an affordable cost isn't always easy. Join Baltimore Tech Meetup at Spark Baltimore with Jubelo Oyeniran, Johns Hopkins",
+   "url": "https://www.meetup.com/baltimore-tech/events/317180720/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 361,
+   "title": "tea time",
+   "start": "2026-11-10T19:30:00-05:00",
+   "location": "Mox, 1680 Mission St, San Francisco, CA 94103, USA",
+   "virtual": false,
+   "host": "Mox SF (Luma)",
+   "source": "Mox SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/mox-3eug Address: Mox 4th floor auditorium San Francisco, CA United States Hosted by sai",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-nfkEvDFat3zN1fe",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 371,
+   "title": "Venue Placeholder - Vistara Ventures Evening Event - Members Only",
+   "start": "2026-11-10T20:30:00-05:00",
+   "location": "Frontier Tower @ Spaceship 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/venue-placeholder-vistara-ventures-eveni Address: Frontier Tower @ Spaceship 995 Market Street, San Francisco Hosted by Frontier Tower & Xenofon",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 269,
+   "title": "ARGENTINA SPACE 2026, Nov 11-13, 2026, Salta, Argentina",
+   "start": "2026-11-11T07:30:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "Argentina Space 2026 — “The first major national meeting of the space, technology and scientific industry” — will take place November 11-13, 2026 at the Convention Center, Salta, Argentina. More information in on the event’s website.",
+   "url": "https://spacepolicyonline.com/events/argentina-space-2026-nov-11-13-2026-salta-argentina/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 270,
+   "title": "VETERANS DAY, November 11, 2026",
+   "start": "2026-11-11T08:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "November 11, 2026 is a U.S. Federal holiday. Government offices will be closed. Veterans Day honors all who served in the military, whether they served in peace or wartime or died in battle. By comparison, Memorial Day, celebrated on the",
+   "url": "https://spacepolicyonline.com/events/veterans-day-november-11-2026/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 243,
+   "title": "Korea Policy Forum- Recalibrating Northeast Asian Geopolitics after the U.S. Midterms",
+   "start": "2026-11-11T09:30:00-05:00",
+   "location": "Elliott School of International Affairs, Room 505",
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [],
+   "description": "The 2026 U.S. midterm elections will set the political landscape in Washington for the remainder of President Trump’s second term, with important implications for U.S. policy toward Northeast Asia. At the same time, shifting U.S.–China relations, developments on the Korean",
+   "url": "https://calendar.gwu.edu/event/korea-policy-forum-recalibrating-northeast-asian-geopolitics-after-the-us-midterms",
+   "fit": 2,
+   "topics": [
+    "Japan-Korea"
+   ],
+   "why": "Northeast Asian geopolitics after the midterms; little tech."
+  },
+  {
+   "id": 17,
+   "title": "Israel's Existential Election with Dr. Dahlia Scheindlin",
+   "start": "2026-11-11T12:00:00-05:00",
+   "location": "Elliott School of International Affairs",
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [
+    "university",
+    "gwu"
+   ],
+   "description": "On October 27th, Israeli citizens go to the polls for the first time since the October 2023 Hamas attack and the years of war that have followed in Gaza, Lebanon and Iran. Dr. Dahlia Scheindlin, Israel's foremost public opinion expert,",
+   "url": "https://calendar.gwu.edu/event/israels-existential-election-with-dr-dahlia-scheindlin",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 213,
+   "title": "The Battles within Globalization",
+   "start": "2026-11-11T13:30:00-05:00",
+   "location": "1957 E Street NW, 602",
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [
+    "university",
+    "gwu"
+   ],
+   "description": "Please join us for the 2026 Elliott School Research Celebration, kindly co-sponsored by the Institute for International Economic Policy. The event will feature a keynote address from the 2026 Michael E. Brown Research Prize Winner, Professor Maggie Xiaoyang Chen. About",
+   "url": "https://calendar.gwu.edu/event/the-battles-within-globalization",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 362,
+   "title": "Let's talk about Power Concentration!",
+   "start": "2026-11-11T21:30:00-05:00",
+   "location": "https://luma.com/event/evt-GurH0NXinwXeddL",
+   "virtual": false,
+   "host": "Mox SF (Luma)",
+   "source": "Mox SF (Luma)",
+   "tags": [],
+   "description": "Get up-to-date information at: https://luma.com/aisafety-few8 Address: Check event page for more details. Hosted by Jen Ba & Rohan Prasad",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-nfkEvDFat3zN1fe",
+   "fit": 4,
+   "topics": [
+    "AI"
+   ],
+   "why": "Discussion on AI and concentration of power at Mox, SF's AI-safety hub."
+  },
+  {
+   "id": 217,
+   "title": "Religion in Asia: Women's Rights and Religious Conversion Laws in India",
+   "start": "2026-11-12T12:45:00-05:00",
+   "location": "Elliott School of International Affairs, Chung-Wen Shih Asian Studies Conference Room, Suite 503",
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [
+    "university",
+    "gwu"
+   ],
+   "description": "In India, Hindu nationalists are curtailing women's rights through accusations that Muslim men are engaged in \"love jihad\"--a conspiracy to convert women into Muslims by seduction. The new laws in various Indian states penalize interfaith marriage between Muslims or Christians",
+   "url": "https://calendar.gwu.edu/event/religion-in-asia-womens-rights-and-religious-conversion-laws-in-india",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 358,
+   "title": "Remix Culture and the Stories We Share",
+   "start": "2026-11-12T13:00:00-05:00",
+   "location": "VIRTUAL",
+   "virtual": true,
+   "host": "Internet Archive",
+   "source": "Internet Archive",
+   "tags": [],
+   "description": "When the culture we share becomes ours to remix, what new stories can we tell? Cartoonist Alec Robbins and author-librarian Liz Gotauco join copyright expert Meredith Rose to explore the weird, wonderful possibilities of the public domain. REGISTER NOW!",
+   "url": "https://blog.archive.org/event/remix-culture-and-the-stories-we-share/",
+   "fit": 2,
+   "topics": [
+    "data/privacy"
+   ],
+   "why": "Remix culture and copyright (virtual)."
+  },
+  {
+   "id": 224,
+   "title": "Art Capital: Museum Politics and the Making of the Louvre Abu Dhabi",
+   "start": "2026-11-12T14:00:00-05:00",
+   "location": "Elliott School of International Affairs, 505",
+   "virtual": true,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [
+    "university",
+    "gwu"
+   ],
+   "description": "Attend In-Person or Attend Online The Institute for Middle East Studies, in-partnership with the Corcoran School of the Arts and Design, invites you to join author Beth Derderian and discussant Joshua Bell for an exploration of Art Capital: Museum Politics",
+   "url": "https://calendar.gwu.edu/event/art-capital-museum-politics-and-the-making-of-the-louvre-abu-dhabi",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 331,
+   "title": "The Revolutionary Center: The Lost Genius of Liberalism",
+   "start": "2026-11-12T15:30:00-05:00",
+   "location": "223 Philosophy Hall",
+   "virtual": false,
+   "host": "Berkeley Institute of International Studies",
+   "source": "Berkeley Institute of International Studies",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "Wooldridge will speak on November 12, 12:30 - 2 pm in 223 Philosophy Hall as he reflects on the cultural history of liberalism - one of our most widely used yet misunderstood terms. He reveals why the world urgently needs",
+   "url": "https://events.berkeley.edu/iis/event/336642-the-revolutionary-center-the-lost-genius-of",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 260,
+   "title": "Data Engineers D.C. Presents: DuckDB 2.0 + Data Infrastructure for Science!",
+   "start": "2026-11-12T18:00:00-05:00",
+   "location": "2112 Pennsylvania Ave NW, Washington, DC 20037, USA",
+   "virtual": false,
+   "host": "DC Data & AI Events (Luma)",
+   "source": "DC Data & AI Events (Luma)",
+   "tags": [],
+   "description": "Get up-to-date information at: https://luma.com/rdw8bag9 Address: 2112 Pennsylvania Ave NW Bring Photo ID and check in at the front desk then come up to the second floor! Washington, District of Columbia United States Hosted by Yingquan Li & 3 others",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-eCuIBRbS1atJOa6",
+   "fit": 2,
+   "topics": [],
+   "why": "Technical data-engineering meetup."
+  },
+  {
+   "id": 332,
+   "title": "Surviving Exile: Why Activists Persist and Why it Matters Back Home",
+   "start": "2026-11-12T18:30:00-05:00",
+   "location": "223 Philosophy Hall",
+   "virtual": false,
+   "host": "Berkeley Institute of International Studies",
+   "source": "Berkeley Institute of International Studies",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "Surviving Exile: How Activism Sustains Opposition Abroad Thursday, November 12, 3:30 – 5 pm Institute of International Studies, 223 Philosophy HallREGISTER (https://forms.gle/thNTyJdLKgWYcJzu9) Professor Elizabeth R. Nugent will present part of a book she is finalizing on activism in exile. Dr.",
+   "url": "https://events.berkeley.edu/iis/event/328725-surviving-exile-why-activists-persist-and-why-it-matt",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 290,
+   "title": "Hopkins Political Union Student Debate",
+   "start": "2026-11-12T19:00:00-05:00",
+   "location": "MD",
+   "virtual": false,
+   "host": "SNF Agora Institute (JHU, Baltimore)",
+   "source": "SNF Agora Institute (JHU, Baltimore)",
+   "tags": [
+    "jhu",
+    "university",
+    "baltimore"
+   ],
+   "description": "For students and by students, the Hopkins Political Union, in collaboration with the College Republicans and Hopkins Democrats, will host its second student debate of the semester. Debate topics: What role should the federal government play in higher education? Will",
+   "url": "https://snfagora.jhu.edu/event/hopkins-political-union-student-debate-2/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 320,
+   "title": "Under Pressure: Attitudes Towards China Among American Foreign Policy Professionals | Lecture by Rory Truex",
+   "start": "2026-11-12T19:00:00-05:00",
+   "location": "370 Dwinelle Hall, UC Berkeley",
+   "virtual": false,
+   "host": "Berkeley Institute of East Asian Studies",
+   "source": "Berkeley Institute of East Asian Studies",
+   "tags": [],
+   "description": "How do social norms and professional incentives affect policy discourse within the Washington foreign policy community? We conducted over 50 semi-structured interviews and a survey of nearly five-hundred American foreign policy and national security professionals about their views towards the",
+   "url": "https://events.berkeley.edu/live/events/328594-under-pressure-attitudes-towards-china-among",
+   "fit": 3,
+   "topics": [
+    "China",
+    "tech-geopolitics"
+   ],
+   "why": "Survey research on how US foreign-policy professionals view China."
+  },
+  {
+   "id": 333,
+   "title": "Lecture | Biography of a Revolution: Rethinking Egypt's 2011 through Feminist Genealogy",
+   "start": "2026-11-12T19:00:00-05:00",
+   "location": "Center for Middle Eastern Studies",
+   "virtual": false,
+   "host": "Berkeley Institute of International Studies",
+   "source": "Berkeley Institute of International Studies",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "Abstract:&#160;Why does a revolution need a biography? In Biography of a Revolution: The Feminist Roots of Human Rights in Egypt (2025), Lucia Sorbera argued against a still-persistent framing of the 2011 Egyptian and Arab revolutions as a sudden rupture. Drawing",
+   "url": "https://events.berkeley.edu/live/events/327763-lecture-biography-of-a-revolution-rethinking-egypts-2",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 334,
+   "title": "The Flying Death: Poison, Plunder, and the Quest for a Miracle Medicine in the Amazon",
+   "start": "2026-11-12T19:00:00-05:00",
+   "location": "Dwinelle Hall Room 3335",
+   "virtual": false,
+   "host": "Berkeley Institute of International Studies",
+   "source": "Berkeley Institute of International Studies",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "The Flying Death: Poison, Plunder, and the Quest for a Miracle Medicine in the Amazon Thursday, November 12, 4:00 - 5:30 pm Dwinelle Hall Room 3335REGISTER (https://forms.gle/HUaNJxa4CNMmpXBH8)&#160; \"In the fall of 1938, a young, frail American explorer set off down",
+   "url": "https://events.berkeley.edu/iis/event/328755-the-flying-death-poison-plunder-and-the-quest-for",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 338,
+   "title": "California and the Nation Vote: A Post-Mortem on the 2026 Midterm Election",
+   "start": "2026-11-12T19:00:00-05:00",
+   "location": "109 Philosophy Hall, UC Berkeley, Berkeley, CA, 94720",
+   "virtual": false,
+   "host": "Berkeley Institute of Governmental Studies",
+   "source": "Berkeley Institute of Governmental Studies",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "Maps, Money, and the Movements Reshaping the Parties Join us at the Institute of Governmental Studies Library on Thursday, November 12th at 4:00pm for \"California and the Nation Vote: A Post-Mortem on the 2026 Election.\" Nine days after Election Day,",
+   "url": "https://events.berkeley.edu/igs/event/335888-california-and-the-nation-vote-a-post-mortem-on-the-2",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 321,
+   "title": "The Narrowing Sea: Three Portraits of a Region",
+   "start": "2026-11-12T20:00:00-05:00",
+   "location": "Institute of East Asian Studies, Conference Room, 2111 Bancroft Way, 5th Floor, Berkeley, CA 94720",
+   "virtual": false,
+   "host": "Berkeley Institute of East Asian Studies",
+   "source": "Berkeley Institute of East Asian Studies",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "Speaker: Hannah Shepherd (Yale University) In Person Event | RSVP Required RSVP for In Person Attendance at Bottom of Page &#160; Note: This event will begin on \"Berkeley Time\" at 5:10 PM. &#160; Talk Summary: This talk will introduce Hannah",
+   "url": "https://events.berkeley.edu/live/events/323135-the-narrowing-sea-three-portraits-of-a-region",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 335,
+   "title": "Asif Saleh and Tamara Hasan Abed | Bangladesh's Next Chapter: Back to Basics, and What Comes Next",
+   "start": "2026-11-12T20:00:00-05:00",
+   "location": "Institute for South Asia Studies",
+   "virtual": false,
+   "host": "Berkeley Institute of International Studies",
+   "source": "Berkeley Institute of International Studies",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "Bangladesh is at a turning point. The economy is under strain, hard-won gains for women are being tested, and global aid is shrinking. What should the country's agenda be for the years ahead, what role can institutions like BRAC play,",
+   "url": "https://events.berkeley.edu/live/events/336231-asif-saleh-and-tamara-hasan-abed-bangladeshs-next-cha",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 346,
+   "title": "Berkeley Cybersecurity Clinic Information Session",
+   "start": "2026-11-12T20:30:00-05:00",
+   "location": "202 South Hall or online",
+   "virtual": true,
+   "host": "Berkeley School of Information",
+   "source": "Berkeley School of Information",
+   "tags": [],
+   "description": "Learn more about the UC Berkeley Cybersecurity Clinic, a public-interest cybersecurity course that supports the capacity of politically-targeted organizations to defend themselves against online threats. More info: https://www.ischool.berkeley.edu/events/2026/berkeley-cybersecurity-clinic-information-session-0",
+   "url": "https://www.ischool.berkeley.edu/events/2026/berkeley-cybersecurity-clinic-information-session-0",
+   "fit": 2,
+   "topics": [
+    "cyber"
+   ],
+   "why": "Information session for the cybersecurity clinic."
+  },
+  {
+   "id": 349,
+   "title": "Jeff Hawkins: How the Brain Understands the World: Implications for AI and robotics",
+   "start": "2026-11-12T20:30:00-05:00",
+   "location": "Simons Institute for the Theory of Computing",
+   "virtual": false,
+   "host": "Berkeley campus calendar - artificial intelligence search",
+   "source": "Berkeley campus calendar - artificial intelligence search",
+   "tags": [],
+   "description": "Sponsor(s):The Redwood Center (https://redwood.berkeley.edu/), Simons Institute (https://simons.berkeley.edu/homepage) Today's AI systems are powerful, but they work on principles very different from those of the human brain. They typically learn from large, static datasets, operate as black boxes, and need retraining for",
+   "url": "https://events.berkeley.edu/HWNI/event/334979-jeff-hawkins-how-the-brain-understands-the-world",
+   "fit": 2,
+   "topics": [
+    "AI"
+   ],
+   "why": "Neuroscience of intelligence; technical, little policy."
+  },
+  {
+   "id": 363,
+   "title": "Talent Show: Has Mox Got Talent? 🌟",
+   "start": "2026-11-12T22:00:00-05:00",
+   "location": "Mox, 1680 Mission St, San Francisco, CA 94103, USA",
+   "virtual": false,
+   "host": "Mox SF (Luma)",
+   "source": "Mox SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/mox-inxx Address: Mox San Francisco, CA United States Hosted by Jen Ba",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-nfkEvDFat3zN1fe",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 271,
+   "title": "VULCAN LAUNCH OF 40 AMAZON LEO SATELLITES (ULA), Nov 13, 2026, CCSFS",
+   "start": "2026-11-13T08:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "United Launch Alliance (ULA) will launch the next Vulcan rocket on November 13, 2026 pending range approval and weather. The time was not announced. This is the first Vulcan launch since February 2026 when one of the two Solid Rocket",
+   "url": "https://spacepolicyonline.com/events/vulcan-launch-of-40-amazon-leo-satellites-ula-nov-13-2026-ccsfs/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 12,
+   "title": "Language Lunch",
+   "start": "2026-11-13T12:00:00-05:00",
+   "location": "Elliott School of International Affairs, Graduate Student Lounge",
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [
+    "university",
+    "gwu"
+   ],
+   "description": "The Elliott School Office of Graduate Student Services invites all GW students, faculty, and staff to attend Language Lunch. These lunches are offered on Fridays from 12:00-1:00 p.m. and provide a safe space for language learners to practice their language",
+   "url": "https://calendar.gwu.edu/event/language-lunch-9884",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 272,
+   "title": "STARSHIP IFT-15 LAUNCH AND CATCH, Nov 13, 2026, Starbase, TX, launch window is 5:45-7:00 pm ET",
+   "start": "2026-11-13T17:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "SpaceX plans to launch the 15th Integrated Flight Test, IFT-15, of Starship from Starbase, TX as early as November 13, 2026 pending regulatory approval. The launch window is open from 17:45-19:00 (5:45-7:00 pm) EST. IFT-14 was Starship’s first orbital flight.",
+   "url": "https://spacepolicyonline.com/events/starship-ift-15-launch-and-catch-nov-13-2026-starbase-tx-launch-window-is-545-700-pm-et/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 336,
+   "title": "MENA Salon - Week III: Who are the Houthis?",
+   "start": "2026-11-13T17:00:00-05:00",
+   "location": "Center for Middle Eastern Studies",
+   "virtual": false,
+   "host": "Berkeley Institute of International Studies",
+   "source": "Berkeley Institute of International Studies",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "The Center for Middle East Studies (CMES) MENA Salon is an informal space for the UC Berkeley community to discuss topics of contemporary relevance to the Middle East and North Africa, with meetings of the Salon guided by specialist moderators.",
+   "url": "https://events.berkeley.edu/live/events/333083-mena-salon-week-iii-who-are-the-houthis",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 215,
+   "title": "Alumni Event: Global Communications Student-Alumni Networking",
+   "start": "2026-11-13T17:30:00-05:00",
+   "location": "805 21st St NW, SMPA Studio",
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [
+    "university",
+    "gwu"
+   ],
+   "description": "This event is cosponsored by the GW Institute for Public Diplomacy and Global Communication and Elliott School Alumni Programs. Join us to connect with and learn from alumni of the Global Communication MA program. This event features opportunities to network‚",
+   "url": "https://calendar.gwu.edu/event/global-communications-student-alumni-networking",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 372,
+   "title": "Other Minds Present: Alien Minds and Alien Oceans",
+   "start": "2026-11-13T21:00:00-05:00",
+   "location": "Frontier Tower @ Spaceship 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/other-minds-present-alien-minds-and-alie Address: Frontier Tower @ Spaceship 995 Market Street, San Francisco Hosted by Frontier Tower & 7 others",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 373,
+   "title": "Venue Placeholder – Spaceship (Nov 14) – Nace AI Drexathon - Members Only - Members Only",
+   "start": "2026-11-14T12:30:00-05:00",
+   "location": "Frontier Tower @ Spaceship 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/venue-placeholder-spaceship-nov-14-nace- Address: Frontier Tower @ Spaceship 995 Market Street, San Francisco Hosted by Frontier Tower, Xenofon & Aiza Zhex",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 374,
+   "title": "Drexathon: Nace AI's Decision Model Hackathon (win Mac Mini!!)",
+   "start": "2026-11-14T12:30:00-05:00",
+   "location": "https://luma.com/event/evt-HH36OAgdl1GQ0JK",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/nace-drexathon Address: Check event page for more details. Hosted by Aiza Zhex & Nace AI",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 322,
+   "title": "Across Eurasia with the Sogdians: Trade, Religion, and Cultural Exchange",
+   "start": "2026-11-14T13:30:00-05:00",
+   "location": "Society for Asian Art, Asian Art Museum",
+   "virtual": false,
+   "host": "Berkeley Institute of East Asian Studies",
+   "source": "Berkeley Institute of East Asian Studies",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "The Sogdians were an Iranian-speaking people from the great Central Asian cities of Samarkand and Bukhara. Between the fourth and eighth centuries CE, they became the most influential merchants of the Silk Roads, establishing trading communities that stretched from Central",
+   "url": "https://events.berkeley.edu/ieas/event/335085-across-eurasia-with-the-sogdians-trade-religion",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 375,
+   "title": "Biohackathon: Haus F26 - Members +3",
+   "start": "2026-11-14T15:00:00-05:00",
+   "location": "Frontier Tower @ Spaceship 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/biohackathon-haus-f26 Address: Frontier Tower @ Spaceship 995 Market Street, San Francisco Hosted by Frontier Tower & Elliot Roth",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 226,
+   "title": "Taiwan Conference: Bilateral Ballot Boxes: U.S. Midterms, Taiwan’s Local Elections, and Policy Trajectories",
+   "start": "2026-11-16T10:00:00-05:00",
+   "location": "1957 E Street NW, Lindner Family Commons",
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [],
+   "description": "The 2026 U.S. midterm elections and Taiwan’s 2026 local elections unfold during landmark democratic anniversaries: the United States’ semiquincentennial and the 30th anniversary of Taiwan’s first direct presidential election. These parallel milestones provide a unique lens for examining how democratic",
+   "url": "https://calendar.gwu.edu/event/taiwan-conference-bilateral-ballot-boxes-us-midterms-taiwans-local-elections-and-policy-trajectories",
+   "fit": 2,
+   "topics": [
+    "China"
+   ],
+   "why": "Taiwan elections conference; little tech."
+  },
+  {
+   "id": 350,
+   "title": "Luma Labs Information Session (Virtual)",
+   "start": "2026-11-16T15:00:00-05:00",
+   "location": "Zoom",
+   "virtual": true,
+   "host": "Berkeley campus calendar - artificial intelligence search",
+   "source": "Berkeley campus calendar - artificial intelligence search",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "Join us for an insightful virtual employer session with Luma Labs, a leading company at the forefront of artificial intelligence and computer vision technology. Luma AI specializes in creating innovative solutions for industries such as entertainment, gaming, security, and autonomous",
+   "url": "https://events.berkeley.edu/IEOR/event/328653-luma-labs-information-session-virtual",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 256,
+   "title": "Quantum Policy w/Vetri Velan",
+   "start": "2026-11-16T18:00:00-05:00",
+   "location": "International Student House of Washington DC, 1825 R St NW, Washington, DC 20009, USA",
+   "virtual": false,
+   "host": "DC Industrial Policy Salon (Luma)",
+   "source": "DC Industrial Policy Salon (Luma)",
+   "tags": [],
+   "description": "Get up-to-date information at: https://luma.com/09f9g5dq Address: International Student House of Washington DC Check in at front desk and proceed upstairs to great hall. Washington, DC United States Hosted by Nicholas Wagner, Vetri Velan & Vidur Kumar",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-IL09IfV9o5t4x2z",
+   "fit": 4,
+   "topics": [
+    "quantum"
+   ],
+   "why": "Quantum policy discussion with Vetri Velan at the DC Industrial Policy Salon."
+  },
+  {
+   "id": 273,
+   "title": "SPACE TECH EXPO EUROPE 2026, Nov 17-19, 2026, Bremen, Germany",
+   "start": "2026-11-17T07:30:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "Space Tech Expo Europe will take place November 17-19, 2026 at CONGRESS BREMEN – Messe Bremen, Hallen 4, 5, 6, 7 & 4.1, Findorffstrasse 101, 28215 in Bremen, Germany. More information is on the event’s website, which says: CONNECTING EUROPE’S",
+   "url": "https://spacepolicyonline.com/events/space-tech-expo-europe-2026-nov-17-19-2026-bremen-germany/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 291,
+   "title": "The Physics of Democracy",
+   "start": "2026-11-17T12:00:00-05:00",
+   "location": "SNF Agora Institute, 3102 Wyman Park Drive, Baltimore, MD, 21211, United States",
+   "virtual": false,
+   "host": "SNF Agora Institute (JHU, Baltimore)",
+   "source": "SNF Agora Institute (JHU, Baltimore)",
+   "tags": [],
+   "description": "What can physics tell us about democracy? Physicist Sean Carroll is completing a book exploring connections between physics and democratic life. In this faculty seminar, Carroll will consider where “thinking like a physicist” can offer useful insights into the social",
+   "url": "https://snfagora.jhu.edu/event/physics-of-democracy/",
+   "fit": 2,
+   "topics": [],
+   "why": "Democracy theory talk."
+  },
+  {
+   "id": 274,
+   "title": "FAA PUBLIC SCOPING MTGS ON INCREASED STARSHIP LAUNCHES AT STARBASE, Nov 17, 2026, Brownsville, TX, 1:00-3:00 pm and 5:30-7:30 pm CENTRAL Time",
+   "start": "2026-11-17T13:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "The FAA will hold five public scoping meetings in November 2026 on SpaceX’s plans to increase the Starship launch cadence at Starbase, TX, near Brownsville, from 25 launches and 50 landings (25 Booster, 25 Ship) per year to 456 launches",
+   "url": "https://spacepolicyonline.com/events/faa-public-scoping-mtgs-on-increased-starship-launches-at-starbase-nov-17-2026-brownsville-tx-100-300-pm-and-530-730-pm-central-time/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 220,
+   "title": "Nuclear Risks and Regional Stability in the Middle East",
+   "start": "2026-11-17T14:00:00-05:00",
+   "location": "Elliott School of International Affairs, Lindner Family Commons (Room 602)",
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [
+    "university",
+    "gwu"
+   ],
+   "description": "The Middle East Policy Forum, in partnership with the Institute for Security and Conflict Studies, welcomes Professor Sina Azodi, Ambassador (ret.) Bonnie Jenkins, and subject area expert Ms. Clara Sherwood, to discuss Nuclear Risks and Regional Stability in the Middle",
+   "url": "https://calendar.gwu.edu/event/nuclear-risks-and-regional-stability-in-the-middle-east",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 248,
+   "title": "After NSCEB: What Comes Next for U.S. Biotech Policy",
+   "start": "2026-11-17T14:00:00-05:00",
+   "location": "STATION DC, 1323 4th St NE Ste 200, Washington, DC 20002, USA",
+   "virtual": false,
+   "host": "STATION DC (Luma)",
+   "source": "STATION DC (Luma)",
+   "tags": [],
+   "description": "Get up-to-date information at: https://luma.com/stationdc-yz0z Address: STATION DC Washington, DC United States Hosted by STATION DC",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-AAO2oyuqOv3LHFu",
+   "fit": 5,
+   "topics": [
+    "biotech",
+    "industrial-policy"
+   ],
+   "why": "Where US biotech policy goes after the NSCEB commission's final report."
+  },
+  {
+   "id": 292,
+   "title": "Democracy Café",
+   "start": "2026-11-17T16:00:00-05:00",
+   "location": "SNF Agora Institute, 3102 Wyman Park Drive, Baltimore, MD, 21211, United States",
+   "virtual": false,
+   "host": "SNF Agora Institute (JHU, Baltimore)",
+   "source": "SNF Agora Institute (JHU, Baltimore)",
+   "tags": [
+    "jhu",
+    "university",
+    "baltimore"
+   ],
+   "description": "Democratic life begins with opportunities to connect, ask questions, exchange ideas, and learn from people whose experiences differ from our own. The SNF Agora Democracy Café is a casual weekly gathering where Johns Hopkins students, faculty, staff and other democracy",
+   "url": "https://snfagora.jhu.edu/event/democracy-cafe-10/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 318,
+   "title": "The (Exciting) Twists and Turns of the CRISPR-Cas9 Patent Story",
+   "start": "2026-11-17T16:00:00-05:00",
+   "location": "170 Law Building",
+   "virtual": false,
+   "host": "Berkeley Law BCLT",
+   "source": "Berkeley Law BCLT",
+   "tags": [],
+   "description": "Health and Life Sciences Law Society (HaLS) is a student organization at Berkeley Law dedicated to supporting students interested in biotechnology law, health policy, and related areas in the life sciences. We host guest speaker events, networking opportunities, and mentorship",
+   "url": "https://www.law.berkeley.edu/event/the-exciting-twists-and-turns-of-the-crispr-cas9-patent-story/",
+   "fit": 3,
+   "topics": [
+    "biotech"
+   ],
+   "why": "The CRISPR-Cas9 patent fight and what it means for biotech IP."
+  },
+  {
+   "id": 319,
+   "title": "A Conversation with Pete McGoff, Chief Legal Officer at Rubrik",
+   "start": "2026-11-17T16:00:00-05:00",
+   "location": "100 Law Building",
+   "virtual": false,
+   "host": "Berkeley Law AI events",
+   "source": "Berkeley Law AI events",
+   "tags": [],
+   "description": "Join AI @ Berkeley Law for a lunch conversation with Pete McGoff, Chief Legal Officer at Rubrik, a leading cybersecurity and data security company. Pete will share insights from his career leading legal teams at Informatica, Box, and Rubrik, including",
+   "url": "https://www.law.berkeley.edu/event/a-conversation-with-pete-mcgoff-chief-legal-officer-at-rubrik/",
+   "fit": 3,
+   "topics": [
+    "AI",
+    "cyber"
+   ],
+   "why": "Rubrik's chief legal officer on AI and data-security law."
+  },
+  {
+   "id": 312,
+   "title": "Industry Spotlight on Sports and Technology",
+   "start": "2026-11-17T17:00:00-05:00",
+   "location": "Spark Flex, 621 East Pratt Street, Baltimore, MD, United States",
+   "virtual": false,
+   "host": "Greater Baltimore Committee",
+   "source": "Greater Baltimore Committee",
+   "tags": [
+    "industry",
+    "baltimore"
+   ],
+   "description": "From the stadiums of top professional leagues to the fields where children learn the fundamentals, new technology and science constantly change the way we experience sports. On November 17, we’ll explore this evolving frontier with one of the region’s top",
+   "url": "https://gbc.org/event/industry-spotlight-on-sports-and-technology/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 351,
+   "title": "Basic Science Lights the Way presents: AI and Education: A Conversation about Where We Are and Where We're Headed",
+   "start": "2026-11-17T20:00:00-05:00",
+   "location": "Register here to attend via Zoom",
+   "virtual": true,
+   "host": "Berkeley campus calendar - artificial intelligence search",
+   "source": "Berkeley campus calendar - artificial intelligence search",
+   "tags": [],
+   "description": "It's a simple truth that the acceleration of artificial intelligence has fundamentally changed the academic landscape, and its influence is felt in the classroom, in research, and in the way students study. Hear from our top faculty in biology and",
+   "url": "https://events.berkeley.edu/physics/event/336519-basic-science-lights-the-way-presents-ai-and-educatio",
+   "fit": 3,
+   "topics": [
+    "AI"
+   ],
+   "why": "Where AI in education stands and where policy should go."
+  },
+  {
+   "id": 364,
+   "title": "Let’s Talk About Swarms: After the Hugging Face × OpenAI Hack",
+   "start": "2026-11-17T21:30:00-05:00",
+   "location": "https://luma.com/event/evt-11aEh09E3XyH1iy",
+   "virtual": false,
+   "host": "Mox SF (Luma)",
+   "source": "Mox SF (Luma)",
+   "tags": [],
+   "description": "Get up-to-date information at: https://luma.com/aisafety-myrt Address: Check event page for more details. Hosted by Jen Ba & Elvis Sikora",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-nfkEvDFat3zN1fe",
+   "fit": 2,
+   "topics": [
+    "AI"
+   ],
+   "why": "Technical debrief on multi-agent swarms."
+  },
+  {
+   "id": 275,
+   "title": "MID-TERM REVIEW OF 2021 PATHWAYS TO DISCOVERY IN ASTRONOMY & ASTROPHYSICS (Natl Acad), Nov 18-20, 2026, hybrid",
+   "start": "2026-11-18T07:30:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "The National Academies of Sciences, Engineering, and Medicine will begin the mid-term review for the 2021 Decadal Survey on Pathways to Discovery in Astronomy and Astrophysics on November 18-20, 2026 with a hybrid meeting. The in-person meeting is at the",
+   "url": "https://spacepolicyonline.com/events/mid-term-review-of-2021-pathways-to-discovery-in-astronomy-astrophysics-natl-acad-nov-18-20-2026-hybrid/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 276,
+   "title": "MSBR LUNCHEON WITH OSC'S TAYLOR JORDAN, Nov 18, 2026, Greenbelt, MD, 11:30 am-1:00 pm ET",
+   "start": "2026-11-18T11:30:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [],
+   "description": "The Maryland Space Business Roundtable will hold its next luncheon at Martin’s Crosswinds in Greenbelt, MD from 11:30 am-1:00 pm ET on November 18, 2026. The speaker is Taylor Jordan, Assistant Secretary of Commerce for Environmental Observation and Prediction and",
+   "url": "https://spacepolicyonline.com/events/msbr-luncheon-with-oscs-taylor-jordan-nov-18-2026-greenbelt-md-1130-am-100-pm-et/",
+   "fit": 3,
+   "topics": [
+    "space"
+   ],
+   "why": "Office of Space Commerce official on commercial space policy, Greenbelt MD."
+  },
+  {
+   "id": 277,
+   "title": "SPACE IN THE NEW CONGRESS (GSG/SPG), Nov 18, 2026, virtual, 2:00 pm ET",
+   "start": "2026-11-18T14:00:00-05:00",
+   "location": null,
+   "virtual": true,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [],
+   "description": "Melissa Bell of the Global Strategy Group and Mike French of the Space Policy Group will hold a webinar on November 18, 2026 at 2:00 pm ET. The topic is “Space In the New Congress: What Voters Want and What",
+   "url": "https://spacepolicyonline.com/events/space-in-the-new-congress-gsg-spg-nov-18-2026-virtual-200-pm-et/",
+   "fit": 3,
+   "topics": [
+    "space"
+   ],
+   "why": "Space policy outlook for the incoming Congress (virtual)."
+  },
+  {
+   "id": 339,
+   "title": "RWAP: Edgard Dewitte, UC Berkeley",
+   "start": "2026-11-18T15:00:00-05:00",
+   "location": "Harris Room",
+   "virtual": false,
+   "host": "Berkeley Institute of Governmental Studies",
+   "source": "Berkeley Institute of Governmental Studies",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "The Research Workshop in American Politics brings together faculty and graduate students in American politics to share their work in an informal setting. The seminar meets weekly and covers a broad range of topics in American politics. It is primarily",
+   "url": "https://events.berkeley.edu/igs/event/325991-rwap-edgard-dewitte-uc-berkeley",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 216,
+   "title": "The Role of Solidarity in the End of the Cold War in Europe: A Roundtable Discussion with Lech Walesa and GW Cold War Historians",
+   "start": "2026-11-18T17:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [
+    "university",
+    "gwu"
+   ],
+   "description": "The Role of Solidarity in the End of the Cold War in Europe: A Roundtable Discussion with Lech Wałęsa and GW Cold War Historians (Washington D.C.) LocationElliott School of International Affairs 1957 E St NW‚ 7th Floor Washington‚ DC 20052",
+   "url": "https://calendar.gwu.edu/event/the-role-of-solidarity-in-the-end-of-the-cold-war-in-europe-a-roundtable-discussion-with-lech-walesa-and-gw-cold-war-historians",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 242,
+   "title": "The Role of Solidarity in the End of the Cold War in Europe with Lech Walesa (Washington&sbquo; DC)",
+   "start": "2026-11-18T17:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [
+    "university",
+    "gwu"
+   ],
+   "description": "The Role of Solidarity in the End of the Cold War in Europe: A Roundtable Discussion with Lech Wałęsa and GW Cold War Historians (Washington D.C.) LocationElliott School of International Affairs 1957 E St NW‚ 7th Floor Washington‚ DC 20052",
+   "url": "https://calendar.gwu.edu/event/the-role-of-solidarity-in-the-end-of-the-cold-war-in-europe-a-roundtable-discussion-with-lech-walesa-and-gw-cold-war-historians",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 313,
+   "title": "Psychological Safety in an Uncertain World",
+   "start": "2026-11-18T17:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "Greater Baltimore Committee",
+   "source": "Greater Baltimore Committee",
+   "tags": [
+    "industry",
+    "baltimore"
+   ],
+   "description": "In today’s rapidly changing world, psychological safety is essential to building trust, fostering innovation, and helping individuals and organizations thrive. The GBC’s Baltimore Women and Allies Board (BWAB), in partnership with Towson University, will bring together business leaders, emerging leaders,",
+   "url": "https://gbc.org/event/psychological-safety-in-an-uncertain-world/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 352,
+   "title": "First Encounters with AI: Writers on Writing",
+   "start": "2026-11-18T17:00:00-05:00",
+   "location": "Banatao Auditorium",
+   "virtual": false,
+   "host": "Berkeley campus calendar - artificial intelligence search",
+   "source": "Berkeley campus calendar - artificial intelligence search",
+   "tags": [],
+   "description": "Part of a series on the social dimensions of AI organized by CSTMS, this event is a book launch for First Encounters with AI: Writers on Writing, a forthcoming book edited by Nina Beguš (CSTMS). The panel includes your colleague",
+   "url": "https://events.berkeley.edu/German/event/335635-first-encounters-with-ai-writers-on-writing",
+   "fit": 2,
+   "topics": [
+    "AI"
+   ],
+   "why": "Writers on AI; cultural rather than policy."
+  },
+  {
+   "id": 355,
+   "title": "Dylan Spaulding: The US Nuclear Paradigm Shift: Pit Production, Nuclear Testing, and the fate of Stockpile Stewardship",
+   "start": "2026-11-18T18:30:00-05:00",
+   "location": "223 Philosophy Hall",
+   "virtual": false,
+   "host": "Berkeley Risk & Security Lab",
+   "source": "Berkeley Risk & Security Lab",
+   "tags": [],
+   "description": "Events Enemies in Agreement: Political Volatility and the Design of Arms Control OCT 7 Wednesday, October 7, 2026 | 3:30 PM – 5:00 PM PT 223 Philosophy Hall The US nuclear weapons complex is undergoing its biggest transformation since the",
+   "url": "https://brsl.berkeley.edu/event/the-us-nuclear-paradigm-shift-pit-production-nuclear-testing-and-the-fate-of-stockpile-stewardship/",
+   "fit": 3,
+   "topics": [
+    "tech-geopolitics"
+   ],
+   "why": "US nuclear weapons policy shifts: pit production and testing (Berkeley Risk & Security Lab)."
+  },
+  {
+   "id": 365,
+   "title": "EA SF Discussion Salon: What are the world's most pressing problems?",
+   "start": "2026-11-18T21:30:00-05:00",
+   "location": "Mox, 1680 Mission St, San Francisco, CA 94103, USA",
+   "virtual": false,
+   "host": "Mox SF (Luma)",
+   "source": "Mox SF (Luma)",
+   "tags": [],
+   "description": "Get up-to-date information at: https://luma.com/anw0fxzg Address: Mox San Francisco, CA United States Hosted by Jen Ba & Mox SF",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-nfkEvDFat3zN1fe",
+   "fit": 2,
+   "topics": [
+    "AI"
+   ],
+   "why": "Effective-altruism discussion salon."
+  },
+  {
+   "id": 293,
+   "title": "The Power of Storytelling: How Sound Journalism Sustains Democracy",
+   "start": "2026-11-19T11:00:00-05:00",
+   "location": "SNF Agora Institute, 3102 Wyman Park Drive, Baltimore, MD, 21211, United States",
+   "virtual": false,
+   "host": "SNF Agora Institute (JHU, Baltimore)",
+   "source": "SNF Agora Institute (JHU, Baltimore)",
+   "tags": [
+    "jhu",
+    "university",
+    "baltimore"
+   ],
+   "description": "Join Lakeia Brown, SNF Agora Visiting Fellow, for a one-on-one conversation with Linsey Davis, anchor of ABC News Live Prime and World News Tonight Sunday. At a time when audiences struggle to tell fact from opinion, Davis and Brown will",
+   "url": "https://snfagora.jhu.edu/event/the-power-of-storytelling-how-sound-journalism-sustains-democracy/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 294,
+   "title": "Elites, Discipline, Exclusion: Tensions in the History of Democracy",
+   "start": "2026-11-19T12:00:00-05:00",
+   "location": "MD",
+   "virtual": false,
+   "host": "SNF Agora Institute (JHU, Baltimore)",
+   "source": "SNF Agora Institute (JHU, Baltimore)",
+   "tags": [
+    "jhu",
+    "university",
+    "baltimore"
+   ],
+   "description": "In-person attendance available at the SNF Agora Institute Building, Room 242. Lunch will be served! Hedwig Richter was appointed to the Chair of Modern and Contemporary History at the University of the German Armed Forces Munich (UniBw München) in 2019.",
+   "url": "https://snfagora.jhu.edu/event/faculty-seminar-3/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 314,
+   "title": "A Cardiologist's Tips for a Better Heart",
+   "start": "2026-11-19T12:00:00-05:00",
+   "location": null,
+   "virtual": true,
+   "host": "Greater Baltimore Committee",
+   "source": "Greater Baltimore Committee",
+   "tags": [
+    "industry",
+    "baltimore"
+   ],
+   "description": "In this event led by Dr. Sudip Saha, MD, Cardiologist attendees will learn how to lower cholesterol naturally, monitor your blood pressure at home, manage blood sugar levels, and make nutrition choices that support a stronger, healthier heart. This webinar",
+   "url": "https://gbc.org/event/a-cardiologists-tips-for-a-better-heart/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 278,
+   "title": "FAA PUBLIC SCOPING MTGS FOR INCREASED STARSHIP LAUNCHES AT STARBASE, Nov 19, 2026, Port Isabel, TX, 1:00-3:00 pm and 5:30-7:30 pm CENTRAL Time",
+   "start": "2026-11-19T13:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "The FAA will hold five public scoping meetings in November 2026 on SpaceX’s plans to increase the Starship launch cadence at Starbase, TX, near Brownsville, from 25 launches and 50 landings (25 Booster, 25 Ship) per year to 456 launches",
+   "url": "https://spacepolicyonline.com/events/faa-public-scoping-mtgs-for-increased-starship-launches-at-starbase-nov-19-2026-port-isabel-tx-100-300-pm-and-530-730-pm-central-time/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 1,
+   "title": "After the Elections: The Future of the US-Israel Relationship with Dr. Michael Koplow",
+   "start": "2026-11-19T14:00:00-05:00",
+   "location": "The Elliott School of International Affairs, 505",
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [
+    "university",
+    "gwu"
+   ],
+   "description": "Dr. Michael Koplow will analyze the results of US midterm elections and Israeli national elections, and their implications for relations between the two countries and US policy in the region. Ned Lazarus of the Elliott School will moderate.",
+   "url": "https://calendar.gwu.edu/event/after-the-elections-the-future-of-the-us-israel-relationship-with-dr-michael-koplow",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 218,
+   "title": "U.S. Partnerships in European Energy Security",
+   "start": "2026-11-19T14:00:00-05:00",
+   "location": "Elliott School of International Affairs, State Room, 7th Floor",
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [],
+   "description": "We are pleased to invite you to save the date for an upcoming event, “U.S. Partnerships in European Energy Security,” bringing together distinguished voices from the United States and Europe to explore the evolving landscape of European energy security and",
+   "url": "https://calendar.gwu.edu/event/us-partnerships-in-european-energy-security",
+   "fit": 2,
+   "topics": [
+    "energy-tech",
+    "EU"
+   ],
+   "why": "European energy security partnerships."
+  },
+  {
+   "id": 353,
+   "title": "MAIML In Person Information Session",
+   "start": "2026-11-19T21:00:00-05:00",
+   "location": "1420 Gateway Building",
+   "virtual": false,
+   "host": "Berkeley campus calendar - artificial intelligence search",
+   "source": "Berkeley campus calendar - artificial intelligence search",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "New Master of Artificial Intelligence and Machine Learning (MAIML) In Person Information Session. Date: Thursday, November 19 Time: 6 - 7 pm PT Location: 1420 Gateway Building Register to attend at: https://gradapp.berkeley.edu/register/?id=7233f5e3-e681-43e0-8997-6b6b09c11300 (https://www.google.com/url?q=https://gradapp.berkeley.edu/register/?id%3D7233f5e3-e681-43e0-8997-6b6b09c11300&amp;sa=D&amp;source=calendar&amp;ust=1794351804522311&amp;usg=AOvVaw3xLCgFm1HsTR7b6O6JkJNR)",
+   "url": "https://events.berkeley.edu/datasci/event/337432-maiml-in-person-information-session",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 279,
+   "title": "INTL LUNAR SAMPLE RESEARCH SYMPOSIUM 2026, Nov 20-23, 2026, Hong Kong SAR, China",
+   "start": "2026-11-20T08:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "The Chinese Academy of Sciences and the University of Hong Kong will host the International Lunar Sample Research Symposium 2026 in Hong Kong SAR, China, from November 20-23, 2026. More information is on the event’s website.",
+   "url": "https://spacepolicyonline.com/events/intl-lunar-sample-research-symposium-2026-nov-20-23-2026-hong-kong-sar-china/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 376,
+   "title": "Venue Placeholder – Spaceship (Nov 20) – Other Minds Lab x Carhart-Harris Lab CANOPY Event - Members Only - Members Only",
+   "start": "2026-11-20T12:00:00-05:00",
+   "location": "Frontier Tower @ Spaceship 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/venue-placeholder-spaceship-nov-20-other Address: Frontier Tower @ Spaceship 995 Market Street, San Francisco Hosted by Frontier Tower & Xenofon",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 323,
+   "title": "Qalandariyya as Method: Tracing Baba Rahim Mashrab in Contemporary Central Asian Culture",
+   "start": "2026-11-20T15:00:00-05:00",
+   "location": "Zoom",
+   "virtual": true,
+   "host": "Berkeley Institute of East Asian Studies",
+   "source": "Berkeley Institute of East Asian Studies",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "The figure of Baba Rahim Mashrab, the 17th century poet and itinerant dervish is an important icon amongst Uzbeks and Uyghurs. Born in Namangan, Mashrab travelled across the region of Central Asia, to Kashgar, Khotan, Bukhara, and Balkh, leaving behind",
+   "url": "https://events.berkeley.edu/ieas/event/335379-qalandariyya-as-method-tracing-baba-rahim-mashrab",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 225,
+   "title": "Global Education Lab and DCPS: 10 Years of Study Abroad with DCPS Anniversary Celebration",
+   "start": "2026-11-20T18:00:00-05:00",
+   "location": "Elliott City View Room, 1957 E St NW, Washington , DC 20052, United States",
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [
+    "university",
+    "gwu"
+   ],
+   "description": "Join DCPS to celebrate 10 years of the DCPS Study Abroad program! --- Event Details: https://revconnect.gwu.edu/rsvp?id=379785",
+   "url": "https://calendar.gwu.edu/event/global-education-lab-and-dcps-10-years-of-study-abroad-with-dcps-anniversary-celebration",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 377,
+   "title": "Lynkable: The Partnership Pipeline - Members +3",
+   "start": "2026-11-20T20:00:00-05:00",
+   "location": "Frontier Tower @ Spaceship 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/voice-ai-for-real-life Address: Frontier Tower @ Spaceship 995 Market Street, San Francisco Hosted by Frontier Tower & Lynkable .",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 378,
+   "title": "Out of the Lab: Psychedelic Science, Then and Now",
+   "start": "2026-11-20T21:30:00-05:00",
+   "location": "Frontier Tower 🧑‍🚀, 995 Market St, San Francisco, CA 94103, USA",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/out-of-the-lab-psychedelic-science-then- Address: Frontier Tower 🧑‍🚀 2nd Floor Venue Space San Francisco, CA United States Hosted by Frontier Tower & 7 others",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 379,
+   "title": "Founders & Funders retreat at Teravana - Members Only",
+   "start": "2026-11-21T15:00:00-05:00",
+   "location": "https://luma.com/event/evt-SUINmAnOtCF5IGp",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/founders-funders-retreat-at-teravana Address: Check event page for more details. Hosted by Frontier Tower, Katia Yakovleva & Suvas Vajracharya",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 366,
+   "title": "The Commons Problem - Playtest 3",
+   "start": "2026-11-21T16:00:00-05:00",
+   "location": "Mox, 1680 Mission St, San Francisco, CA 94103, USA",
+   "virtual": false,
+   "host": "Mox SF (Luma)",
+   "source": "Mox SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/b9n3leog Address: Mox San Francisco, CA United States Hosted by Philip Harker",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-nfkEvDFat3zN1fe",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 280,
+   "title": "ASTRONOMY & ASTROPHYSICS ADVISORY CMTE (AAAC), Nov 23, 2026, hybrid, 10:00 am-5:00 pm ET",
+   "start": "2026-11-23T10:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "The NSF-NASA-DOE Astronomy and Astrophysics Advisory Committee (AAAC) will meet on November 23, 2026 from 10:00 am – 5:00 pm ET. More information is in the Federal Register notice, which is reproduced below. NATIONAL SCIENCE FOUNDATION Astronomy and Astrophysics Advisory",
+   "url": "https://spacepolicyonline.com/events/astronomy-astrophysics-advisory-cmte-aaac-nov-23-2026-hybrid-1000-am-500-pm-et/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 337,
+   "title": "Unsettling Sovereignty: International Law, Nuclear Weapons, and US Extraterritorial Power in Postwar Oceania",
+   "start": "2026-11-23T18:30:00-05:00",
+   "location": "223 Philosophy Hall",
+   "virtual": false,
+   "host": "Berkeley Institute of International Studies",
+   "source": "Berkeley Institute of International Studies",
+   "tags": [],
+   "description": "Unsettling Sovereignty: International Law, Nuclear Weapons, and US Extraterritorial Power in Postwar Oceania Monday, November 23, 3:30 – 5 pm Institute of International Studies, 223 Philosophy HallREGISTER (https://forms.gle/roTdx5S4dtNTFoSd9) Mitchell's work centers on the intersections of science and technology with law",
+   "url": "https://events.berkeley.edu/iis/event/328764-unsettling-sovereignty-international-law-nuclear",
+   "fit": 2,
+   "topics": [
+    "tech-geopolitics"
+   ],
+   "why": "International law and nuclear weapons; not tech policy."
+  },
+  {
+   "id": 281,
+   "title": "GNOSIS26, Nov 24-25, 2026, 24-hour virtual conference beginning 4:00 am EST",
+   "start": "2026-11-24T04:00:00-05:00",
+   "location": null,
+   "virtual": true,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "The Global Network on Sustainability in Space (GNOSIS) will hold a 24-hour virtual conference from November 24-25, 2026 starting at 10:00 am Central European Time (CET, which is 4:00 am EST). The virtual conference will take place in three different",
+   "url": "https://spacepolicyonline.com/events/gnosis26-nov-24-25-2026-24-hour-virtual-conference-beginning-400-am-est/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 282,
+   "title": "LAUNCH OF SHENZHOU-24 WITH PAKISTANI ASTRONAUT, Nov 24, 2026?, Jiuquan, China, time TBA",
+   "start": "2026-11-24T08:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "China is getting ready for its next crew rotation on the Tiangong space station. China traditionally does not officially announce launch dates until a day or so in advance, but outside observers expect the launch of Shenzhou-24 on November 24,",
+   "url": "https://spacepolicyonline.com/events/launch-of-shenzhou-24-with-pakistani-astronaut-nov-24-2026-jiuquan-china-time-tba/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 253,
+   "title": "Defense Tech DC 021",
+   "start": "2026-11-24T17:30:00-05:00",
+   "location": "https://luma.com/event/evt-KYFlah0iPDakBnE",
+   "virtual": false,
+   "host": "Defense Tech DC (Luma)",
+   "source": "Defense Tech DC (Luma)",
+   "tags": [],
+   "description": "Get up-to-date information at: https://luma.com/dtdc021 Address: Check event page for more details. Hosted by Margaret Roth, Stephen Babcock & Dominic Ventimiglia",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-9cB78glcBH8tHvA",
+   "fit": 3,
+   "topics": [
+    "industrial-policy",
+    "tech-geopolitics"
+   ],
+   "why": "Monthly Defense Tech DC meetup of founders, investors and officials."
+  },
+  {
+   "id": 367,
+   "title": "Moxgiving Potluck",
+   "start": "2026-11-25T20:30:00-05:00",
+   "location": "1680 Mission St, San Francisco, CA 94103, USA",
+   "virtual": false,
+   "host": "Mox SF (Luma)",
+   "source": "Mox SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/mox-wweu Address: 1680 Mission St San Francisco, CA United States Hosted by Jen Ba & Mox SF",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-nfkEvDFat3zN1fe",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 283,
+   "title": "THANKSGIVING DAY, November 26, 2026",
+   "start": "2026-11-26T08:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "November 26, 2026 is a U.S. Federal holiday, Thanksgiving Day. Thanksgiving Day is celebrated in the United States on the fourth Thursday of November to give thanks for all that we have. The tradition dates back to the early settlers,",
+   "url": "https://spacepolicyonline.com/events/thanksgiving-day-november-26-2026/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 284,
+   "title": "LAUNCH OF NORTHROP GRUMMAN'S NG-25 TO ISS, Nov 29, 2026, CCSFS, 10:49 am ET",
+   "start": "2026-11-29T10:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "NASA is targeting November 29, 2026 at 10:49 am ET for the launch of Northrop Grumman’s 25th cargo mission to the International Space Station, NG-25. The launch is on a SpaceX Falcon 9 from Cape Canaveral Space Force Station, FL.",
+   "url": "https://spacepolicyonline.com/events/launch-of-northrop-grummans-ng-25-to-iss-nov-29-2026-ccsfs-1049-am-et/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 285,
+   "title": "1st AMERICAS SPACE FORUM, Nov 30-Dec 1, 2026, Santiago, Chile",
+   "start": "2026-11-30T07:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "The first Americas Space Forum will take place November 30-December 1, 2026 in Santiago, Chile. More information is on the event’s website, which says (as of August 2):",
+   "url": "https://spacepolicyonline.com/events/1st-americas-space-forum-nov-30-dec-1-2026-santiago-chile/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 286,
+   "title": "HABITABLE WORLDS OBSERVATORY 2026, Nov 30-Dec 4, 2026, Paris",
+   "start": "2026-11-30T07:30:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "The second Habitable Worlds Observatory conference will take place November 30-December 4, 2026. As of April 18, 2026, the website does not specify the venue, saying only that it is “very close to Paris, France.” Check the event’s website for",
+   "url": "https://spacepolicyonline.com/events/habitable-worlds-observatory-2026-nov-30-dec-4-2026-paris/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 380,
+   "title": "Venue Placeholder – Spaceship Block (Dec 1) - Members Only",
+   "start": "2026-12-01T10:00:00-05:00",
+   "location": "Frontier Tower @ Spaceship 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/venue-placeholder-spaceship-block-dec-1 Address: Frontier Tower @ Spaceship 995 Market Street, San Francisco Hosted by Frontier Tower & Xenofon",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 295,
+   "title": "Democracy Café",
+   "start": "2026-12-01T16:00:00-05:00",
+   "location": "SNF Agora Institute, 3102 Wyman Park Drive, Baltimore, MD, 21211, United States",
+   "virtual": false,
+   "host": "SNF Agora Institute (JHU, Baltimore)",
+   "source": "SNF Agora Institute (JHU, Baltimore)",
+   "tags": [
+    "jhu",
+    "university",
+    "baltimore"
+   ],
+   "description": "Democratic life begins with opportunities to connect, ask questions, exchange ideas, and learn from people whose experiences differ from our own. The SNF Agora Democracy Café is a casual weekly gathering where Johns Hopkins students, faculty, staff and other democracy",
+   "url": "https://snfagora.jhu.edu/event/democracy-cafe-11/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 257,
+   "title": "Evolving the Intelligence Community's Investment Fund w/Yan Zheng of IQT",
+   "start": "2026-12-01T18:00:00-05:00",
+   "location": "Teaism Penn Quarter, 400 8th St NW, Washington, DC 20004, USA",
+   "virtual": false,
+   "host": "DC Industrial Policy Salon (Luma)",
+   "source": "DC Industrial Policy Salon (Luma)",
+   "tags": [],
+   "description": "Get up-to-date information at: https://luma.com/x91ckbmp Address: Teaism Penn Quarter Washington, DC United States Hosted by Nicholas Wagner & Yan Zheng",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-IL09IfV9o5t4x2z",
+   "fit": 4,
+   "topics": [
+    "industrial-policy",
+    "tech-geopolitics"
+   ],
+   "why": "IQT's Yan Zheng on evolving the intelligence community's investment fund."
+  },
+  {
+   "id": 354,
+   "title": "MAIML Online Application Tips Information Session",
+   "start": "2026-12-02T12:00:00-05:00",
+   "location": "Online",
+   "virtual": true,
+   "host": "Berkeley campus calendar - artificial intelligence search",
+   "source": "Berkeley campus calendar - artificial intelligence search",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "Master of Artificial Intelligence and Machine Learning (MAIML) Application Tips Information Session. Date: Wed. Dec. 2 Time: 9 - 10 am PT To attend, please register at: https://berkeley.zoom.us/meeting/register/346JXXi0T9WNtimCO-weIQ (https://berkeley.zoom.us/meeting/register/346JXXi0T9WNtimCO-weIQ?ampDeviceId=6ba7dc78-2706-439c-999f-5e7057ef5c57&amp;ampSessionId=1793923088557)",
+   "url": "https://events.berkeley.edu/datasci/event/337435-maiml-online-application-tips-information-session",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 340,
+   "title": "RWAP: Andrea Benjamin, University of Oklahoma",
+   "start": "2026-12-02T15:00:00-05:00",
+   "location": "Harris Room",
+   "virtual": false,
+   "host": "Berkeley Institute of Governmental Studies",
+   "source": "Berkeley Institute of Governmental Studies",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "The Research Workshop in American Politics brings together faculty and graduate students in American politics to share their work in an informal setting. The seminar meets weekly and covers a broad range of topics in American politics. It is primarily",
+   "url": "https://events.berkeley.edu/igs/event/325990-rwap-andrea-benjamin-university-of-oklahoma",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 345,
+   "title": "What Your Machines Should Do: The Science and Strategy of Human-Centered Automation",
+   "start": "2026-12-02T15:10:00-05:00",
+   "location": "210 South Hall and online",
+   "virtual": true,
+   "host": "Berkeley School of Information",
+   "source": "Berkeley School of Information",
+   "tags": [],
+   "description": "Speaker: Stefanie Hutka — Stef Hutka draws on decades of lessons from human factors, HCI, cognitive science, and systems thinking to help you automate with intention: setting deliberate direction, sequencing rollout, and making grounded day-to-day decisions. More info: https://www.ischool.berkeley.edu/events/lectures/2026/what-your-machines-should-do-science-and-strategy-human-centered-automation",
+   "url": "https://www.ischool.berkeley.edu/events/lectures/2026/what-your-machines-should-do-science-and-strategy-human-centered-automation",
+   "fit": 3,
+   "topics": [
+    "AI"
+   ],
+   "why": "Science and strategy of human-centered automation (Berkeley I School)."
+  },
+  {
+   "id": 296,
+   "title": "Stoop Storytellers: Democracy in Our Lives",
+   "start": "2026-12-02T18:00:00-05:00",
+   "location": "MD",
+   "virtual": false,
+   "host": "SNF Agora Institute (JHU, Baltimore)",
+   "source": "SNF Agora Institute (JHU, Baltimore)",
+   "tags": [
+    "jhu",
+    "university",
+    "baltimore"
+   ],
+   "description": "Democracy is shaped not only by institutions and elections, but also by the experiences people carry, the communities they build, and the stories they choose to share. Join the SNF Agora Institute and Baltimore’s Stoop Storytelling Series for an evening",
+   "url": "https://snfagora.jhu.edu/event/stoop-storytellers-democracy-in-our-lives/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 324,
+   "title": "Reactionary Politics in South Korea: Historical Legacies, Far-Right Intellectuals, and Political Mobilization",
+   "start": "2026-12-03T20:00:00-05:00",
+   "location": "Institute of East Asian Studies, Conference Room, 2111 Bancroft Way, 5th Floor, Berkeley, CA 94720",
+   "virtual": true,
+   "host": "Berkeley Institute of East Asian Studies",
+   "source": "Berkeley Institute of East Asian Studies",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "Speaker: Myungji Yang (University of Hawai'i, Mānoa) Hybrid Event | RSVP/Registration Required RSVP for In Person Attendance at Bottom of Page Register for Virtual Attendance: https://berkeley.zoom.us/webinar/register/WN_5Ug1zjOPToSo9aTktNXqNg (https://berkeley.zoom.us/webinar/register/WN_5Ug1zjOPToSo9aTktNXqNg) &#160; Note: This event will begin on \"Berkeley Time\" at 5:10 PM. &#160;",
+   "url": "https://events.berkeley.edu/live/events/322886-reactionary-politics-in-south-korea-historical",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 219,
+   "title": "18th GW China Conference",
+   "start": "2026-12-04T09:00:00-05:00",
+   "location": "The Elliott School of International Affairs, Lindner Family Commons, 6th Floor",
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [],
+   "description": "The GW China Conference brings together scholars and policy experts to examine China’s economic development, U.S.–China economic relations, and their implications for the global economy. Hosted by GW’s Institute for International Economic Policy, the 18th annual conference will explore China’s",
+   "url": "https://calendar.gwu.edu/event/18th-gw-china-conference",
+   "fit": 3,
+   "topics": [
+    "China",
+    "tech-geopolitics"
+   ],
+   "why": "GW's annual China conference; usually includes tech and economic competition."
+  },
+  {
+   "id": 6,
+   "title": "Language Lunch",
+   "start": "2026-12-04T12:00:00-05:00",
+   "location": "Elliott School of International Affairs, Graduate Student Lounge",
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [
+    "university",
+    "gwu"
+   ],
+   "description": "The Elliott School Office of Graduate Student Services invites all GW students, faculty, and staff to attend Language Lunch. These lunches are offered on Fridays from 12:00-1:00 p.m. and provide a safe space for language learners to practice their language",
+   "url": "https://calendar.gwu.edu/event/language-lunch-6414",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 381,
+   "title": "Venue Placeholder – Spaceship (Dec 5) – Rime Builder Event - Members Only - Members Only",
+   "start": "2026-12-05T12:00:00-05:00",
+   "location": "Frontier Tower @ Spaceship 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/venue-placeholder-spaceship-dec-5-rime-b Address: Frontier Tower @ Spaceship 995 Market Street, San Francisco Hosted by Frontier Tower, Xenofon & Rime Events",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 315,
+   "title": "Vision 2035: Building for a Better Baltimore Region",
+   "start": "2026-12-08T08:30:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "Greater Baltimore Committee",
+   "source": "Greater Baltimore Committee",
+   "tags": [
+    "industry",
+    "baltimore"
+   ],
+   "description": "What will it take to build a more connected, competitive and vibrant Baltimore Region by 2035—and what must we do today to get there? Join the Greater Baltimore Committee for the 2026 edition of Vision 2035: Building for a Better",
+   "url": "https://gbc.org/event/vision-2035-building-for-a-better-baltimore-region/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 249,
+   "title": "STATION DC Drone Dominance Roundtable (MEMBERS ONLY)",
+   "start": "2026-12-08T10:00:00-05:00",
+   "location": "STATION DC, 1323 4th St NE Ste 200, Washington, DC 20002, USA",
+   "virtual": false,
+   "host": "STATION DC (Luma)",
+   "source": "STATION DC (Luma)",
+   "tags": [],
+   "description": "Get up-to-date information at: https://luma.com/stationdc-7o24 Address: STATION DC Washington, DC United States Hosted by STATION DC",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-AAO2oyuqOv3LHFu",
+   "fit": 2,
+   "topics": [
+    "industrial-policy"
+   ],
+   "why": "Drone industrial base roundtable; members only."
+  },
+  {
+   "id": 297,
+   "title": "The Third Voice: Art, Media, and Community Authorship",
+   "start": "2026-12-08T12:00:00-05:00",
+   "location": "SNF Agora Institute, 3102 Wyman Park Drive, Baltimore, MD, 21211, United States",
+   "virtual": false,
+   "host": "SNF Agora Institute (JHU, Baltimore)",
+   "source": "SNF Agora Institute (JHU, Baltimore)",
+   "tags": [
+    "jhu",
+    "university",
+    "baltimore"
+   ],
+   "description": "In-person attendance available in SNF Agora Institute Building Room 242. Lunch will be served! Media tells us stories. Art lets us tell our own. Join Tiffany Jones, SNF Agora Institute Visiting Fellow, for a look at art as democracy and",
+   "url": "https://snfagora.jhu.edu/event/community-workshop-4/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 344,
+   "title": "UC Berkeley Cybersecurity Clinic Showcase",
+   "start": "2026-12-08T14:00:00-05:00",
+   "location": "621 Sutardja Dai Hall",
+   "virtual": false,
+   "host": "Berkeley School of Information",
+   "source": "Berkeley School of Information",
+   "tags": [],
+   "description": "Cybersecurity Clinic students share their experiences supporting public-interest organizations vulnerable to ideologically motivated threats. More info: https://www.ischool.berkeley.edu/events/2026/uc-berkeley-cybersecurity-clinic-showcase-0",
+   "url": "https://www.ischool.berkeley.edu/events/2026/uc-berkeley-cybersecurity-clinic-showcase-0",
+   "fit": 3,
+   "topics": [
+    "cyber"
+   ],
+   "why": "Showcase of the Berkeley Cybersecurity Clinic's work for public-interest organizations."
+  },
+  {
+   "id": 298,
+   "title": "Democracy Café",
+   "start": "2026-12-08T16:00:00-05:00",
+   "location": "SNF Agora Institute, 3102 Wyman Park Drive, Baltimore, MD, 21211, United States",
+   "virtual": false,
+   "host": "SNF Agora Institute (JHU, Baltimore)",
+   "source": "SNF Agora Institute (JHU, Baltimore)",
+   "tags": [
+    "jhu",
+    "university",
+    "baltimore"
+   ],
+   "description": "Democratic life begins with opportunities to connect, ask questions, exchange ideas, and learn from people whose experiences differ from our own. The SNF Agora Democracy Café is a casual weekly gathering where Johns Hopkins students, faculty, staff and other democracy",
+   "url": "https://snfagora.jhu.edu/event/democracy-cafe-12/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 250,
+   "title": "Disrupting Politics: Technology, Democracy, and What Comes Next",
+   "start": "2026-12-08T17:30:00-05:00",
+   "location": "STATION DC, 1323 4th St NE Ste 200, Washington, DC 20002, USA",
+   "virtual": false,
+   "host": "STATION DC (Luma)",
+   "source": "STATION DC (Luma)",
+   "tags": [],
+   "description": "Get up-to-date information at: https://luma.com/m5nlmkiz Address: STATION DC Washington, DC United States Hosted by STATION DC",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-AAO2oyuqOv3LHFu",
+   "fit": 3,
+   "topics": [
+    "AI",
+    "trust-and-safety"
+   ],
+   "why": "Technology's effect on democracy and politics."
+  },
+  {
+   "id": 261,
+   "title": "Data Viz DC: Mapping Knowledge Across Time, Seven Books that Visualized the World - Paul Kahn",
+   "start": "2026-12-08T17:30:00-05:00",
+   "location": "2112 Pennsylvania Ave NW, Washington, DC 20037, USA",
+   "virtual": false,
+   "host": "DC Data & AI Events (Luma)",
+   "source": "DC Data & AI Events (Luma)",
+   "tags": [],
+   "description": "Get up-to-date information at: https://luma.com/x9upcfju Address: 2112 Pennsylvania Ave NW Enter, check in with security, and take elevator to 2nd floor Washington, DC United States Hosted by Will Angel & 6 others",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-eCuIBRbS1atJOa6",
+   "fit": 2,
+   "topics": [],
+   "why": "Data-visualization meetup."
+  },
+  {
+   "id": 251,
+   "title": "Rebuilding the American Industrial Base",
+   "start": "2026-12-09T09:30:00-05:00",
+   "location": "STATION DC, 1323 4th St NE Ste 200, Washington, DC 20002, USA",
+   "virtual": false,
+   "host": "STATION DC (Luma)",
+   "source": "STATION DC (Luma)",
+   "tags": [],
+   "description": "Get up-to-date information at: https://luma.com/stationdc-18iu Address: STATION DC Washington, DC United States Hosted by STATION DC",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-AAO2oyuqOv3LHFu",
+   "fit": 4,
+   "topics": [
+    "industrial-policy"
+   ],
+   "why": "Rebuilding the American industrial base."
+  },
+  {
+   "id": 343,
+   "title": "Who Gets to Author a Place? Co-Designing an Augmented Reality Tour with the Ohlone Native American Community",
+   "start": "2026-12-09T15:10:00-05:00",
+   "location": "210 South Hall and online",
+   "virtual": true,
+   "host": "Berkeley School of Information",
+   "source": "Berkeley School of Information",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "Speaker: Kai Lukoff — Who gets to tell the public story of a landscape that extends back thousands of years? Ohlone collaborators, students, and faculty discuss the co-design of the Thámien Ohlone Augmented Reality Tour. More info: https://www.ischool.berkeley.edu/events/bellwether-lectures/2026/who-gets-author-place-co-designing-augmented-reality-tour-ohlone",
+   "url": "https://www.ischool.berkeley.edu/events/bellwether-lectures/2026/who-gets-author-place-co-designing-augmented-reality-tour-ohlone",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 342,
+   "title": "Cybersecurity Fall 2026 Capstone Project Showcase",
+   "start": "2026-12-10T19:00:00-05:00",
+   "location": "Online",
+   "virtual": true,
+   "host": "Berkeley School of Information",
+   "source": "Berkeley School of Information",
+   "tags": [],
+   "description": "Graduating MICS students present their cybersecurity projects. A panel of judges will select an outstanding project for the Lily L. Chang MICS Capstone Award. More info: https://www.ischool.berkeley.edu/events/2026/cybersecurity-fall-2026-capstone-project-showcase",
+   "url": "https://www.ischool.berkeley.edu/events/2026/cybersecurity-fall-2026-capstone-project-showcase",
+   "fit": 2,
+   "topics": [
+    "cyber"
+   ],
+   "why": "Student capstone showcase (online)."
+  },
+  {
+   "id": 382,
+   "title": "Cypherpunk Society: December Meeting - Members +1",
+   "start": "2026-12-10T21:00:00-05:00",
+   "location": "Frontier Tower @ Spaceship 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/cypherpunk-society-december-meeting Address: Frontier Tower @ Spaceship 995 Market Street, San Francisco Hosted by Frontier Tower & Morgan Hough",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 254,
+   "title": "Defense Tech DC 022",
+   "start": "2026-12-15T18:00:00-05:00",
+   "location": "https://luma.com/event/evt-f7oIDTN6J5F78RH",
+   "virtual": false,
+   "host": "Defense Tech DC (Luma)",
+   "source": "Defense Tech DC (Luma)",
+   "tags": [],
+   "description": "Get up-to-date information at: https://luma.com/dtdc022 Address: Check event page for more details. Hosted by Margaret Roth, Dominic Ventimiglia & Stephen Babcock",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-9cB78glcBH8tHvA",
+   "fit": 3,
+   "topics": [
+    "industrial-policy",
+    "tech-geopolitics"
+   ],
+   "why": "Monthly Defense Tech DC meetup of founders, investors and officials."
+  },
+  {
+   "id": 383,
+   "title": "SF CogSci #35: Ingressing Minds: Causal, Non-Physical Patterns In-Form Natural, Synthetic, and Hybrid Embodiments",
+   "start": "2026-12-15T22:00:00-05:00",
+   "location": "Frontier Tower @ 15th Floor Annex - Other Minds 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/sf-cogsci-35 Address: Frontier Tower @ 15th Floor Annex - Other Minds 995 Market Street, San Francisco Hosted by Frontier Tower & Tom Hume",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 341,
+   "title": "Data Science Fall 2026 Capstone Project Showcase",
+   "start": "2026-12-17T20:00:00-05:00",
+   "location": "Online",
+   "virtual": true,
+   "host": "Berkeley School of Information",
+   "source": "Berkeley School of Information",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "Graduating MIDS students present their data science projects. A panel of judges will select an outstanding project for the Hal R. Varian MIDS Capstone Award. More info: https://www.ischool.berkeley.edu/events/2026/data-science-fall-2026-capstone-project-showcase",
+   "url": "https://www.ischool.berkeley.edu/events/2026/data-science-fall-2026-capstone-project-showcase",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 384,
+   "title": "TBA - Placeholder - Open Registration",
+   "start": "2026-12-17T20:00:00-05:00",
+   "location": "Frontier Tower @ Spaceship 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/tba-hospitality-placeholder Address: Frontier Tower @ Spaceship 995 Market Street, San Francisco Hosted by Frontier Tower, Fernando & Fernando Lorenzo",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 252,
+   "title": "The Healthcare Revolution Roundtable (STATION DC MEMBERS ONLY)",
+   "start": "2027-01-13T09:00:00-05:00",
+   "location": "STATION DC, 1323 4th St NE Ste 200, Washington, DC 20002, USA",
+   "virtual": false,
+   "host": "STATION DC (Luma)",
+   "source": "STATION DC (Luma)",
+   "tags": [
+    "public",
+    "meetup"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/stationdc-fr23 Address: STATION DC Washington, DC United States Hosted by STATION DC",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-AAO2oyuqOv3LHFu",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 316,
+   "title": "DEFENSETECH In Harford County",
+   "start": "2027-01-19T17:30:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "Greater Baltimore Committee",
+   "source": "Greater Baltimore Committee",
+   "tags": [],
+   "description": "Some of the most important defense innovation in the county is happening right here in our region, and it’s time we talked about it. UpSurge Baltimore & GBC are bringing together the people building the future of defense and national",
+   "url": "https://gbc.org/event/defensetech-in-harford-county/",
+   "fit": 3,
+   "topics": [
+    "industrial-policy"
+   ],
+   "why": "Defense-tech industry event in Harford County, MD."
+  },
+  {
+   "id": 299,
+   "title": "Faculty Seminar",
+   "start": "2027-01-28T14:00:00-05:00",
+   "location": "MD",
+   "virtual": true,
+   "host": "SNF Agora Institute (JHU, Baltimore)",
+   "source": "SNF Agora Institute (JHU, Baltimore)",
+   "tags": [
+    "jhu",
+    "university",
+    "baltimore"
+   ],
+   "description": "Register to attend by Zoom at https://zoom.us/meeting/register/9eaIG16xRBmdBNTQsyZiPA",
+   "url": "https://snfagora.jhu.edu/event/faculty-seminar-4/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 300,
+   "title": "Academy Workshop",
+   "start": "2027-02-02T12:00:00-05:00",
+   "location": "SNF Agora Institute, 3102 Wyman Park Drive, Baltimore, MD, 21211, United States",
+   "virtual": true,
+   "host": "SNF Agora Institute (JHU, Baltimore)",
+   "source": "SNF Agora Institute (JHU, Baltimore)",
+   "tags": [
+    "jhu",
+    "university",
+    "baltimore"
+   ],
+   "description": "Register to attend by Zoom at https://zoom.us/meeting/register/iPGqr-SZQ5qcBkFkFS7o1Q",
+   "url": "https://snfagora.jhu.edu/event/academy-workshop-7-2/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 301,
+   "title": "Community Workshop",
+   "start": "2027-02-09T12:00:00-05:00",
+   "location": "SNF Agora Institute, 3102 Wyman Park Drive, Baltimore, MD, 21211, United States",
+   "virtual": true,
+   "host": "SNF Agora Institute (JHU, Baltimore)",
+   "source": "SNF Agora Institute (JHU, Baltimore)",
+   "tags": [
+    "jhu",
+    "university",
+    "baltimore"
+   ],
+   "description": "Register to attend by Zoom at https://zoom.us/meeting/register/7Ojjzde2SPGFLEKW3hsl3A",
+   "url": "https://snfagora.jhu.edu/event/community-workshop-5/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 302,
+   "title": "Academy Workshop",
+   "start": "2027-02-23T12:00:00-05:00",
+   "location": "SNF Agora Institute, 3102 Wyman Park Drive, Baltimore, MD, 21211, United States",
+   "virtual": true,
+   "host": "SNF Agora Institute (JHU, Baltimore)",
+   "source": "SNF Agora Institute (JHU, Baltimore)",
+   "tags": [
+    "jhu",
+    "university",
+    "baltimore"
+   ],
+   "description": "Register to attend by Zoom at https://zoom.us/meeting/register/3WKq0vo4QXqqXeKFlje0oA",
+   "url": "https://snfagora.jhu.edu/event/academy-workshop-4/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 303,
+   "title": "Faculty Seminar",
+   "start": "2027-02-25T12:00:00-05:00",
+   "location": "MD",
+   "virtual": true,
+   "host": "SNF Agora Institute (JHU, Baltimore)",
+   "source": "SNF Agora Institute (JHU, Baltimore)",
+   "tags": [
+    "jhu",
+    "university",
+    "baltimore"
+   ],
+   "description": "Register to attend by Zoom at https://zoom.us/meeting/register/jtbuJJ8eT8G9W9VWaUtnIQ",
+   "url": "https://snfagora.jhu.edu/event/faculty-seminar-5/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 325,
+   "title": "Hong Yung Lee Book Award Ceremony",
+   "start": "2027-03-04T20:00:00-05:00",
+   "location": "David Brower Center, 2150 Allston Way, Berkeley, CA 94704",
+   "virtual": false,
+   "host": "Berkeley Institute of East Asian Studies",
+   "source": "Berkeley Institute of East Asian Studies",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "In Person Event | RSVP Required RSVP for In Person Attendance at Bottom of Page &#160; Event Schedule: 5:00 PM - Event Begins 6:30 PM - Cocktail Hour Begins (Hearty Refreshments Provided) 6:45 PM - Book Signing Begins 7:30 PM",
+   "url": "https://events.berkeley.edu/live/events/334103-hong-yung-lee-book-award-ceremony",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 328,
+   "title": "An Evening with Arthur Sze",
+   "start": "2027-03-04T20:00:00-05:00",
+   "location": "Heyns Room, The Faculty Club, UC Berkeley",
+   "virtual": false,
+   "host": "Berkeley Center for Chinese Studies",
+   "source": "Berkeley Center for Chinese Studies",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "RSVP (https://lp.constantcontactpages.com/ev/reg/vn6x27c) is required.Arthur Sze is a poet, translator, and editor, and in 2025 he was named the 25th Poet Laureate of the United States. He is the author of twelve books of poetry, including Into the Hush (2025) and",
+   "url": "https://events.berkeley.edu/ccs/event/336474-an-evening-with-arthur-sze",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 304,
+   "title": "Community Workshop",
+   "start": "2027-03-09T12:00:00-05:00",
+   "location": "SNF Agora Institute, 3102 Wyman Park Drive, Baltimore, MD, 21211, United States",
+   "virtual": true,
+   "host": "SNF Agora Institute (JHU, Baltimore)",
+   "source": "SNF Agora Institute (JHU, Baltimore)",
+   "tags": [
+    "jhu",
+    "university",
+    "baltimore"
+   ],
+   "description": "Register to attend by Zoom at https://zoom.us/meeting/register/S_VhxmMRT3awwuoPQyJ4hA",
+   "url": "https://snfagora.jhu.edu/event/community-workshop-6/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 326,
+   "title": "A Book of the Civic Silk Road: Translating Ming China for the Ottoman World",
+   "start": "2027-03-12T20:00:00-05:00",
+   "location": "370 Dwinelle",
+   "virtual": false,
+   "host": "Berkeley Institute of East Asian Studies",
+   "source": "Berkeley Institute of East Asian Studies",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "A Book of the Civic Silk Road: Translating Ming China for the Ottoman World The Book of China is the most detailed description of China's government and society written by any foreigner before the age of European maritime empires. 'Ali",
+   "url": "https://events.berkeley.edu/ieas/event/336048-a-book-of-the-civic-silk-road-translating-ming",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 305,
+   "title": "Academy Workshop",
+   "start": "2027-03-16T12:00:00-04:00",
+   "location": "SNF Agora Institute, 3102 Wyman Park Drive, Baltimore, MD, 21211, United States",
+   "virtual": true,
+   "host": "SNF Agora Institute (JHU, Baltimore)",
+   "source": "SNF Agora Institute (JHU, Baltimore)",
+   "tags": [
+    "jhu",
+    "university",
+    "baltimore"
+   ],
+   "description": "Register to attend by Zoom at https://zoom.us/meeting/register/v4lZKKOtRSaDVhNu8XxJeA",
+   "url": "https://snfagora.jhu.edu/event/academy-workshop-5/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 306,
+   "title": "The False Polarization of Heroes: How Social Sorting Affects Collective Memory",
+   "start": "2027-03-18T12:00:00-04:00",
+   "location": "MD",
+   "virtual": false,
+   "host": "SNF Agora Institute (JHU, Baltimore)",
+   "source": "SNF Agora Institute (JHU, Baltimore)",
+   "tags": [
+    "jhu",
+    "university",
+    "baltimore"
+   ],
+   "description": "Iconic historical figures are often understood to represent a society’s enduring and widely shared values. Yet Americans across political and demographic groups frequently believe that many of their most important values are deeply contested. In this faculty seminar, Craig Rawlings",
+   "url": "https://snfagora.jhu.edu/event/false-polarization/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 327,
+   "title": "The Later Spread Spreading Further: Study of A Tangut Tantric Anthology",
+   "start": "2027-03-18T20:00:00-04:00",
+   "location": "370 Dwinelle Hall",
+   "virtual": false,
+   "host": "Berkeley Institute of East Asian Studies",
+   "source": "Berkeley Institute of East Asian Studies",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "The Later Spread Spreading Further: Study of A Tangut Tantric AnthologyLeong Clancy Fellowship Annual Lecture 2026 The past two decades have seen a steady growth in scholarship on the influences of Tibetan Buddhism in the Tangut State, also known as",
+   "url": "https://events.berkeley.edu/ieas/event/336122-the-later-spread-spreading-further-study-of-a",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 329,
+   "title": "Religious Change in Post-Mao China: Toward a New Sociology of Religion | Lecture by Yanfei Sun",
+   "start": "2027-04-01T19:00:00-04:00",
+   "location": "370 Dwinelle Hall, UC Berkeley",
+   "virtual": false,
+   "host": "Berkeley Center for Chinese Studies",
+   "source": "Berkeley Center for Chinese Studies",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "This talk draws on Professor Sun's new book, which brings together two decades of ethnographic, archival, and historical-comparative research to examine religious transformation in post-Mao China. Focusing on five major religions, the study tackles key questions regarding their growth dynamics",
+   "url": "https://events.berkeley.edu/ccs/event/335610-religious-change-in-post-mao-china-toward-a-new",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 307,
+   "title": "Community Workshop",
+   "start": "2027-04-06T12:00:00-04:00",
+   "location": "SNF Agora Institute, 3102 Wyman Park Drive, Baltimore, MD, 21211, United States",
+   "virtual": true,
+   "host": "SNF Agora Institute (JHU, Baltimore)",
+   "source": "SNF Agora Institute (JHU, Baltimore)",
+   "tags": [
+    "jhu",
+    "university",
+    "baltimore"
+   ],
+   "description": "Register to attend by Zoom at https://zoom.us/meeting/register/_BZ5HR80Q_ivCKInwsvBkg",
+   "url": "https://snfagora.jhu.edu/event/community-workshop-7/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 308,
+   "title": "Academy Workshop",
+   "start": "2027-04-20T12:00:00-04:00",
+   "location": "SNF Agora Institute, 3102 Wyman Park Drive, Baltimore, MD, 21211, United States",
+   "virtual": true,
+   "host": "SNF Agora Institute (JHU, Baltimore)",
+   "source": "SNF Agora Institute (JHU, Baltimore)",
+   "tags": [
+    "jhu",
+    "university",
+    "baltimore"
+   ],
+   "description": "Register to attend by Zoom at https://zoom.us/meeting/register/NdOQjoHKQbKlI6hy_wpWPQ",
+   "url": "https://snfagora.jhu.edu/event/academy-workshop-6/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 309,
+   "title": "A Syrian in Baltimore (1900-1905)",
+   "start": "2027-04-22T12:00:00-04:00",
+   "location": "MD",
+   "virtual": false,
+   "host": "SNF Agora Institute (JHU, Baltimore)",
+   "source": "SNF Agora Institute (JHU, Baltimore)",
+   "tags": [
+    "jhu",
+    "university",
+    "baltimore"
+   ],
+   "description": "In-person attendance available at the SNF Agora Institute Building, Room 242. Lunch will be served! Naim Cotran (1877-1961) arrived to Baltimore from Acre, Palestine sometime in 1900. He landed at the port, the city’s gateway of knowledge, a harbor of",
+   "url": "https://snfagora.jhu.edu/event/faculty-seminar-7/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 310,
+   "title": "Community Workshop",
+   "start": "2027-05-11T12:00:00-04:00",
+   "location": "SNF Agora Institute, 3102 Wyman Park Drive, Baltimore, MD, 21211, United States",
+   "virtual": true,
+   "host": "SNF Agora Institute (JHU, Baltimore)",
+   "source": "SNF Agora Institute (JHU, Baltimore)",
+   "tags": [
+    "jhu",
+    "university",
+    "baltimore"
+   ],
+   "description": "Register to attend by Zoom at https://zoom.us/meeting/register/3bcLfjVnQ0CnRv5wC5Sipw",
+   "url": "https://snfagora.jhu.edu/event/community-workshop-8/",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 214,
+   "title": "Elliott School of International Affairs Celebration",
+   "start": "2027-05-14T12:00:00-04:00",
+   "location": "Charles E. Smith Center",
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [
+    "university",
+    "gwu"
+   ],
+   "description": "We look forward to celebrating the class of 2027! Visit the ESIA Commencement Commencement website for details.",
+   "url": "https://calendar.gwu.edu/event/elliott-school-of-international-affairs-celebration-2027",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  },
+  {
+   "id": 385,
+   "title": "test - Citizens Free · Guests Pay",
+   "start": "2027-12-24T16:30:00-05:00",
+   "location": "Frontier Tower @ Lounge on 16th 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/test-c1e1 Address: Frontier Tower @ Lounge on 16th 995 Market Street, San Francisco Hosted by Frontier Tower & Jakob Drzazga",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [],
+   "why": "Off-topic for tech policy (social, campus, launch, or non-tech)."
+  }
+ ]
+}

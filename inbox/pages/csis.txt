@@ -1,6 +1,6 @@
 # CSIS
 # https://www.csis.org/events
-# fetched 2026-11-07T09:24:07.099703-05:00
+# fetched 2026-11-08T12:11:00.746126-05:00
 # tags: think-tank
 
 Events
@@ -14,7 +14,7 @@ November 9, 2026 • 9:00 – 10:00 am EST
  Upcoming Events
 Image
 Photo: Eric Thayer/Getty Images
-Press Briefing: Previewing President Trump's Trip to Asia <https://www.csis.org/index%2Ephp/events/press-briefing-previewing-president-trumps-trip-asia>
+Press Briefing: Previewing President Trump's Trip to Asia <https://www.csis.org/index%2ephp/events/press-briefing-previewing-president-trumps-trip-asia>
 November 9, 2026 • 10:00 – 11:00 am EST
 Webinar
 Image
@@ -43,7 +43,7 @@ See all upcoming events <https://www.csis.org/events?f%5B0%5D=event_type%3A3004&
  Recent Events
 Image
 Photo: CSIS
-2026 Elections: New Congress, New Trade Agenda? <https://www.csis.org/index%2Ephp/events/2026-elections-new-congress-new-trade-agenda>
+2026 Elections: New Congress, New Trade Agenda? <https://www.csis.org/events/2026-elections-new-congress-new-trade-agenda>
 November 6, 2026 • 12:00 – 10:00 pm EST
  Hosted by 
 Economics Program and Scholl Chair in International Business
@@ -53,12 +53,12 @@ November 5, 2026 • 10:00 – 11:00 am EST
  Hosted by 
 Strategic Technologies Program
 Image
-The Modernization of South American Militaries: Opportunities, Challenges, and Future Directions <https://www.csis.org/index%2ephp/events/modernization-south-american-militaries-opportunities-challenges-and-future-directions>
+The Modernization of South American Militaries: Opportunities, Challenges, and Future Directions <https://www.csis.org/events/modernization-south-american-militaries-opportunities-challenges-and-future-directions>
 November 4, 2026 • 2:00 – 3:00 pm EST
  Hosted by 
 Americas Program
 Image
-The Return of the Nuclear Sea-Launched Cruise Missile (SLCM-N) | HTK <https://www.csis.org/events/return-nuclear-sea-launched-cruise-missile-slcm-n-htk>
+The Return of the Nuclear Sea-Launched Cruise Missile (SLCM-N) | HTK <https://www.csis.org/index%2Ephp/events/return-nuclear-sea-launched-cruise-missile-slcm-n-htk>
 November 4, 2026 • 1:00 – 2:00 pm EST
  Hosted by 
 HTK Series
@@ -75,7 +75,7 @@ November 2, 2026 • 9:00 – 9:30 am EST
 All About the Base
 Image
 Photo: CSIS
-China's Power: Up for Debate 2026 <https://www.csis.org/index%2Ephp/events/chinas-power-debate-2026>
+China's Power: Up for Debate 2026 <https://www.csis.org/events/chinas-power-debate-2026>
 October 28 – 29, 2026
  Hosted by 
 China Power Project
@@ -207,7 +207,7 @@ The Strategic Implications of the Russia-North Korea Axis <https://www.csis.org/
 CSIS convenes a conference examining the durability of the North Korea-Russia partnership, and what it means for the United States and its allies in Europe and the Indo-Pacific by bringing together leading specialists on Russia, North Korea and alliance theory. 
  Event
 — November 16, 2026
-Dynamics in U.S.-Japan Semiconductor Partnership For National Security <https://www.csis.org/events/dynamics-us-japan-semiconductor-partnership-national-security>
+Dynamics in U.S.-Japan Semiconductor Partnership For National Security <https://www.csis.org/index%2Ephp/events/dynamics-us-japan-semiconductor-partnership-national-security>
 Discussions will explore the U.S. and Japan’s assets and capabilities and the challenges and opportunities for semiconductor cooperation.
  Event
 — November 16, 2026

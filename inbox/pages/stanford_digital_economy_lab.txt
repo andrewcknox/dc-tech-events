@@ -1,0 +1,44 @@
+# Stanford Digital Economy Lab
+# https://digitaleconomy.stanford.edu/events/
+# fetched 2026-11-08T12:11:00.746126-05:00
+# tags: bay-area, university
+
+Events
+Upcoming Events
+ Friday, November 13
+/
+ 2:00pm to 4:00pm Pacific Time
+Special Seminar and Fireside Chat: Understanding Work Using AI
+ Monday, November 16
+/
+ 12:00pm to 1:00pm Pacific Time
+Christopher Ong | Research Acceleration: The View Inside OpenAI
+ Monday, November 30
+/
+ 12:00pm to 1:00pm Pacific Time
+Richard Socher | The Eureka Machine: Why AI is the Key to Unlocking a New Era of Scientific Discoveries
+ Wednesday, December 2
+How AI Is Changing the Economy: New Evidence on Work, Growth, and Economic Transformation
+Dec 14
+ Monday, December 14
+/
+ 12:00pm to 1:00pm Pacific Time
+Annie Liang: DEL Seminar Series
+Past event highlights
+Past Events
+ Monday, October 26, 2026
+/
+ 12:00pm to 1:00pm Pacific Time
+Daniel Rock | The Free Hypothesis: AI and Shifted Bottlenecks in Science
+ Monday, October 19, 2026
+/
+ 12:00pm to 1:00pm Pacific Time
+Carina Hong: Math, Niche Math, & the Quest of Trusted Code, on Demand, at Scale
+ Monday, October 12, 2026
+/
+ 12:00pm to 1:00pm Pacific Time
+Neil Thompson: Forecasting AI’s Impact on Human Expertise and the Future of Work
+ Thursday, October 8, 2026
+AI + Economics Stanford Faculty Research Workshop
+ Thursday, September 24, 2026
+World Development Report 2026: The Promise of Artificial Intelligence

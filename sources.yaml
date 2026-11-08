@@ -363,3 +363,395 @@ sources:
     js: false
     tags: [public]
     enabled: true
+
+  # ---------- DC Luma calendars moved up from TRAWL.md tier 3 (added 2026-11-07) ----------
+  - name: STATION DC (Luma)
+    url: https://api.lu.ma/ics/get?entity=calendar&id=cal-AAO2oyuqOv3LHFu
+    type: ics
+    js: false
+    tags: [public, meetup]
+    enabled: true
+
+  - name: Defense Tech DC (Luma)
+    url: https://api.lu.ma/ics/get?entity=calendar&id=cal-9cB78glcBH8tHvA
+    type: ics
+    js: false
+    tags: [public, meetup]
+    enabled: true
+
+  - name: DC Industrial Policy Salon (Luma)
+    url: https://api.lu.ma/ics/get?entity=calendar&id=cal-IL09IfV9o5t4x2z
+    type: ics
+    js: false
+    tags: [public, meetup]
+    enabled: true
+
+  - name: DC Data & AI Events (Luma)
+    url: https://api.lu.ma/ics/get?entity=calendar&id=cal-eCuIBRbS1atJOa6
+    type: ics
+    js: false
+    tags: [public, meetup]
+    enabled: true   # mostly technical meetups (Data Science DC); score off-topic ones fit 1
+
+  - name: Heatmap News (Luma)
+    url: https://api.lu.ma/ics/get?entity=calendar&id=cal-3UdV6WiftPs1INi
+    type: ics
+    js: false
+    tags: [public, media]
+    enabled: false   # energy/climate; borderline
+
+  # ---------- DC: more think tanks, science, industry, media (added 2026-11-07) ----------
+  - name: SpacePolicyOnline events calendar
+    url: https://spacepolicyonline.com/events/?ical=1
+    type: ics
+    js: false
+    tags: [aggregator, space, public]
+    enabled: true   # global list incl. Hill hearings; keep DC/virtual only when scoring
+
+  - name: Global Taiwan Institute
+    url: https://globaltaiwan.org/events/feed/
+    type: rss
+    js: false
+    tags: [think-tank]
+    enabled: true   # item title starts with the event date
+
+  - name: Asia Society Policy Institute
+    url: https://asiasociety.org/policy-institute/events
+    type: html
+    js: false
+    tags: [think-tank]
+    enabled: true
+
+  - name: Mitchell Institute for Aerospace Studies
+    url: https://www.mitchellaerospacepower.org/events/feed/
+    type: rss
+    js: false
+    tags: [think-tank, space]
+    enabled: true
+
+  - name: ORF America
+    url: https://orfamerica.org/events
+    type: html
+    js: false
+    tags: [think-tank]
+    enabled: true   # US-India tech/energy
+
+  - name: Progressive Policy Institute
+    url: https://www.progressivepolicy.org/events/
+    type: html
+    js: false
+    tags: [think-tank]
+    enabled: true   # low tech hit rate; cheap page
+
+  - name: AAAS events
+    url: https://www.aaas.org/events
+    type: html
+    js: false
+    tags: [science]
+    enabled: true   # annual S&T Policy Forum etc.
+
+  - name: Secure World Foundation
+    url: https://www.swfound.org/upcoming-events
+    type: html
+    js: false
+    tags: [civil-society, space]
+    enabled: true   # many listings are staff speaking abroad; keep DC only
+
+  - name: GW Institute for Data, Democracy & Politics
+    url: https://calendar.gwu.edu/search/events.ics?search=IDDP
+    type: ics
+    js: false
+    tags: [university, gwu]
+    enabled: true
+
+  - name: UMD Global Policy Institute (incl. CISSM)
+    url: https://gpi.umd.edu/events
+    type: html
+    js: false
+    tags: [university, maryland]
+    enabled: true
+
+  - name: Johns Hopkins APL events
+    url: https://www.jhuapl.edu/events
+    type: html
+    js: false
+    tags: [jhu, maryland]
+    enabled: true   # Laurel MD; space/national security conferences
+
+  - name: US Chamber of Commerce events
+    url: https://www.uschamber.com/events
+    type: html
+    js: false
+    tags: [industry]
+    enabled: true   # C_TEC events appear here among many others
+
+  - name: Consumer Technology Association
+    url: https://www.cta.tech/events
+    type: html
+    js: false
+    tags: [industry]
+    enabled: true
+
+  - name: INSA (Intelligence & National Security Alliance)
+    url: https://www.insaonline.org/calendar-of-events
+    type: html
+    js: false
+    tags: [industry]
+    enabled: true
+
+  - name: Scoop News Group (FedScoop/CyberScoop) events
+    url: https://cyberscoop.com/attend/
+    type: html
+    js: false
+    tags: [media, industry]
+    enabled: true
+
+  - name: MeriTalk events
+    url: https://www.meritalk.com/events/
+    type: html
+    js: false
+    tags: [media, industry]
+    enabled: true
+
+  - name: Punchbowl News live events
+    url: https://punchbowl.news/events/
+    type: html
+    js: false
+    tags: [media]
+    enabled: true
+
+  # ---------- Baltimore (added 2026-11-07) ----------
+  - name: SNF Agora Institute (JHU, Baltimore)
+    url: https://snfagora.jhu.edu/events/?ical=1
+    type: ics
+    js: false
+    tags: [jhu, university, baltimore]
+    enabled: true   # democracy/information-space; some tech
+
+  - name: JHU Institute for Assured Autonomy (Baltimore)
+    url: https://iaa.jhu.edu/events/
+    type: html
+    js: false
+    tags: [jhu, university, baltimore]
+    enabled: true
+
+  - name: Greater Baltimore Committee
+    url: https://gbc.org/events/?ical=1
+    type: ics
+    js: false
+    tags: [industry, baltimore]
+    enabled: true   # business-heavy; occasional AI policy / defense tech
+
+  - name: Baltimore Tech Meetup (Meetup)
+    url: https://www.meetup.com/baltimore-tech-meetup/events/ical/
+    type: ics
+    js: false
+    tags: [meetup, baltimore, public]
+    enabled: true
+
+  # ======================================================================================
+  # BAY AREA (docs/bay-area.html). Every source here carries the bay-area tag, which keeps its
+  # events off the DC map and digest. Researched and probed 2026-11-07.
+  # ======================================================================================
+
+  # ---------- Bay Area: Stanford ----------
+  - name: Stanford HAI
+    url: https://hai.stanford.edu/events
+    type: html
+    js: false
+    tags: [bay-area, university]
+    enabled: true   # also lists technical seminars; score those low
+
+  - name: Stanford FSI (all centers)
+    url: https://fsi.stanford.edu/events
+    type: html
+    js: false
+    tags: [bay-area, university]
+    enabled: true   # umbrella for CISAC, APARC, SCCEI, Tech Impact & Policy Center (ex-Cyber Policy Center)
+
+  - name: Stanford CISAC
+    url: https://cisac.fsi.stanford.edu/events
+    type: html
+    js: false
+    tags: [bay-area, university]
+    enabled: true
+
+  - name: Stanford Shorenstein APARC
+    url: https://aparc.fsi.stanford.edu/events
+    type: html
+    js: false
+    tags: [bay-area, university]
+    enabled: true
+
+  - name: Stanford Center on China's Economy and Institutions (SCCEI)
+    url: https://sccei.fsi.stanford.edu/events
+    type: html
+    js: false
+    tags: [bay-area, university]
+    enabled: true
+
+  - name: Stanford Digital Economy Lab
+    url: https://digitaleconomy.stanford.edu/events/
+    type: html
+    js: false
+    tags: [bay-area, university]
+    enabled: true
+
+  - name: Stanford SIEPR
+    url: https://siepr.stanford.edu/events
+    type: html
+    js: false
+    tags: [bay-area, university]
+    enabled: true
+
+  - name: Stanford Law tech centers
+    # CodeX, Law Science & Tech, CIS, TTLF, Privacy, Law & Biosciences, liftlab (organizer-filtered ICS)
+    url: https://law.stanford.edu/events/list/?ical=1&tribe_organizers%5B0%5D=117318&tribe_organizers%5B1%5D=117315&tribe_organizers%5B2%5D=117343&tribe_organizers%5B3%5D=117327&tribe_organizers%5B4%5D=542734&tribe_organizers%5B5%5D=117317&tribe_organizers%5B6%5D=561871
+    type: ics
+    js: false
+    tags: [bay-area, university]
+    enabled: false  # 403 to the scripted fetch (2026-11-07); checked in Chrome instead (TRAWL.md Bay Area tier 2)
+
+  # ---------- Bay Area: Berkeley ----------
+  - name: Berkeley Law BCLT
+    url: https://www.law.berkeley.edu/events/category/bclt/?ical=1
+    type: ics
+    js: false
+    tags: [bay-area, university]
+    enabled: true
+
+  - name: Berkeley Law AI events
+    url: https://www.law.berkeley.edu/events/category/artificial-intelligence/?ical=1
+    type: ics
+    js: false
+    tags: [bay-area, university]
+    enabled: true
+
+  - name: Berkeley Institute of East Asian Studies
+    url: https://events.berkeley.edu/live/ical/events/group/Institute%20of%20East%20Asian%20Studies
+    type: ics
+    js: false
+    tags: [bay-area, university]
+    enabled: true
+
+  - name: Berkeley Center for Chinese Studies
+    url: https://events.berkeley.edu/live/ical/events/group/Center%20for%20Chinese%20Studies
+    type: ics
+    js: false
+    tags: [bay-area, university]
+    enabled: true
+
+  - name: Berkeley Institute of International Studies
+    url: https://events.berkeley.edu/live/ical/events/group/Institute%20of%20International%20Studies
+    type: ics
+    js: false
+    tags: [bay-area, university]
+    enabled: true
+
+  - name: Berkeley Institute of Governmental Studies
+    url: https://events.berkeley.edu/live/ical/events/group/Institute%20of%20Governmental%20Studies
+    type: ics
+    js: false
+    tags: [bay-area, university]
+    enabled: true   # CA politics; occasional tech policy
+
+  - name: Berkeley School of Information
+    url: https://www.ischool.berkeley.edu/events/128/calendar.ics
+    type: ics
+    js: false
+    tags: [bay-area, university]
+    enabled: true
+
+  - name: Berkeley campus calendar - artificial intelligence search
+    url: https://events.berkeley.edu/live/ical/events/search/artificial%20intelligence
+    type: ics
+    js: false
+    tags: [bay-area, university]
+    enabled: true   # catch-all search; noisy, score hard
+
+  - name: Berkeley Risk & Security Lab
+    url: https://brsl.berkeley.edu/event/?ical=1
+    type: ics
+    js: false
+    tags: [bay-area, university]
+    enabled: true
+
+  - name: Simons Institute (public lectures)
+    url: https://simons.berkeley.edu/events
+    type: html
+    js: false
+    tags: [bay-area, university]
+    enabled: true   # mostly theory; keep public AI lectures
+
+  # ---------- Bay Area: civic, think tank, industry ----------
+  - name: Asia Society Northern California
+    url: https://asiasociety.org/northern-california/events
+    type: html
+    js: false
+    tags: [bay-area, think-tank]
+    enabled: true
+
+  - name: Computer History Museum
+    url: https://computerhistory.org/events/
+    type: html
+    js: false
+    tags: [bay-area, public]
+    enabled: true   # its RSS dates are post dates, not event dates
+
+  - name: Silicon Valley Leadership Group
+    url: https://svlg.org/events/feed/
+    type: rss
+    js: false
+    tags: [bay-area, industry]
+    enabled: true
+
+  - name: Internet Archive
+    url: https://blog.archive.org/events/list/?ical=1
+    type: ics
+    js: false
+    tags: [bay-area, public]
+    enabled: true
+
+  # ---------- Bay Area: meetups (Luma) ----------
+  - name: Mox SF (Luma)
+    url: https://api.lu.ma/ics/get?entity=calendar&id=cal-nfkEvDFat3zN1fe
+    type: ics
+    js: false
+    tags: [bay-area, meetup, public]
+    enabled: true   # AI safety/policy hub, 1680 Mission St; busy calendar
+
+  - name: Frontier Tower SF (Luma)
+    url: https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2
+    type: ics
+    js: false
+    tags: [bay-area, meetup, public]
+    enabled: true   # mostly member/social; score hard
+
+  - name: The AI Collective (Luma, global)
+    url: https://api.lu.ma/ics/get?entity=calendar&id=cal-E74MDlDKBaeAwXK
+    type: ics
+    js: false
+    tags: [bay-area, meetup, public]
+    enabled: false  # global calendar (Portland, Suwanee...); would need a location filter
+
+  # ---------- Sacramento: state tech-policy bodies ----------
+  - name: California Privacy Protection Agency board
+    url: https://cppa.ca.gov/meetings/
+    type: html
+    js: false
+    tags: [bay-area, public, sacramento]
+    enabled: true   # 2027 dates not yet posted
+
+  - name: CA Assembly Privacy & Consumer Protection Committee
+    url: https://apcp.assembly.ca.gov/
+    type: html
+    js: false
+    tags: [bay-area, public, sacramento]
+    enabled: false  # interim recess; re-enable January 2027
+
+  - name: CA Senate Judiciary Committee
+    url: https://sjud.senate.ca.gov/
+    type: html
+    js: false
+    tags: [bay-area, public, sacramento]
+    enabled: false  # no hearings until the 2027 session

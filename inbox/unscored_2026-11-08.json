@@ -1,0 +1,87 @@
+{
+ "instructions": "Fill fit (1-5), topics (from the DAILY.md list) and why for each event; add tags (e.g. bay-area) if needed; then `uv run dte score apply <this file>`. Leave fit null to skip.",
+ "events": [
+  {
+   "id": 386,
+   "title": "Healthcare Professional Panel",
+   "start": "2026-11-09T17:30:00-05:00",
+   "location": "City View Room (Elliott 7th Floor), 1957 E Street NW, 7th floor City View Room, Washington, DC 20052, United States",
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [
+    "university",
+    "gwu"
+   ],
+   "description": "It's that time of year again! BGPC is excited to announce our 6th Annual Health Professional Panel! Come hear from 12 different healthcare professionals all across different aspects of healthcare. Bring your questions and get excited to hear new perspectives",
+   "url": "https://calendar.gwu.edu/event/healthcare-professional-panel",
+   "fit": 1,
+   "topics": [],
+   "why": "Healthcare careers panel, not tech policy."
+  },
+  {
+   "id": 387,
+   "title": "NASA ASTROPHYSICS TOWN HALL MEETING, Nov 13, 2026, virtual, 12:00 pm ET",
+   "start": "2026-11-13T12:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "NASA’s Astrophysics Division will hold a Town Hall meeting on November 13, 2026 at 12:00 pm ET. It’s one of a series of Town Hall meetings that each of the Science Mission Directorate’s five divisions are holding. More information is",
+   "url": "https://spacepolicyonline.com/events/nasa-astrophysics-town-hall-meeting-nov-13-2026-virtual-1200-pm-et/",
+   "fit": 2,
+   "topics": [
+    "space"
+   ],
+   "why": "NASA science town hall; space policy adjacent."
+  },
+  {
+   "id": 388,
+   "title": "CELEBRATION OF VOYAGER 1 REACHING ONE-LIGHT-DAY MILESTONE (Planetary Soc), Nov 18, 2026, virtual, 8:00-9:00 pm ET",
+   "start": "2026-11-18T20:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "Voyager 1, launched in September 1977, will achieve still another milestone on November 18, 2026 when it reaches a distance of 16.09 billion miles (25.89 billion kilometers) from Earth. At that distance, it will take one light day for a",
+   "url": "https://spacepolicyonline.com/events/celebration-of-voyager-1-reaching-one-light-day-milestone-planetary-soc-nov-18-2026-virtual-800-900-pm-et/",
+   "fit": 1,
+   "topics": [
+    "space"
+   ],
+   "why": "Celebration event, not policy."
+  },
+  {
+   "id": 389,
+   "title": "FCC OPEN COMMISSION MEETING, Nov 19, 2026, DC/online, 10:30 am-12:30 pm ET",
+   "start": "2026-11-19T10:30:00-05:00",
+   "location": null,
+   "virtual": true,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "The FCC will hold its next monthly open commission meeting on November 19, 2026 from 10:30 am-12:30 pm at its headquarters, 45 L St, NE, Washington, DC and online. One of the items to be discussed is: Expanding Non-Geostationary Orbit",
+   "url": "https://spacepolicyonline.com/events/fcc-open-commission-meeting-nov-19-2026-dc-online-1030-am-1230-pm-et/",
+   "fit": 3,
+   "topics": [
+    "data/privacy",
+    "space"
+   ],
+   "why": "FCC open meeting: spectrum, broadband and satellite rules in DC."
+  }
+ ]
+}

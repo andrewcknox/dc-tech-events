@@ -1,0 +1,193 @@
+# MeriTalk events
+# https://www.meritalk.com/events/
+# fetched 2026-11-08T12:11:00.746126-05:00
+# tags: media, industry
+
+Events <https://www.meritalk.com/events>
+Upcoming Events
+Nov 12, 2026 8:00 am - 1:30 pm
+GDIT Emerge: Protect the Homeland <https://web.cvent.com/event/8b56f2e0-7c38-4e95-bb66-3d5a6c3ab01d/summary#new_tab>
+At the GDIT Emerge: Protect the Homeland event, hear from senior agency leaders, government decision makers, and industry experts on the technologies, strategies, and partnerships needed to strengthen national security today, and into the future.
+[…] <https://web.cvent.com/event/8b56f2e0-7c38-4e95-bb66-3d5a6c3ab01d/summary#new_tab>
+Dec 1, 2026 1:00 pm - 4:00 pm
+Tech Tonic December 2026 <https://web.cvent.com/event/d01e87ba-4432-4317-8ba9-cda48495dd20/summary?RefId=MTeventspage#new_tab>
+Join Nutanix for Tech Tonic: GTC Keynote Watch Party to watch NVIDIA’s Jensen Huang’s keynote alongside government and industry peers. Hear insights from Kanuj Behl, Principal Enterprise Architect, on how Nutanix and NVIDIA are helping organizations put AI to work. 
+[…] <https://web.cvent.com/event/d01e87ba-4432-4317-8ba9-cda48495dd20/summary?RefId=MTeventspage#new_tab>
+Dec 2, 2026 9:00 am - 1:25 pm
+GDIT Emerge: Zero Trust <https://zerotrust.billingtonevents.com/#new_tab>
+Emerge: Zero Trust takes participants beyond theory. Across sessions with government leaders and technology partners, we will discuss the mission imperative of Zero Trust, break down the core elements of our architecture and explore what implementation takes for any mission environment.
+[…] <https://zerotrust.billingtonevents.com/#new_tab>
+Mar, 2027
+AI IQ? <https://www.meritalk.com/ai-iq/#new_tab>
+AI IQ is an executive-level summit for Congressional, government, and tech leaders. This half-day, invitation-only program will drill down on key topics to unlock government new efficiency and service performance.
+[…] <https://www.meritalk.com/ai-iq/#new_tab>
+On-Demand Events
+Aug 18, 2026 1:00 pm - 2:00 pm
+Turning Data Insights Into Mission Outcomes <https://www.meritalk.com/event/turning-data-insights-into-mission-outcomes/>
+This executive discussion explores how public sector organizations build trusted, composable data foundations that connect strategy to execution. 
+[…] <https://www.meritalk.com/event/turning-data-insights-into-mission-outcomes/>
+Jul 14, 2026 8:30 am - 1:00 pm
+Shift Happens <https://www.meritalk.com/event/shift-happens/>
+Shift Happens is a one-day MeriTalk forum where government and industry leaders examine what’s changing in how agencies fund, buy, secure, authorize, and scale technology – and what those shifts mean in practice.
+[…] <https://www.meritalk.com/event/shift-happens/>
+Jun 9, 2026 8:00 am - 5:00 pm
+IBM Think Gov 2026 <https://www.meritalk.com/event/ibm-think-gov-2026/>
+Explore recordings from Think Gov and access the insights, perspectives, and conversations shared by industry and government leaders. Watch sessions on demand to revisit key takeaways or catch up on content you may have missed.
+[…] <https://www.meritalk.com/event/ibm-think-gov-2026/>
+Past Events
+Nov, 2026 1:00 pm - 2:00 pm
+Funding the Future: Smarter Capital Planning for Federal Agencies <https://www.meritalk.com/event/smarter-capital-planning-federal-agencies/>
+This on-demand executive discussion explores how agencies can strengthen long-range capital planning through better prioritization, forecasting, what-if scenario planning, funding management, and cross-team visibility. It also examines how modern planning approaches can support more informed investment decisions, safeguard funding, and keep complex capital programs aligned with long-term objectives.
+[…] <https://www.meritalk.com/event/smarter-capital-planning-federal-agencies/>
+Oct 28, 2026 8:00 am - 3:30 pm
+Red Hat Government Symposium 2026 <https://www.redhat-govsymposium.com/event/8a2857f3-8012-4a0f-a7c9-b09d020532b5/summary#new_tab>
+The 2026 Red Hat Government Symposium will examine how open platforms, intelligent automation, and AI-ready infrastructure can drive real-world mission outcomes with speed while minimizing risk. 
+[…] <https://www.redhat-govsymposium.com/event/8a2857f3-8012-4a0f-a7c9-b09d020532b5/summary#new_tab>
+Oct 8, 2026 5:00 pm - 9:00 pm
+Tech Tonic October 2026 <https://web.cvent.com/event/f01afa16-0f02-4428-af83-20363afdc056/summary?RefId=TechTonicOct2026#new_tab>
+As the new fiscal year gets underway, Tech Tonic will bring together government and industry technology leaders on October 8 at Morton’s The Steakhouse in Washington, D.C., for an evening of networking and meaningful conversation. 
+[…] <https://web.cvent.com/event/f01afa16-0f02-4428-af83-20363afdc056/summary?RefId=TechTonicOct2026#new_tab>
+Aug 27, 2026 9:00 am - 11:00 am
+The MeriTalk Mission Room – Agentic AI <https://web.cvent.com/event/678712fb-e3a9-4760-ac6d-0c352715aa21/summary#new_tab>
+In this executive briefing, we’ll discuss how coordinated AI agents can support high-volume workflows, from service desk triage and case routing to cyber response, compliance, and mission operations. 
+[…] <https://web.cvent.com/event/678712fb-e3a9-4760-ac6d-0c352715aa21/summary#new_tab>
+Aug 18, 2026 1:00 pm - 2:00 pm
+Turning Data Insights Into Mission Outcomes <https://www.meritalk.com/event/turning-data-insights-into-mission-outcomes/>
+This executive discussion explores how public sector organizations build trusted, composable data foundations that connect strategy to execution. 
+[…] <https://www.meritalk.com/event/turning-data-insights-into-mission-outcomes/>
+Jul 14, 2026 8:30 am - 1:00 pm
+Shift Happens <https://www.meritalk.com/event/shift-happens/>
+Shift Happens is a one-day MeriTalk forum where government and industry leaders examine what’s changing in how agencies fund, buy, secure, authorize, and scale technology – and what those shifts mean in practice.
+[…] <https://www.meritalk.com/event/shift-happens/>
+Jun 9, 2026 8:00 am - 5:00 pm
+IBM Think Gov 2026 <https://www.meritalk.com/event/ibm-think-gov-2026/>
+Explore recordings from Think Gov and access the insights, perspectives, and conversations shared by industry and government leaders. Watch sessions on demand to revisit key takeaways or catch up on content you may have missed.
+[…] <https://www.meritalk.com/event/ibm-think-gov-2026/>
+May 21, 2026 5:00 pm - 9:00 pm
+Tech Tonic May 2026 <https://www.meritalk.com/event/tech-tonic-may-2026/>
+Join MeriTalk for a special edition of Tech Tonic as we celebrate the winners of the 
+America 250 Powering Progress Awards
+ — recognizing the government and industry leaders driving innovation, modernization, and mission impact across federal IT.
+[…] <https://www.meritalk.com/event/tech-tonic-may-2026/>
+May 14, 2026 1:00 pm - 2:00 pm
+Delivering Unified Government Experiences <https://www.meritalk.com/event/delivering-unified-government-experiences/>
+Join this on-demand discussion to see how agencies can deliver faster, smarter, and more connected government experiences while maintaining security, trust, and oversight.
+[…] <https://www.meritalk.com/event/delivering-unified-government-experiences/>
+May, 2026 8:00 am - 5:00 pm
+Apptio Public Sector Summit 2026 <https://www.meritalk.com/event/apptio-public-sector-summit-2026/>
+At Apptio’s 2026 Public Sector Summit, leaders across federal, state and local government, as well as education sectors, will explore how to turn financial and operational data into financial intelligence for faster, smarter, and more ROI-driven decisions.
+[…] <https://www.meritalk.com/event/apptio-public-sector-summit-2026/>
+May 5, 2026 1:00 pm - 2:00 pm
+Mission Assurance in the Age of Cyber-Physical Threats: A Federal Playbook for OT <https://www.meritalk.com/event/mission-assurance-in-the-age-of-cyber-physical-threats-a-federal-playbook-for-ot/>
+This on-demand webinar will explore the challenges and opportunities of securing today’s OT environments, drawing on insight from MeriTalk and Claroty’s report: Guardians of Government, Vol. 2: Fortifying the Cyber-Physical Frontier. 
+[…] <https://www.meritalk.com/event/mission-assurance-in-the-age-of-cyber-physical-threats-a-federal-playbook-for-ot/>
+Mar 19, 2026 5:00 pm - 9:00 pm
+Tech Tonic March 2026 <https://www.meritalk.com/event/tech-tonic-march-2026/>
+Raise a glass to celebrate St. Paddy’s Day and toast spring’s arrival. Make a little luck of the Irish by networking with government and industry IT leaders over great drinks and conversation. 
+[…] <https://www.meritalk.com/event/tech-tonic-march-2026/>
+Mar 5, 2026 8:00 am - 5:00 pm
+ServiceNow Government Forum 2026 <https://www.servicenow.com/events/government-forum.html?referencesource=meritalk:govforum25:mediumrectanglebanner:bannerad:reg#new_tab>
+The ServiceNow Government Forum (formerly Federal Forum) shows you how AI and human intelligence unite to solve your agency’s most pressing challenges.
+[…] <https://www.servicenow.com/events/government-forum.html?referencesource=meritalk:govforum25:mediumrectanglebanner:bannerad:reg#new_tab>
+Mar 3, 2026 8:30 am - 4:45 pm
+Zscaler Public Sector Summit 2026 <https://reg.rainfocus.com/flow/zscaler/pss26/psslanding/page/webpagelandingpage#new_tab>
+The 2026 Zscaler Public Sector Summit is your opportunity to discover how Zero Trust Everywhere and AI-driven security approaches hold the keys to protecting critical systems, safeguarding sensitive data, and maintaining citizen trust in a rapidly evolving threat landscape.
+[…] <https://reg.rainfocus.com/flow/zscaler/pss26/psslanding/page/webpagelandingpage#new_tab>
+Feb 12, 2026 1:00 pm - 2:00 pm
+Streamlining IT and Security for Mission Impact <https://www.meritalk.com/event/streamlining-it-and-security-for-mission-impact/>
+This webinar explores how agencies can simplify IT and security operations not just to cut costs, but to elevate mission performance. Federal and industry experts will discuss how reducing tool fragmentation and connecting data across environments can empower teams to act faster, share insights across silos, and stay aligned with agency goals.
+[…] <https://www.meritalk.com/event/streamlining-it-and-security-for-mission-impact/>
+Jan, 2026 8:00 am - 5:00 pm
+Red Hat Government Symposium 2025 <https://www.redhat-govsymposium.com/?campaign=mt-events#new_tab>
+Across a streamlined agenda of actionable and pragmatic roadmaps, the virtual 2025 Red Hat Government Symposium spotlights forward-leaning innovators and how they’re leading through disruption to deliver tangible, mission-focused results across Federal, state, and local governments.
+[…] <https://www.redhat-govsymposium.com/?campaign=mt-events#new_tab>
+Dec, 2025 1:00 pm - 2:00 pm
+Upstream Attacks, Downstream Risk: How the Federal Community is Hardening the Supply Chain <https://www.meritalk.com/event/hardening-the-supply-chain/>
+Learn why traditional playbooks fall short, and how leading federal systems integrators are applying continuous risk assessments, automating data integrity checks, aligning zero trust principles to critical infrastructure, and more. 
+[…] <https://www.meritalk.com/event/hardening-the-supply-chain/>
+Dec 9, 2025 1:00 pm - 2:00 pm
+Advancing Readiness Through Automation <https://www.meritalk.com/event/advancing-readiness-through-automation/>
+In this webinar, hosted by MeriTalk and Leidos, defense experts explore how automated workflows are transforming the Cloud Approval to Connect (CATC) process. 
+[…] <https://www.meritalk.com/event/advancing-readiness-through-automation/>
+Dec 4, 2025 5:00 pm - 9:00 pm
+Tech Tonic December 2025 <https://www.meritalk.com/event/tech-tonic-december-2025/>
+Ring in the season with the federal IT community at MeriTalk Tech Tonic on Dec. 4 at Morton’s The Steakhouse in Washington, D.C. Join us for great conversation, good cheer, and a signature MeriTalk send-off to 2025. 
+[…] <https://www.meritalk.com/event/tech-tonic-december-2025/>
+Dec 4, 2025 3:00 pm - 4:15 pm
+Fix Fed Tech <https://www.meritalk.com/event/fix-fed-tech/>
+Let’s harness government and industry insights to transform FedRAMP, cloud security certification, as well as FITARA and the myriad redundant Fed IT performance dashboards to fix Fed tech. 
+[…] <https://www.meritalk.com/event/fix-fed-tech/>
+Nov, 2025 1:00 pm - 2:00 pm
+Securely Running Multi-Agent Systems at Scale Using Amazon Bedrock AgentCore <https://www.meritalk.com/event/securely-running-multi-agent-systems-at-scale-using-amazon-bedrock-agentcore/>
+This webinar offers actionable insights for securely deploying and scaling multi-agent systems using Amazon Bedrock AgentCore.
+[…] <https://www.meritalk.com/event/securely-running-multi-agent-systems-at-scale-using-amazon-bedrock-agentcore/>
+Sep 18, 2025 5:00 pm - 9:00 pm
+Tech Tonic September 2025 <https://www.meritalk.com/event/tech-tonic-september-2025/>
+Join us for MeriTalk Tech Tonic on September 18 at Morton’s The Steakhouse in Washington, D.C. as we launch the 2026 Fed CIO Report and dig into top priorities from Federal IT leaders.
+[…] <https://www.meritalk.com/event/tech-tonic-september-2025/>
+Sep 16, 2025 8:00 am - 11:35 am
+FedForward: Empowering Government Missions <https://www.meritalk.com/event/fedforward-empowering-government-missions/>
+This half-day event brings together leaders and innovators across government and industry to explore the powerful intersection of compliance, cloud technologies, and advanced artificial intelligence (AI) solutions. 
+[…] <https://www.meritalk.com/event/fedforward-empowering-government-missions/>
+Aug, 2025 1:00 pm - 2:00 pm
+Secure Cloud Modernization: Empowering Federal Teams for an AI-Enabled Future <https://www.meritalk.com/event/secure-cloud-modernization/>
+As Federal agencies push forward with cloud modernization, they face a critical challenge: how to innovate at speed while securing hybrid, and multicloud environments, enabling teams, and embracing new technologies like artificial intelligence (AI).
+[…] <https://www.meritalk.com/event/secure-cloud-modernization/>
+Jul 24, 2025 8:00 am - 5:00 pm
+DSI Maritime Security Summit <https://maritime.dsigroup.org/#new_tab>
+DSI’s Maritime Security Summit will bring together members of the DHS, DoD, State/Local Partners, and Marine Engineering/Technical Solutions Providers to discuss current and future initiatives toward leveraging the innovative capabilities, tools, and technologies needed to enhance the nation’s coastlines, ports, and vessels in support of overall maritime dominance.
+[…] <https://maritime.dsigroup.org/#new_tab>
+Jul 17, 2025 5:00 pm - 9:00 pm
+Tech Tonic July 2025 <https://www.meritalk.com/event/tech-tonic-july-2025/>
+Break out your Hawaiian shirts and join us on July 17 at Morton’s The Steakhouse in D.C. for a special summer edition of MeriTalk’s Tech Tonic – government IT’s happiest hour, with a beachy twist. 
+[…] <https://www.meritalk.com/event/tech-tonic-july-2025/>
+Jun, 2025 1:00 pm - 2:00 pm
+Enabling Efficiency and Innovation Through Federal Cloud Procurement <https://www.meritalk.com/event/enabling-efficiency-and-innovation-through-federal-cloud-procurement/>
+Whether you’re planning your first cloud migration or expanding existing cloud initiatives, this webinar will provide government procurement officers, IT leaders, and program managers with actionable insights for modernizing traditional IT procurement processes to align with commercial cloud services and deliver mission success.
+[…] <https://www.meritalk.com/event/enabling-efficiency-and-innovation-through-federal-cloud-procurement/>
+May 15, 2025 5:00 pm - 9:00 pm
+Tech Tonic May 2025 <https://www.meritalk.com/event/tech-tonic-may-2025/>
+This edition of Tech Tonic will celebrate the winners of MeriTalk’s Cyber Defenders Awards, honoring the individuals driving meaningful cybersecurity innovation across the Federal government.
+[…] <https://www.meritalk.com/event/tech-tonic-may-2025/>
+Apr 30, 2025 1:00 pm - 2:00 pm
+Automation and Integration to Optimize Zero Trust Investments <https://www.meritalk.com/event/automation-and-integration-to-optimize-zero-trust-investments/>
+This webinar will explore the power of automation and integration in security information and event management (SIEM) and security orchestration, automation, and response (SOAR) as agencies transition to zero trust architecture. 
+[…] <https://www.meritalk.com/event/automation-and-integration-to-optimize-zero-trust-investments/>
+Apr 22, 2025 8:00 am - 6:00 pm
+Apptio Public Sector Summit <https://www.meritalk.com/event/apptio-public-sector-summit/>
+Apptio’s 2025 Public Sector Summit will equip IT and finance leaders with the strategies they need to connect smart technology investments to measurable outcomes.
+[…] <https://www.meritalk.com/event/apptio-public-sector-summit/>
+Mar 13, 2025 5:00 pm - 9:00 pm
+Tech Tonic March 2025 <https://www.meritalk.com/event/tech-tonic-march-2025/>
+Join us and Federal Chief AI Officers (CAIO) as we unveil fresh research on Fed CAIO progress and priorities at MeriTalk Tech Tonic on March 13th at Morton’s The Steakhouse in Washington, D.C.
+[…] <https://www.meritalk.com/event/tech-tonic-march-2025/>
+Mar 11, 2025 8:30 am - 4:00 pm
+Atlassian Team on Tour Government <https://events.atlassian.com/teamontour-government?utm_medium=event-web-referral&utm_source=partner_name&utm_context=events_page&utm_campaign=K:event|H:in-person|N:tt_government|P:agnostic|O:event-marketing|F:pre-event|C:event-home&utm_content=Meritalk&event_id=222427#new_tab>
+Experience the ultimate teamwork event where you can learn about strategies for unleashing the potential of every team, increasing efficiency, and achieving mission success.
+[…] <https://events.atlassian.com/teamontour-government?utm_medium=event-web-referral&utm_source=partner_name&utm_context=events_page&utm_campaign=K:event|H:in-person|N:tt_government|P:agnostic|O:event-marketing|F:pre-event|C:event-home&utm_content=Meritalk&event_id=222427#new_tab>
+Feb 25, 2025 1:00 pm - 2:00 pm
+Mission Software Unleashed <https://www.meritalk.com/event/mission-software-unleashed/>
+In this webinar, hosted by MeriTalk and Leidos, we will explore how mission software is central to achieving this goal and what innovations can be applied for better mission outcomes. 
+[…] <https://www.meritalk.com/event/mission-software-unleashed/>
+Feb 12, 2025 7:00 am - 5:00 pm
+ServiceNow Federal Forum 2025 <https://www.nowfedforum.com/?campaign=mt-events#new_tab>
+Discover how AI, data, and workflows serve as innovation accelerators, illuminating the path to cost savings and efficiencies. Hear from visionary leaders within government as they share their transformative journeys to enhance mission effectiveness.?
+[…] <https://www.nowfedforum.com/?campaign=mt-events#new_tab>
+Jan 26, 2025 1:00 pm - 2:00 pm
+Build Enterprise AI at a Flexible Pace – and Transform Agency Mission Success <https://www.meritalk.com/event/build-enterprise-ai-flexible-pace-transform-agency-mission-success/>
+It’s clear that artificial intelligence (AI) has moved beyond emerging technology to acceptance – but Federal organizations don’t have to be all-in, all at once. As the incoming administration considers new AI policies, agencies can adopt what the co-chair of a U.S. House AI task force calls a “bite-sized” approach.
+[…] <https://www.meritalk.com/event/build-enterprise-ai-flexible-pace-transform-agency-mission-success/>
+Dec 19, 2024 5:00 pm - 9:00 pm
+Tech Tonic December 2024 <https://www.meritalk.com/event/tech-tonic-december-2024/>
+‘Tis the season to be jolly – 13 Federal agencies received A’s on the 18th edition of the FITARA Scorecard. Celebrate with 
+Congressman Gerry Connolly
+ and 
+Fed CIOs
+ at the 
+FITARA Awards
+, hosted at 
+MeriTalk Tech Tonic
+ on 
+December 19
+ at Morton’s in D.C. Raise a glass with us as we toast to Fed IT excellence and a bright year ahead.
+[…] <https://www.meritalk.com/event/tech-tonic-december-2024/>

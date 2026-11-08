@@ -1,6 +1,6 @@
 # NIST events
 # https://www.nist.gov/news-events/events/rss.xml
-# fetched 2026-11-07T09:24:07.099703-05:00
+# fetched 2026-11-08T12:11:00.746126-05:00
 # tags: government
 
 ### NIST Small Business Cybersecurity Community of Interest Call

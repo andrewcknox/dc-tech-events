@@ -1,6 +1,6 @@
 # House Science Committee
 # https://science.house.gov/?a=rss.feed
-# fetched 2026-11-07T09:24:07.099703-05:00
+# fetched 2026-11-08T12:11:00.746126-05:00
 # tags: hill
 
 ### Chairman Babin Responds to GAO Report on NOAA's Next-Generation Weather Satellite Program

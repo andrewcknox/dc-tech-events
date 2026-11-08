@@ -1,0 +1,26 @@
+# Computer History Museum
+# https://computerhistory.org/events/
+# fetched 2026-11-08T12:11:00.746126-05:00
+# tags: bay-area, public
+
+Skip to main content
+Home <https://live-comp-history-museum.pantheonsite.io/>
+Events
+CHM Live is our premier event series. It offers original productions exploring historical and current issues in technology, entrepreneurship and innovation, as well as the ongoing transformation of computing and its impact on society.
+CHM Live
+ SRI at 80
+ Thursday, November 12, 2026
+ 6:00 PM <https://computerhistory.org/events/sri-at-80/>
+View past events here <https://computerhistory.org/past-events>
+CHM Live
+CHM Live is our premier event series. It offers original productions exploring historical and current issues in technology, entrepreneurship and innovation, as well as the ongoing transformation of computing and its impact on society.
+CHM Live <https://computerhistory.org/chm-live/>
+CHM Events
+2024 Fellow Awards Ceremony <https://computerhistory.org/events/2024-fellow-awards-ceremony/>
+Fei-Fei Li's AI Journey <https://computerhistory.org/events/fei-fei-lis-ai-journey/>
+Insanely Great <https://computerhistory.org/events/insanely-great/>
+NOVA Secrets in Your Data <https://computerhistory.org/events/nova-secrets-in-your-data/>
+Making Smalltalk <https://computerhistory.org/events/making-smalltalk/>
+Educating the Planet with Social Entrepreneur Sal Khan <https://computerhistory.org/events/educating-the-planet-with-social-entrepreneur-sal-khan/>
+Happy 40th Birthday Lisa! <https://computerhistory.org/events/happy-40th-birthday-lisa/>
+Revealing Lost Woman of Science Klári Dán von Neumann <https://computerhistory.org/events/revealing-lost-woman-of-science-klari-dan-von-neumann/>

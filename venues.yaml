@@ -236,3 +236,96 @@ venues:
     address: 918 F St NW, Washington, DC 20004
     lat: 38.8973
     lon: -77.0241
+
+  # ---------- Bay Area (added 2026-11-07) ----------
+  - name: Encina Hall (Stanford FSI)
+    match: ["encina hall", "616 jane stanford", "cisac", "aparc", "shorenstein", "sccei"]
+    address: 616 Jane Stanford Way, Stanford, CA 94305
+    lat: 37.4273
+    lon: -122.1646
+
+  - name: Hoover Institution, Stanford
+    match: ["hoover institution, stanford", "galvez mall", "hoover tower", "shultz auditorium", "lou henry hoover"]
+    address: 434 Galvez Mall, Stanford, CA 94305
+    lat: 37.4272
+    lon: -122.1663
+
+  - name: Commonwealth Club World Affairs
+    match: ["commonwealth club", "110 the embarcadero"]
+    address: 110 The Embarcadero, San Francisco, CA 94105
+    lat: 37.7932
+    lon: -122.3926
+
+  - name: Computer History Museum
+    match: ["computer history museum", "1401 n shoreline", "1401 north shoreline"]
+    address: 1401 N Shoreline Blvd, Mountain View, CA 94043
+    lat: 37.4143
+    lon: -122.0774
+
+  - name: Mox (SF)
+    match: ["1680 mission", "mox sf"]   # "mox sf" catches the Luma source name when the location is a URL
+    address: 1680 Mission St, San Francisco, CA 94103
+    lat: 37.7708
+    lon: -122.4200
+
+  - name: Frontier Tower (SF)
+    match: ["frontier tower", "995 market"]
+    address: 995 Market St, San Francisco, CA 94103
+    lat: 37.7822
+    lon: -122.4100
+
+  - name: Dwinelle Hall, UC Berkeley
+    match: ["dwinelle"]
+    address: Dwinelle Hall, UC Berkeley, Berkeley, CA 94720
+    lat: 37.8707
+    lon: -122.2607
+
+  - name: Sutardja Dai Hall (CITRIS), UC Berkeley
+    match: ["sutardja dai", "citris"]
+    address: Sutardja Dai Hall, UC Berkeley, Berkeley, CA 94720
+    lat: 37.8749
+    lon: -122.2583
+
+  # ---------- recurring spots from the 2026-11-07 feeds (coordinates from Nominatim) ----------
+  - name: STATION DC (Union Market)
+    match: ["station dc", "1323 4th st ne", "1323 4th street ne"]
+    address: 1323 4th St NE, Washington, DC 20002
+    lat: 38.9096
+    lon: -76.9984
+
+  - name: SNF Agora Institute (JHU, Baltimore)
+    match: ["snf agora", "3102 wyman park"]
+    address: 3102 Wyman Park Dr, Baltimore, MD 21211
+    lat: 39.3262
+    lon: -76.6230
+
+  - name: Berkeley Law
+    match: ["law building", "berkeley law"]
+    address: UC Berkeley School of Law, Bancroft Way, Berkeley, CA 94720
+    lat: 37.8699
+    lon: -122.2533
+
+  - name: South Hall (Berkeley School of Information)
+    match: ["south hall", "berkeley school of information"]
+    address: South Hall, UC Berkeley, Berkeley, CA 94720
+    lat: 37.8713
+    lon: -122.2585
+
+  - name: Philosophy Hall (ex-Moses Hall), UC Berkeley
+    match: ["philosophy hall", "moses hall"]
+    address: Philosophy Hall, UC Berkeley, Berkeley, CA 94720
+    lat: 37.8710
+    lon: -122.2582
+
+  - name: Simons Institute (Calvin Lab), UC Berkeley
+    match: ["simons institute", "calvin lab"]
+    address: Calvin Laboratory, UC Berkeley, Berkeley, CA 94720
+    lat: 37.8710
+    lon: -122.2539
+
+  # generic fallback for Berkeley sources with no usable room name; keep last
+  - name: UC Berkeley (campus)
+    match: ["uc berkeley", "berkeley institute", "berkeley center for", "berkeley campus calendar", "berkeley risk"]
+    address: University of California, Berkeley, CA 94720
+    lat: 37.8719
+    lon: -122.2585

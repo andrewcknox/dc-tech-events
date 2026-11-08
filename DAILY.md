@@ -28,9 +28,23 @@ reading yourself. Work inside this repo. Be economical: skip anything already in
    - Skip events that are clearly not about technology *and* policy/security/economics.
    - Use the page header's tags (e.g. `think-tank`, `university`) as each event's `tags`.
    - Times are US Eastern. If only a date is known, use `"2026-09-18"`.
+   - **Bay Area events** (pages tagged `bay-area`, or any event held in SF / East Bay / Peninsula /
+     South Bay / Sacramento): keep the `bay-area` tag and write the start time with its Pacific offset,
+     e.g. `"2026-11-18T17:30:00-08:00"`, so it is not read as Eastern. Give the full venue with its city
+     ("Encina Hall, Stanford, CA"). Score `fit` for someone following tech policy in the Bay Area, not
+     for attending from SAIS. They go on `docs/bay-area.html`, never on the DC map or digest.
+     Hoover, Carnegie and other national hosts sometimes hold events at Stanford or in SF: tag those
+     `bay-area` too.
 
 3. `uv run dte import inbox/YYYY-MM-DD.json`. Do this **before** reading any backup, so the primary
    trawl is scored fairly.
+
+3b. **Score the feed events.** Events from ICS/RSS feeds go into the database unscored and stay off the
+   map until scored. `uv run dte score export` writes `inbox/unscored_YYYY-MM-DD.json`; fill in `fit`,
+   `topics` and `why` for each event exactly as in step 2 (add `bay-area` to `tags` for Bay Area events;
+   leave `fit` null only if you truly can't tell). Busy calendars (Luma hubs, Berkeley's "artificial
+   intelligence" search, Stanford Law) are mostly off-topic: give unrelated events `fit: 1` quickly.
+   Then `uv run dte score apply inbox/unscored_YYYY-MM-DD.json`.
 
 4. **Backup check, last.** Read Caleb Knapp's newest post at https://calebknapp.substack.com/feed (the
    "Congressional Hearings", "Public Events" and "Think Tank Events" sections). Write *every* relevant
@@ -38,7 +52,7 @@ reading yourself. Work inside this repo. Be economical: skip anything already in
    `"source": "Caleb Knapp substack", "backup": true, "tags": ["substack"]` (plus `hill` for hearings
    and `public` for meetups per event). `uv run dte import` that file. Then `uv run dte gaps` and follow
    step 3 of TRAWL.md for each miss: change the trawl, then `dte gaps resolve`. Finally `uv run dte digest`
-   to rebuild `digest/` and the two map pages.
+   to rebuild `digest/` and the map pages (DC, SAIS-internal, Bay Area).
 
 5. `git add -A && git commit -m "daily: YYYY-MM-DD" && git push origin main`. The push is what
    updates the public site at https://andrewcknox.github.io/dc-tech-events/ (GitHub Pages serves

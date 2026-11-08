@@ -1,0 +1,138 @@
+# Simons Institute (public lectures)
+# https://simons.berkeley.edu/events
+# fetched 2026-11-08T12:11:00.746126-05:00
+# tags: bay-area, university
+
+Public Lectures
+ All Public Lectures
+Upcoming
+Past
+How the Brain Understands the World: Implications for AI and Robotics <https://simons.berkeley.edu/events/how-brain-understands-world-implications-ai-robotics>
+Thursday, Nov. 12, 2026
+ | 
+6 – 8 p.m.
+How the Brain Understands the World: Implications for AI and Robotics <https://simons.berkeley.edu/events/how-brain-understands-world-implications-ai-robotics>
+Calvin Lab auditorium
+Speakers: 
+Jeff Hawkins (Thousand Brains Project) <https://thousandbrains.org/>
+ofHow the Brain Understands the World: Implications for AI and Robotics <https://simons.berkeley.edu/events/how-brain-understands-world-implications-ai-robotics>
+Accelerating Research and Engineering with AI | Theoretically Speaking <https://simons.berkeley.edu/events/accelerating-research-engineering-ai-theoretically-speaking>
+Thursday, Nov. 19, 2026
+ | 
+4:30 – 5:30 p.m.
+Accelerating Research and Engineering with AI | Theoretically Speaking <https://simons.berkeley.edu/events/accelerating-research-engineering-ai-theoretically-speaking>
+Calvin Lab auditorium 
+Speakers: 
+Matei Zaharia (UC Berkeley) <https://people.eecs.berkeley.edu/~matei/>
+ofAccelerating Research and Engineering with AI | Theoretically Speaking <https://simons.berkeley.edu/events/accelerating-research-engineering-ai-theoretically-speaking>
+Existence of Thin Trees | Richard M. Karp Distinguished Lecture <https://simons.berkeley.edu/events/existence-thin-trees-richard-m-karp-distinguished-lecture>
+Tuesday, Dec. 8, 2026
+ | 
+3:30 – 4:30 p.m.
+Existence of Thin Trees | Richard M. Karp Distinguished Lecture <https://simons.berkeley.edu/events/existence-thin-trees-richard-m-karp-distinguished-lecture>
+Calvin Lab auditorium
+Speakers: 
+Shayan Oveis Gharan (University of Washington) <https://homes.cs.washington.edu/~shayan/>
+ofExistence of Thin Trees | Richard M. Karp Distinguished Lecture <https://simons.berkeley.edu/events/existence-thin-trees-richard-m-karp-distinguished-lecture>
+What is Intelligence? <https://simons.berkeley.edu/events/what-intelligence>
+Wednesday, Oct. 21, 2026
+ | 
+6 – 8 p.m.
+What is Intelligence? <https://simons.berkeley.edu/events/what-intelligence>
+Calvin Lab auditorium
+Speakers: 
+Blaise Agüera y Arcas (VP/Fellow, CTO of Technology & Society, Google) <http://blaiseaguera.com/>
+ofWhat is Intelligence? <https://simons.berkeley.edu/events/what-intelligence>
+The Computer in the Sky | Theoretically Speaking <https://simons.berkeley.edu/events/computer-sky-theoretically-speaking>
+Tuesday, Oct. 20, 2026
+ | 
+5:30 – 7 p.m.
+The Computer in the Sky | Theoretically Speaking <https://simons.berkeley.edu/events/computer-sky-theoretically-speaking>
+Calvin Lab auditorium
+Speakers: 
+Tim Roughgarden (Columbia University) <https://timroughgarden.org>
+ofThe Computer in the Sky | Theoretically Speaking <https://simons.berkeley.edu/events/computer-sky-theoretically-speaking>
+Optimal Spectral Gaps | Richard M. Karp Distinguished Lecture <https://simons.berkeley.edu/events/optimal-spectral-gaps-richard-m-karp-distinguished-lecture>
+Wednesday, Oct. 14, 2026
+ | 
+3:30 – 4:30 p.m.
+Optimal Spectral Gaps | Richard M. Karp Distinguished Lecture <https://simons.berkeley.edu/events/optimal-spectral-gaps-richard-m-karp-distinguished-lecture>
+Calvin Lab auditorium
+Speakers: 
+Ramon van Handel (Princeton University) <http://www.princeton.edu/~rvan/>
+ofOptimal Spectral Gaps | Richard M. Karp Distinguished Lecture <https://simons.berkeley.edu/events/optimal-spectral-gaps-richard-m-karp-distinguished-lecture>
+My Favorite Expanders | Richard M. Karp Distinguished Lecture <https://simons.berkeley.edu/events/my-favorite-expanders-richard-m-karp-distinguished-lecture>
+Tuesday, Sept. 29, 2026
+ | 
+3:30 – 4:30 p.m.
+My Favorite Expanders | Richard M. Karp Distinguished Lecture <https://simons.berkeley.edu/events/my-favorite-expanders-richard-m-karp-distinguished-lecture>
+Calvin Lab auditorium and livestream
+Speakers: 
+Ryan O'Donnell (Carnegie Mellon University) <https://www.cs.cmu.edu/~odonnell/>
+ofMy Favorite Expanders | Richard M. Karp Distinguished Lecture <https://simons.berkeley.edu/events/my-favorite-expanders-richard-m-karp-distinguished-lecture>
+Encrypting to a Mathematical Fact | Theoretically Speaking <https://simons.berkeley.edu/events/encrypting-mathematical-fact-theoretically-speaking>
+Tuesday, July 14, 2026
+ | 
+5:30 – 7 p.m.
+Encrypting to a Mathematical Fact | Theoretically Speaking <https://simons.berkeley.edu/events/encrypting-mathematical-fact-theoretically-speaking>
+Calvin Lab auditorium
+Speakers: 
+Sanjam Garg (UC Berkeley) <https://people.eecs.berkeley.edu/~sanjamg/>
+ofEncrypting to a Mathematical Fact | Theoretically Speaking <https://simons.berkeley.edu/events/encrypting-mathematical-fact-theoretically-speaking>
+Video <https://youtube.com/live/TLW2O5zZHXA?feature=share>
+CANCELLED: Theoretically Speaking | Umesh Vazirani <https://simons.berkeley.edu/events/cancelled-theoretically-speaking-umesh-vazirani>
+Thursday, Apr. 23, 2026
+ | 
+5:30 – 7 p.m.
+CANCELLED: Theoretically Speaking | Umesh Vazirani <https://simons.berkeley.edu/events/cancelled-theoretically-speaking-umesh-vazirani>
+Calvin Lab auditorium
+Speakers: 
+Umesh Vazirani (Simons Institute, UC Berkeley) <https://simons.berkeley.edu/people/umesh-vazirani>
+ofCANCELLED: Theoretically Speaking | Umesh Vazirani <https://simons.berkeley.edu/events/cancelled-theoretically-speaking-umesh-vazirani>
+Responsibly Improving AI with Privacy-Sensitive Data: Principles, Theory, and Practice | Richard M. Karp Distinguished Lecture <https://simons.berkeley.edu/events/responsibly-improving-ai-privacy-sensitive-data-principles-theory-practice-richard-m-karp>
+Tuesday, Feb. 24, 2026
+ | 
+3:30 – 4:30 p.m.
+Responsibly Improving AI with Privacy-Sensitive Data: Principles, Theory, and Practice | Richard M. Karp Distinguished Lecture <https://simons.berkeley.edu/events/responsibly-improving-ai-privacy-sensitive-data-principles-theory-practice-richard-m-karp>
+Calvin Lab auditorium and livestream
+Speakers: 
+Brendan McMahan (Google) <https://research.google/people/author35837/?&type=google>
+ofResponsibly Improving AI with Privacy-Sensitive Data: Principles, Theory, and Practice | Richard M. Karp Distinguished Lecture <https://simons.berkeley.edu/events/responsibly-improving-ai-privacy-sensitive-data-principles-theory-practice-richard-m-karp>
+Video <https://youtube.com/live/goUGCS2PCd0?feature=share>
+Alignment Problems in AI Governance <https://simons.berkeley.edu/events/alignment-problems-ai-governance>
+Thursday, Feb. 5, 2026
+ | 
+3:30 – 4:30 p.m.
+Alignment Problems in AI Governance <https://simons.berkeley.edu/events/alignment-problems-ai-governance>
+Calvin Lab auditorium
+Speakers: 
+Rui-Jie Yew (Brown University) <https://simons.berkeley.edu/people/rui-jie-yew>
+, 
+Greg Demirchyan (Fairlogic) <https://simons.berkeley.edu/people/greg-demirchyan>
+ofAlignment Problems in AI Governance <https://simons.berkeley.edu/events/alignment-problems-ai-governance>
+Video <https://youtube.com/live/rV2PFHQzj48?feature=share>
+Let’s Stop Leaving Money on the Table | Richard M. Karp Distinguished Lecture <https://simons.berkeley.edu/events/lets-stop-leaving-money-table-richard-m-karp-distinguished-lecture>
+Thursday, Jan. 29, 2026
+ | 
+3:30 – 4:30 p.m.
+Let’s Stop Leaving Money on the Table | Richard M. Karp Distinguished Lecture <https://simons.berkeley.edu/events/lets-stop-leaving-money-table-richard-m-karp-distinguished-lecture>
+Calvin Lab auditorium and livestream
+Speakers: 
+Katrina Ligett (Hebrew University of Jerusalem) <https://www.cs.huji.ac.il/~katrina/>
+ofLet’s Stop Leaving Money on the Table | Richard M. Karp Distinguished Lecture <https://simons.berkeley.edu/events/lets-stop-leaving-money-table-richard-m-karp-distinguished-lecture>
+Video <https://youtube.com/live/NUpX4Cf_adI?feature=share>
+AI’s Models of the World, and Ours | Theoretically Speaking <https://simons.berkeley.edu/events/ais-models-world-ours-theoretically-speaking>
+Tuesday, Dec. 9, 2025
+ | 
+5:30 – 7 p.m.
+AI’s Models of the World, and Ours | Theoretically Speaking <https://simons.berkeley.edu/events/ais-models-world-ours-theoretically-speaking>
+Calvin Lab auditorium
+Speakers: 
+Jon Kleinberg (Cornell University) <http://www.cs.cornell.edu/home/kleinber/>
+ofAI’s Models of the World, and Ours | Theoretically Speaking <https://simons.berkeley.edu/events/ais-models-world-ours-theoretically-speaking>
+Video <https://www.youtube.com/live/siu_r8j5-sg>
+Series
+Richard M. Karp Distinguished Lectures <https://simons.berkeley.edu/programs-events/public-lectures/richard-m-karp-distinguished-lectures>
+Theoretically Speaking <https://simons.berkeley.edu/programs-events/public-lectures/theoretically-speaking>
+Breakthroughs <https://simons.berkeley.edu/programs-events/public-lectures/breakthroughs>
+Quantum Colloquium <https://simons.berkeley.edu/programs-events/public-lectures/quantum-colloquium>
