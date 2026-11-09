@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T09:13:24-05:00",
+ "generated_at": "2026-11-09T16:54:32-05:00",
  "today": "2026-11-09",
  "window_start": "2026-11-09",
  "window_days": 14,
@@ -3486,8 +3486,8 @@
   {
    "id": 357,
    "title": "Aaron Swartz Hackathon",
-   "start": "2026-11-08T10:00:00-08:00",
-   "end": "2026-11-08T17:00:00-08:00",
+   "start": "2026-11-08T13:00:00-05:00",
+   "end": "2026-11-08T20:00:00-05:00",
    "host": "Internet Archive",
    "source": "Internet Archive",
    "location": "Internet Archive, 300 Funston Avenue, San Francisco, CA, 94118, United States",
@@ -3506,8 +3506,8 @@
    "speakers": [],
    "lat": 37.7822888,
    "lon": -122.4715708,
-   "in_dc": true,
-   "time": "10:00 AM–5:00 PM PT",
+   "in_dc": false,
+   "time": "1:00 PM–8:00 PM",
    "where": "Internet Archive, 300 Funston Avenue, San Francisco, CA, 94118, United States"
   },
   {
@@ -3785,7 +3785,7 @@
    "speakers": [],
    "lat": 39.3262,
    "lon": -76.623,
-   "in_dc": true,
+   "in_dc": false,
    "time": "12:00 PM–1:00 PM",
    "where": "SNF Agora Institute, 3102 Wyman Park Drive, Baltimore, MD, 21211, United States"
   },
@@ -3821,8 +3821,8 @@
   {
    "id": 417,
    "title": "Biosecurity in an Age of AI: Frontier Safety, Anticipatory Governance, and Defensive Innovation | Jassi Pannu",
-   "start": "2026-11-10T12:00:00-08:00",
-   "end": "2026-11-10T13:15:00-08:00",
+   "start": "2026-11-10T15:00:00-05:00",
+   "end": "2026-11-10T16:15:00-05:00",
    "host": "Stanford CISAC",
    "source": "daily page scan",
    "location": "William J. Perry Conference Room, Encina Hall, Stanford, CA",
@@ -3844,8 +3844,8 @@
    ],
    "lat": 37.4273,
    "lon": -122.1646,
-   "in_dc": true,
-   "time": "12:00 PM–1:15 PM PT",
+   "in_dc": false,
+   "time": "3:00 PM–4:15 PM",
    "where": "William J. Perry Conference Room, Encina Hall, Stanford, CA"
   },
   {
@@ -3917,8 +3917,8 @@
   {
    "id": 362,
    "title": "Let's talk about Power Concentration!",
-   "start": "2026-11-11T18:30:00-08:00",
-   "end": "2026-11-11T20:30:00-08:00",
+   "start": "2026-11-11T21:30:00-05:00",
+   "end": "2026-11-11T23:30:00-05:00",
    "host": "Mox SF (Luma)",
    "source": "Mox SF (Luma)",
    "location": "https://luma.com/event/evt-GurH0NXinwXeddL",
@@ -3938,8 +3938,8 @@
    "speakers": [],
    "lat": 37.7708,
    "lon": -122.42,
-   "in_dc": true,
-   "time": "6:30 PM–8:30 PM PT",
+   "in_dc": false,
+   "time": "9:30 PM–11:30 PM",
    "where": "https://luma.com/event/evt-GurH0NXinwXeddL"
   },
   {
@@ -3999,8 +3999,8 @@
   {
    "id": 416,
    "title": "Economic Policy in the Age of AI (SIEPR Policy Forum)",
-   "start": "2026-11-12T09:30:00-08:00",
-   "end": "2026-11-12T17:00:00-08:00",
+   "start": "2026-11-12T12:30:00-05:00",
+   "end": "2026-11-12T20:00:00-05:00",
    "host": "Stanford SIEPR",
    "source": "daily page scan",
    "location": "John A. and Cynthia Fry Gunn Building, 366 Galvez St, Stanford, CA",
@@ -4021,7 +4021,7 @@
    "lat": null,
    "lon": null,
    "in_dc": false,
-   "time": "9:30 AM–5:00 PM PT",
+   "time": "12:30 PM–8:00 PM",
    "where": "John A. and Cynthia Fry Gunn Building, 366 Galvez St, Stanford, CA"
   },
   {
@@ -4145,8 +4145,8 @@
   {
    "id": 320,
    "title": "Under Pressure: Attitudes Towards China Among American Foreign Policy Professionals | Lecture by Rory Truex",
-   "start": "2026-11-12T16:00:00-08:00",
-   "end": "2026-11-12T17:30:00-08:00",
+   "start": "2026-11-12T19:00:00-05:00",
+   "end": "2026-11-12T20:30:00-05:00",
    "host": "Berkeley Institute of East Asian Studies",
    "source": "Berkeley Institute of East Asian Studies",
    "location": "370 Dwinelle Hall, UC Berkeley",
@@ -4166,14 +4166,14 @@
    "speakers": [],
    "lat": 37.8707,
    "lon": -122.2607,
-   "in_dc": true,
-   "time": "4:00 PM–5:30 PM PT",
+   "in_dc": false,
+   "time": "7:00 PM–8:30 PM",
    "where": "370 Dwinelle Hall, UC Berkeley"
   },
   {
    "id": 237,
    "title": "25 Years After 9/11: The History and Future of Surveillance, Technology, and Democracy",
-   "start": "2026-11-12T16:30:00-08:00",
+   "start": "2026-11-12T19:30:00-05:00",
    "end": null,
    "host": "Hoover Institution",
    "source": "daily page scan 2026-11-06",
@@ -4195,7 +4195,7 @@
    "lat": null,
    "lon": null,
    "in_dc": false,
-   "time": "4:30 PM PT",
+   "time": "7:30 PM",
    "where": "Hoover Institution, Stanford University (+ virtual)"
   },
   {
@@ -4293,8 +4293,8 @@
   {
    "id": 420,
    "title": "Daniel Yi Xu | Social Learning and Assortative Matching in Chinese EV Ecosystem",
-   "start": "2026-11-13T12:00:00-08:00",
-   "end": "2026-11-13T13:20:00-08:00",
+   "start": "2026-11-13T15:00:00-05:00",
+   "end": "2026-11-13T16:20:00-05:00",
    "host": "Stanford SCCEI",
    "source": "daily page scan",
    "location": "Goldman Room E409, Encina Hall, Stanford, CA",
@@ -4317,8 +4317,8 @@
    ],
    "lat": 37.4273,
    "lon": -122.1646,
-   "in_dc": true,
-   "time": "12:00 PM–1:20 PM PT",
+   "in_dc": false,
+   "time": "3:00 PM–4:20 PM",
    "where": "Goldman Room E409, Encina Hall, Stanford, CA"
   },
   {
@@ -4359,8 +4359,8 @@
   {
    "id": 412,
    "title": "Special Seminar and Fireside Chat: Understanding Work Using AI",
-   "start": "2026-11-13T14:00:00-08:00",
-   "end": "2026-11-13T16:00:00-08:00",
+   "start": "2026-11-13T17:00:00-05:00",
+   "end": "2026-11-13T19:00:00-05:00",
    "host": "Stanford Digital Economy Lab",
    "source": "daily page scan",
    "location": "Stanford University, Stanford, CA",
@@ -4379,8 +4379,8 @@
    "speakers": [],
    "lat": 37.4313138,
    "lon": -122.1693654,
-   "in_dc": true,
-   "time": "2:00 PM–4:00 PM PT",
+   "in_dc": false,
+   "time": "5:00 PM–7:00 PM",
    "where": "Stanford University, Stanford, CA"
   },
   {
@@ -4471,8 +4471,8 @@
   {
    "id": 413,
    "title": "Christopher Ong | Research Acceleration: The View Inside OpenAI",
-   "start": "2026-11-16T12:00:00-08:00",
-   "end": "2026-11-16T13:00:00-08:00",
+   "start": "2026-11-16T15:00:00-05:00",
+   "end": "2026-11-16T16:00:00-05:00",
    "host": "Stanford Digital Economy Lab",
    "source": "daily page scan",
    "location": "Stanford University, Stanford, CA",
@@ -4493,8 +4493,8 @@
    ],
    "lat": 37.4313138,
    "lon": -122.1693654,
-   "in_dc": true,
-   "time": "12:00 PM–1:00 PM PT",
+   "in_dc": false,
+   "time": "3:00 PM–4:00 PM",
    "where": "Stanford University, Stanford, CA"
   },
   {
@@ -4527,8 +4527,8 @@
   {
    "id": 407,
    "title": "From Models to Machines: The Next Phase of Artificial Intelligence",
-   "start": "2026-11-16T16:30:00-08:00",
-   "end": "2026-11-16T18:15:00-08:00",
+   "start": "2026-11-16T19:30:00-05:00",
+   "end": "2026-11-16T21:15:00-05:00",
    "host": "Asia Society Northern California",
    "source": "daily page scan",
    "location": "Asia Society Northern California, 155 Sansome St, San Francisco, CA",
@@ -4548,7 +4548,7 @@
    "lat": null,
    "lon": null,
    "in_dc": false,
-   "time": "4:30 PM–6:15 PM PT",
+   "time": "7:30 PM–9:15 PM",
    "where": "Asia Society Northern California, 155 Sansome St, San Francisco, CA"
   },
   {
@@ -4732,8 +4732,8 @@
   {
    "id": 422,
    "title": "Robin Nabi | The Dangers of Focusing on the Danger of Digital Media Use",
-   "start": "2026-11-17T11:40:00-08:00",
-   "end": "2026-11-17T13:00:00-08:00",
+   "start": "2026-11-17T14:40:00-05:00",
+   "end": "2026-11-17T16:00:00-05:00",
    "host": "Stanford FSI",
    "source": "daily page scan",
    "location": "McClatchy Hall, S40 Studio, 450 Serra Mall, Stanford, CA",
@@ -4756,14 +4756,14 @@
    "lat": null,
    "lon": null,
    "in_dc": false,
-   "time": "11:40 AM–1:00 PM PT",
+   "time": "2:40 PM–4:00 PM",
    "where": "McClatchy Hall, S40 Studio, 450 Serra Mall, Stanford, CA"
   },
   {
    "id": 318,
    "title": "The (Exciting) Twists and Turns of the CRISPR-Cas9 Patent Story",
-   "start": "2026-11-17T13:00:00-08:00",
-   "end": "2026-11-17T14:00:00-08:00",
+   "start": "2026-11-17T16:00:00-05:00",
+   "end": "2026-11-17T17:00:00-05:00",
    "host": "Berkeley Law BCLT",
    "source": "Berkeley Law BCLT",
    "location": "170 Law Building",
@@ -4782,15 +4782,15 @@
    "speakers": [],
    "lat": 37.8699,
    "lon": -122.2533,
-   "in_dc": true,
-   "time": "1:00 PM–2:00 PM PT",
+   "in_dc": false,
+   "time": "4:00 PM–5:00 PM",
    "where": "170 Law Building"
   },
   {
    "id": 319,
    "title": "A Conversation with Pete McGoff, Chief Legal Officer at Rubrik",
-   "start": "2026-11-17T13:00:00-08:00",
-   "end": "2026-11-17T14:00:00-08:00",
+   "start": "2026-11-17T16:00:00-05:00",
+   "end": "2026-11-17T17:00:00-05:00",
    "host": "Berkeley Law AI events",
    "source": "Berkeley Law AI events",
    "location": "100 Law Building",
@@ -4810,8 +4810,8 @@
    "speakers": [],
    "lat": 37.8699,
    "lon": -122.2533,
-   "in_dc": true,
-   "time": "1:00 PM–2:00 PM PT",
+   "in_dc": false,
+   "time": "4:00 PM–5:00 PM",
    "where": "100 Law Building"
   },
   {
@@ -4899,8 +4899,8 @@
   {
    "id": 351,
    "title": "Basic Science Lights the Way presents: AI and Education: A Conversation about Where We Are and Where We're Headed",
-   "start": "2026-11-17T17:00:00-08:00",
-   "end": "2026-11-17T18:00:00-08:00",
+   "start": "2026-11-17T20:00:00-05:00",
+   "end": "2026-11-17T21:00:00-05:00",
    "host": "Berkeley campus calendar - artificial intelligence search",
    "source": "Berkeley campus calendar - artificial intelligence search",
    "location": "Register here to attend via Zoom",
@@ -4920,7 +4920,7 @@
    "lat": null,
    "lon": null,
    "in_dc": false,
-   "time": "5:00 PM–6:00 PM PT",
+   "time": "8:00 PM–9:00 PM",
    "where": "Register here to attend via Zoom (+ virtual)"
   },
   {
@@ -5037,8 +5037,8 @@
   {
    "id": 423,
    "title": "Industry-Wide Forum: Public Attitudes on AI Agents",
-   "start": "2026-11-18T09:00:00-08:00",
-   "end": "2026-11-18T10:00:00-08:00",
+   "start": "2026-11-18T12:00:00-05:00",
+   "end": "2026-11-18T13:00:00-05:00",
    "host": "Stanford FSI (Deliberative Democracy Lab)",
    "source": "daily page scan",
    "location": null,
@@ -5060,7 +5060,7 @@
    "lat": null,
    "lon": null,
    "in_dc": false,
-   "time": "9:00 AM–10:00 AM PT",
+   "time": "12:00 PM–1:00 PM",
    "where": "Virtual"
   },
   {
@@ -5236,8 +5236,8 @@
   {
    "id": 355,
    "title": "Dylan Spaulding: The US Nuclear Paradigm Shift: Pit Production, Nuclear Testing, and the fate of Stockpile Stewardship",
-   "start": "2026-11-18T15:30:00-08:00",
-   "end": "2026-11-18T17:00:00-08:00",
+   "start": "2026-11-18T18:30:00-05:00",
+   "end": "2026-11-18T20:00:00-05:00",
    "host": "Berkeley Risk & Security Lab",
    "source": "Berkeley Risk & Security Lab",
    "location": "223 Philosophy Hall",
@@ -5256,8 +5256,8 @@
    "speakers": [],
    "lat": 37.871,
    "lon": -122.2582,
-   "in_dc": true,
-   "time": "3:30 PM–5:00 PM PT",
+   "in_dc": false,
+   "time": "6:30 PM–8:00 PM",
    "where": "223 Philosophy Hall"
   },
   {
@@ -5402,8 +5402,8 @@
   {
    "id": 408,
    "title": "National Security & Investing in China Tech",
-   "start": "2026-11-19T15:00:00-08:00",
-   "end": "2026-11-19T16:00:00-08:00",
+   "start": "2026-11-19T18:00:00-05:00",
+   "end": "2026-11-19T19:00:00-05:00",
    "host": "Asia Society Northern California",
    "source": "daily page scan",
    "location": null,
@@ -5424,7 +5424,7 @@
    "lat": null,
    "lon": null,
    "in_dc": false,
-   "time": "3:00 PM–4:00 PM PT",
+   "time": "6:00 PM–7:00 PM",
    "where": "Virtual"
   },
   {
@@ -5596,8 +5596,8 @@
   {
    "id": 414,
    "title": "Richard Socher | The Eureka Machine: Why AI is the Key to Unlocking a New Era of Scientific Discoveries",
-   "start": "2026-11-30T12:00:00-08:00",
-   "end": "2026-11-30T13:00:00-08:00",
+   "start": "2026-11-30T15:00:00-05:00",
+   "end": "2026-11-30T16:00:00-05:00",
    "host": "Stanford Digital Economy Lab",
    "source": "daily page scan",
    "location": "Stanford University, Stanford, CA",
@@ -5618,8 +5618,8 @@
    ],
    "lat": 37.4313138,
    "lon": -122.1693654,
-   "in_dc": true,
-   "time": "12:00 PM–1:00 PM PT",
+   "in_dc": false,
+   "time": "3:00 PM–4:00 PM",
    "where": "Stanford University, Stanford, CA"
   },
   {
@@ -5652,7 +5652,7 @@
   {
    "id": 452,
    "title": "POLITICO Decoded Summit: San Francisco",
-   "start": "2026-12-01T00:00:00-08:00",
+   "start": "2026-12-01T00:00:00-05:00",
    "end": null,
    "host": "POLITICO",
    "source": "daily page scan",
@@ -5672,7 +5672,7 @@
    "speakers": [],
    "lat": 37.7879363,
    "lon": -122.4075201,
-   "in_dc": true,
+   "in_dc": false,
    "time": "time TBD",
    "where": "San Francisco, CA"
   },
@@ -5706,8 +5706,8 @@
   {
    "id": 418,
    "title": "Emerging Technologies and Strategic Stability",
-   "start": "2026-12-01T12:00:00-08:00",
-   "end": "2026-12-01T13:30:00-08:00",
+   "start": "2026-12-01T15:00:00-05:00",
+   "end": "2026-12-01T16:30:00-05:00",
    "host": "Stanford CISAC",
    "source": "daily page scan",
    "location": "William J. Perry Conference Room, Encina Hall, Stanford, CA",
@@ -5733,8 +5733,8 @@
    ],
    "lat": 37.4273,
    "lon": -122.1646,
-   "in_dc": true,
-   "time": "12:00 PM–1:30 PM PT",
+   "in_dc": false,
+   "time": "3:00 PM–4:30 PM",
    "where": "William J. Perry Conference Room, Encina Hall, Stanford, CA"
   },
   {
@@ -5768,7 +5768,7 @@
   {
    "id": 415,
    "title": "How AI Is Changing the Economy: New Evidence on Work, Growth, and Economic Transformation",
-   "start": "2026-12-02T00:00:00-08:00",
+   "start": "2026-12-02T00:00:00-05:00",
    "end": null,
    "host": "Stanford Digital Economy Lab",
    "source": "daily page scan",
@@ -5788,14 +5788,14 @@
    "speakers": [],
    "lat": 37.4313138,
    "lon": -122.1693654,
-   "in_dc": true,
+   "in_dc": false,
    "time": "time TBD",
    "where": "Stanford University, Stanford, CA"
   },
   {
    "id": 441,
    "title": "Higher Education, Research Investment, and the Public Interest",
-   "start": "2026-12-02T09:00:00-08:00",
+   "start": "2026-12-02T12:00:00-05:00",
    "end": null,
    "host": "Hoover Institution",
    "source": "daily page scan",
@@ -5815,15 +5815,15 @@
    "speakers": [],
    "lat": 37.4272,
    "lon": -122.1663,
-   "in_dc": true,
-   "time": "9:00 AM PT",
+   "in_dc": false,
+   "time": "12:00 PM",
    "where": "Hauck Auditorium, Traitel Building, Hoover Institution, Stanford, CA"
   },
   {
    "id": 345,
    "title": "What Your Machines Should Do: The Science and Strategy of Human-Centered Automation",
-   "start": "2026-12-02T12:10:00-08:00",
-   "end": "2026-12-02T13:30:00-08:00",
+   "start": "2026-12-02T15:10:00-05:00",
+   "end": "2026-12-02T16:30:00-05:00",
    "host": "Berkeley School of Information",
    "source": "Berkeley School of Information",
    "location": "210 South Hall and online",
@@ -5842,8 +5842,8 @@
    "speakers": [],
    "lat": 37.8713,
    "lon": -122.2585,
-   "in_dc": true,
-   "time": "12:10 PM–1:30 PM PT",
+   "in_dc": false,
+   "time": "3:10 PM–4:30 PM",
    "where": "210 South Hall and online (+ virtual)"
   },
   {
@@ -5904,7 +5904,7 @@
   {
    "id": 411,
    "title": "SVLG Tech & Innovation Summit",
-   "start": "2026-12-04T09:00:00-08:00",
+   "start": "2026-12-04T12:00:00-05:00",
    "end": null,
    "host": "Silicon Valley Leadership Group",
    "source": "daily page scan",
@@ -5925,8 +5925,8 @@
    "speakers": [],
    "lat": 37.4429964,
    "lon": -122.1545229,
-   "in_dc": true,
-   "time": "9:00 AM PT",
+   "in_dc": false,
+   "time": "12:00 PM",
    "where": "Silicon Valley, CA"
   },
   {
@@ -5959,8 +5959,8 @@
   {
    "id": 344,
    "title": "UC Berkeley Cybersecurity Clinic Showcase",
-   "start": "2026-12-08T11:00:00-08:00",
-   "end": "2026-12-08T12:30:00-08:00",
+   "start": "2026-12-08T14:00:00-05:00",
+   "end": "2026-12-08T15:30:00-05:00",
    "host": "Berkeley School of Information",
    "source": "Berkeley School of Information",
    "location": "621 Sutardja Dai Hall",
@@ -5979,8 +5979,8 @@
    "speakers": [],
    "lat": 37.8749,
    "lon": -122.2583,
-   "in_dc": true,
-   "time": "11:00 AM–12:30 PM PT",
+   "in_dc": false,
+   "time": "2:00 PM–3:30 PM",
    "where": "621 Sutardja Dai Hall"
   },
   {
@@ -6124,8 +6124,8 @@
   {
    "id": 409,
    "title": "2027 Future of U.S. & China Conference",
-   "start": "2027-01-14T09:00:00-08:00",
-   "end": "2027-01-14T17:00:00-08:00",
+   "start": "2027-01-14T12:00:00-05:00",
+   "end": "2027-01-14T20:00:00-05:00",
    "host": "Asia Society Northern California",
    "source": "daily page scan",
    "location": "San Francisco, CA",
@@ -6145,8 +6145,8 @@
    "speakers": [],
    "lat": 37.7879363,
    "lon": -122.4075201,
-   "in_dc": true,
-   "time": "9:00 AM–5:00 PM PT",
+   "in_dc": false,
+   "time": "12:00 PM–8:00 PM",
    "where": "San Francisco, CA"
   },
   {
