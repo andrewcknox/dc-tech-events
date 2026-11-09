@@ -26,6 +26,10 @@ reading yourself. Work inside this repo. Be economical: skip anything already in
    - `fit` is 1–5: 5 = squarely on ETI's mission and easy to attend from SAIS; 1 = not for them.
      Events with fit >= 3 are auto-approved for the map; lower ones are stored but hidden.
    - Skip events that are clearly not about technology *and* policy/security/economics.
+   - The same book or speaker often tours several venues in one week (e.g. Buchanan's *The Bitter
+     Struggle* at Georgetown on Nov 10 and at SAIS on Nov 11). Each date/venue is a separate event:
+     add every one, don't drop a later page's copy as a duplicate. Read `jhu_hub_events__sais.txt` in
+     full; it is our main public source for Hopkins Bloomberg Center events now that sais.jhu.edu/events is gone.
    - Use the page header's tags (e.g. `think-tank`, `university`) as each event's `tags`.
    - Times are US Eastern. If only a date is known, use `"2026-09-18"`.
    - **Bay Area events** (pages tagged `bay-area`, or any event held in SF / East Bay / Peninsula /

@@ -49,7 +49,7 @@ scripts get past their blocking.
 
 | Org | Page | Why it matters |
 |---|---|---|
-| **SAIS CampusGroups** (signed in) | https://jhu.campusgroups.com/saisfocusareaevents/events plus the JHU CampusGroups event calendar filtered to SAIS | the source the SAIS mailing lists link to (`cglink.me`); focus-area and club events. Put them in their own file with `"backup": false, "tags": ["sais-internal", "sais"]` (the explicit false matters: that tag otherwise marks a backup) |
+| **SAIS CampusGroups** (signed in) | https://jhu.campusgroups.com/saisfocusareaevents/events plus the JHU CampusGroups event calendar filtered to SAIS | the source the SAIS mailing lists link to (`cglink.me`); focus-area and club events. Put them in their own file with `"backup": false, "tags": ["sais-internal", "sais"]` (the explicit false matters: that tag otherwise marks a backup). If Chrome is signed out (JHU SSO now asks for a Windows Hello/security-key MFA prompt that an unattended run can't pass), the signed-out list still works: on the events page run `fetch('/mobile_ws/v17/mobile_events_list?range=0&limit=600&filter4_contains=OR&filter4_notcontains=OR&order=undefined&search_word=&&1')` (then range=600) and filter `clubName` for SAIS. This omits **private** events (e.g. Merrill Center Defense Industry Speaker Series), which only the mailing lists then catch. Event detail pages render signed out at `rsvp_boot?id=N` |
 | Heritage Foundation | https://www.heritage.org/events | China/tech, conservative AI policy |
 | Cato Institute | https://www.cato.org/events (403 even in the in-app browser on 2026-11-09; needs the user's Chrome) | tech regulation, surveillance, trade |
 | FDD | https://www.fdd.org/events/ | cyber, China tech, sanctions |

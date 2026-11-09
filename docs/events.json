@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T08:38:48-05:00",
+ "generated_at": "2026-11-09T09:13:24-05:00",
  "today": "2026-11-09",
  "window_start": "2026-11-09",
  "window_days": 14,
@@ -3883,6 +3883,38 @@
    "where": "Room 822, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
   },
   {
+   "id": 475,
+   "title": "The Bitter Struggle with Professor Ben Buchanan and David E. Sanger",
+   "start": "2026-11-11T10:30:00-05:00",
+   "end": "2026-11-11T11:30:00-05:00",
+   "host": "SAIS",
+   "source": "SAIS mailing lists",
+   "location": "Room 820, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://luma.com/hydaizid",
+   "topics": [
+    "AI",
+    "China",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 5,
+   "why": "Top-tier AI/tech-competition conversation in the building.",
+   "description": "Ben Buchanan and David E. Sanger on the US-China technology contest. Room 820; open to the public.",
+   "speakers": [
+    "Ben Buchanan",
+    "David E. Sanger"
+   ],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "10:30 AM–11:30 AM",
+   "where": "Room 820, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
+  },
+  {
    "id": 362,
    "title": "Let's talk about Power Concentration!",
    "start": "2026-11-11T18:30:00-08:00",
@@ -3938,6 +3970,33 @@
    "where": "Atlantic Council, 1030 15th St NW"
   },
   {
+   "id": 466,
+   "title": "SAIS Space Club General Body Meeting",
+   "start": "2026-11-12T11:00:00-05:00",
+   "end": "2026-11-12T12:00:00-05:00",
+   "host": "Space Club at SAIS",
+   "source": "SAIS CampusGroups",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997727",
+   "topics": [
+    "space"
+   ],
+   "tags": [
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 3,
+   "why": "Student space-policy club; easy way into SAIS space community.",
+   "description": "Space Club general body meeting.",
+   "speakers": [],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "11:00 AM–12:00 PM",
+   "where": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
+  },
+  {
    "id": 416,
    "title": "Economic Policy in the Age of AI (SIEPR Policy Forum)",
    "start": "2026-11-12T09:30:00-08:00",
@@ -3964,6 +4023,36 @@
    "in_dc": false,
    "time": "9:30 AM–5:00 PM PT",
    "where": "John A. and Cynthia Fry Gunn Building, 366 Galvez St, Stanford, CA"
+  },
+  {
+   "id": 476,
+   "title": "Faculty Research Forum: Greenback Empire - Global Dollar Dominance and the New Cold War with Ho-fung Hung",
+   "start": "2026-11-12T12:30:00-05:00",
+   "end": "2026-11-12T14:00:00-05:00",
+   "host": "SAIS Faculty Research Forum",
+   "source": "SAIS mailing lists",
+   "location": "Room 258, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://www.eventbrite.com/e/faculty-research-forum-greenback-empire-with-ho-fung-hung-tickets-2003314122468",
+   "topics": [
+    "China",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 3,
+   "why": "US-China economic statecraft from a SAIS faculty member.",
+   "description": "Ho-fung Hung on dollar dominance and the US-China new cold war. Room 258; open to the public.",
+   "speakers": [
+    "Ho-fung Hung"
+   ],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "12:30 PM–2:00 PM",
+   "where": "Room 258, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
   },
   {
    "id": 137,
@@ -4138,6 +4227,68 @@
    "in_dc": true,
    "time": "10:00 AM–11:00 AM",
    "where": "Hudson Institute, 1201 Pennsylvania Ave NW"
+  },
+  {
+   "id": 469,
+   "title": "Contested Orbits: Wargaming at the Intersection of Cyber and Space",
+   "start": "2026-11-13T12:00:00-05:00",
+   "end": "2026-11-13T13:30:00-05:00",
+   "host": "Wargaming Club at SAIS, Space Club at SAIS, SAIS Strategy, Security, Intelligence & Technology",
+   "source": "SAIS CampusGroups",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997123",
+   "topics": [
+    "space",
+    "cyber"
+   ],
+   "tags": [
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 5,
+   "why": "Cyber-space security and wargaming, squarely ETI territory, in the building.",
+   "description": "Panel with Dr. Magdalena T. Bogacz and Dr. James R. Curbo on space security, cyber operations and wargame design, from threats to satellites to lunar-infrastructure scenarios.",
+   "speakers": [
+    "Magdalena T. Bogacz",
+    "James R. Curbo"
+   ],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "12:00 PM–1:30 PM",
+   "where": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
+  },
+  {
+   "id": 209,
+   "title": "Off-Grid Building Tour",
+   "start": "2026-11-13T15:00:00-05:00",
+   "end": "2026-11-13T16:30:00-05:00",
+   "host": "SAIS Development, Climate, and Sustainability Focus Area",
+   "source": "SAIS mailing lists",
+   "location": "Arlington, VA (three blocks from Clarendon Metro)",
+   "virtual": false,
+   "url": "https://cglink.me/2dh/r1996803",
+   "topics": [
+    "energy-tech"
+   ],
+   "tags": [
+    "campusgroups",
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 2,
+   "why": "Hands-on look at distributed clean-energy tech; more climate than tech policy.",
+   "description": "Prof. Johannes Urpelainen leads a tour of Prof. Scott Sklar's two fully off-grid buildings: solar PV, wind, battery banks, geothermal cooling, solar water heating and a hydrogen fuel cell. Current SAIS students; capped at 20.",
+   "speakers": [
+    "Johannes Urpelainen",
+    "Scott Sklar"
+   ],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "3:00 PM–4:30 PM",
+   "where": "Arlington, VA (three blocks from Clarendon Metro)"
   },
   {
    "id": 420,
@@ -4521,6 +4672,36 @@
    "where": "Virtual"
   },
   {
+   "id": 470,
+   "title": "Inside the Crisis with Dr. Jacquelyn Schneider: Political Psychology and Wargaming",
+   "start": "2026-11-17T12:00:00-05:00",
+   "end": "2026-11-17T14:00:00-05:00",
+   "host": "Wargaming Club at SAIS, SAIS Strategy, Security, Intelligence & Technology",
+   "source": "SAIS CampusGroups",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997124",
+   "topics": [
+    "cyber",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 4,
+   "why": "Leading cyber/tech-and-deterrence scholar on wargaming.",
+   "description": "Conversation on the International Crisis Wargame Series: how political psychology informs game design and what results reveal about technology, deterrence and crisis decisions.",
+   "speakers": [
+    "Jacquelyn Schneider"
+   ],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "12:00 PM–2:00 PM",
+   "where": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
+  },
+  {
    "id": 248,
    "title": "After NSCEB: What Comes Next for U.S. Biotech Policy",
    "start": "2026-11-17T14:00:00-05:00",
@@ -4883,6 +5064,65 @@
    "where": "Virtual"
   },
   {
+   "id": 471,
+   "title": "How to Win a Trade War",
+   "start": "2026-11-18T12:00:00-05:00",
+   "end": "2026-11-18T13:30:00-05:00",
+   "host": "SAIS Focus Area Events",
+   "source": "SAIS CampusGroups",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997508",
+   "topics": [
+    "industrial-policy",
+    "China"
+   ],
+   "tags": [
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 3,
+   "why": "Trade and economic statecraft relevant to tech competition.",
+   "description": "Focus-area talk on trade-war strategy.",
+   "speakers": [],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "12:00 PM–1:30 PM",
+   "where": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
+  },
+  {
+   "id": 477,
+   "title": "Autonomous Systems and Naval Warfare: The View from Saronic",
+   "start": "2026-11-18T13:00:00-05:00",
+   "end": "2026-11-18T14:00:00-05:00",
+   "host": "Philip Merrill Center for Strategic Studies (Defense Industry Speaker Series)",
+   "source": "SAIS mailing lists",
+   "location": "Room 422, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://cglink.me/2dh/r1997732",
+   "topics": [
+    "AI",
+    "industrial-policy"
+   ],
+   "tags": [
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 4,
+   "why": "Defense-tech autonomy and industrial base, in the building.",
+   "description": "Brian Burton, Senior Director for Growth at Saronic Technologies (ex-OSD Industrial Base Policy), in conversation with Prof. Thomas G. Mahnken on autonomous naval systems and the defense industrial base. Room 422; lunch.",
+   "speakers": [
+    "Brian Burton",
+    "Thomas G. Mahnken"
+   ],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "1:00 PM–2:00 PM",
+   "where": "Room 422, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
+  },
+  {
    "id": 130,
    "title": "The state of broadband access and affordability",
    "start": "2026-11-18T13:30:00-05:00",
@@ -5103,6 +5343,34 @@
    "in_dc": false,
    "time": "10:30 AM–11:00 PM",
    "where": "FCC Headquarters, 45 L Street NE, Washington, DC (+ virtual)"
+  },
+  {
+   "id": 474,
+   "title": "A New Approach to US-Taiwan Relations",
+   "start": "2026-11-19T12:00:00-05:00",
+   "end": "2026-11-19T13:30:00-05:00",
+   "host": "SAIS Focus Area Events",
+   "source": "SAIS CampusGroups",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997829",
+   "topics": [
+    "China",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 3,
+   "why": "Taiwan policy is central to chip geopolitics.",
+   "description": "Focus-area talk on rethinking US-Taiwan relations.",
+   "speakers": [],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "12:00 PM–1:30 PM",
+   "where": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
   },
   {
    "id": 227,

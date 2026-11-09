@@ -20,7 +20,7 @@ sources:
     type: html
     js: true   # Cloudflare challenge; needs Playwright
     tags: [sais, jhu, university]
-    enabled: true
+    enabled: false   # 404 "Page Not Found" since early Nov 2026; sais.jhu.edu/news-events has no event list. SAIS public events now come via JHU Hub + the Eventbrite org below
 
   - name: SAIS Emerging Technologies Initiative
     url: https://emergingtech.sais.jhu.edu/events
@@ -35,6 +35,13 @@ sources:
     js: false
     tags: [jhu, university]
     enabled: true
+
+  - name: SAIS Office of Faculty Affairs (Eventbrite)
+    url: https://www.eventbrite.com/o/office-of-faculty-affairs-32657776327
+    type: eventbrite_org
+    js: false
+    tags: [sais, jhu, university]
+    enabled: true   # SAIS Faculty Research Forum (public book talks at HBC); added 2026-11-09 after a sais.ti miss
 
   - name: Hopkins Bloomberg Center
     url: https://hub.jhu.edu/tags/555-Penn/events/feed/

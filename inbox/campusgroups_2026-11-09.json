@@ -1,0 +1,363 @@
+{
+ "source": "SAIS CampusGroups",
+ "backup": false,
+ "tags": [
+  "sais-internal",
+  "sais"
+ ],
+ "events": [
+  {
+   "title": "Book Talk with Mohammed Soliman - West Asia: A New American Grand Strategy in the Middle East",
+   "start": "2026-11-09 11:30",
+   "end": "2026-11-09 13:00",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997675",
+   "host": "MENA at SAIS",
+   "description": "Book talk on a proposed US grand strategy for West Asia.",
+   "speakers": [
+    "Mohammed Soliman"
+   ],
+   "topics": [
+    "tech-geopolitics"
+   ],
+   "fit": 2,
+   "why": "Middle East strategy talk; tangential to tech.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "Peace Infrastructures: A Conversation with Dr. Silvia Danielak",
+   "start": "2026-11-09 12:00",
+   "end": "2026-11-09 13:15",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997574",
+   "host": "Global Security and Conflict Management at SAIS",
+   "description": "Conversation on peace infrastructures and conflict management.",
+   "speakers": [
+    "Silvia Danielak"
+   ],
+   "topics": [],
+   "fit": 1,
+   "why": "Security talk, not tech.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "The Arctic at a Crossroads: Security, Sovereignty, and Strategic Competition",
+   "start": "2026-11-09 13:00",
+   "end": "2026-11-09 14:15",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997098",
+   "host": "Defense and Intelligence Club at SAIS",
+   "description": "Talk on Arctic security, sovereignty and great-power competition.",
+   "speakers": [],
+   "topics": [
+    "tech-geopolitics"
+   ],
+   "fit": 2,
+   "why": "Strategic competition in the High North; light tech angle.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "SAIS IEF Focus Area Talk with Arthur Rubin: Debt Capital Markets",
+   "start": "2026-11-10 12:00",
+   "end": "2026-11-10 13:30",
+   "location": "Room B222, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997141",
+   "host": "SAIS International Economics & Finance focus area",
+   "description": "Introduction to debt capital markets and the bond market's role in mobilizing capital in developed and emerging markets. Room B222; lunch for registered guests.",
+   "speakers": [
+    "Arthur Rubin"
+   ],
+   "topics": [],
+   "fit": 1,
+   "why": "Finance primer, not tech policy.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "The Arctic Grossraum: Geopolitics Returns to the High North",
+   "start": "2026-11-11 09:00",
+   "end": "2026-11-11 10:30",
+   "location": null,
+   "virtual": true,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997454",
+   "host": "SAIS Focus Area Events",
+   "description": "Online talk on the return of geopolitics to the Arctic.",
+   "speakers": [],
+   "topics": [
+    "tech-geopolitics"
+   ],
+   "fit": 2,
+   "why": "Arctic geopolitics; tangential to tech.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "Why Carbon Taxes Failed",
+   "start": "2026-11-11 13:00",
+   "end": "2026-11-11 14:15",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1989329",
+   "host": "SAIS Focus Area Events",
+   "description": "Focus-area talk on why carbon taxes failed as climate policy.",
+   "speakers": [],
+   "topics": [
+    "energy-tech"
+   ],
+   "fit": 2,
+   "why": "Climate-economics policy; energy angle.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "SAIS Space Club General Body Meeting",
+   "start": "2026-11-12 11:00",
+   "end": "2026-11-12 12:00",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997727",
+   "host": "Space Club at SAIS",
+   "description": "Space Club general body meeting.",
+   "speakers": [],
+   "topics": [
+    "space"
+   ],
+   "fit": 3,
+   "why": "Student space-policy club; easy way into SAIS space community.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "Caught in the Crossfire: The Iran War's Impact on Southeast Asia",
+   "start": "2026-11-12 12:00",
+   "end": "2026-11-12 13:30",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997281",
+   "host": "SAIS Focus Area Events",
+   "description": "Speaker event on the Iran war's spillover effects on Southeast Asia.",
+   "speakers": [],
+   "topics": [],
+   "fit": 1,
+   "why": "Regional security, not tech.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "Rethinking Korea Policy: Toward a Free and Unified Korea",
+   "start": "2026-11-12 18:00",
+   "end": "2026-11-12 19:00",
+   "location": "Room 422, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997448",
+   "host": "Korea Club at SAIS",
+   "description": "Talk on US Korea policy and unification.",
+   "speakers": [],
+   "topics": [
+    "Japan-Korea"
+   ],
+   "fit": 2,
+   "why": "Korea policy; light tech angle.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "Contested Orbits: Wargaming at the Intersection of Cyber and Space",
+   "start": "2026-11-13 12:00",
+   "end": "2026-11-13 13:30",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997123",
+   "host": "Wargaming Club at SAIS, Space Club at SAIS, SAIS Strategy, Security, Intelligence & Technology",
+   "description": "Panel with Dr. Magdalena T. Bogacz and Dr. James R. Curbo on space security, cyber operations and wargame design, from threats to satellites to lunar-infrastructure scenarios.",
+   "speakers": [
+    "Magdalena T. Bogacz",
+    "James R. Curbo"
+   ],
+   "topics": [
+    "space",
+    "cyber"
+   ],
+   "fit": 5,
+   "why": "Cyber-space security and wargaming, squarely ETI territory, in the building.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "Off Grid Building Tour",
+   "start": "2026-11-13 15:00",
+   "end": "2026-11-13 16:30",
+   "location": "Arlington, VA",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1996803",
+   "host": "SAIS Development, Climate & Sustainability focus area",
+   "description": "Tour with Prof. Johannes Urpelainen of Prof. Scott Sklar's two 100% off-grid buildings: solar PV, wind, batteries, geothermal, hydrogen fuel cell.",
+   "speakers": [
+    "Johannes Urpelainen",
+    "Scott Sklar"
+   ],
+   "topics": [
+    "energy-tech"
+   ],
+   "fit": 3,
+   "why": "Hands-on look at distributed energy tech.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "SAIS Africa Club: Africa and the AI Economy",
+   "start": "2026-11-13 16:30",
+   "end": "2026-11-13 19:30",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997272",
+   "host": "Africa Club at SAIS, Africa Business Club, Tech Club, Village Ties",
+   "description": "Panel on Africa's role in the global AI economy with Kenya's Ambassador to the US, leaders from Amazon and Cassava Technologies, and fintech founders: digital infrastructure, investment, innovation.",
+   "speakers": [],
+   "topics": [
+    "AI",
+    "tech-geopolitics"
+   ],
+   "fit": 4,
+   "why": "AI economy and digital infrastructure in Africa, with an ambassador and industry.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "Inside the Crisis with Dr. Jacquelyn Schneider: Political Psychology and Wargaming",
+   "start": "2026-11-17 12:00",
+   "end": "2026-11-17 14:00",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997124",
+   "host": "Wargaming Club at SAIS, SAIS Strategy, Security, Intelligence & Technology",
+   "description": "Conversation on the International Crisis Wargame Series: how political psychology informs game design and what results reveal about technology, deterrence and crisis decisions.",
+   "speakers": [
+    "Jacquelyn Schneider"
+   ],
+   "topics": [
+    "cyber",
+    "tech-geopolitics"
+   ],
+   "fit": 4,
+   "why": "Leading cyber/tech-and-deterrence scholar on wargaming.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "How to Win a Trade War",
+   "start": "2026-11-18 12:00",
+   "end": "2026-11-18 13:30",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997508",
+   "host": "SAIS Focus Area Events",
+   "description": "Focus-area talk on trade-war strategy.",
+   "speakers": [],
+   "topics": [
+    "industrial-policy",
+    "China"
+   ],
+   "fit": 3,
+   "why": "Trade and economic statecraft relevant to tech competition.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "European Union Delegation Visit",
+   "start": "2026-11-19 10:00",
+   "end": "2026-11-19 11:00",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997823",
+   "host": "Europe and Eurasia Club at SAIS",
+   "description": "Visit to the EU Delegation to the US.",
+   "speakers": [],
+   "topics": [
+    "EU"
+   ],
+   "fit": 2,
+   "why": "EU institutions visit; tech regulation may come up.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "Markets & Macro: The Other Side of Policy - A CFO's View from Brazil, China and the US",
+   "start": "2026-11-19 12:00",
+   "end": "2026-11-19 13:30",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997618",
+   "host": "International Finance Club at SAIS",
+   "description": "Speaker series: a CFO's perspective on policy across Brazil, China and the US.",
+   "speakers": [],
+   "topics": [
+    "China"
+   ],
+   "fit": 2,
+   "why": "Corporate view of policy; light tech angle.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "A New Approach to US-Taiwan Relations",
+   "start": "2026-11-19 12:00",
+   "end": "2026-11-19 13:30",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997829",
+   "host": "SAIS Focus Area Events",
+   "description": "Focus-area talk on rethinking US-Taiwan relations.",
+   "speakers": [],
+   "topics": [
+    "China",
+    "tech-geopolitics"
+   ],
+   "fit": 3,
+   "why": "Taiwan policy is central to chip geopolitics.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,187 @@
+{
+ "source": "SAIS mailing lists",
+ "backup": true,
+ "tags": [
+  "sais-internal",
+  "sais"
+ ],
+ "events": [
+  {
+   "title": "The Bitter Struggle with Professor Ben Buchanan and David E. Sanger",
+   "start": "2026-11-11 10:30",
+   "end": "2026-11-11 11:30",
+   "location": "Room 820, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://luma.com/hydaizid",
+   "host": "SAIS",
+   "description": "Ben Buchanan and David E. Sanger on the US-China technology contest. Room 820; open to the public.",
+   "speakers": [
+    "Ben Buchanan",
+    "David E. Sanger"
+   ],
+   "topics": [
+    "AI",
+    "China",
+    "tech-geopolitics"
+   ],
+   "fit": 5,
+   "why": "Top-tier AI/tech-competition conversation in the building.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "The Arctic Grossraum: Geopolitics Returns to the High North",
+   "start": "2026-11-11 09:00",
+   "end": "2026-11-11 10:30",
+   "location": null,
+   "virtual": true,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997454",
+   "host": "AGDA-SAIS Joint Lecture Series on Law, Power & Diplomacy",
+   "description": "Virtual lecture by Prof. Christopher Rossi (Anwar Gargash Diplomatic Academy) opening the AGDA-SAIS series.",
+   "speakers": [
+    "Christopher Rossi"
+   ],
+   "topics": [
+    "tech-geopolitics"
+   ],
+   "fit": 2,
+   "why": "Arctic geopolitics; tangential to tech.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "Faculty Research Forum: Greenback Empire - Global Dollar Dominance and the New Cold War with Ho-fung Hung",
+   "start": "2026-11-12 12:30",
+   "end": "2026-11-12 14:00",
+   "location": "Room 258, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://www.eventbrite.com/e/faculty-research-forum-greenback-empire-with-ho-fung-hung-tickets-2003314122468",
+   "host": "SAIS Faculty Research Forum",
+   "description": "Ho-fung Hung on dollar dominance and the US-China new cold war. Room 258; open to the public.",
+   "speakers": [
+    "Ho-fung Hung"
+   ],
+   "topics": [
+    "China",
+    "tech-geopolitics"
+   ],
+   "fit": 3,
+   "why": "US-China economic statecraft from a SAIS faculty member.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "Caught in the Crossfire: The Iran War's Impact on Southeast Asia",
+   "start": "2026-11-12 12:00",
+   "end": "2026-11-12 13:30",
+   "location": "Room 222, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997281",
+   "host": "SAIS Asia focus area",
+   "description": "Asia focus-area talk on the Iran war's spillover to Southeast Asia. Room 222; lunch for registered guests.",
+   "speakers": [],
+   "topics": [],
+   "fit": 1,
+   "why": "Regional security, not tech.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "SAIS Africa Club: Africa and the AI Economy",
+   "start": "2026-11-13 16:30",
+   "end": "2026-11-13 19:30",
+   "location": "Room 940/944, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997272",
+   "host": "SAIS Africa Club, Village Ties, Carey Africa Business Club, SAIS Tech Club",
+   "description": "Panel on Africa's role in the global AI economy with Kenya's Ambassador to the US, Amazon and Cassava Technologies leaders, and fintech innovators. Room 940/944; open to the public.",
+   "speakers": [],
+   "topics": [
+    "AI",
+    "tech-geopolitics"
+   ],
+   "fit": 4,
+   "why": "AI economy and digital infrastructure in Africa.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "Careers in Technology and National Security",
+   "start": "2026-11-16 12:30",
+   "end": "2026-11-16 14:15",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.joinhandshake.com/events/2057971/share_preview",
+   "host": "SAIS Technology & Innovation and Security, Strategy & Statecraft focus areas",
+   "description": "Fourteen DC tech and national-security professionals host rotating 10-minute small-group conversations on their careers. RSVP by Nov 10 noon; location sent to registrants; lunch provided.",
+   "speakers": [],
+   "topics": [
+    "tech-geopolitics",
+    "cyber"
+   ],
+   "fit": 4,
+   "why": "Direct access to tech/natsec practitioners, run by the T&I focus area.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "Autonomous Systems and Naval Warfare: The View from Saronic",
+   "start": "2026-11-18 13:00",
+   "end": "2026-11-18 14:00",
+   "location": "Room 422, Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://cglink.me/2dh/r1997732",
+   "host": "Philip Merrill Center for Strategic Studies (Defense Industry Speaker Series)",
+   "description": "Brian Burton, Senior Director for Growth at Saronic Technologies (ex-OSD Industrial Base Policy), in conversation with Prof. Thomas G. Mahnken on autonomous naval systems and the defense industrial base. Room 422; lunch.",
+   "speakers": [
+    "Brian Burton",
+    "Thomas G. Mahnken"
+   ],
+   "topics": [
+    "AI",
+    "industrial-policy"
+   ],
+   "fit": 4,
+   "why": "Defense-tech autonomy and industrial base, in the building.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "Guiding Multinational Enterprises through Global Risks: Lessons from Walmart",
+   "start": "2026-12-01",
+   "end": "2026-12-01",
+   "location": null,
+   "virtual": true,
+   "url": "https://jhjhm.zoom.us/meeting/register/x0UhbMMqR1CgSr4nhXMVtQ",
+   "host": "SAIS (moderated by Prof. Matthias Matthijs)",
+   "description": "Virtual conversation with Jeff Rice, Walmart SVP for Global Regulatory, Sourcing and Anti-Corruption Compliance, on tariffs, sanctions, supply-chain disruption and regulatory fragmentation. Moved from Nov 3.",
+   "speakers": [
+    "Jeff Rice",
+    "Matthias Matthijs"
+   ],
+   "topics": [
+    "industrial-policy"
+   ],
+   "fit": 2,
+   "why": "Corporate view of tariffs and sanctions; light tech angle.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  }
+ ]
+}
