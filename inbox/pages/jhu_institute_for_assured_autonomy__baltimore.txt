@@ -1,0 +1,36 @@
+# JHU Institute for Assured Autonomy (Baltimore)
+# https://iaa.jhu.edu/events/
+# fetched 2026-11-09T08:23:07.748473-05:00
+# tags: jhu, university, baltimore
+
+Events
+Home <https://iaa.jhu.edu/>
+Events
+ Tags
+ACM <https://iaa.jhu.edu/events/action~agenda/request_format~json/tag_ids~147/>
+IAAResearchSummit2022 <https://iaa.jhu.edu/events/action~agenda/request_format~json/tag_ids~148/>
+ Agenda
+Agenda <https://iaa.jhu.edu/events/action~agenda/request_format~json/>
+Month <https://iaa.jhu.edu/events/action~month/request_format~json/>
+November 2026
+Nov 2026
+ Collapse All
+ Expand All
+Nov
+ 19
+ Thu <https://iaa.jhu.edu/events/action~oneday/exact_date~2026-11-19/>
+ IAA Seminar — Rahul Mangharam
+@ Johns Hopkins University, Hackerman B-17
+Tickets
+ Nov 19 @ 10:45 am – 12:00 pm
+Details coming soon!
+Read more <https://iaa.jhu.edu/event/iaa-seminar-rahul-mangharam/?instance_id=436>
+November 2026
+Nov 2026
+ Subscribe
+Add to Timely Calendar <http://iaa.jhu.edu/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events>
+Add to Google <https://www.google.com/calendar/render?cid=http%3A%2F%2Fiaa.jhu.edu%2F%3Fplugin%3Dall-in-one-event-calendar%26controller%3Dai1ec_exporter_controller%26action%3Dexport_events%26no_html%3Dtrue%26%26>
+Add to Outlook <webcal://iaa.jhu.edu/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&no_html=true>
+Add to Apple Calendar <webcal://iaa.jhu.edu/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&no_html=true>
+Add to other calendar <http://iaa.jhu.edu/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&no_html=true>
+Export to XML <http://iaa.jhu.edu/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&xml=true>

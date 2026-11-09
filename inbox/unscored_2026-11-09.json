@@ -1,0 +1,89 @@
+{
+ "instructions": "Fill fit (1-5), topics (from the DAILY.md list) and why for each event; add tags (e.g. bay-area) if needed; then `uv run dte score apply <this file>`. Leave fit null to skip.",
+ "events": [
+  {
+   "id": 425,
+   "title": "MEPAG, Nov 9-10, 2026, virtual, various times",
+   "start": "2026-11-09T07:00:00-05:00",
+   "location": null,
+   "virtual": true,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "The Mars Exploration Planetary Analysis Group, MEPAG, will meet virtually November 9-10, 2026. The meeting on November 9 is 10:00 am-3:10 pm ET, and on November 10 is 12:00-5:00 pm ET. More information, the agenda, and registration instructions to get",
+   "url": "https://spacepolicyonline.com/events/mepag-nov-9-10-2026-virtual-various-times/",
+   "fit": 1,
+   "topics": [
+    "space"
+   ],
+   "why": "Mars science analysis group meeting; scientific, not policy."
+  },
+  {
+   "id": 426,
+   "title": "NASA PLANETARY SCIENCE DIVISION TOWN HALL, Nov 12, 2026, virtual, 1:00-2:00 pm ET",
+   "start": "2026-11-12T13:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "NASA’s Planetary Science Division will hold a community Town Hall meeting on November 12, 2026 from 1:00-2:00 pm ET. More information is on the event’s website.",
+   "url": "https://spacepolicyonline.com/events/nasa-planetary-science-division-town-hall-nov-12-2026-virtual-100-200-pm-et/",
+   "fit": 2,
+   "topics": [
+    "space"
+   ],
+   "why": "NASA planetary science town hall; some budget-policy content."
+  },
+  {
+   "id": 427,
+   "title": "The State of American Democracy: Elections in the Digital Media Age",
+   "start": "2026-11-17T16:00:00-05:00",
+   "location": "Milken Institute School of Public Health Building, Convening Center",
+   "virtual": false,
+   "host": "GW Institute for Data, Democracy & Politics",
+   "source": "GW Institute for Data, Democracy & Politics",
+   "tags": [
+    "university",
+    "gwu"
+   ],
+   "description": "As local journalism declines, media ownership consolidates, and Americans increasingly turn to social media and AI tools for political information, the American information landscape is undergoing a profound transformation. What do these changes mean for public trust, political participation and",
+   "url": "https://calendar.gwu.edu/event/the-state-of-american-democracy-elections-in-the-digital-media-age",
+   "fit": 3,
+   "topics": [
+    "trust-and-safety",
+    "data/privacy"
+   ],
+   "why": "Elections and digital media from GW's IDDP, a short trip from SAIS."
+  },
+  {
+   "id": 428,
+   "title": "Neurotech@Berkeley Showcase - Members +3",
+   "start": "2026-12-07T20:00:00-05:00",
+   "location": "Frontier Tower @ Spaceship 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "meetup",
+    "public",
+    "bay-area"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/neurotechberkeley-showcase Address: Frontier Tower @ Spaceship 995 Market Street, San Francisco Hosted by Frontier Tower & 3 others",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [
+    "biotech"
+   ],
+   "why": "Student neurotech showcase in SF; no policy content."
+  }
+ ]
+}

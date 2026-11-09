@@ -1,0 +1,644 @@
+{
+ "source": "daily page scan",
+ "tags": [],
+ "events": [
+  {
+   "title": "If China Seizes Taiwan: The Implications for the United States and the World",
+   "start": "2026-11-20 09:15",
+   "end": "2026-11-20 12:45",
+   "location": "Global Taiwan Institute, Washington, DC",
+   "virtual": false,
+   "url": "https://globaltaiwan.org/events/if-china-seizes-taiwan/",
+   "host": "Global Taiwan Institute",
+   "description": "Public seminar on the consequences of a PRC seizure of Taiwan for the US and the world, including economic and supply-chain fallout.",
+   "speakers": [],
+   "topics": [
+    "China",
+    "tech-geopolitics",
+    "semiconductors"
+   ],
+   "fit": 3,
+   "why": "A Taiwan contingency is the central semiconductor supply-chain risk ETI students study.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "From Resilient Island to Resilience Partner: Taiwan's Capacity for Civil Defense and Disaster Response",
+   "start": "2026-11-10 10:00",
+   "end": "2026-11-10 11:45",
+   "location": "Global Taiwan Institute, Washington, DC",
+   "virtual": false,
+   "url": "https://globaltaiwan.org/events/from-resilient-island-to-resilience-partner/",
+   "host": "Global Taiwan Institute",
+   "description": "Public seminar (in person and webcast) on Taiwan's civil defense and disaster-response capacity and its role as a resilience partner.",
+   "speakers": [],
+   "topics": [
+    "China",
+    "tech-geopolitics"
+   ],
+   "fit": 2,
+   "why": "Taiwan resilience and security; only tangentially about technology.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "AI Week 2027",
+   "start": "2027-04-26",
+   "end": "2027-04-30",
+   "location": "Washington, DC",
+   "virtual": false,
+   "url": "https://aiweek.com",
+   "host": "Scoop News Group",
+   "description": "Scoop News Group's week of AI programming in Washington for government and industry technology leaders.",
+   "speakers": [],
+   "topics": [
+    "AI"
+   ],
+   "fit": 3,
+   "why": "Federal AI adoption conference with on-record agency officials in DC.",
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "title": "Webinar: Racing the Exploit Clock",
+   "start": "2026-11-12",
+   "end": null,
+   "location": null,
+   "virtual": true,
+   "url": "https://horizon3vulnerabilitymanagement.upgather.com",
+   "host": "CyberScoop",
+   "description": "Sponsored CyberScoop webinar on vulnerability management and shrinking time-to-exploit for government networks.",
+   "speakers": [],
+   "topics": [
+    "cyber"
+   ],
+   "fit": 2,
+   "why": "Vendor-sponsored cyber webinar; some federal policy content.",
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "title": "Beyond Cyber Vulnerability Scores",
+   "start": "2026-12-03",
+   "end": null,
+   "location": null,
+   "virtual": true,
+   "url": "https://afsfedcyber.upgather.com",
+   "host": "FedScoop",
+   "description": "Sponsored virtual event on federal cyber risk prioritization beyond CVSS scores.",
+   "speakers": [],
+   "topics": [
+    "cyber"
+   ],
+   "fit": 2,
+   "why": "Vendor-sponsored federal cyber webinar.",
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "title": "Safeguarding Federal Grants",
+   "start": "2026-12-08",
+   "end": null,
+   "location": null,
+   "virtual": true,
+   "url": "https://digitalsciencesafeguardingfedgrants.upgather.com",
+   "host": "FedScoop",
+   "description": "Sponsored virtual event on research security and protecting federally funded research.",
+   "speakers": [],
+   "topics": [
+    "tech-geopolitics"
+   ],
+   "fit": 2,
+   "why": "Research security touches tech-competition policy, but this is a vendor webinar.",
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "title": "Emerge: Health Transformation",
+   "start": "2026-12-09",
+   "end": null,
+   "location": "Waldorf Astoria, Washington, DC",
+   "virtual": false,
+   "url": "https://gdithealthtransformation.upgather.com/",
+   "host": "GDIT / Scoop News Group",
+   "description": "GDIT Emerge event on technology modernization in federal health agencies.",
+   "speakers": [],
+   "topics": [
+    "AI"
+   ],
+   "fit": 1,
+   "why": "Health IT modernization; off ETI's focus.",
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "title": "SCIF After Hours with CIA's Amy Heald",
+   "start": "2026-11-09 17:30",
+   "end": "2026-11-09 19:30",
+   "location": "Chantilly, VA",
+   "virtual": false,
+   "url": "https://www.insaonline.org/detail-pages/event/2026/11/09/default-calendar/scif-after-hours",
+   "host": "INSA",
+   "description": "INSA networking evening with a CIA official for the intelligence-community workforce.",
+   "speakers": [
+    "Amy Heald"
+   ],
+   "topics": [
+    "cyber"
+   ],
+   "fit": 1,
+   "why": "Cleared-community networking in Chantilly; not a policy event for students.",
+   "tags": [
+    "industry"
+   ]
+  },
+  {
+   "title": "Common Threads Charlottesville",
+   "start": "2026-12-15",
+   "end": "2026-12-16",
+   "location": "Charlottesville, VA",
+   "virtual": false,
+   "url": "https://www.insaonline.org/detail-pages/event/2026/12/15/default-calendar/common-threads-charlottesville",
+   "host": "INSA",
+   "description": "INSA's Common Threads convening on intelligence and national security, held in Charlottesville.",
+   "speakers": [],
+   "topics": [
+    "tech-geopolitics"
+   ],
+   "fit": 1,
+   "why": "Outside DC and largely industry networking.",
+   "tags": [
+    "industry"
+   ]
+  },
+  {
+   "title": "Coffee and Conversation with The Hon. Justin Overbaugh",
+   "start": "2027-01-19 09:00",
+   "end": "2027-01-19 09:45",
+   "location": null,
+   "virtual": true,
+   "url": "https://www.insaonline.org/detail-pages/event/2027/01/19/default-calendar/coffee-and-conversation-with-justin-overbaugh",
+   "host": "INSA",
+   "description": "Online INSA conversation with former defense intelligence official Justin Overbaugh.",
+   "speakers": [
+    "Justin Overbaugh"
+   ],
+   "topics": [
+    "tech-geopolitics"
+   ],
+   "fit": 2,
+   "why": "Defense-intelligence leadership talk; light on tech policy.",
+   "tags": [
+    "industry"
+   ]
+  },
+  {
+   "title": "IAA Seminar: Rahul Mangharam",
+   "start": "2026-11-19 10:45",
+   "end": "2026-11-19 12:00",
+   "location": "Hackerman Hall B-17, Johns Hopkins University, Baltimore, MD",
+   "virtual": false,
+   "url": "https://iaa.jhu.edu/event/iaa-seminar-rahul-mangharam/?instance_id=436",
+   "host": "JHU Institute for Assured Autonomy",
+   "description": "IAA seminar by Penn's Rahul Mangharam on safe autonomous systems; details to come.",
+   "speakers": [
+    "Rahul Mangharam"
+   ],
+   "topics": [
+    "AI"
+   ],
+   "fit": 2,
+   "why": "Technical autonomy-assurance talk at Homewood; light on policy.",
+   "tags": [
+    "university"
+   ]
+  },
+  {
+   "title": "2026 AAAS Charles Valentine Riley Memorial Lecture",
+   "start": "2026-11-19",
+   "end": null,
+   "location": "AAAS, 1200 New York Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.aaas.org/events/2026-aaas-charles-valentine-riley-memorial-lecture",
+   "host": "AAAS",
+   "description": "Annual AAAS Center for Scientific Evidence in Public Issues lecture on science in public policy.",
+   "speakers": [],
+   "topics": [
+    "biotech"
+   ],
+   "fit": 2,
+   "why": "Science-policy lecture; topic not yet posted.",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "title": "Higher Education, Research Investment, and the Public Interest",
+   "start": "2026-12-02T09:00:00-08:00",
+   "end": null,
+   "location": "Hauck Auditorium, Traitel Building, Hoover Institution, Stanford, CA",
+   "virtual": false,
+   "url": "https://www.hoover.org/events/higher-education-research-investment-and-public-interest",
+   "host": "Hoover Institution",
+   "description": "Hoover's Center for Revitalizing American Institutions on federal research investment and universities.",
+   "speakers": [],
+   "topics": [
+    "industrial-policy"
+   ],
+   "fit": 3,
+   "why": "Federal R&D funding and universities, a live science-policy fight. Start time not posted.",
+   "tags": [
+    "think-tank",
+    "bay-area"
+   ]
+  },
+  {
+   "title": "Bio-Strategies & Leadership Congressional Leadership Accelerator for Biotechnology (C-LAB)",
+   "start": "2027-02-18",
+   "end": "2027-02-19",
+   "location": "Hoover Institution, Stanford, CA",
+   "virtual": false,
+   "url": "https://www.hoover.org/events/bio-strategies-leadership-congressional-leadership-accelerator-biotechnology",
+   "host": "Hoover Institution",
+   "description": "Two-day intensive program on biotechnology strategy for congressional staff.",
+   "speakers": [],
+   "topics": [
+    "biotech",
+    "tech-geopolitics"
+   ],
+   "fit": 2,
+   "why": "Biotech strategy, but a closed program for Hill staff.",
+   "tags": [
+    "think-tank",
+    "bay-area"
+   ]
+  },
+  {
+   "title": "House Select Committee on the CCP hearing (title TBA)",
+   "start": "2026-11-19 10:00",
+   "end": "2026-11-19 12:00",
+   "location": "HVC 210, U.S. Capitol, Washington, DC",
+   "virtual": false,
+   "url": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=119593",
+   "host": "House Select Committee on the CCP",
+   "description": "Full committee hearing of the House China Select Committee; topic not yet posted. Recent hearings covered import controls, research security and AI theft.",
+   "speakers": [],
+   "topics": [
+    "China",
+    "tech-geopolitics"
+   ],
+   "fit": 4,
+   "why": "The China Select Committee's hearings are usually on tech competition and export controls.",
+   "tags": [
+    "hill"
+   ]
+  },
+  {
+   "title": "The Hypersonic Landscape: Emerging Threats and New Opportunities",
+   "start": "2026-12-03 08:00",
+   "end": "2026-12-03 09:00",
+   "location": null,
+   "virtual": true,
+   "url": "https://www.heritage.org/missile-defense/event/the-hypersonic-landscape-emerging-threats-and-new-opportunities",
+   "host": "Heritage Foundation",
+   "description": "Online Heritage event on hypersonic weapons threats and US missile-defense opportunities.",
+   "speakers": [],
+   "topics": [
+    "tech-geopolitics",
+    "China"
+   ],
+   "fit": 3,
+   "why": "Hypersonics is a core emerging military technology in US-China competition.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "The 2026 B.C. Lee Lecture Featuring Deputy Secretary of State Christopher Landau",
+   "start": "2026-12-10 11:00",
+   "end": "2026-12-10 12:00",
+   "location": null,
+   "virtual": true,
+   "url": "https://www.heritage.org/global-politics/event/the-2026-bc-lee-lecture-featuring-deputy-secretary-state-christopher-landau",
+   "host": "Heritage Foundation",
+   "description": "Heritage's annual Korea-focused B.C. Lee Lecture with Deputy Secretary of State Christopher Landau.",
+   "speakers": [
+    "Christopher Landau"
+   ],
+   "topics": [
+    "Japan-Korea"
+   ],
+   "fit": 2,
+   "why": "Senior State official on Korea/Indo-Pacific policy; tech content uncertain.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "The Black Sea Blueprint for Taiwan: Lessons in Asymmetric Naval Warfare",
+   "start": "2026-11-16",
+   "end": null,
+   "location": "FDD, 1701 Pennsylvania Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.fdd.org/events/the-black-sea-blueprint-for-taiwan-lessons-in-asymmetric-naval-warfare/",
+   "host": "FDD",
+   "description": "What Ukraine's unmanned surface vehicle campaign against Russia's Black Sea Fleet teaches for defending Taiwan.",
+   "speakers": [],
+   "topics": [
+    "tech-geopolitics",
+    "China"
+   ],
+   "fit": 3,
+   "why": "Drone and autonomous-systems warfare applied to a Taiwan contingency.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Tech Prom 2026",
+   "start": "2026-11-12 18:00",
+   "end": "2026-11-12 22:00",
+   "location": "The LINE DC, 1770 Euclid St NW, Washington, DC",
+   "virtual": false,
+   "url": "https://cdt.org/events/2026-tech-prom/",
+   "host": "CDT",
+   "description": "CDT's annual Tech Prom gala bringing together DC's tech-policy community.",
+   "speakers": [],
+   "topics": [
+    "data/privacy",
+    "AI"
+   ],
+   "fit": 3,
+   "why": "The DC tech-policy community's big annual social; ticketed.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "GNI Annual Learning Forum 2026: Bridging AI, Governance, & Human Rights",
+   "start": "2026-11-17 10:00",
+   "end": "2026-11-18 11:00",
+   "location": null,
+   "virtual": true,
+   "url": "https://cdt.org/events/119849/",
+   "host": "Global Network Initiative",
+   "description": "Virtual two-day forum on AI governance, platform accountability and human rights.",
+   "speakers": [],
+   "topics": [
+    "AI",
+    "trust-and-safety"
+   ],
+   "fit": 3,
+   "why": "AI governance and human rights from the main multistakeholder platform-governance body.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "National Disability AI and Enabling Technology Virtual Summit 2026",
+   "start": "2026-11-17 14:00",
+   "end": "2026-11-17 17:00",
+   "location": null,
+   "virtual": true,
+   "url": "https://cdt.org/events/national-disability-ai-and-enabling-technology-virtual-summit-2026/",
+   "host": "My Tech For All",
+   "description": "Virtual summit on AI and assistive technology for people with disabilities.",
+   "speakers": [],
+   "topics": [
+    "AI"
+   ],
+   "fit": 2,
+   "why": "AI accessibility policy; niche for ETI.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Beyond the Moratorium: Trends and Best Practices in Governing AI in K-12 Schools",
+   "start": "2026-11-17 15:30",
+   "end": "2026-11-17 16:30",
+   "location": null,
+   "virtual": true,
+   "url": "https://cdt.org/events/beyond-the-moratorium-trends-and-best-practices-in-governing-ai-in-k-12-schools/",
+   "host": "CDT",
+   "description": "CDT webinar on how schools and states are governing AI use in K-12 education.",
+   "speakers": [],
+   "topics": [
+    "AI",
+    "data/privacy"
+   ],
+   "fit": 2,
+   "why": "AI governance in education; adjacent to ETI's focus.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "FinRegLab AI Symposium",
+   "start": "2026-11-18 08:00",
+   "end": "2026-11-19 18:00",
+   "location": "Milken Center for Advancing the American Dream, 1503 Pennsylvania Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://cdt.org/events/finreglab-ai-symposium/",
+   "host": "FinRegLab",
+   "description": "Two-day symposium on AI in financial services and how regulators should respond.",
+   "speakers": [],
+   "topics": [
+    "AI"
+   ],
+   "fit": 3,
+   "why": "AI regulation in finance with regulators in the room, two blocks from the White House.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "POLITICO Decoded Summit: San Francisco",
+   "start": "2026-12-01",
+   "end": null,
+   "location": "San Francisco, CA",
+   "virtual": false,
+   "url": "https://www.politico.com/events/2026/12/01/politico-decoded-summit-san-francisco-00001655",
+   "host": "POLITICO",
+   "description": "POLITICO's summit on AI policy and who leads the next era of the technology, held in San Francisco.",
+   "speakers": [],
+   "topics": [
+    "AI"
+   ],
+   "fit": 3,
+   "why": "On-record AI policy conversations with officials and executives in SF.",
+   "tags": [
+    "media",
+    "bay-area"
+   ]
+  },
+  {
+   "title": "Resource Race",
+   "start": "2026-12-09",
+   "end": null,
+   "location": null,
+   "virtual": false,
+   "url": "https://events.semafor.com/resourceracerequestinvite/13556370?ref=MAIN",
+   "host": "Semafor",
+   "description": "Semafor event on energy, critical minerals, land and grid capacity as AI shifts to physical infrastructure. Invitation request required.",
+   "speakers": [],
+   "topics": [
+    "AI",
+    "energy-tech",
+    "industrial-policy"
+   ],
+   "fit": 3,
+   "why": "AI compute's energy and minerals bottlenecks; invite-only.",
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "title": "The Energy Agenda: What's Next After the Midterms",
+   "start": "2026-11-10 08:00",
+   "end": "2026-11-10 11:00",
+   "location": "Arlo Washington DC, 333 G St NW, Washington, DC",
+   "virtual": false,
+   "url": "https://luma.com/10053q3b",
+   "host": "Heatmap News",
+   "description": "Heatmap News morning program on federal energy and climate policy after the midterms.",
+   "speakers": [],
+   "topics": [
+    "energy-tech"
+   ],
+   "fit": 2,
+   "why": "Energy policy outlook, including data-center power demand.",
+   "tags": [
+    "public"
+   ]
+  },
+  {
+   "title": "Permission to Build: Permitting Reform Across American Industry w/ Sec. Doug Burgum",
+   "start": "2026-11-10 09:00",
+   "end": "2026-11-10 11:30",
+   "location": "Washington, DC",
+   "virtual": false,
+   "url": "https://luma.com/y97ol9es",
+   "host": "Daily Caller Live",
+   "description": "Daily Caller Live program on permitting reform for energy and industry with Interior Secretary Doug Burgum.",
+   "speakers": [
+    "Doug Burgum"
+   ],
+   "topics": [
+    "energy-tech",
+    "industrial-policy"
+   ],
+   "fit": 2,
+   "why": "Permitting is a bottleneck for chip fabs and data centers; mostly energy.",
+   "tags": [
+    "public",
+    "media"
+   ]
+  },
+  {
+   "title": "Techstars Space: Aerospace & Defense Industry Mixer",
+   "start": "2026-11-12 16:30",
+   "end": "2026-11-12 19:30",
+   "location": "Arlington, VA",
+   "virtual": false,
+   "url": "https://luma.com/gsp0n96h",
+   "host": "Techstars Space",
+   "description": "Networking mixer for the aerospace and defense-tech startup community.",
+   "speakers": [],
+   "topics": [
+    "space"
+   ],
+   "fit": 2,
+   "why": "Defense/space startup networking; light on policy.",
+   "tags": [
+    "public"
+   ]
+  },
+  {
+   "title": "Bits in Bio DC x DMV Petri Dish Happy Hour",
+   "start": "2026-11-18 18:30",
+   "end": "2026-11-18 21:30",
+   "location": "Sudhouse DC, Washington, DC",
+   "virtual": false,
+   "url": "https://luma.com/l0jkc64x",
+   "host": "Bits in Bio DC",
+   "description": "Social meetup for the DC-area computational biology and biotech community.",
+   "speakers": [],
+   "topics": [
+    "biotech"
+   ],
+   "fit": 1,
+   "why": "Biotech industry social; no policy content.",
+   "tags": [
+    "public"
+   ]
+  },
+  {
+   "title": "FCC November 2026 Open Commission Meeting",
+   "start": "2026-11-19 10:30",
+   "end": "2026-11-19 12:30",
+   "location": "FCC Headquarters, 45 L Street NE, Washington, DC",
+   "virtual": false,
+   "url": "https://www.fcc.gov/November2026",
+   "host": "FCC",
+   "description": "Monthly FCC open meeting; agenda covers spectrum, broadband and communications policy.",
+   "speakers": [],
+   "topics": [
+    "data/privacy",
+    "cyber"
+   ],
+   "fit": 3,
+   "why": "Open regulator meeting on spectrum and telecom security.",
+   "tags": [
+    "government"
+   ]
+  },
+  {
+   "title": "Understanding the Take It Down Act",
+   "start": "2026-12-10 13:00",
+   "end": null,
+   "location": null,
+   "virtual": true,
+   "url": "https://www.ftc.gov/news-events/events/2026/12/understanding-take-it-down-act",
+   "host": "FTC",
+   "description": "FTC webinar explaining the Take It Down Act on non-consensual intimate imagery and deepfakes, aimed at librarians.",
+   "speakers": [],
+   "topics": [
+    "trust-and-safety",
+    "AI"
+   ],
+   "fit": 3,
+   "why": "How the FTC is implementing the first federal deepfake takedown law.",
+   "tags": [
+    "government"
+   ]
+  },
+  {
+   "title": "The PLA: An Executive Education Course for Analysts and Practitioners (December 2026)",
+   "start": "2026-12-01",
+   "end": "2026-12-03",
+   "location": "Washington, DC",
+   "virtual": false,
+   "url": "https://www.nbr.org/event-listing/",
+   "host": "NBR",
+   "description": "NBR's paid executive education course on the PLA for analysts and practitioners.",
+   "speakers": [],
+   "topics": [
+    "China",
+    "tech-geopolitics"
+   ],
+   "fit": 2,
+   "why": "Paid professional course on China's military, not a public talk.",
+   "tags": [
+    "think-tank"
+   ]
+  }
+ ]
+}

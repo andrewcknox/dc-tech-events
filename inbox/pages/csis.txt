@@ -1,6 +1,6 @@
 # CSIS
 # https://www.csis.org/events
-# fetched 2026-11-08T12:11:00.746126-05:00
+# fetched 2026-11-09T08:23:07.748473-05:00
 # tags: think-tank
 
 Events
@@ -14,7 +14,7 @@ November 9, 2026 • 9:00 – 10:00 am EST
  Upcoming Events
 Image
 Photo: Eric Thayer/Getty Images
-Press Briefing: Previewing President Trump's Trip to Asia <https://www.csis.org/index%2ephp/events/press-briefing-previewing-president-trumps-trip-asia>
+Press Briefing: Previewing President Trump's Trip to Asia <https://www.csis.org/events/press-briefing-previewing-president-trumps-trip-asia>
 November 9, 2026 • 10:00 – 11:00 am EST
 Webinar
 Image
@@ -53,12 +53,12 @@ November 5, 2026 • 10:00 – 11:00 am EST
  Hosted by 
 Strategic Technologies Program
 Image
-The Modernization of South American Militaries: Opportunities, Challenges, and Future Directions <https://www.csis.org/events/modernization-south-american-militaries-opportunities-challenges-and-future-directions>
+The Modernization of South American Militaries: Opportunities, Challenges, and Future Directions <https://www.csis.org/index%2ephp/events/modernization-south-american-militaries-opportunities-challenges-and-future-directions>
 November 4, 2026 • 2:00 – 3:00 pm EST
  Hosted by 
 Americas Program
 Image
-The Return of the Nuclear Sea-Launched Cruise Missile (SLCM-N) | HTK <https://www.csis.org/index%2Ephp/events/return-nuclear-sea-launched-cruise-missile-slcm-n-htk>
+The Return of the Nuclear Sea-Launched Cruise Missile (SLCM-N) | HTK <https://www.csis.org/events/return-nuclear-sea-launched-cruise-missile-slcm-n-htk>
 November 4, 2026 • 1:00 – 2:00 pm EST
  Hosted by 
 HTK Series
@@ -69,13 +69,13 @@ November 2, 2026 • 9:30 – 10:15 am EST
  Hosted by 
 Korea Chair
 Image
-All About the Base | AATB on Location: Conversations from AUSA <https://www.csis.org/events/all-about-base-aatb-location-conversations-ausa>
+All About the Base | AATB on Location: Conversations from AUSA <https://www.csis.org/index%2ephp/events/all-about-base-aatb-location-conversations-ausa>
 November 2, 2026 • 9:00 – 9:30 am EST
  Hosted by 
 All About the Base
 Image
 Photo: CSIS
-China's Power: Up for Debate 2026 <https://www.csis.org/events/chinas-power-debate-2026>
+China's Power: Up for Debate 2026 <https://www.csis.org/index%2ephp/events/chinas-power-debate-2026>
 October 28 – 29, 2026
  Hosted by 
 China Power Project
@@ -178,7 +178,7 @@ Rebuilding Regional Connectivity: A Conversation with Lebanon’s Minister of Pu
 Please join the CSIS Middle East Program for a discussion with Lebanon's Minister of Public Works and Transport H.E. Fayez Rasamny.
  Event
 — November 9, 2026
-Press Briefing: Previewing President Trump's Trip to Asia <https://www.csis.org/events/press-briefing-previewing-president-trumps-trip-asia>
+Press Briefing: Previewing President Trump's Trip to Asia <https://www.csis.org/index%2Ephp/events/press-briefing-previewing-president-trumps-trip-asia>
 CSIS will host a virtual press briefing to preview President Trump's upcoming Asia trip (November 16-19).
  Event
 — November 9, 2026

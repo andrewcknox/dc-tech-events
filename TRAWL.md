@@ -51,12 +51,12 @@ scripts get past their blocking.
 |---|---|---|
 | **SAIS CampusGroups** (signed in) | https://jhu.campusgroups.com/saisfocusareaevents/events plus the JHU CampusGroups event calendar filtered to SAIS | the source the SAIS mailing lists link to (`cglink.me`); focus-area and club events. Put them in their own file with `"backup": false, "tags": ["sais-internal", "sais"]` (the explicit false matters: that tag otherwise marks a backup) |
 | Heritage Foundation | https://www.heritage.org/events | China/tech, conservative AI policy |
-| Cato Institute | https://www.cato.org/events | tech regulation, surveillance, trade |
+| Cato Institute | https://www.cato.org/events (403 even in the in-app browser on 2026-11-09; needs the user's Chrome) | tech regulation, surveillance, trade |
 | FDD | https://www.fdd.org/events/ | cyber, China tech, sanctions |
 | Mercatus Center | https://www.mercatus.org/events | AI governance, innovation policy |
 | Aspen Institute (DC) | https://www.aspeninstitute.org/events/ | security forum spin-offs |
 | RAND (DC office) | https://www.rand.org/events.html | AI, national security |
-| Lawfare | https://www.lawfaremedia.org/events | cyber/national-security law |
+| Lawfare | https://www.lawfaremedia.org/events (404 on 2026-11-09; find the new events page) | cyber/national-security law |
 | CDT | https://cdt.org/events/ | AI rights, privacy |
 | US-China Business Council | https://www.uschina.org/events | export controls, China market |
 | BSA / The Software Alliance | https://www.bsa.org/events | AI and data policy, industry view |

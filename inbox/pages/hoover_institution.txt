@@ -1,6 +1,6 @@
 # Hoover Institution
 # https://www.hoover.org/events
-# fetched 2026-11-08T12:11:00.746126-05:00
+# fetched 2026-11-09T08:23:07.748473-05:00
 # tags: think-tank
 
 Events
@@ -93,7 +93,7 @@ Wednesday, June 17, 2026
 Choosing Freedom: Lives That Defied Tyranny 
 Uncover personal stories of courage in the pursuit of freedom in a new exhibition from the Hoover Institution Library & Archives 
 Lou Henry Hoover Gallery, Hoover Tower
-25 Years After 9/11: The History And Future Of Surveillance, Technology, And Democracy <https://www.hoover.org/index%2ephp/events/25-years-after-911-history-and-future-surveillance-technology-and-democracy>
+25 Years After 9/11: The History And Future Of Surveillance, Technology, And Democracy <https://www.hoover.org/events/25-years-after-911-history-and-future-surveillance-technology-and-democracy>
 Thursday, November 12, 2026 
 4:30 PM PT
 25 Years After 9/11: The History And Future Of Surveillance, Technology, And Democracy 
@@ -105,16 +105,16 @@ Monday, November 16, 2026
 Reading Adam Smith in North Korea An Insider's View of the State 
 The Northeast Asia History Working Group of the Hoover History Lab invites you to attend Reading Adam Smith in North Korea: An Insider's View of the… 
 Shultz Auditorium, George P. Shultz Building
-Symposium On Domestic Rural Life And Institutions <https://www.hoover.org/events/symposium-domestic-rural-life-and-institutions>
+Symposium On Domestic Rural Life And Institutions <https://www.hoover.org/index%2Ephp/events/symposium-domestic-rural-life-and-institutions>
 Tuesday, November 17, 2026 
 Symposium On Domestic Rural Life And Institutions 
 Rural America encompasses diverse communities and experiences, shaped by a wide range of political, economic, social, and environmental forces.  
-Ideas Uncorked | The Billionaire Tax Act: From California To Capitol Hill <https://www.hoover.org/index%2Ephp/events/ideas-uncorked-billionaire-tax-act-california-capitol-hill>
+Ideas Uncorked | The Billionaire Tax Act: From California To Capitol Hill <https://www.hoover.org/events/ideas-uncorked-billionaire-tax-act-california-capitol-hill>
 Tuesday, November 17, 2026 
 Ideas Uncorked | The Billionaire Tax Act: From California To Capitol Hill 
 The Hoover Institution in DC hosts Ideas Uncorked: The Billionaire Tax Act: From California to Capitol Hill on Tuesday, November 17 from 5:00-6:30 pm… 
 Hoover Institution in DC
-The Intellectual Odyssey Of James Burnham <https://www.hoover.org/index%2ephp/events/intellectual-odyssey-james-burnham>
+The Intellectual Odyssey Of James Burnham <https://www.hoover.org/events/intellectual-odyssey-james-burnham>
 Wednesday, November 18, 2026 
 The Intellectual Odyssey Of James Burnham 
 The Hoover Institution invites you to a public recording of Uncommon Knowledge with Peter Robinson, The Intellectual Odyssey of James Burnham, … 
@@ -146,4 +146,4 @@ Additional Filters
 Filtering By:
 Showing
 Join the Hoover Institution’s community of supporters in ideas advancing freedom.
-Support <https://www.hoover.org/index%2Ephp/get-involved>
+Support <https://www.hoover.org/get-involved>

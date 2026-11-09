@@ -1,6 +1,6 @@
 # Punchbowl News live events
 # https://punchbowl.news/events/
-# fetched 2026-11-08T12:11:00.746126-05:00
+# fetched 2026-11-09T08:23:07.748473-05:00
 # tags: media
 
 Subscribe to be notified about all upcoming Punchbowl News events.
@@ -88,6 +88,6 @@ Go to Pop-Up Conversation with Cameron Stanley <https://events.punchbowl.news/Po
 Presented by Crowdstrike
 Pop-Up Conversation with Cameron Stanley
 Presented by Crowdstrike
- Presented by Stand With Crypto 
-Congratulations to the pro-crypto champions who won their elections. We look forward to working with the incoming Congress to deliver a better financial system for us all. 
-Learn more. <https://standwithcrypto.org/>
+ Presented by bp 
+bp’s 2026 US Impact Report is here. Explore how bp’s US operations have contributed more than $250 billion to the economy since 2022. 
+Read the report. <https://www.bp.com/en-US/about-us/investing-in-america/our-us-impact?utm_source=Punchbowl&utm_medium=Direct&utm_campaign=26100_bp-America_Investing-in-America&utm_term=O-25c3308b_Punchbowl_Direct_A-51a12817_T-51a12817&utm_content=Article_USIR>

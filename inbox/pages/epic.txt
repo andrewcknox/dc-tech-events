@@ -1,6 +1,6 @@
 # EPIC
 # https://epic.org/events/feed/
-# fetched 2026-11-08T12:11:00.746126-05:00
+# fetched 2026-11-09T08:23:07.748473-05:00
 # tags: civil-society
 
 ### Broadband and AI in the Next Congress
@@ -8,6 +8,12 @@ Link: https://epic.org/events/broadband-and-ai-in-the-next-congress/
 Published: Tue, 27 Oct 2026 14:55:25 +0000
 Artificial Intelligence is now driving infrastructure investment and public policy. AI’s future will depend not only on breakthroughs in computing, but on the networks, data centers, energy systems, workforce, and institutions that support it. Beginning at 8:30 a.m. on Tuesday, December 1, Broadband Breakfast brings together lawmakers, regulators, industry leaders, and technology innovators at the … 
 Continued <https://epic.org/events/broadband-and-ai-in-the-next-congress/>
+
+### AI and The Future of Law, Health, Society, and Democracy
+Link: https://epic.org/events/ai-and-the-future-of-law-health-society-and-democracy/
+Published: Wed, 04 Nov 2026 17:11:52 +0000
+Join lawmakers, tech ethicists, civil society leaders, and community advocates for an important town hall on the impacts of AI. The O’Neill Institute in collaboration with the American Constitution Society, Feminist Majority Foundation, Ms. magazine and other organizations will sponsor a town hall on AI and the Future of Law, Society, and Democracy. This event … 
+Continued <https://epic.org/events/ai-and-the-future-of-law-health-society-and-democracy/>
 
 ### A Panel Discussion with Sherry Turkle
 Link: https://epic.org/events/a-panel-discussion-with-sherry-turkle/
@@ -54,9 +60,3 @@ Link: https://epic.org/events/the-attention-sphere-holding-big-tech-accountable-
 Published: Mon, 14 Sep 2026 17:26:38 +0000
 On Monday, EPIC Counsel Kara Williams will join the Attention Sphere at Temperance Alley Garden for a conversation about data privacy and how policy can be used to hold Big Tech accountable. The event will be hosted by Kendall Schrohe, Executive Director of the Attention Sphere and EPIC’s Assistant to the Director for Development and … 
 Continued <https://epic.org/events/the-attention-sphere-holding-big-tech-accountable-tech-policy-101/>
-
-### DC Public Library: AI and our privacy: Screened & Scored in DC
-Link: https://epic.org/events/dc-public-library-ai-and-our-privacy-screened-scored-in-dc/
-Published: Tue, 21 Jul 2026 20:13:19 +0000
-The final session of the DC Public Library’s “AI and Us” series will include a discussion of the AI-fueled data collection and decision-making tools at work on DC residents, as outlined by EPIC’s 2022 report “Screened & Scored in DC.” The discussion will take place from 4 to 6 p.m. on Thursday, July 23, in Conference … 
-Continued <https://epic.org/events/dc-public-library-ai-and-our-privacy-screened-scored-in-dc/>

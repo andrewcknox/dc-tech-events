@@ -1,6 +1,6 @@
 # JHU Hub Events (SAIS)
 # https://hub.jhu.edu/events/feed/
-# fetched 2026-11-07T09:24:07.099703-05:00
+# fetched 2026-11-09T08:23:07.748473-05:00
 # tags: jhu, university
 
 ### Dreams of Scholarship: 150 Years of Discovery
@@ -35,102 +35,6 @@ Center for Social Concern <https://students.jhu.edu/student-life/get-involved/ce
 For more on the center's history, watch this video <https://www.youtube.com/watch?v=njtqvcJXJAM>
 .
 The exhibit will be available to view from Thursday, Oct. 15, to Friday, Nov. 20, in Levering Lounge.
-
-### Volunteer Opportunity: Building a New Play Space at Adams Park
-Link: https://hub.jhu.edu/events/2026/11/07/help-build-a-new-playspace-at-adams-park/
-Published: 
-When: November 7th 8:00am - 3:00pm
-Join approximately 50 volunteers from the Baltimore City Recreation and Parks, Parks & People, Coldstream, Holmstead Montebello Community Corp., Green & Healthy Homes Initiative, Johns Hopkins University & Medicine, and KABOOM.
-Work is available for volunteers of all levels of skill and ability. Some of the tasks include mulch surfacing, mixing concrete, and assembling components. Side projects like painting and planting are for kids and anyone who can't be on the build footprint.
-You will have the chance to pick one, two, or three days. Please note that you are not required to stay the whole day; you can leave when you need to. The Johns Hopkins team would love to have a nice crew on Saturday, Nov. 7, to be present at the ribbon-cutting ceremony, which will take place at 2:30 p.m.
-Schedule
-Prep Day 1: Nov. 5 (20 volunteers are needed)
-9 a.m.—Volunteers arrive and check in
-4 p.m.—All prep work completed (approximate time)
-Prep Day 2: Nov. 6 (10 volunteers should be on stand-by in case they are needed)
-9 a.m.—Volunteers arrive and check in
-TBD—All prep work completed
-Build Day: Nov. 7 (50 volunteers are needed)
-6:30 a.m.—Team leaders arrive
-8 a.m.—Volunteers arrive and check in
-8:30 a.m.—Kick-off ceremony
-2:30 p.m.—Ribbon-cutting ceremony
-What's provided
-Breakfast, lunch, and water will be provided. Gloves and other safety materials will be provided for the projects that require them.
-What to wear
-The playground build will happen rain or shine. Please come dressed for the weather. Closed-toe shoes are required; sneakers or work boots that you don't mind getting dirty are advisable. Please leave valuables at home as secure storage is not available on-site.
-Build site rules
-All participants must comply with the following practices. These rules have been established and agreed upon to ensure the safety, comfort, and respect for all involved. Failure to comply will result in immediate dismissal from the project.
-Work together, treat everyone with respect, and use family-friendly, inclusive language.
-Report any unsafe or inappropriate behavior to on-site staff.
-Please comply with all requests from on-site staff.
-Follow all safety guidelines.
-Only pre-approved power tools are permitted.
-Closed-toe shoes are required.
-Youth may not participate in areas of active construction.
-No smoking, alcohol, or drugs.
-The use or carry of firearms is prohibited 
-with the exception of certified, active officers
-.
-
-### Archive Fever &amp; AI: Found Text and Creative Practice in the Age of Generative AI
-Link: https://hub.jhu.edu/events/2026/11/07/archive-fever-ai-found-text-and-creative-practice-in-the-age-of-generative-ai/
-Published: 
-When: November 7th 9:30am - 5:30pm
-Where: Stavros Niarchos Foundation Parkway Theater, Station North
-Archive Fever & AI: Found Text and Creative Practice in the Age of Generative AI is a one-day convening. Named for Jacques Derrida's 
-Archive Fever
-, it brings together archival scientists, computational researchers, poets, and artists to ask what generative artificial intelligence means for archives, memory, and the making of knowledge.
-Eight guests join two moderated sessions, "The Archive Under Pressure" and "Found Text as Method," followed by a sound performance by Victoria Keddie.
-This event is presented by 
-Film and Media Studies at Johns Hopkins <https://krieger.jhu.edu/film-media/>
-, supported by the 
-Johns Hopkins Sesquicentennial Envisioning the Future Award <https://150.jhu.edu/join-the-celebration/awards-program/>
-.
-Schedule
-9:45 a.m. to 12:15 p.m.: The Archive Under Pressure
-: Moderated by Kyle Stine, Film and Media Studies, Johns Hopkins University
-Maria Antoniak, Computer Science, University of Colorado Boulder
-Tom Lippincott, Computer Science and English, Johns Hopkins University
-Richard Marciano, College of Information, University of Maryland
-George Oates, Deep Keep
-1:45 to 4:15 p.m.: Found Text as Method
-: Moderated by Liz Flyntz, Film and Media Studies, Johns Hopkins University
-Lillian-Yvonne Bertram, English, University of Maryland
-Victoria Keddie, University of Pennsylvania; Spatial Sound Union
-Eryk Salvaggio, Gates Scholar, Digital Humanities, University of Cambridge
-Mark Shepard, Architecture; AI and Society, University at Buffalo
-4:30 to 5:30 p.m.: Sound performance by Victoria Keddie
-
-### Football: Johns Hopkins at McDaniel College
-Link: https://hub.jhu.edu/events/2026/11/07/fall-sports-2026-football-johns-hopkins-at-mcdaniel-college/
-Published: 
-When: November 7th 12:00pm - 2:00pm
-The Blue Jays visit McDaniel College for a Centennial Conference game.
-
-### Young Artists Orchestra/Peabody Youth Orchestra Fall Concert
-Link: https://hub.jhu.edu/events/2026/11/07/peabody-fall-2026-young-artists-orchestrapeabody-youth-orchestra-fall-concert/
-Published: 
-When: November 7th 7:00pm - 9:00pm
-Where: Miriam A. Friedberg Concert Hall, Peabody Institute
-
-### Vocal Ensembles with Scott Metcalfe, guest artist: Music of Music of Guillaume de Machaut
-Link: https://hub.jhu.edu/events/2026/11/07/peabody-fall-2026-vocal-ensembles-with-scott-metcalfe-guest-artist-music-of-music-of-guillaume-de-machaut/
-Published: 
-When: November 7th 7:30pm - 9:30pm
-Peabody vocal ensembles, under the direction of Director of Choral Studies Beth Willer and featuring Blue Heron artistic director Scott Metcalfe as guest artist, perform the music of medieval composer Guillaume de Machaut at Grace and St. Peters Church in midtown Baltimore.
-
-### Music at Evergreen: Viano Quartet
-Link: https://hub.jhu.edu/events/2026/11/08/music-at-evergreen-viano-quartet/
-Published: 
-When: November 8th 2:00pm - 4:00pm
-Where: Evergreen Museum & Library, Homewood Campus
-Praised for their "virtuosity, visceral expression, and rare unity of intention" (
-Boston Globe
-), the 
-Viano Quartet <https://vianoquartet.com/>
- has earned international recognition as one of the most compelling string quartets of its generation. Winners of the 2025 Avery Fisher Career Grant, the ensemble continues to captivate audiences with performances that combine technical brilliance and expressive depth.
-The performance will be followed by a meet-and-greet reception with the artists.
 
 ### Caring for Children with Disabilities Networking Group
 Link: https://hub.jhu.edu/events/2026/11/09/caring-for-children-with-disabilities-networking-group-2026/
@@ -259,3 +163,75 @@ Center for Teaching and Learning <https://publichealth.jhu.edu/offices-and-servi
 Simulation-based learning helps students apply knowledge, make decisions, and practice navigating real-world challenges. This PLAY workshop will explore the benefits and pedagogy behind effective simulations, followed by a case study with 
 Davina Frick <https://carey.jhu.edu/faculty/faculty-directory/k-davina-frick-phd>
 , full-time faculty at Carey School of Business. She will share how she transformed one of her courses through simulation-based learning, including the instructional decisions, student experience, and lessons learned along the way. Frick will also explore how artificial intelligence (AI) supported the design process and discuss how AI can help make simulations more scalable and sustainable for future courses.
+
+### Prompt Smart, Teach Smarter: Learn to Speak AI's Language So It Can Speak Yours
+Link: https://hub.jhu.edu/events/2026/11/10/learn-to-speak-ais-language-so-it-can-speak-yours/
+Published: 
+When: November 10th 12:00pm - 1:00pm
+Where: Mason Hall, Homewood Campus
+Faculty, instructors, and teaching staff are invited to learn how to use large language models platforms—including HopGPT, ChatGPT, Co-Pilot, and Claude—to help with common teaching tasks like writing test and homework questions, generating images, and writing learning objectives. Attendees will have a chance to apply these prompts to their own courses during the workshop—join us in-person and enjoy a delicious lunch catered by 1876 Distinction! Attendance via Zoom is also available.
+Presented by Mike Reese, associate dean and director, Center for Teaching Excellence and Innovation; and Kris Mueck, instructional technologist, Instructional Resource Center.
+To request an accommodation or ask about accessibility, contact Haley Knapp at 
+hknapp3@jhu.edu
+.
+
+### Hopkins Lecture Series: A Night in Conversation with Elias Zerhouni
+Link: https://hub.jhu.edu/events/2026/11/10/hopkins-lecture-series-with-dr-elias-zerhouni-md/
+Published: 
+When: November 10th 7:30pm - 9:00pm
+Where: Shriver Hall, Homewood Campus
+The 
+Johns Hopkins Alumni Association <https://alumni.jhu.edu/>
+ is partnering with the Hopkins Lecture Series, a student-lead organization, to invite you to "A Night in Conversation with Elias Zerhouni." Join an engaging conversation, led by current Homewood undergraduates, with 
+Zerhouni <https://www.nih.gov/about-nih/nih-almanac/elias-zerhouni-md>
+, physician, radiologist, and former director of the National Institutes of Health, as he reflects on his remarkable career.
+After the lecture, join Zerhouni and the Alumni Association for a dessert reception in the Clipper Room, located on the second floor of Shriver.
+The first 200 attendees through the door will receive a free, signed copy of Zerhouni's book, 
+Disease Knows No Politics: The Immigrant Journey and Lessons of Elias Zerhouni
+.
+
+### The HOP Lecture Series Presents: A Conversation with Elias Zerhouni
+Link: https://hub.jhu.edu/events/2026/11/10/hopkins-student-organization-for-programming-lecture-series-elias-zerhouni/
+Published: 
+When: November 10th 7:30pm - 8:45pm
+Where: Shriver Hall, Homewood Campus
+The Hopkins Student Organization for Programming Lecture Series and Development and the Johns Hopkins Alumni Association invites Johns Hopkins affiliates to join a night in conversation with 
+Elias Zerhouni <https://www.nih.gov/about-nih/nih-almanac/elias-zerhouni-md>
+, 15th director of the National Institutes of Health and a former professor at the Johns Hopkins School of Medicine.
+While at the Johns Hopkins School of Medicine, Zerhouni also served as vice dean for research and as executive vice dean. From 2002 to 2008, he was the director of the National Institutes of Health (NIH) before returning to Johns Hopkins as a senior adviser for Johns Hopkins Medicine in 2009. Later in 2009, President Barack Obama appointed Zerhouni as one of the first presidential U.S. science envoys. Zerhouni is recognized for pioneering contributions to the field of radiology and public service as director of the NIH and as global science envoy and adviser, fostering collaborative leadership and solutions.
+
+### Preparing for an Active Assailant
+Link: https://hub.jhu.edu/events/2026/11/11/preparing-for-an-active-assailant/
+Published: 
+When: November 11th 9:00am - 11:00am
+Where: Scott-Bates Commons, Homewood Campus
+This training teaches survival techniques for an active-assailant scenario, including what to expect when the police arrive. The course is delivered by the 
+Johns Hopkins Public Safety <https://publicsafety.jhu.edu/>
+ training team and is built on the "
+Run. Hide. Fight. <https://www.fbi.gov/how-we-can-help-you/active-shooter-safety-resources#:~:text=Guide%20(Spanish)-,Run.%20Hide.%20Fight.,-These%20training%20videos>
+" strategy.
+
+### Green Events Program Training
+Link: https://hub.jhu.edu/events/2026/11/11/green-events-program-training/
+Published: 
+When: November 11th 10:00am - 11:00am
+Where: Bloomberg Student Center, Homewood Campus
+Join your fellow event planners to learn about Johns Hopkins' new 
+Green Events program <https://sustainability.jhu.edu/engage/live-sustainably/green-events/>
+.
+This training will provide an overview of what a green event is, best practices for planning and hosting an event that reduces environmental impact while saving money, and resources to make your next 20-person meeting or 1,500-person conference green.
+Create a culture of sustainability, one event at a time.
+
+### The Bitter Struggle: Superintelligence, Superpowers, and the Fate of the World
+Link: https://hub.jhu.edu/events/2026/11/11/the-bitter-struggle-superintelligence-superpowers-and-the-fate-of-the-world/
+Published: 
+When: November 11th 10:30am - 11:30am
+Where: Hopkins Bloomberg Center
+Join 
+Ben Buchanan <https://sais.jhu.edu/directory/ben-buchanan>
+, School of Advanced International Studies assistant professor and former White House special adviser for artificial intelligence, for a conversation on AI and national security with David E. Sanger, White House and national security correspondent for 
+The New York Times
+. The two will discuss Buchanan's new book 
+The Bitter Struggle: Superintelligence, Superpowers, and the Fate of the World <https://www.penguinrandomhouse.com/books/821154/the-bitter-struggle-by-ben-buchanan-and-tantum-collins/>
+.
+AI is becoming the decisive strategic technology of this century. Built by the private sector, it has profound implications for governments—and for all of us. Can the U.S. keep China from catching up in AI development, or do export controls just buy time? What happens when a handful of AI labs hold capabilities no government can match? And what if the hardest challenge is not between democracies and autocracies but at home, in the fight to make sure AI lives up to our democratic values?
