@@ -1,6 +1,6 @@
 # Institute for Security and Technology
 # https://securityandtechnology.org/events/
-# fetched 2026-11-09T08:23:07.748473-05:00
+# fetched 2026-11-10T07:18:05.361471-05:00
 # tags: think-tank
 
 Skip to content
@@ -110,7 +110,7 @@ offensive cyber <https://securityandtechnology.org/resource_topic/offensive-cybe
 HOME PAGE <https://securityandtechnology.org/catalinknew/>
 GET IN TOUCH
 Email: 
-[email protected] <https://securityandtechnology.org/cdn-cgi/l/email-protection#b5d6d4c1d4d9dcdbdef5c6d0d6c0c7dcc1ccd4dbd1c1d0d6dddbdad9dad2cc9bdac7d2>
+[email protected] <https://securityandtechnology.org/cdn-cgi/l/email-protection#e2818396838e8b8c89a291878197908b969b838c869687818a8c8d8e8d859bcc8d9085>
 Send us a message: 
 Contact <https://securityandtechnology.org/catalinknew/contact/>
 JOIN THE CATALINK MAILING LIST

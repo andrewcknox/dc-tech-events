@@ -1,6 +1,6 @@
 # R Street Institute
 # https://www.rstreet.org/events/
-# fetched 2026-11-09T08:23:07.748473-05:00
+# fetched 2026-11-10T07:18:05.361471-05:00
 # tags: think-tank
 
 Events
@@ -14,14 +14,6 @@ Caught on Camera: A Candid Conversation on Public Safety, Privacy, and Police Su
 4:00PM
  EST 
 Upcoming Events
-Nov 
-9 
-Caught on Camera: A Candid Conversation on Public Safety, Privacy, and Police Surveillance <https://www.rstreet.org/events/caught-on-camera-a-candid-conversation-on-public-safety-privacy-and-police-surveillance/>
- Events hosted by RSI AND Virtual 
-3:00PM 
-–
-4:00PM
- EST 
 Nov 
 18 
 Scoring the States: Policy Approaches to Primaries, Political Speech, and Election Security <https://www.rstreet.org/events/scoring-the-states-policy-approaches-to-primaries-political-speech-and-election-security/>
@@ -49,6 +41,15 @@ pr@rstreet.org
 Stay in the know. Sign up for the R Street Newsletter.
 Past Events
 Filter listing
+Events hosted by RSI, Virtual
+Criminal Justice and Civil Liberties <https://www.rstreet.org/home/our-issues/criminal-justice-and-civil-liberties/>
+, 
+Policing <https://www.rstreet.org/issues/policing/>
+, 
+Privacy <https://www.rstreet.org/issues/privacy/>
+Caught on Camera: A Candid Conversation on Public Safety, Privacy, and Police Surveillance <https://www.rstreet.org/events/caught-on-camera-a-candid-conversation-on-public-safety-privacy-and-police-surveillance/>
+R Street Institute
+Nov 9, 2026
 Events hosted by RSI, In-Person
 Energy and Environment <https://www.rstreet.org/home/our-issues/energy-and-environment/>
 , 
@@ -118,17 +119,6 @@ Privacy <https://www.rstreet.org/issues/privacy/>
 Unpacking Chatrie v. US: Data, Privacy, AI, and the Fourth Amendment <https://www.rstreet.org/events/unpacking-chatrie-v-us-data-privacy-ai-and-the-fourth-amendment/>
 NACDL Fourth Amendment Center, the R Street Institute, and the AI and Justice Consortium
 July 16, 2026
-Events hosted by RSI, Virtual
-Electoral Reform <https://www.rstreet.org/issues/electoral-reform/>
-, 
-Federal Government Affairs <https://www.rstreet.org/home/our-issues/federal-government-affairs/>
-, 
-Governance <https://www.rstreet.org/home/our-issues/governance/>
-, 
-State Policy <https://www.rstreet.org/home/our-issues/state-policy/>
-Choosing How We Choose: Alternative Methods for Candidate Selection <https://www.rstreet.org/events/choosing-how-we-choose-alternative-methods-for-candidate-selection/>
-R Street Institute
-June 24, 2026
 Support Our Work
 Our deep research into public policy solutions supporting limited government and free markets is only possible because of your support. Please give today.
 Support Us <https://www.rstreet.org/support-us/>

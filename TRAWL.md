@@ -51,7 +51,7 @@ scripts get past their blocking.
 |---|---|---|
 | **SAIS CampusGroups** (signed in) | https://jhu.campusgroups.com/saisfocusareaevents/events plus the JHU CampusGroups event calendar filtered to SAIS | the source the SAIS mailing lists link to (`cglink.me`); focus-area and club events. Put them in their own file with `"backup": false, "tags": ["sais-internal", "sais"]` (the explicit false matters: that tag otherwise marks a backup). If Chrome is signed out (JHU SSO now asks for a Windows Hello/security-key MFA prompt that an unattended run can't pass), the signed-out list still works: on the events page run `fetch('/mobile_ws/v17/mobile_events_list?range=0&limit=600&filter4_contains=OR&filter4_notcontains=OR&order=undefined&search_word=&&1')` (then range=600) and filter `clubName` for SAIS. This omits **private** events (e.g. Merrill Center Defense Industry Speaker Series), which only the mailing lists then catch. Event detail pages render signed out at `rsvp_boot?id=N` |
 | Heritage Foundation | https://www.heritage.org/events | China/tech, conservative AI policy |
-| Cato Institute | https://www.cato.org/events (403 even in the in-app browser on 2026-11-09; needs the user's Chrome) | tech regulation, surveillance, trade |
+| Cato Institute | https://www.cato.org/events (403 in the in-app browser on 2026-11-09; loads in the user's Chrome, checked 2026-11-10) | tech regulation, surveillance, trade |
 | FDD | https://www.fdd.org/events/ | cyber, China tech, sanctions |
 | Mercatus Center | https://www.mercatus.org/events | AI governance, innovation policy |
 | Aspen Institute (DC) | https://www.aspeninstitute.org/events/ | security forum spin-offs |
@@ -63,7 +63,7 @@ scripts get past their blocking.
 | CEPA | https://cepa.org/events/ | transatlantic tech/cyber; page needs a human check |
 | House committees | https://docs.house.gov/Committee/Calendar/ByWeek.aspx (all House hearings this week) | E&C, Science, Homeland, Foreign Affairs, Armed Services |
 | Senate committees | https://www.congress.gov/committee-schedule (week view; filter Commerce, Judiciary, HSGAC, Banking, Foreign Relations, Armed Services) | hearings on AI, chips, export controls |
-| House China Select Committee | https://chinaselectcommittee.house.gov/hearings | China tech hearings |
+| House China Select Committee | https://chinaselectcommittee.house.gov/committee-activity/hearings/all (old `/hearings` 404 on 2026-11-10; titles appear here and on congress.gov a few days ahead) | China tech hearings |
 | FTC / FCC open meetings | https://www.ftc.gov/news-events/events · https://www.fcc.gov/news-events/events | AI enforcement, spectrum, broadband |
 | Annual DC tech/cyber conferences | https://www.cyberwarcon.com · https://events.govexec.com (GovExec / Google Public Sector Summit and similar vendor-government summits) · https://www.stateofthenet.org (Feb 9, 2027) · https://billingtoncybersecurity.com (Mar 17–19, 2027, National Harbor) · ITI's The Intersect (February) | one-off yearly events that never appear on a think-tank page; check monthly |
 | Media live events | https://www.axios.com/events · https://www.politico.com/live-events · https://www.washingtonpost.com/washington-post-live/ · https://www.semafor.com/events · https://thehillevents.splashthat.com/ · https://events.defenseone.com/ | on-record officials, often in-person in DC |
@@ -85,7 +85,7 @@ IAPS, Americans for Responsible Innovation, Public Knowledge, NTIA, House Energy
 ## Tier 3 — meetups and community (Luma / Eventbrite)
 
 DC's AI/defense-tech community runs almost entirely on Luma. In Chrome, check:
-- Luma discover, Washington DC (https://luma.com/discover → Washington DC) and search "AI", "policy",
+- Luma discover, Washington DC (https://luma.com/dc; the list is virtualised and event cards have no plain links, so read it with get_page_text after scrolling, then search Luma for any title worth adding) and search "AI", "policy",
   "defense tech", "chips".
 - Calendars seen in our data so far: The AI Collective DC, Deep Tech Week, All Tech Is Human (ATIHx DC),
   BlueDot Impact. (STATION DC, Defense Tech DC, DC Industrial Policy Salon and DC Data & AI Events moved to

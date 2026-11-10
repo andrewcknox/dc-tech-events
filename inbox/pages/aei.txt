@@ -1,14 +1,9 @@
 # AEI
 # https://www.aei.org/events/
-# fetched 2026-11-09T08:23:07.748473-05:00
+# fetched 2026-11-10T07:18:05.361471-05:00
 # tags: think-tank
 
 Events
-In-Person Event
-November 9, 2026
-Leading Colleges and Universities in a “Back to the States” Era, Part II <https://www.aei.org/events/leading-colleges-and-universities-in-a-back-to-the-states-era-part-ii/>
-with 
-Gerard Robinson <https://www.aei.org/profile/gerard-robinson/>
 In-Person Event
 November 10, 2026
 China, America, and the Fragmentation of the Global Economy: A Conversation with Aaron Friedberg <https://www.aei.org/events/china-america-and-the-fragmentation-of-the-global-economy-a-conversation-with-aaron-friedberg/>
@@ -42,6 +37,11 @@ with 
 Robert Pondiscio <https://www.aei.org/profile/robert-pondiscio/>
 Events Calendar
 Past Events
+In-Person Event
+November 9, 2026
+Leading Colleges and Universities in a “Back to the States” Era, Part II <https://www.aei.org/events/leading-colleges-and-universities-in-a-back-to-the-states-era-part-ii/>
+with 
+Gerard Robinson <https://www.aei.org/profile/gerard-robinson/>
 In-Person Event
 November 5, 2026
 Election Watch 2026: Where Are We, and Where Are We Headed? <https://www.aei.org/events/election-watch-2026-where-are-we-and-where-are-we-headed/>
@@ -98,8 +98,3 @@ October 23, 2026
 Cuba the Day After: Building the Infrastructure <https://www.aei.org/events/cuba-the-day-after-building-the-infrastructure/>
 with 
 Mark Jamison <https://www.aei.org/profile/mark-jamison-2/>
-In-Person Event
-October 23, 2026
-The Constitution of 1789: A Book Event with Ilan Wurman <https://www.aei.org/events/the-constitution-of-1789-a-book-event-with-ilan-wurman/>
-with 
-Yuval Levin <https://www.aei.org/profile/yuval-levin/>

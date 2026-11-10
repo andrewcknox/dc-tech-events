@@ -1,6 +1,6 @@
 # Simons Institute (public lectures)
 # https://simons.berkeley.edu/events
-# fetched 2026-11-09T08:23:07.748473-05:00
+# fetched 2026-11-10T07:18:05.361471-05:00
 # tags: bay-area, university
 
 Public Lectures
@@ -25,6 +25,15 @@ Calvin Lab auditorium 
 Speakers: 
 Matei Zaharia (UC Berkeley) <https://people.eecs.berkeley.edu/~matei/>
 ofAccelerating Research and Engineering with AI | Theoretically Speaking <https://simons.berkeley.edu/events/accelerating-research-engineering-ai-theoretically-speaking>
+Local and Global: PCPs Meet High-Dimensional Expanders | Richard M. Karp Distinguished Lecture <https://simons.berkeley.edu/events/local-global-pcps-meet-high-dimensional-expanders-richard-m-karp-distinguished-lecture>
+Tuesday, Dec. 1, 2026
+ | 
+3:30 – 4:30 p.m.
+Local and Global: PCPs Meet High-Dimensional Expanders | Richard M. Karp Distinguished Lecture <https://simons.berkeley.edu/events/local-global-pcps-meet-high-dimensional-expanders-richard-m-karp-distinguished-lecture>
+Calvin Lab auditorium
+Speakers: 
+Irit Dinur (Weizmann Institute) <https://www.wisdom.weizmann.ac.il/~dinuri/>
+ofLocal and Global: PCPs Meet High-Dimensional Expanders | Richard M. Karp Distinguished Lecture <https://simons.berkeley.edu/events/local-global-pcps-meet-high-dimensional-expanders-richard-m-karp-distinguished-lecture>
 Existence of Thin Trees | Richard M. Karp Distinguished Lecture <https://simons.berkeley.edu/events/existence-thin-trees-richard-m-karp-distinguished-lecture>
 Tuesday, Dec. 8, 2026
  | 

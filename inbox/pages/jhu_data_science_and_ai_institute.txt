@@ -1,6 +1,6 @@
 # JHU Data Science and AI Institute
 # https://ai.jhu.edu/events/
-# fetched 2026-11-09T08:23:07.748473-05:00
+# fetched 2026-11-10T07:18:05.361471-05:00
 # tags: jhu, university
 
 Events
@@ -21,6 +21,15 @@ Zoom
 Organization: 
 Bloomberg School of Public Health Center for Teaching and Learning (CTL) <https://ai.jhu.edu/events/?organization[]=bloomberg-school-of-public-health-center-for-teaching-and-learning-ctl>
 Read More <https://ai.jhu.edu/event/play-scale-simulation-based-learning-with-ai/>
+Nov
+17
+Sip & Solve: AI and Democracy <https://ai.jhu.edu/event/sip-solve-ai-and-democracy/>
+5:00 PM
+Location: 
+SNF Agora Institute
+Organization: 
+Data Science and AI Institute <https://ai.jhu.edu/events/?organization[]=data-science-and-ai-institute>
+Read More <https://ai.jhu.edu/event/sip-solve-ai-and-democracy/>
 Nov
 19
 Pitch Competition: Winning Strategies to Integrate AI into Gender and Health <https://ai.jhu.edu/event/ai-for-gender-equity-innovation-challenge/>

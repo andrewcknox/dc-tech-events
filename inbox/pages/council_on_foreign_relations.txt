@@ -1,12 +1,18 @@
 # Council on Foreign Relations
 # https://www.cfr.org/events
-# fetched 2026-11-09T08:23:07.748473-05:00
+# fetched 2026-11-10T07:18:05.361471-05:00
 # tags: think-tank
 
 Archive
-4855
+4857
  result
 s
+Meeting
+Religion and Foreign Policy Webinar: Religion, Policy, and the 2026 Midterm Elections <https://www.cfr.org/event/religion-policy-and-the-2026-midterm-elections>
+November 9, 2026
+Meeting
+2026 UN Secretary-General Candidate Series: A Conversation With Rebeca Grynspan <https://www.cfr.org/event/2026-un-secretary-general-candidate-series-a-conversation-with-rebeca-grynspan>
+November 9, 2026
 Meeting
 Science Fair Series: When the Sun Strikes <https://www.cfr.org/event/science-fair-series-when-the-sun-strikes>
 November 4, 2026
@@ -14,13 +20,13 @@ Meeting
 China’s Challenge to the U.S. Dollar <https://www.cfr.org/event/chinas-challenge-to-the-u-s-dollar>
 November 3, 2026
 Meeting
-Alan Greenspan’s Legacy As Chair of the Federal Reserve <https://www.cfr.org/event/alan-greenspans-legacy-as-chair-of-the-federal-reserve>
+C. Peter McColough Series on International Economics With Daron Acemoglu <https://www.cfr.org/event/c-peter-mccolough-series-on-international-economics-with-daron-acemoglu>
 November 2, 2026
 Meeting
 Virtual Roundtable: A Conversation With Eli Kowaz on Israeli Elections <https://www.cfr.org/event/virtual-roundtable-a-conversation-with-eli-kowaz-on-israeli-elections>
 November 2, 2026
 Meeting
-U.S. Strategy in an Era of Rising Conflict <https://www.cfr.org/event/u-s-strategy-in-an-era-of-rising-conflict>
+Religion and Foreign Policy Webinar: Religion, Policy, and the 2026 Midterm Elections <https://www.cfr.org/event/religion-policy-and-the-2026-midterm-elections>
 October 29, 2026
 Conference
 Thirty-First Term Member Conference <https://www.cfr.org/event/thirty-first-term-member-conference>
@@ -35,13 +41,13 @@ Meeting
 Insights on Geopolitics Around the World <https://www.cfr.org/event/insights-on-geopolitics-around-the-world>
 October 26, 2026
 Meeting
-Alan Greenspan’s Legacy As Chair of the Federal Reserve <https://www.cfr.org/event/alan-greenspans-legacy-as-chair-of-the-federal-reserve>
+U.S. Strategy in an Era of Rising Conflict <https://www.cfr.org/event/u-s-strategy-in-an-era-of-rising-conflict>
 October 26, 2026
 Meeting
 U.S. Strategy in an Era of Rising Conflict <https://www.cfr.org/event/u-s-strategy-in-an-era-of-rising-conflict>
 October 26, 2026
 Meeting
-Midterm Elections and Implications for U.S. Foreign Policy <https://www.cfr.org/event/local-journalists-webinar-midterm-elections-and-implications-for-u-s-foreign-policy>
+A Conversation With Kuwait Petroleum Corporation CEO Sheikh Nawaf Saud Al-Sabah <https://www.cfr.org/event/a-conversation-with-kuwait-petroleum-corporation-ceo-shaikh-nawaf-saud-al-sabah>
 October 23, 2026
 Meeting
 Midterm Elections and Implications for U.S. Foreign Policy <https://www.cfr.org/event/local-journalists-webinar-midterm-elections-and-implications-for-u-s-foreign-policy>
@@ -73,9 +79,3 @@ October 6, 2026
 Meeting
 Breaking the Ice: Emerging Threats and the U.S. Strategy for Arctic Security <https://www.cfr.org/event/breaking-the-ice-emerging-threats-and-u-s-strategy-for-arctic-security>
 October 5, 2026
-Meeting
-Safeguarding Against Cyber Threats and Foreign Interference <https://www.cfr.org/event/state-and-local-officials-webinar-safeguarding-against-cyber-threats-and-foreign-interference>
-October 1, 2026
-Meeting
-C. Peter McColough Series on International Economics With Neel Kashkari <https://www.cfr.org/event/c-peter-mccolough-series-on-international-economics-with-neel-kashkari>
-September 30, 2026

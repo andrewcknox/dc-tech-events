@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-09T09:13:24-05:00",
- "today": "2026-11-09",
- "window_start": "2026-11-09",
+ "generated_at": "2026-11-10T07:27:37-05:00",
+ "today": "2026-11-10",
+ "window_start": "2026-11-10",
  "window_days": 14,
  "map_center": [
   38.905,
@@ -3997,6 +3997,34 @@
    "where": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
   },
   {
+   "id": 489,
+   "title": "Disrupting Politics: A Front Row Seat to the Collision of Technology & Democracy (Book Forum)",
+   "start": "2026-11-12T11:00:00-05:00",
+   "end": "2026-11-12T12:00:00-05:00",
+   "host": "Cato Institute",
+   "source": "daily page scan",
+   "location": "Cato Institute, 1000 Massachusetts Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.cato.org/events",
+   "topics": [
+    "trust-and-safety",
+    "AI",
+    "data/privacy"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Platform governance and AI misinformation debate, in person near SAIS.",
+   "description": "Book forum on Facebook's political controversies, AI and political misinformation, government pressure on platforms and tech companies' influence on public discourse.",
+   "speakers": [],
+   "lat": 38.9022,
+   "lon": -77.0247,
+   "in_dc": true,
+   "time": "11:00 AM–12:00 PM",
+   "where": "Cato Institute, 1000 Massachusetts Ave NW, Washington, DC"
+  },
+  {
    "id": 416,
    "title": "Economic Policy in the Age of AI (SIEPR Policy Forum)",
    "start": "2026-11-12T09:30:00-08:00",
@@ -5373,6 +5401,61 @@
    "where": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
   },
   {
+   "id": 479,
+   "title": "AI Under Fire: Lessons From the Use of AI in War",
+   "start": "2026-11-19T12:00:00-05:00",
+   "end": "2026-11-19T13:00:00-05:00",
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "location": "Elliott School of International Affairs, 505",
+   "virtual": false,
+   "url": "https://calendar.gwu.edu/event/ai-under-fire-lessons-from-the-use-of-ai-in-war",
+   "topics": [
+    "AI",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "university",
+    "gwu"
+   ],
+   "fit": 4,
+   "why": "Panel on lessons from military AI use in war, a short walk from SAIS at GW.",
+   "description": "Please join us for AI Under Fire: Lessons From the Use of AI in War, a panel discussion event on Thursday, November 19, 2026, from 12:00 PM to 1:00 PM in ESIA Room 505. The panel will feature Jonathan Schroden,",
+   "speakers": [],
+   "lat": 38.8976,
+   "lon": -77.045,
+   "in_dc": true,
+   "time": "12:00 PM–1:00 PM",
+   "where": "Elliott School of International Affairs, 505"
+  },
+  {
+   "id": 490,
+   "title": "AI and Biosecurity: Managing Risks, Preserving Progress",
+   "start": "2026-11-19T12:00:00-05:00",
+   "end": "2026-11-19T13:00:00-05:00",
+   "host": "RAND",
+   "source": "daily page scan",
+   "location": null,
+   "virtual": true,
+   "url": "https://www.rand.org/events/2026/11/ai-and-biosecurity.html",
+   "topics": [
+    "AI",
+    "biotech"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "AI-bio risk governance from RAND; easy to join online.",
+   "description": "RAND online event on managing biosecurity risks from AI while preserving scientific progress.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "12:00 PM–1:00 PM",
+   "where": "Virtual"
+  },
+  {
    "id": 227,
    "title": "AI and energy costs: Market and policy solutions",
    "start": "2026-11-19T14:00:00-05:00",
@@ -6148,6 +6231,35 @@
    "in_dc": true,
    "time": "9:00 AM–5:00 PM PT",
    "where": "San Francisco, CA"
+  },
+  {
+   "id": 491,
+   "title": "Workshop on Assessing U.S.-China AI Capabilities: Trajectories, Uncertainties, and Strategic Implications",
+   "start": "2027-01-15T09:00:00-08:00",
+   "end": "2027-01-15T16:00:00-08:00",
+   "host": "Asia Society Northern California",
+   "source": "daily page scan",
+   "location": "Asia Society Northern California, San Francisco, CA",
+   "virtual": false,
+   "url": "https://asiasociety.org/northern-california/events/workshop-assessing-us-china-ai-capabilities-trajectories-uncertainties-and-strategic-implications",
+   "topics": [
+    "AI",
+    "China",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "bay-area",
+    "think-tank"
+   ],
+   "fit": 4,
+   "why": "Squarely on US-China AI competition for Bay Area tech-policy followers.",
+   "description": "Full-day workshop assessing US and Chinese AI capabilities, uncertainties in their trajectories and the strategic implications.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "9:00 AM–4:00 PM PT",
+   "where": "Asia Society Northern California, San Francisco, CA"
   },
   {
    "id": 316,

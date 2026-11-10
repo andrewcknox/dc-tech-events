@@ -1,6 +1,6 @@
 # Stanford Center on China's Economy and Institutions (SCCEI)
 # https://sccei.fsi.stanford.edu/events
-# fetched 2026-11-09T08:23:07.748473-05:00
+# fetched 2026-11-10T07:18:05.361471-05:00
 # tags: bay-area, university
 
 All SCCEI Events
@@ -93,7 +93,7 @@ Friday, February 12, 2027
 Register <https://app.smartsheet.com/b/form/019fce8bf1c27656b94b29e699f3f936>
 Goldman Conference Room, Encina Hall, E409
  Seminars
-Nan Jia | SCCEI Seminar <https://sccei.fsi.stanford.edu/events/nan-jia-sccei-seminar>
+Nan Jia | Shielding or Stifling? How Restrictions on Foreign Acquisitions Shape Entrepreneurial Innovation in the U.S. <https://sccei.fsi.stanford.edu/events/nan-jia-shielding-or-stifling-how-restrictions-foreign-acquisitions-shape-entrepreneurial>
 Friday, February 19, 2027
 12:00 PM - 1:20 PM
 (Pacific)

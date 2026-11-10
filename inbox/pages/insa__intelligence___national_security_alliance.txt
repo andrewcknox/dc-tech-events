@@ -1,13 +1,9 @@
 # INSA (Intelligence & National Security Alliance)
 # https://www.insaonline.org/calendar-of-events
-# fetched 2026-11-09T08:23:07.748473-05:00
+# fetched 2026-11-10T07:18:05.361471-05:00
 # tags: industry
 
 Calendar of Events 
-November
-SCIF After Hours with CIA's Amy Heald
- November 9, 2026 5:30 PM to 7:30 PM
- Chantilly, VA <https://www.insaonline.org/detail-pages/event/2026/11/09/default-calendar/scif-after-hours>
 December
 Common Threads Charlottesville
  December 15 to 16, 2026

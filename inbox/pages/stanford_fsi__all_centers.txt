@@ -1,6 +1,6 @@
 # Stanford FSI (all centers)
 # https://fsi.stanford.edu/events
-# fetched 2026-11-09T08:23:07.748473-05:00
+# fetched 2026-11-10T07:18:05.361471-05:00
 # tags: bay-area, university
 
 FSI Events
@@ -29,7 +29,6 @@ Biosecurity in an Age of AI: Frontier Safety, Anticipatory Governance, and Defen
 Tuesday, November 10, 2026
 12:00 PM - 1:15 PM
 (Pacific)
-Register to attend in person <https://stanforduniversity.qualtrics.com/jfe/form/SV_54Mqs4aFf2ub1FI>
 William J. Perry Conference Room
  Speaker: 
  Jassi Pannu 

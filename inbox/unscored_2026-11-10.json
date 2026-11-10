@@ -1,0 +1,200 @@
+{
+ "instructions": "Fill fit (1-5), topics (from the DAILY.md list) and why for each event; add tags (e.g. bay-area) if needed; then `uv run dte score apply <this file>`. Leave fit null to skip.",
+ "events": [
+  {
+   "id": 480,
+   "title": "FIREFLY THIRD QUARTER 2026 FINANCIAL RESULTS, Nov 10, 2026, virtual, 5:00 pm ET",
+   "start": "2026-11-10T17:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "Firefly Aerospace will hold its third quarter 2026 financial earnings call on November 10, 2026 at 5:00 pm ET. Audio will be livestreamed on the company’s website.",
+   "url": "https://spacepolicyonline.com/events/firefly-third-quarter-2026-financial-results-nov-10-2026-virtual-500-pm-et/",
+   "fit": 1,
+   "topics": [
+    "space"
+   ],
+   "why": "Company earnings call, not a policy event."
+  },
+  {
+   "id": 481,
+   "title": "INTUITIVE MACHINES THIRD QUARTER 2026 FINANCIAL RESULTS, Nov 12, 2026, virtual, 8:30 am ET",
+   "start": "2026-11-12T08:30:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "Intuitive Machines will hold its third quarter 2026 financial earnings call on November 12, 2026 at 8:30 am ET. Audio will be livestreamed on the company’s website.",
+   "url": "https://spacepolicyonline.com/events/intuitive-machines-third-quarter-2026-financial-results-nov-12-2026-virtual-830-am-et/",
+   "fit": 1,
+   "topics": [
+    "space"
+   ],
+   "why": "Company earnings call, not a policy event."
+  },
+  {
+   "id": 482,
+   "title": "VIRGIN GALACTIC 3RD QUARTER 2026 FINANCIAL RESULTS, Nov 12, 2026, virtual, 5:00 pm ET",
+   "start": "2026-11-12T17:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "Virgin Galactic will hold its third quarter 2026 financial earnings call on November 12, 2026 at 5:00 pm ET. Audio will be livestreamed on the company’s website.",
+   "url": "https://spacepolicyonline.com/events/virgin-galactic-3rd-quarter-2026-financial-results-nov-12-2026-virtual-500-pm-et/",
+   "fit": 1,
+   "topics": [
+    "space"
+   ],
+   "why": "Company earnings call, not a policy event."
+  },
+  {
+   "id": 488,
+   "title": "Apollo AI Stanford Accelerator | Founders & Builders Meetup - Members +3",
+   "start": "2026-11-12T20:00:00-05:00",
+   "location": "Frontier Tower @ Spaceship 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/apollo-ai-stanford-accelerator-founders- Address: Frontier Tower @ Spaceship 995 Market Street, San Francisco Hosted by Frontier Tower",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [],
+   "why": "Not about technology policy."
+  },
+  {
+   "id": 486,
+   "title": "YUMI: The Whole World | How young Pacific Islanders took the climate crisis to the world's highest court",
+   "start": "2026-11-16T21:30:00-05:00",
+   "location": "Goethe Institut San Francisco",
+   "virtual": false,
+   "host": "Berkeley Institute of International Studies",
+   "source": "Berkeley Institute of International Studies",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "Join us for a film screening of YUMI, a documentary film that follows a movement of young Pacific advocates seeking to bring climate change before the International Court of Justice. Beginning at the University of the South Pacific, their campaign",
+   "url": "https://events.berkeley.edu/live/events/337749-yumi-the-whole-world-how-young-pacific-islanders-took",
+   "fit": 1,
+   "topics": [],
+   "why": "Not about technology policy."
+  },
+  {
+   "id": 479,
+   "title": "AI Under Fire: Lessons From the Use of AI in War",
+   "start": "2026-11-19T12:00:00-05:00",
+   "location": "Elliott School of International Affairs, 505",
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [
+    "university",
+    "gwu"
+   ],
+   "description": "Please join us for AI Under Fire: Lessons From the Use of AI in War, a panel discussion event on Thursday, November 19, 2026, from 12:00 PM to 1:00 PM in ESIA Room 505. The panel will feature Jonathan Schroden,",
+   "url": "https://calendar.gwu.edu/event/ai-under-fire-lessons-from-the-use-of-ai-in-war",
+   "fit": 4,
+   "topics": [
+    "AI",
+    "tech-geopolitics"
+   ],
+   "why": "Panel on lessons from military AI use in war, a short walk from SAIS at GW."
+  },
+  {
+   "id": 487,
+   "title": "Putting People Before Profits: Transforming US Foreign Policy",
+   "start": "2026-11-19T15:30:00-05:00",
+   "location": "223 Philosophy Hall",
+   "virtual": false,
+   "host": "Berkeley Institute of International Studies",
+   "source": "Berkeley Institute of International Studies",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "Throughout the United States and across the political spectrum, people are angry about a foreign policy that has long ignored people's needs and instead prioritized endless wars and meddling abroad for the sake of corporate profits. Both Republican and Democratic",
+   "url": "https://events.berkeley.edu/iis/event/337875-putting-people-before-profits-transforming-us",
+   "fit": 1,
+   "topics": [],
+   "why": "Not about technology policy."
+  },
+  {
+   "id": 485,
+   "title": "Domesticated: Cultivated Species and The Creation Of Networks",
+   "start": "2027-02-05T20:00:00-05:00",
+   "location": "370 Dwinelle Hall",
+   "virtual": false,
+   "host": "Berkeley Institute of East Asian Studies",
+   "source": "Berkeley Institute of East Asian Studies",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "Domesticated: Cultivated Species and The Creation Of Networks Over the last two decades, archaeological research across north-central Asia has led to a clarification of the timing of the introduction of domesticated animals and plants. The translocation and integration of new",
+   "url": "https://events.berkeley.edu/ieas/event/337904-domesticated-cultivated-species-and-the-creation",
+   "fit": 1,
+   "topics": [],
+   "why": "Not about technology policy."
+  },
+  {
+   "id": 483,
+   "title": "Legitimacy, Accountability, and Democratic Inclusion in the National Institutes of Health’s All of Us Program",
+   "start": "2027-02-25T12:00:00-05:00",
+   "location": "MD",
+   "virtual": false,
+   "host": "SNF Agora Institute (JHU, Baltimore)",
+   "source": "SNF Agora Institute (JHU, Baltimore)",
+   "tags": [
+    "jhu",
+    "university",
+    "baltimore"
+   ],
+   "description": "In-person attendance available in SNF Agora Institute Building Room 242. Lunch will be served! Abstract During the second Trump Administration, governance at the US National Institutes of Health (NIH) shifted from an approach grounded in principles of pluralism, where policymaking",
+   "url": "https://snfagora.jhu.edu/event/faculty-seminar-5/",
+   "fit": 1,
+   "topics": [],
+   "why": "Not about technology policy."
+  },
+  {
+   "id": 484,
+   "title": "Criptocracy: Highlighting Disability Viewpoints on Democracy through Music",
+   "start": "2027-04-13T18:00:00-04:00",
+   "location": "SNF Agora Institute, 3102 Wyman Park Drive, Baltimore, MD, 21211, United States",
+   "virtual": false,
+   "host": "SNF Agora Institute (JHU, Baltimore)",
+   "source": "SNF Agora Institute (JHU, Baltimore)",
+   "tags": [
+    "jhu",
+    "university",
+    "baltimore"
+   ],
+   "description": "Criptocracy is an interview and music project that features disabled individuals sharing on what democratic ideals mean to them. The project will ask disabled interviewees what freedom, equality, participation, and justice mean to them, highlighting disability viewpoints on commonly held",
+   "url": "https://snfagora.jhu.edu/event/criptocracy-highlighting-disability-viewpoints-on-democracy-through-music/",
+   "fit": 1,
+   "topics": [],
+   "why": "Not about technology policy."
+  }
+ ]
+}

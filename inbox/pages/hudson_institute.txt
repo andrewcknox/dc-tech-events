@@ -1,6 +1,6 @@
 # Hudson Institute
 # https://www.hudson.org/events
-# fetched 2026-11-09T08:23:07.748473-05:00
+# fetched 2026-11-10T07:18:05.361471-05:00
 # tags: think-tank
 
 11
@@ -91,6 +91,10 @@ Brigham A. McCown
 Bryan Clark
 Sek Hwan Hong
 Jiyoon Lee
+The Honorable Dr. Kurt Campbell
+Jane Nakano
+Kayla T. Orta
+Scott Snyder
 17
 November 2026
  In-Person Event | Hudson Institute
@@ -113,6 +117,10 @@ Brigham A. McCown
 Bryan Clark
 Sek Hwan Hong
 Jiyoon Lee
+The Honorable Dr. Kurt Campbell
+Jane Nakano
+Kayla T. Orta
+Scott Snyder
 Learn More <https://www.hudson.org/events/tenth-us-rok-joint-public-private-economic-forum-advancing-economic-security-industrial>
 18
 November 2026

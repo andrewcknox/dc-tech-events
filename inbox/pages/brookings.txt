@@ -1,6 +1,6 @@
 # Brookings
 # https://www.brookings.edu/events/
-# fetched 2026-11-09T08:23:07.748473-05:00
+# fetched 2026-11-10T07:18:05.361471-05:00
 # tags: think-tank
 
 Events
@@ -10,27 +10,9 @@ Terms and Conditions of Attendance <https://www.brookings.edu/wp-content/uploads
 .
  Featured Events
 November
-09
-2026
-Building the conditions to thrive: Improving well-being for men and boys of color <https://www.brookings.edu/events/building-the-conditions-to-thrive-improving-well-being-for-men-and-boys-of-color/>
- Online only
- Monday, 11:00 am - 12:00 pm EST
-What comes next: The consequences of the 2026 midterm elections <https://www.brookings.edu/events/what-comes-next-the-consequences-of-the-2026-midterm-elections/>
- Upcoming Event
-November
-09
-2026
-Campaigns & Elections <https://www.brookings.edu/topics/campaigns-elections/>
- What comes next: The consequences of the 2026 midterm elections
- Online only
- Monday, 2:00 pm - 3:00 pm EST
-Deterrence in the Pacific: A conversation with Admiral Paparo <https://www.brookings.edu/events/deterrence-in-the-pacific-a-conversation-with-admiral-paparo/>
- Upcoming Event
-November
 16
 2026
-Defense & Security <https://www.brookings.edu/topics/national-security/>
- Deterrence in the Pacific: A conversation with Admiral Paparo
+Deterrence in the Pacific: A conversation with Admiral Paparo <https://www.brookings.edu/events/deterrence-in-the-pacific-a-conversation-with-admiral-paparo/>
  The Brookings Institution, Washington DC
  Monday, 6:30 pm - 7:30 pm EST
 Strengthening the resilience and liquidity of the US Treasury market <https://www.brookings.edu/events/strengthening-the-resilience-and-liquidity-of-the-us-treasury-market/>
@@ -42,25 +24,25 @@ Federal Fiscal & Tax Policy <https://www.brookings.edu/topics/federal-fiscal-tax
  Strengthening the resilience and liquidity of the US Treasury market
  The Brookings Institution, Washington D.C.
  Tuesday, 9:30 am - 11:30 am EST
+Immigration policy and public opinion <https://www.brookings.edu/events/immigration-policy-and-public-opinion/>
+ Upcoming Event
+November
+17
+2026
+Immigrants & Immigration <https://www.brookings.edu/topics/immigration-5/>
+ Immigration policy and public opinion
+ Online only
+ Tuesday, 12:00 pm - 1:00 pm EST
+The state of broadband access and affordability <https://www.brookings.edu/events/the-state-of-broadband-access-and-affordability/>
+ Upcoming Event
+November
+18
+2026
+Internet & Telecommunications <https://www.brookings.edu/topics/telecommunications-internet/>
+ The state of broadband access and affordability
+ The Brookings Institution, Washington D.C.
+ Wednesday, 1:30 pm - 2:45 pm EST
 Upcoming
-Building the conditions to thrive: Improving well-being for men and boys of color <https://www.brookings.edu/events/building-the-conditions-to-thrive-improving-well-being-for-men-and-boys-of-color/>
- Upcoming Event
-November
-09
-2026
-Race in Public Policy <https://www.brookings.edu/topics/race-in-american-public-policy/>
- Building the conditions to thrive: Improving well-being for men and boys of color
- Online only
- Monday, 11:00 am - 12:00 pm EST
-What comes next: The consequences of the 2026 midterm elections <https://www.brookings.edu/events/what-comes-next-the-consequences-of-the-2026-midterm-elections/>
- Upcoming Event
-November
-09
-2026
-Campaigns & Elections <https://www.brookings.edu/topics/campaigns-elections/>
- What comes next: The consequences of the 2026 midterm elections
- Online only
- Monday, 2:00 pm - 3:00 pm EST
 Deterrence in the Pacific: A conversation with Admiral Paparo <https://www.brookings.edu/events/deterrence-in-the-pacific-a-conversation-with-admiral-paparo/>
  Upcoming Event
 November
@@ -97,6 +79,15 @@ Internet & Telecommunications <https://www.brookings.edu/topics/telecommunicatio
  The state of broadband access and affordability
  The Brookings Institution, Washington D.C.
  Wednesday, 1:30 pm - 2:45 pm EST
+From idea to impact: How communities around the world are championing family-centered schools <https://www.brookings.edu/events/from-idea-to-impact-how-communities-around-the-world-are-championing-family-centered-schools/>
+ Upcoming Event
+November
+19
+2026
+Global Education <https://www.brookings.edu/topics/education-in-developing-nations/>
+ From idea to impact: How communities around the world are championing family-centered schools
+ Online only
+ Thursday, 9:30 am - 10:30 am EST
 AI and energy costs: Market and policy solutions <https://www.brookings.edu/events/ai-and-energy-costs-market-and-policy-solutions/>
  Upcoming Event
 November
@@ -125,6 +116,24 @@ Artificial Intelligence <https://www.brookings.edu/topics/artificial-intelligenc
  Online only
  Monday, 10:00 am - 11:00 am EST
 Recent Past Events
+What comes next: The consequences of the 2026 midterm elections <https://www.brookings.edu/events/what-comes-next-the-consequences-of-the-2026-midterm-elections/>
+ Past Event
+November
+09
+2026
+Campaigns & Elections <https://www.brookings.edu/topics/campaigns-elections/>
+ What comes next: The consequences of the 2026 midterm elections
+ Online only
+ Monday, 2:00 pm - 3:00 pm EST
+Building the conditions to thrive: Improving well-being for men and boys of color <https://www.brookings.edu/events/building-the-conditions-to-thrive-improving-well-being-for-men-and-boys-of-color/>
+ Past Event
+November
+09
+2026
+Race in Public Policy <https://www.brookings.edu/topics/race-in-american-public-policy/>
+ Building the conditions to thrive: Improving well-being for men and boys of color
+ Online only
+ Monday, 11:00 am - 12:00 pm EST
 US biosafety policy and regulations: Assessing the landscape <https://www.brookings.edu/events/us-biosafety-policy-and-regulations-assessing-the-landscape/>
  Past Event
 November
@@ -143,22 +152,4 @@ Israel <https://www.brookings.edu/regions/middle-east-north-africa/israel/>
  Israel after the elections: What’s next for US-Israel relations?
  Online Only
  Thursday, 10:00 am - 11:00 am EST
-Modernizing the Current Population Survey <https://www.brookings.edu/events/modernizing-the-current-population-survey/>
- Past Event
-October
-29
-2026
-Labor & Unemployment <https://www.brookings.edu/topics/labor-policy-unemployment/>
- Modernizing the Current Population Survey
- The Brookings Institution, Washington D.C.
- Thursday, 3:00 pm - 5:15 pm EDT
-The hidden price of college: Three perspectives on how families can navigate their most important financial decision <https://www.brookings.edu/events/the-hidden-price-of-college-three-perspectives-on-how-families-can-navigate-their-most-important-financial-decision/>
- Past Event
-October
-27
-2026
-Higher Education <https://www.brookings.edu/topics/higher-education-2/>
- The hidden price of college: Three perspectives on how families can navigate their most important financial decision
- Online only
- Tuesday, 10:00 am - 11:00 am EDT
 See all past events <https://www.brookings.edu/past-events/>

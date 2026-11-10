@@ -1,6 +1,6 @@
 # Future of Privacy Forum
 # https://fpf.org/fpf-events/
-# fetched 2026-11-09T08:23:07.748473-05:00
+# fetched 2026-11-10T07:18:05.361471-05:00
 # tags: civil-society
 
 Upcoming Events 
@@ -32,6 +32,11 @@ FPF Europe’s New Office Warming
  We've moved! If you'll be in Brussels for the busy week of global privacy and AI events this November, we'd love for you to join us for FPF Europe's New Office...
  November 18, 2026 @ 5:00pm - 7:30pm ET 
  Clockwise, Brussels -European District Av. des Arts 44, 1040 Bruxelles, Belgium <https://fpf.org/fpf-event/fpf-europes-new-office-warming/>
+Agentic Data Flows: A Closer Look at Data Realities, Risks, and Safeguards
+ Public Event 
+ What are the privacy governance challenges when AI agents share data, memory, and inferences with each other? We’ll continue exploring that question in the se...
+ December 15, 2026 @ 9:30am - 11:00am ET 
+ Online <https://fpf.org/fpf-event/agentic-data-flows-a-closer-look-at-data-realities-risks-and-safeguards/>
 SAVE THE DATE: FPF 2nd Annual EU Privacy Leadership Forum
  Members Only 
  The FPF 2nd Annual EU Privacy Leadership Forum is a private event taking place in Amsterdam on 2 March, 2027 at the Prosus AI House.
