@@ -1,12 +1,7 @@
 # NIST events
 # https://www.nist.gov/news-events/events/rss.xml
-# fetched 2026-11-10T07:18:05.361471-05:00
+# fetched 2026-11-11T07:47:57.169285-05:00
 # tags: government
-
-### NIST Small Business Cybersecurity Community of Interest Call
-Link: https://www.nist.gov/news-events/events/2026/11/nist-small-business-cybersecurity-community-interest-call
-Published: Tue, 10 Nov 2026 14:00:00 -0500
-NIST's Small Business Cybersecurity Community of Interest (COI) has been established to convene the public and private sectors to share business insights, expertise, challenges, and perspectives to guide our work and assist NIST in addressing the
 
 ### TREC 2026
 Link: https://www.nist.gov/news-events/events/2026/11/trec-2026
@@ -46,7 +41,7 @@ An interactive workshop discussing the use of super intelligence in the fire ser
 ### FISSEA Winter Forum: February 9, 2027
 Link: https://www.nist.gov/news-events/events/2027/02/fissea-winter-forum-february-9-2027
 Published: Tue, 09 Feb 2027 13:00:00 -0500
-FISSEA Forums are designed to provide opportunities for the exchange of best practices and discussion and engagement among members of the Federal Information Security Educators (FISSEA) community. Submit a proposal to speak at the Winter Forum. Learn
+FISSEA Forums are designed to provide opportunities for the exchange of best practices and discussion and engagement among members of the Federal Information Security Educators (FISSEA) community. FISSEA events in 2027 will be focused around the
 
 ### NIST Small Business Cybersecurity Community of Interest Call
 Link: https://www.nist.gov/news-events/events/2027/02/nist-small-business-cybersecurity-community-interest-call-0

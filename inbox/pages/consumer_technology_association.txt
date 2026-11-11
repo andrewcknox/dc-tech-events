@@ -1,6 +1,6 @@
 # Consumer Technology Association
 # https://www.cta.tech/events
-# fetched 2026-11-10T07:18:05.361471-05:00
+# fetched 2026-11-11T07:47:57.169285-05:00
 # tags: industry
 
 CES 2027
@@ -20,10 +20,24 @@ Register
 Event Type: 
 Member only
 Virtual Roundtable
+Unwrapping the 2026 Holiday Tech Season
+Wed December 2, 2026
+3 PM ET
+Join us for a virtual roundtable to share details from CTA’s annual Consumer Technology Holiday Purchase Patterns study, as well as touch on the impact of memory supply shortages, tariffs, and economic trends
+Register
+Event Type: 
+Member only
+Virtual Roundtable
 AI Safety in 2027: What's Next Following the Midterm Elections?
 Tue December 8, 2026
 3 PM ET
 Join us for a virtual roundtable on how the industry can help advance practical, risk-based approaches that build trust, protect consumers and support continued American leadership in AI.
+Register
+Event
+Winter Break
+March 4-7, 2027
+Snowmass, CO
+Build valuable business relationships with fellow executives while hitting the slopes at the idyllic Viceroy Snowmass.
 Register
 55:21
 Video
@@ -159,7 +173,7 @@ Thu May 28, 2026
 1-2 PM ET
 Brought to you by the CTA Entrepreneur Council, this Virtual Roundtable is designed to help entrepreneurs and small business leaders better understand how to position their companies in today’s changing media landscape.
 Learn More
- 1 - 16 of 39 items
+ 1 - 16 of 38 items
 1
 2
 3

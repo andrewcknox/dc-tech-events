@@ -1,6 +1,6 @@
 # Punchbowl News live events
 # https://punchbowl.news/events/
-# fetched 2026-11-10T07:18:05.361471-05:00
+# fetched 2026-11-11T07:47:57.169285-05:00
 # tags: media
 
 Subscribe to be notified about all upcoming Punchbowl News events.
@@ -12,19 +12,10 @@ Tuesday, November 10, 2026
 9 a.m. ET
 •
 Richmond, Va.
-Punchbowl News is bringing its signature brand of journalism - focused on Power. People. Politics. - to Richmond, Va. On Nov. 10, we're hosting a summit on youth mental health, bringing together the policymakers who focus on understanding the many factors shaping the mental health of young people today. The event will bring together stakeholders to explore the complexity of the youth mental health challenges and discuss the importance of comprehensive solutions for young people, families and their communities.
+Punchbowl News brought its signature brand of journalism - focused on Power. People. Politics. - to Richmond, Va. On Nov. 10, we hosted a summit on youth mental health, bringing together the policymakers who focus on understanding the many factors shaping the mental health of young people today. The event brought together stakeholders to explore the complexity of the youth mental health challenges and discuss the importance of comprehensive solutions for young people, families and their communities.
 Sign Up for Premium <https://punchbowl.news/pricing>
 Browse
 Upcoming Events
-Go to Youth Mental Health Summit: Richmond, Va. <https://events.punchbowl.news/summit_richmond>
-Presented by Coalition to Empower Our Future
-Youth Mental Health Summit: Richmond, Va.
-Tuesday, November 10, 2026
-•
-9 a.m. ET
-•
- Richmond, Va. 
-Presented by Coalition to Empower Our Future
 Go to Pop-Up Conversation with Rep. Josh Gottheimer <https://events.punchbowl.news/pop-up_Gottheimer>
 Presented by CLEAR
 Pop-Up Conversation with Rep. Josh Gottheimer
@@ -64,6 +55,10 @@ Log In <https://punchbowl.news/wp-json/pb-idm/v1/login>
 Confirmed for Thursday, Dec. 24 event at 1:00 PM EST
 Browse
 Past Events
+Go to Youth Mental Health Summit: Richmond, Va. <https://events.punchbowl.news/summit_richmond>
+Presented by Coalition to Empower Our Future
+Youth Mental Health Summit: Richmond, Va.
+Presented by Coalition to Empower Our Future
 Go to Pop-Up Conversation with California Assemblymember Buffy Wicks <https://events.punchbowl.news/pop-up_sacramento>
 Presented by Google and YouTube
 Pop-Up Conversation with California Assemblymember Buffy Wicks
@@ -84,10 +79,6 @@ Go to Pop-Up Conversation with Sen. Ted Budd <https://events.bizzabo.com/pop-up_
 Presented by Bank of America
 Pop-Up Conversation with Sen. Ted Budd
 Presented by Bank of America
-Go to Pop-Up Conversation with Cameron Stanley <https://events.punchbowl.news/PopUp_Stanley>
-Presented by Crowdstrike
-Pop-Up Conversation with Cameron Stanley
-Presented by Crowdstrike
  Presented by bp 
 bp’s 2026 US Impact Report is here. Explore how bp’s US operations have contributed more than $250 billion to the economy since 2022. 
 Read the report. <https://www.bp.com/en-US/about-us/investing-in-america/our-us-impact?utm_source=Punchbowl&utm_medium=Direct&utm_campaign=26100_bp-America_Investing-in-America&utm_term=O-25c3308b_Punchbowl_Direct_A-51a12817_T-51a12817&utm_content=Article_USIR>

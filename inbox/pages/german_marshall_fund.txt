@@ -1,17 +1,17 @@
 # German Marshall Fund
 # https://www.gmfus.org/events
-# fetched 2026-11-10T07:18:05.361471-05:00
+# fetched 2026-11-11T07:47:57.169285-05:00
 # tags: think-tank
 
 Events
  GMF organizes events and strategic convenings that bring together current policymakers, leaders across GMF networks, and GMF experts for frank and forward-looking exchanges. By convening with purpose, GMF helps move policy conversations forward and strengthen the transatlantic relationship to meet the challenges of the 21st century.
 Next Event
-Brussels
+Washington, DC
  Technology Supply Chain Security for Space and Defense
  GMF and Swedish aerospace company ECAPS are partnering to host a closed-door roundtable...
- 10
- November
- 3:00pm CET 6:00pm CET <https://www.gmfus.org/event/technology-supply-chain-security-space-and-defense-0>
+ 11
+ March
+ 10:00am EST 1:00pm EST <https://www.gmfus.org/event/technology-supply-chain-security-space-and-defense>
 Share This
 Featured
 Ukraine Recovery Conference: Unbreakable Ukraine Forum
@@ -29,13 +29,6 @@ Brussels <https://www.gmfus.org/events?location[13]=13>
 Berlin <https://www.gmfus.org/events?location[12]=12>
 Online <https://www.gmfus.org/events?location[16]=16>
 Upcoming Events
-Brussels
- Technology Supply Chain Security for Space and Defense
- GMF and Swedish aerospace company ECAPS are partnering to host a closed-door roundtable...
- 10
- November
- 3:00pm CET 6:00pm CET <https://www.gmfus.org/event/technology-supply-chain-security-space-and-defense-0>
-Share This
 Washington, DC
  Technology Supply Chain Security for Space and Defense
  GMF and Swedish aerospace company ECAPS are partnering to host a closed-door roundtable...
@@ -45,14 +38,7 @@ Washington, DC
 Share This
 All Events
  Filter By:
- 2 Results for: 
-Technology Supply Chain Security for Space and Defense <https://www.gmfus.org/event/technology-supply-chain-security-space-and-defense-0>
-Brussels <https://www.gmfus.org/taxonomy/term/13>
-10
-November
- 3:00pm CET 
- 6:00pm CET
-Share This
+ 1 Results for: 
 Technology Supply Chain Security for Space and Defense <https://www.gmfus.org/event/technology-supply-chain-security-space-and-defense>
 Washington, DC <https://www.gmfus.org/taxonomy/term/8>
 11
@@ -60,4 +46,4 @@ March
  10:00am EST 
  1:00pm EST
 Share This
- Showing 2 of 2 Results
+ Showing 1 of 1 Results

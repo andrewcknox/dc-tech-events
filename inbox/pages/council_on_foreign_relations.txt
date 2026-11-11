@@ -1,17 +1,23 @@
 # Council on Foreign Relations
 # https://www.cfr.org/events
-# fetched 2026-11-10T07:18:05.361471-05:00
+# fetched 2026-11-11T07:47:57.169285-05:00
 # tags: think-tank
 
 Archive
-4857
+4859
  result
 s
+Meeting
+Screening and Discussion of "The Fight to Fight" <https://www.cfr.org/event/screening-and-discussion-of-the-fight-to-fight>
+November 10, 2026
+Meeting
+C. Peter McColough Series on International Economics With Daron Acemoglu <https://www.cfr.org/event/c-peter-mccolough-series-on-international-economics-with-daron-acemoglu>
+November 10, 2026
 Meeting
 Religion and Foreign Policy Webinar: Religion, Policy, and the 2026 Midterm Elections <https://www.cfr.org/event/religion-policy-and-the-2026-midterm-elections>
 November 9, 2026
 Meeting
-2026 UN Secretary-General Candidate Series: A Conversation With Rebeca Grynspan <https://www.cfr.org/event/2026-un-secretary-general-candidate-series-a-conversation-with-rebeca-grynspan>
+A Conversation With Former Secretary of Veterans Affairs David Shulkin <https://www.cfr.org/event/a-conversation-with-former-secretary-of-veterans-affairs-david-shulkin>
 November 9, 2026
 Meeting
 Science Fair Series: When the Sun Strikes <https://www.cfr.org/event/science-fair-series-when-the-sun-strikes>
@@ -32,7 +38,7 @@ Conference
 Thirty-First Term Member Conference <https://www.cfr.org/event/thirty-first-term-member-conference>
 October 29, 2026
 Meeting
-2026 UN Secretary-General Candidate Series: A Conversation With Rebeca Grynspan <https://www.cfr.org/event/2026-un-secretary-general-candidate-series-a-conversation-with-rebeca-grynspan>
+Insights on Geopolitics Around the World <https://www.cfr.org/event/insights-on-geopolitics-around-the-world>
 October 28, 2026
 Meeting
 Managing Risk in Clean Energy Supply Chains <https://www.cfr.org/event/hybrid-dc-roundtable-chinese-investment-into-america>
@@ -41,7 +47,7 @@ Meeting
 Insights on Geopolitics Around the World <https://www.cfr.org/event/insights-on-geopolitics-around-the-world>
 October 26, 2026
 Meeting
-U.S. Strategy in an Era of Rising Conflict <https://www.cfr.org/event/u-s-strategy-in-an-era-of-rising-conflict>
+Alan Greenspan’s Legacy As Chair of the Federal Reserve <https://www.cfr.org/event/alan-greenspans-legacy-as-chair-of-the-federal-reserve>
 October 26, 2026
 Meeting
 U.S. Strategy in an Era of Rising Conflict <https://www.cfr.org/event/u-s-strategy-in-an-era-of-rising-conflict>
@@ -73,9 +79,3 @@ October 13, 2026
 Meeting
 C.V. Starr & Co. Lecture on China With Dan Wang <https://www.cfr.org/event/c-v-starr-co-annual-lecture-on-china>
 October 8, 2026
-Meeting
-Russia-Ukraine War Update and Perspectives From NATO Member Countries: Lunch and Discussion with CFR's Global Board of Advisors <https://www.cfr.org/event/russia-ukraine-war-update-and-perspectives-from-nato-member-countries-lunch-and-discussion-with-cfrs-global-board-of-advisors>
-October 6, 2026
-Meeting
-Breaking the Ice: Emerging Threats and the U.S. Strategy for Arctic Security <https://www.cfr.org/event/breaking-the-ice-emerging-threats-and-u-s-strategy-for-arctic-security>
-October 5, 2026

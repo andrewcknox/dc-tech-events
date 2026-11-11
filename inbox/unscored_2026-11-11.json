@@ -1,0 +1,122 @@
+{
+ "instructions": "Fill fit (1-5), topics (from the DAILY.md list) and why for each event; add tags (e.g. bay-area) if needed; then `uv run dte score apply <this file>`. Leave fit null to skip.",
+ "events": [
+  {
+   "id": 497,
+   "title": "When Your Email Opens Go Global: European Consent Rules for Tracking Pixels",
+   "start": "2026-11-17T14:00:00-05:00",
+   "location": "Online – B-CLE",
+   "virtual": true,
+   "host": "Berkeley Law BCLT",
+   "source": "Berkeley Law BCLT",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "Tuesday, November 17, 2026 | 11:00 a.m. (PT) | B-CLE Webcast Presented with Bird & Bird 1.00 General CLE Credit Offered Register here | Speaker Bio(s) & Contact Info | Add to Calendar That invisible pixel tracking who opens your",
+   "url": "https://www.law.berkeley.edu/event/when-your-email-opens-go-global-european-consent-rules-for-tracking-pixels/",
+   "fit": 3,
+   "topics": [
+    "data/privacy",
+    "EU"
+   ],
+   "why": "EU consent rules for email tracking pixels; a practical privacy-law webcast."
+  },
+  {
+   "id": 498,
+   "title": "Meta Network Infra: UC Berkeley Lightning Hackathon",
+   "start": "2026-11-17T19:00:00-05:00",
+   "location": "Detailed agenda and location will be shared directly with selected applicants",
+   "virtual": false,
+   "host": "Berkeley campus calendar - artificial intelligence search",
+   "source": "Berkeley campus calendar - artificial intelligence search",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "Come hack with us! &#160; &#160;Meta Lightning Hackathon: First Round of Applications Build, collaborate, and learn with Meta's network production engineers. Meta's Rotational Network Engineering (RNE) program is opening its first round of applications for a one-day lightning hackathon on",
+   "url": "https://events.berkeley.edu/eecs/event/338014-meta-network-infra-uc-berkeley-lightning-hackathon",
+   "fit": 1,
+   "topics": [],
+   "why": "Student hackathon, not policy."
+  },
+  {
+   "id": 495,
+   "title": "ESGB International Potluck Thanksgiving",
+   "start": "2026-11-23T17:00:00-05:00",
+   "location": "Sign in to download the location",
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [
+    "university",
+    "gwu"
+   ],
+   "description": "The Elliott School Graduate Board is hosting a warm Thanksgiving gathering for students that stay during the Thanksgiving (mostly international students). The event will be potluck where each brings a dish. --- Event Details: https://revconnect.gwu.edu/rsvp?id=379935",
+   "url": "https://calendar.gwu.edu/event/esgb-international-potluck-thanksgiving",
+   "fit": 1,
+   "topics": [],
+   "why": "Social gathering, not a tech-policy event."
+  },
+  {
+   "id": 496,
+   "title": "AI Health Tech Happy Hour - Sponsored by Vala",
+   "start": "2026-12-02T17:30:00-05:00",
+   "location": "https://luma.com/event/evt-bhw2fKv0Mk1qSCf",
+   "virtual": false,
+   "host": "DC Data & AI Events (Luma)",
+   "source": "DC Data & AI Events (Luma)",
+   "tags": [
+    "public",
+    "meetup"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/dc2-0399 Address: Check event page for more details. Hosted by Will Angel & James Campbell",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-eCuIBRbS1atJOa6",
+   "fit": 2,
+   "topics": [
+    "AI"
+   ],
+   "why": "Networking for DC health-AI builders; little policy content."
+  },
+  {
+   "id": 499,
+   "title": "Neurotech@Berkeley Symposium & Happy Hour",
+   "start": "2026-12-07T20:00:00-05:00",
+   "location": "Frontier Tower @ Spaceship 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/neurotechberkeley-showcase Address: Frontier Tower @ Spaceship 995 Market Street, San Francisco Hosted by Frontier Tower & 3 others",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 2,
+   "topics": [
+    "biotech"
+   ],
+   "why": "Student neurotech showcase; technical rather than policy."
+  },
+  {
+   "id": 500,
+   "title": "PLACEHOLDER - Cafe 2035 - San Francisco Launch - Members Only",
+   "start": "2027-01-22T21:00:00-05:00",
+   "location": "Frontier Tower @ Spaceship 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/cafe-2035-san-francisco-launch Address: Frontier Tower @ Spaceship 995 Market Street, San Francisco Hosted by Frontier Tower & Xenofon",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [],
+   "why": "Members-only placeholder."
+  }
+ ]
+}

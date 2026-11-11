@@ -1,6 +1,6 @@
 # Hoover Institution
 # https://www.hoover.org/events
-# fetched 2026-11-10T07:18:05.361471-05:00
+# fetched 2026-11-11T07:47:57.169285-05:00
 # tags: think-tank
 
 Events
@@ -109,7 +109,7 @@ Symposium On Domestic Rural Life And Institutions <https://www.hoover.org/events
 Tuesday, November 17, 2026 
 Symposium On Domestic Rural Life And Institutions 
 Rural America encompasses diverse communities and experiences, shaped by a wide range of political, economic, social, and environmental forces.  
-Ideas Uncorked | The Billionaire Tax Act: From California To Capitol Hill <https://www.hoover.org/index%2ephp/events/ideas-uncorked-billionaire-tax-act-california-capitol-hill>
+Ideas Uncorked | The Billionaire Tax Act: From California To Capitol Hill <https://www.hoover.org/events/ideas-uncorked-billionaire-tax-act-california-capitol-hill>
 Tuesday, November 17, 2026 
 Ideas Uncorked | The Billionaire Tax Act: From California To Capitol Hill 
 The Hoover Institution in DC hosts Ideas Uncorked: The Billionaire Tax Act: From California to Capitol Hill on Tuesday, November 17 from 5:00-6:30 pm… 

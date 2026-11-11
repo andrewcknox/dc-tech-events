@@ -1,6 +1,6 @@
 # Stanford CISAC
 # https://cisac.fsi.stanford.edu/events
-# fetched 2026-11-10T07:18:05.361471-05:00
+# fetched 2026-11-11T07:47:57.169285-05:00
 # tags: bay-area, university
 
 CISAC Events
@@ -10,21 +10,12 @@ Events
 Filter:
 Filter results
 Close
- Seminars
-Biosecurity in an Age of AI: Frontier Safety, Anticipatory Governance, and Defensive Innovation | Jassi Pannu <https://cisac.fsi.stanford.edu/events/biosecurity-age-ai-frontier-safety-anticipatory-governance-and-defensive-innovation-jassi>
-Tuesday, November 10, 2026
-12:00 PM - 1:15 PM
-(Pacific)
-William J. Perry Conference Room
- Speaker: 
- Jassi Pannu 
  Lectures
 How New is the New Nuclear Age? | Mark Bell <https://cisac.fsi.stanford.edu/events/how-new-new-nuclear-age-mark-bell>
 Tuesday, November 17, 2026
 12:00 PM - 1:15 PM
 (Pacific)
-Register to attend in person <https://stanforduniversity.qualtrics.com/jfe/form/SV_8ph3rQ1FKsVhwnc>
-Register to attend online <https://stanford.zoom.us/webinar/register/WN_Pu6LyPUnSN6WqF-XG9RQJg>
+Register to attend in person or zoom <https://stanforduniversity.qualtrics.com/jfe/form/SV_8ph3rQ1FKsVhwnc>
 William J. Perry Conference Room
  Speaker: 
  Mark Bell 

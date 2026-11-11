@@ -1,6 +1,6 @@
 # Brookings
 # https://www.brookings.edu/events/
-# fetched 2026-11-10T07:18:05.361471-05:00
+# fetched 2026-11-11T07:47:57.169285-05:00
 # tags: think-tank
 
 Events
@@ -88,6 +88,15 @@ Global Education <https://www.brookings.edu/topics/education-in-developing-natio
  From idea to impact: How communities around the world are championing family-centered schools
  Online only
  Thursday, 9:30 am - 10:30 am EST
+America’s role in European security <https://www.brookings.edu/events/americas-role-in-european-security/>
+ Upcoming Event
+November
+19
+2026
+Defense & Security <https://www.brookings.edu/topics/national-security/>
+ America’s role in European security
+ The Brookings Institution, Washington DC
+ Thursday, 10:00 am - 11:30 am EST
 AI and energy costs: Market and policy solutions <https://www.brookings.edu/events/ai-and-energy-costs-market-and-policy-solutions/>
  Upcoming Event
 November
@@ -115,6 +124,15 @@ Artificial Intelligence <https://www.brookings.edu/topics/artificial-intelligenc
  What is next for the US-China AI safety dialogue?
  Online only
  Monday, 10:00 am - 11:00 am EST
+The working person’s bank account: A new proposal for universal banking <https://www.brookings.edu/events/the-working-persons-bank-account-a-new-proposal-for-universal-banking/>
+ Upcoming Event
+December
+01
+2026
+Banking & Finance <https://www.brookings.edu/topics/banking-finance/>
+ The working person’s bank account: A new proposal for universal banking
+ The Brookings Institution, Washington D.C.
+ Tuesday, 3:00 pm - 5:00 pm EST
 Recent Past Events
 What comes next: The consequences of the 2026 midterm elections <https://www.brookings.edu/events/what-comes-next-the-consequences-of-the-2026-midterm-elections/>
  Past Event

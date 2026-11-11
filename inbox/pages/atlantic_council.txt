@@ -1,16 +1,10 @@
 # Atlantic Council
 # https://www.atlanticcouncil.org/events/
-# fetched 2026-11-10T07:18:05.361471-05:00
+# fetched 2026-11-11T07:47:57.169285-05:00
 # tags: think-tank
 
 Upcoming events
 We convene in Washington DC, internationally, and virtually to inspire global engagement and to shape solutions to the defining challenges of our times. Through small, focused events and larger public gatherings, we inform and build connections. Register for upcoming events or subscribe to watch live on YouTube.
-Online Event
- Tue, November 10, 2026 • 3:00 pm ET
- Elisabeth Braw on “Undersea War” and the battle over cables and pipelines <https://www.atlanticcouncil.org/event/elisabeth-braw-on-undersea-war-and-the-battle-over-cables-and-pipelines/>
-Europe & Eurasia <https://www.atlanticcouncil.org/region/europe-eurasia/>
-Maritime Security <https://www.atlanticcouncil.org/issue/maritime-security/>
-Security & Defense <https://www.atlanticcouncil.org/issue/security-defense/>
 Online Event
  Wed, November 11, 2026 • 11:00 am ET
  Religion, development, and peace: What is the future of global partnerships? <https://www.atlanticcouncil.org/event/religion-development-and-peace-what-is-the-future-of-global-partnerships/>
@@ -25,6 +19,13 @@ Non-Traditional Threats <https://www.atlanticcouncil.org/issue/non-traditional-t
 Online Event
  Thu, November 12, 2026 • 9:00 am ET
  The future of development assistance in South Asia <https://www.atlanticcouncil.org/event/the-future-of-development-assistance-in-south-asia/>
+Online Event
+ Fri, November 13, 2026 • 12:00 pm ET
+ How the next Congress will shape US national security policy <https://www.atlanticcouncil.org/event/how-the-next-congress-will-shape-us-national-security-policy/>
+Defense Policy <https://www.atlanticcouncil.org/issue/defense-policy/>
+National Security <https://www.atlanticcouncil.org/issue/national-security/>
+Politics & Diplomacy <https://www.atlanticcouncil.org/issue/politics-diplomacy/>
+Security & Defense <https://www.atlanticcouncil.org/issue/security-defense/>
 Load More <https://www.atlanticcouncil.org/events/?ac-page=2>
 #ACFrontPage <https://www.atlanticcouncil.org/acfrontpage/>
  harnesses the convening power and expertise of the Council’s sixteen programs and centers to spotlight the world’s most prominent leaders and the most compelling ideas across sectors. The virtual platform engages new audiences eager for nonpartisan and constructive solutions to current global challenges. This widely promoted forty-five-minute program features the Council’s most important guests and content serving as the highlight of our programming each week.

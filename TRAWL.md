@@ -30,7 +30,7 @@ on Mondays, covering the next 14 days.
 
 ## Tier 1 — scripted (`uv run dte fetch`)
 
-Everything enabled in `sources.yaml` (97 enabled sources: about 73 for DC/Baltimore and 24 for the Bay Area,
+Everything enabled in `sources.yaml` (99 enabled sources: about 75 for DC/Baltimore and 24 for the Bay Area,
 which are listed below. The 2026-11-07 additions include SpacePolicyOnline's ICS, Global Taiwan Institute,
 AAAS, JHU APL, UMD GPI/CISSM, Scoop News Group, MeriTalk, Punchbowl, INSA, US Chamber, CTA, and in
 Baltimore SNF Agora, JHU IAA, GBC and Baltimore Tech Meetup. Also included are Luma iCal feeds for Fathom, IFP, Center for Technology & Statecraft, Squadra Ventures and ACE Health/Millennium Project). Covers: JHU/SAIS, the core think tanks (CSIS, CNAS,
@@ -87,8 +87,9 @@ IAPS, Americans for Responsible Innovation, Public Knowledge, NTIA, House Energy
 DC's AI/defense-tech community runs almost entirely on Luma. In Chrome, check:
 - Luma discover, Washington DC (https://luma.com/dc; the list is virtualised and event cards have no plain links, so read it with get_page_text after scrolling, then search Luma for any title worth adding) and search "AI", "policy",
   "defense tech", "chips".
-- Calendars seen in our data so far: The AI Collective DC, Deep Tech Week, All Tech Is Human (ATIHx DC),
-  BlueDot Impact. (STATION DC, Defense Tech DC, DC Industrial Policy Salon and DC Data & AI Events moved to
+- Calendars seen in our data so far: The AI Collective DC, Deep Tech Week, All Tech Is Human (ATIHx DC).
+  (BlueDot Impact, cal-4g8MKXGW8nmoHby, a global calendar, and Human Friendly Tech, cal-JhOxDIdiNDtJH2g,
+  moved to tier 1 via iCal on 2026-11-11; score BlueDot's non-DC events fit 1.) (STATION DC, Defense Tech DC, DC Industrial Policy Salon and DC Data & AI Events moved to
   tier 1 via iCal on 2026-11-07. The AI Collective and All Tech Is Human share one *global* calendar each,
   so they stay here: look for the DC chapter's events by hand.)
   When you find a calendar's own Luma URL, record it here; if Luma offers an "Add iCal subscription"

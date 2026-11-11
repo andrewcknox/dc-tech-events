@@ -1,14 +1,28 @@
 # ORF America
 # https://orfamerica.org/events
-# fetched 2026-11-10T07:18:05.361471-05:00
+# fetched 2026-11-11T07:47:57.169285-05:00
 # tags: think-tank
 
 Events
 ORF America is a convener of policy discussions in Washington DC, around the United States, and around the world, as well as virtual discussions online. These are either open to the public or by invitation only. Events from previous years can be found 
 here <https://www.orfamerica.org/archives-home>
 .
-Summary Block
- This block has no content yet. Items you add to the page connected to this block will display here.
+Nov
+ 11 <https://orfamerica.org/recent-events/orfamerica-at-cop31>
+November 11, 2026 – November 13, 2026
+4:45 PM
+16:45
+4:45 PM
+ORF America at COP31 <https://orfamerica.org/recent-events/orfamerica-at-cop31>
+November 11, 2026 – November 13, 2026
+4:45 PM
+16:45
+4:45 PM
+Read more → <https://orfamerica.org/recent-events/orfamerica-at-cop31>
+November 11, 2026 – November 13, 2026
+4:45 PM
+16:45
+4:45 PM
 Nov
  6 <https://orfamerica.org/recent-events/william-and-mary-university-student-visit-2026>
 November 6, 2026
@@ -16,6 +30,13 @@ A Conversation with William & Mary University Students <https://orfamerica.org/r
 November 6, 2026
 Read more → <https://orfamerica.org/recent-events/william-and-mary-university-student-visit-2026>
 November 6, 2026
+Nov
+ 5 <https://orfamerica.org/recent-events/india-us-space-cooperation-ucf>
+November 5, 2026 – November 6, 2026
+Frontiers Beyond Borders: India-U.S. Space Cooperation in the 21st Century <https://orfamerica.org/recent-events/india-us-space-cooperation-ucf>
+November 5, 2026 – November 6, 2026
+Read more → <https://orfamerica.org/recent-events/india-us-space-cooperation-ucf>
+November 5, 2026 – November 6, 2026
 Nov
  5 <https://orfamerica.org/recent-events/power-under-pressure-building-resilient-energy-infrastructure>
 November 5, 2026
@@ -212,10 +233,3 @@ The U.S.-India AI and Emerging Technology Forum <https://orfamerica.org/recent-e
 May 8, 2026
 Read more → <https://orfamerica.org/recent-events/the-us-india-ai-and-emerging-technology-forum>
 May 8, 2026
-Apr
- 30 <https://orfamerica.org/recent-events/young-professionals-event-us-china-latin-america>
-April 30, 2026
-Young Professionals Event: U.S.-China Competition in Latin America <https://orfamerica.org/recent-events/young-professionals-event-us-china-latin-america>
-April 30, 2026
-Read more → <https://orfamerica.org/recent-events/young-professionals-event-us-china-latin-america>
-April 30, 2026

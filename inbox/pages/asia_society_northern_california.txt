@@ -1,6 +1,6 @@
 # Asia Society Northern California
 # https://asiasociety.org/northern-california/events
-# fetched 2026-11-10T07:18:05.361471-05:00
+# fetched 2026-11-11T07:47:57.169285-05:00
 # tags: bay-area, think-tank
 
 Upcoming Events <https://asiasociety.org/northern-california/events>
@@ -42,7 +42,7 @@ EXECUTIVE ROUNDTABLE | Join us for a new installment of our Seeking Truth Throug
 Special Event
 Asia Society Holiday Classic - Golf, Mahjong & Dinner <https://asiasociety.org/northern-california/events/asia-society-holiday-classic-golf-mahjong-dinner>
 Thursday 10 Dec 2026 
- 1:20 - 6:30 p.m.
+ 1 - 6:30 p.m.
  San Francisco
  Time
 Calculate your local time » <https://www.thetimezoneconverter.com/>

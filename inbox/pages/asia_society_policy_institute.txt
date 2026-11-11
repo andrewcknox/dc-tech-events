@@ -1,6 +1,6 @@
 # Asia Society Policy Institute
 # https://asiasociety.org/policy-institute/events
-# fetched 2026-11-10T07:18:05.361471-05:00
+# fetched 2026-11-11T07:47:57.169285-05:00
 # tags: think-tank
 
 Upcoming Events <https://asiasociety.org/policy-institute/events>
@@ -38,6 +38,15 @@ Tuesday 1 Dec 2026
  Time
 Calculate your local time » <https://www.thetimezoneconverter.com/>
 EXECUTIVE ROUNDTABLE | Join us for a new installment of our Seeking Truth Through Facts Series with an Executive Roundtable with Vice President of the Asia Society Policy Institute David Shullman on U.S.-China relations
+ Online
+South Asia in a Shifting World Order: What Comes Next? <https://asiasociety.org/policy-institute/events/south-asia-shifting-world-order-what-comes-next>
+Thursday 3 Dec 2026 
+ 9 - 10 a.m.
+ New York
+ Time
+Calculate your local time » <https://www.thetimezoneconverter.com/>
+Join the Asia Society Policy Institute for an end-of-year expert webinar examining the defining developments of 2026 and the forces likely to shape South Asia's geopolitical, economic, and strategic trajectory in 2027. 
+Register Now <https://asiasociety.zoom.us/webinar/register/WN_t7A1UxiURHuD6mB-VwJRgw#/registration>
  Online
 Panel Discussion
 China's WTO Accession at 25: Achievements, Challenges, and the Road Ahead <https://asiasociety.org/policy-institute/events/chinas-wto-accession-25-achievements-challenges-and-road-ahead>

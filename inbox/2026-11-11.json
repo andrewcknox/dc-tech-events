@@ -1,0 +1,107 @@
+{
+ "source": "daily page scan",
+ "tags": [],
+ "events": [
+  {
+   "title": "Dynamics in U.S.-Japan Semiconductor Partnership For National Security",
+   "start": "2026-11-16 09:15",
+   "end": "2026-11-16 11:45",
+   "location": "CSIS, 1616 Rhode Island Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.csis.org/events/dynamics-us-japan-semiconductor-partnership-national-security",
+   "host": "CSIS",
+   "description": "CSIS Renewing American Innovation conference on US and Japanese semiconductor assets and capabilities and how the partnership supports national security. In person.",
+   "speakers": [],
+   "topics": [
+    "semiconductors",
+    "Japan-Korea",
+    "tech-geopolitics",
+    "industrial-policy"
+   ],
+   "fit": 5,
+   "why": "Chip supply chains and allied industrial policy, in person a few blocks from SAIS.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Powering America: Connecting Regions, Strengthening the Grid",
+   "start": "2026-11-13 13:00",
+   "end": "2026-11-13 13:45",
+   "location": null,
+   "virtual": true,
+   "url": "https://www.csis.org/events/powering-america-connecting-regions-strengthening-grid",
+   "host": "CSIS",
+   "description": "Webcast: Julie Mulvaney Kemp (Berkeley Lab) on the value of interregional transmission and why more is not built.",
+   "speakers": [
+    "Julie Mulvaney Kemp"
+   ],
+   "topics": [
+    "energy-tech"
+   ],
+   "fit": 2,
+   "why": "Grid capacity matters for AI data centers, but this is an energy-economics talk.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Mission-Ready Insight: Impact of AI",
+   "start": "2026-12-07 13:00",
+   "end": "2026-12-07 14:00",
+   "location": null,
+   "virtual": false,
+   "url": "https://www.insaonline.org/detail-pages/event/2026/12/07/default-calendar/mission-ready-insight--impact-of-ai",
+   "host": "INSA (Intelligence & National Security Alliance)",
+   "description": "INSA session on how AI affects intelligence and national security missions. Venue not given on the calendar listing.",
+   "speakers": [],
+   "topics": [
+    "AI"
+   ],
+   "fit": 3,
+   "why": "Intelligence-community view of AI adoption; check the page for venue and whether it is open to non-members.",
+   "tags": [
+    "industry"
+   ]
+  },
+  {
+   "title": "Senate Judiciary Subcommittee hearing: Roblox and Online Gaming - Digital Playgrounds Endangering America's Children",
+   "start": "2026-11-17 14:30",
+   "end": null,
+   "location": "562 Dirksen Senate Office Building, Washington, DC",
+   "virtual": false,
+   "url": "https://www.congress.gov/event/119th-congress/senate-event/338826",
+   "host": "Senate Judiciary Subcommittee on Crime and Counterterrorism",
+   "description": "Open hearing examining Roblox and online gaming platforms and risks to children.",
+   "speakers": [],
+   "topics": [
+    "trust-and-safety"
+   ],
+   "fit": 3,
+   "why": "Shows where Congress is heading on platform child-safety rules; open to the public on the Hill.",
+   "tags": [
+    "hill"
+   ]
+  },
+  {
+   "title": "House Select Committee on the CCP hearing (title to be announced)",
+   "start": "2026-11-19 10:00",
+   "end": "2026-11-19 12:00",
+   "location": "HVC-210, U.S. Capitol Visitor Center, Washington, DC",
+   "virtual": false,
+   "url": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=119593",
+   "host": "House Select Committee on the CCP",
+   "description": "Hearing noticed on the House calendar with no title or witnesses yet; this committee's hearings usually cover China technology, supply chains or economic security.",
+   "speakers": [],
+   "topics": [
+    "China",
+    "tech-geopolitics"
+   ],
+   "fit": 3,
+   "why": "China Select hearings are usually squarely on US-China tech competition; check the title once posted.",
+   "tags": [
+    "hill"
+   ]
+  }
+ ]
+}

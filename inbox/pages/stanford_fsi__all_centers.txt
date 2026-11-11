@@ -1,6 +1,6 @@
 # Stanford FSI (all centers)
 # https://fsi.stanford.edu/events
-# fetched 2026-11-10T07:18:05.361471-05:00
+# fetched 2026-11-11T07:47:57.169285-05:00
 # tags: bay-area, university
 
 FSI Events
@@ -12,50 +12,6 @@ Event Recordings <https://www.youtube.com/FSIStanford>
 Filter:
 Filter results
 Close
- Seminars
-Isabelle Hau | Relational Intelligence (RQ): Building Relational Futures in the Age of AI <https://fsi.stanford.edu/events/isabelle-hau-relational-intelligence-rq-building-relational-futures-age-ai>
-Tuesday, November 10, 2026
-11:40 AM - 1:00 PM
-(Pacific)
-IN PERSON <https://cvent.me/VE7w48>
-ZOOM <https://stanford.zoom.us/webinar/register/WN_FhoD1uNcSEOf5dBb6-gZNg#/registration>
-McClatchy Hall, S40 Studio
-450 Serra Mall, Stanford, CA 94305
-For those attending the in-person seminar, please bring your Stanford ID card/mobile ID to enter the building. 
- Speaker: 
- Isabelle Hau 
- Seminars
-Biosecurity in an Age of AI: Frontier Safety, Anticipatory Governance, and Defensive Innovation | Jassi Pannu <https://fsi.stanford.edu/events/biosecurity-age-ai-frontier-safety-anticipatory-governance-and-defensive-innovation-jassi>
-Tuesday, November 10, 2026
-12:00 PM - 1:15 PM
-(Pacific)
-William J. Perry Conference Room
- Speaker: 
- Jassi Pannu 
- Seminars
-Cross-National Comparison of Long-Term Care Fraud Oversight and Investigation Practices <https://fsi.stanford.edu/events/cross-national-comparison-long-term-care-fraud-oversight-and-investigation-practices>
-Tuesday, November 10, 2026
-12:00 PM - 1:30 PM
-(Pacific)
-REGISTER TO ATTEND IN PERSON <https://forms.gle/SmZtwaj3Gt9zsPZN9>
-Philippines Conference Room
-Encina Hall, Third Floor, Central, C330
-616 Jane Stanford Way, Stanford, CA 94305
- Speaker: 
- Hyunkyung (Yulia) Yun, Assistant Professor, University of California San Diego 
- Seminars
-Selin Bengi Gümrükçü — Protest and Politics in Turkey in the 70s <https://fsi.stanford.edu/events/selin-bengi-gumrukcu-protest-and-politics-turkey-70s>
-Tuesday, November 10, 2026
-12:00 PM - 1:30 PM
-(Pacific)
-Register Now <https://app.smartsheet.com/b/form/019fafd2880c7c7f91ffa9589e8b28f0>
-In-person:
- Encina Commons 123 (615 Crothers Way, Stanford)
-Online:
- Via Zoom
-This event is open to the public. Registration is required.
- Speaker: 
- Selin Bengi Gümrükçü 
  Seminars
 Nir Halevy — How to Fix a Broken Hierarchy <https://casi.stanford.edu/events/lecture-reading/how-fix-broken-hierarchy>
 Thursday, November 12, 2026
@@ -95,6 +51,17 @@ Reception:
  Coit D. Blacker Lobby, Encina Hall
 Attendance is limited to active Stanford faculty, researchers, students, and staff. Registration required.
 A recording of the introduction and first panel will be posted to CDDRL's YouTube channel after the event.  
+Health Policy Seminar with Noemi Kreif - Better Estimates, Better Decisions? Individualizing Treatment with Conditional Average Treatment Effects from Randomized Trials <https://fsi.stanford.edu/events/health-policy-seminar-noemi-kreif-better-estimates-better-decisions-individualizing>
+Friday, November 13, 2026
+12:00 PM - 1:00 PM
+(Pacific)
+Health Policy Seminars 
+are hybrid events open to the Stanford community. For more information, please reach out to 
+healthpolicy-comms@stanford.edu
+Encina Commons, Room 119
+Department of Health Policy/Center for Health Policy   
+615 Crothers Way, Stanford
+Lunch will be provided on a first-come, first-served basis for in-person attendees. 
  Seminars
 Daniel Yi Xu | Social Learning and Assortative Matching in Chinese EV Ecosystem <https://fsi.stanford.edu/events/daniel-yi-xu-social-learning-and-assortative-matching-chinese-ev-ecosystem>
 Friday, November 13, 2026
@@ -116,6 +83,19 @@ Only those with an active Stanford ID with access to Encina Hall E409 (Goldman C
  Neil Rogachevsky 
  Moderator: 
 Amichai Magen <https://fsi.stanford.edu/people/Amichai_Magen>
+ Book Talks
+Book Talk - Fear of Queer Taiwan: Anti-LGBTQ Movements Between Taiwan and the U.S. Religious Right <https://fsi.stanford.edu/events/book-talk-fear-queer-taiwan-anti-lgbtq-movements-between-taiwan-and-us-religious-right>
+Monday, November 16, 2026
+12:00 PM - 1:30 PM
+(Pacific)
+Register <https://forms.gle/DgoVQu8HrikGqmFr7>
+Philippines Conference Room (C330)
+Encina Hall, 3rd Floor
+616 Jane Stanford Way, Stanford, CA 94305
+ Speaker: 
+ Ying-Chao Kao, Associate Professor of Sociology, Virginia Commonwealth University 
+ Moderator: 
+ Pei-Chia Lan 
  Seminars
 Are the Streets Still Talking? Protests and Evolving Repression in the Middle East <https://fsi.stanford.edu/events/are-streets-still-talking-protests-and-evolving-repression-middle-east>
 Monday, November 16, 2026
@@ -149,8 +129,7 @@ How New is the New Nuclear Age? | Mark Bell <https://fsi.stanford.edu/events/how
 Tuesday, November 17, 2026
 12:00 PM - 1:15 PM
 (Pacific)
-Register to attend in person <https://stanforduniversity.qualtrics.com/jfe/form/SV_8ph3rQ1FKsVhwnc>
-Register to attend online <https://stanford.zoom.us/webinar/register/WN_Pu6LyPUnSN6WqF-XG9RQJg>
+Register to attend in person or zoom <https://stanforduniversity.qualtrics.com/jfe/form/SV_8ph3rQ1FKsVhwnc>
 William J. Perry Conference Room
  Speaker: 
  Mark Bell 
@@ -244,6 +223,17 @@ Conference Room E-008 in Encina Hall, East,
 Alain Schläpfer <https://fsi.stanford.edu/people/alain-schlapfer>
  Moderator: 
 Hesham Sallam <https://fsi.stanford.edu/people/hesham_sallam>
+Eliza Ennis - Estimating the population-wide impacts of proposed harm reduction policy: Modeling the syndemic of HIV, HCV, and overdose - PhD Candidate Practice Job Talk <https://fsi.stanford.edu/events/eliza-ennis-estimating-population-wide-impacts-proposed-harm-reduction-policy-modeling>
+Friday, November 20, 2026
+12:00 PM - 1:00 PM
+(Pacific)
+Health Policy Seminars 
+are hybrid events open to the Stanford community. For more information, please reach out to 
+healthpolicy-comms@stanford.edu
+Encina Commons, Room 119
+Department of Health Policy/Center for Health Policy   
+615 Crothers Way, Stanford
+Lunch will be provided on a first-come, first-served basis for in-person attendees. 
  Seminars
 Student Seminar | After the Deluge: Economic and Environmental Consequences of Floods in China <https://fsi.stanford.edu/events/student-seminar-after-deluge-economic-and-environmental-consequences-floods-china>
 Friday, November 20, 2026
@@ -293,6 +283,21 @@ Goldman Room E409, Encina Hall
  Speaker: 
  Ji Yeon (Jean) Hong, Associate Professor of Political Science, University of Michigan 
  Seminars
+After the Midterms: What’s Next for America’s Korea Policy? <https://fsi.stanford.edu/events/after-midterms-whats-next-americas-korea-policy>
+Wednesday, December 2, 2026
+3:00 PM - 4:30 PM
+(Pacific)
+Register to Attend in Person <https://forms.gle/iWYKnaXuy6KL5coT8>
+Philippines Conference Room (C330)
+Encina Hall, 3rd Floor
+616 Jane Stanford Way, Stanford, CA 94305
+ Speaker: 
+ Michael L. Beeman, Visiting Assistant Professor, Loyola Marymount University
+,
+Mark Lambert, China Policy Fellow, APARC, Stanford University <https://fsi.stanford.edu/people/mark-lambert>
+,
+ Sydney Seiler, Senior Adviser (Non-resident), Korea Chair, Center for Strategic and International Studies 
+ Seminars
 Jana Hunter | The Child of Freedom: Temporal Sovereignty in Habsburg Bohemia <https://fsi.stanford.edu/events/hunter>
 Thursday, December 3, 2026
 12:00 PM - 1:00 PM
@@ -307,7 +312,7 @@ Encina Hall, Second Floor, Central, C231
  Moderator: 
 Anna Grzymała-Busse <https://fsi.stanford.edu/people/anna-grzymala-busse>
  Seminars
-Ivetta Sergeeva — The Authoritarian Passport: How States Discipline Emigrants Without Repressing Them <https://fsi.stanford.edu/events/ivetta-sergeeva-authoritarian-passport-how-states-discipline-emigrants-without-repressing>
+Ivetta Sergeeva — The Authoritarian Passport: How States Discipline Emigrants <https://fsi.stanford.edu/events/ivetta-sergeeva-authoritarian-passport-how-states-discipline-emigrants>
 Thursday, December 3, 2026
 12:00 PM - 1:15 PM
 (Pacific)
@@ -317,6 +322,6 @@ Only those with an active Stanford ID with access to
 Conference Room E-008 in Encina Hall, East,
  may attend in person.
  Speaker: 
-Ivetta Sergeeva <https://fsi.stanford.edu/people/ivetta-sergeeva>
+ Ivetta Sergeeva 
  Moderator: 
 Hesham Sallam <https://fsi.stanford.edu/people/hesham_sallam>

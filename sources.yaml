@@ -343,6 +343,20 @@ sources:
     tags: [public, civil-society]
     enabled: true
 
+  - name: Human Friendly Tech (Luma)
+    url: https://api.lu.ma/ics/get?entity=calendar&id=cal-JhOxDIdiNDtJH2g
+    type: ics
+    js: false
+    tags: [public, meetup]
+    enabled: true   # David Sandson's DC mixers/pop-ups; added 2026-11-11 from a backup miss
+
+  - name: BlueDot Impact (Luma)
+    url: https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby
+    type: ics
+    js: false
+    tags: [public, civil-society]
+    enabled: true   # GLOBAL calendar (luma.com/bluedotevents): score non-DC events fit 1; added 2026-11-11 from a backup miss
+
   - name: Institute for Progress (Luma)
     url: https://api.lu.ma/ics/get?entity=calendar&id=cal-WzpdUQqj4iM0Yl6
     type: ics

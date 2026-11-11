@@ -1,19 +1,14 @@
 # Stimson Center
 # https://www.stimson.org/events/
-# fetched 2026-11-10T07:18:05.361471-05:00
+# fetched 2026-11-11T07:47:57.169285-05:00
 # tags: think-tank
 
 EVENTS AND ENGAGEMENT
 Events
 Explore Stimson events where experts, policymakers, and practitioners come together to tackle global challenges and advance practical solutions.
 Upcoming Event 
- Breaking the Impasse: Seeking New Approaches to Nuclear Negotiations and Coexistence on the Korean Peninsula 
- Join 38 North and the Sejong Institute for a discussion about the future of US-DPRK and inter-Korean relations.
- November 9, 2026
- 1:30 PM (US Eastern)
- Online or In-Person <https://www.stimson.org/event/breaking-the-impasse-seeking-new-approaches-to-nuclear-negotiations-and-coexistence-on-the-korean-peninsula/>
-Upcoming Event 
  Sustainable Mining and Energy in Latin America 
+ Join us in Lima for a dialogue on global opportunities for Peru and the region.
  November 11, 2026
  9:00 AM (Peru Standard Time)
  In-Person <https://www.stimson.org/event/sustainable-mining-and-energy-in-latin-america/>
@@ -33,6 +28,9 @@ Past
 Neurotechnologies, AI, and the Right to Mental Privacy: Can the Law Save us from Losing our Minds? <https://www.stimson.org/event/neurotechnologies-ai-and-the-right-to-mental-privacy-can-the-law-save-us-from-losing-our-minds/>
 The Washington Foreign Law Society and the Stimson Center host experts to explore how AI and neurotechnologies are redefining mental privacy and testing the limits of international law.
 February 19, 2026
+Past Event
+Breaking the Impasse: Seeking New Approaches to Nuclear Negotiations and Coexistence on the Korean Peninsula <https://www.stimson.org/event/breaking-the-impasse-seeking-new-approaches-to-nuclear-negotiations-and-coexistence-on-the-korean-peninsula/>
+November 9, 2026
 Past Event
 The Iran War, Eight Months On: Reassessing Costs, Consequences, and US Interests <https://www.stimson.org/event/the-iran-war-eight-months-on-reassessing-costs-consequences-and-us-interests/>
 November 5, 2026
@@ -65,7 +63,4 @@ US-Taiwan Relations in the Trump Era <https://www.stimson.org/event/us-taiwan-re
 October 19, 2026
 Past Event
 The Rise and Fall of the US–Pakistan Relationship After 9/11 <https://www.stimson.org/event/the-rise-and-fall-of-the-us-pakistan-relationship-after-9-11/>
-October 15, 2026
-Past Event
-A Vision for the Future of Multilateralism: A Conversation with Carolyn Rodrigues-Birkett <https://www.stimson.org/event/a-vision-for-the-future-of-multilateralism-a-conversation-with-carolyn-rodrigues-birkett/>
 October 15, 2026
