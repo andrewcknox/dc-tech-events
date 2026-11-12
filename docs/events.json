@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-11T07:54:13-05:00",
- "today": "2026-11-11",
- "window_start": "2026-11-11",
+ "generated_at": "2026-11-12T07:48:14-05:00",
+ "today": "2026-11-12",
+ "window_start": "2026-11-12",
  "window_days": 14,
  "map_center": [
   38.905,
@@ -4702,6 +4702,38 @@
    "in_dc": true,
    "time": "time TBD",
    "where": "Waldorf Astoria, Washington, DC"
+  },
+  {
+   "id": 527,
+   "title": "Pop-Up Conversation with Rep. Josh Gottheimer",
+   "start": "2026-11-17T09:00:00-05:00",
+   "end": null,
+   "host": "Punchbowl News",
+   "source": "daily page scan",
+   "location": "Washington, DC",
+   "virtual": false,
+   "url": "https://events.punchbowl.news/pop-up_Gottheimer",
+   "topics": [
+    "data/privacy",
+    "trust-and-safety"
+   ],
+   "tags": [
+    "media"
+   ],
+   "fit": 3,
+   "why": "On-record member of Congress on digital identity verification policy, in person in DC.",
+   "description": "Punchbowl tech reporter Anthony Adragna interviews Rep. Josh Gottheimer on how Washington and industry can verify real people online and stop bad actors; then a fireside chat with CLEAR CEO Caryn Seidman Becker.",
+   "speakers": [
+    "Rep. Josh Gottheimer",
+    "Anthony Adragna",
+    "Caryn Seidman Becker",
+    "Anna Palmer"
+   ],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "9:00 AM",
+   "where": "Washington, DC"
   },
   {
    "id": 245,

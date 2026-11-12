@@ -1,6 +1,6 @@
 # Hoover Institution
 # https://www.hoover.org/events
-# fetched 2026-11-11T07:47:57.169285-05:00
+# fetched 2026-11-12T07:14:16.173747-05:00
 # tags: think-tank
 
 Events
@@ -119,6 +119,11 @@ Wednesday, November 18, 2026
 The Intellectual Odyssey Of James Burnham 
 The Hoover Institution invites you to a public recording of Uncommon Knowledge with Peter Robinson, The Intellectual Odyssey of James Burnham, … 
 Hauck Auditorium, David and Joan Traitel Building
+Taiwan's 2026 Local Elections: Assessing the Results <https://www.hoover.org/events/taiwans-2026-local-elections-assessing-results>
+Tuesday, December 1, 2026 
+Taiwan's 2026 Local Elections: Assessing the Results 
+The Hoover Institution cordially invites you to Taiwan's 2026 Local Elections: Assessing the Results on Tuesday, December 1, 2026 from 12:00-1:30 PM… 
+Herbert Hoover Memorial Building, Hoover Institution
 Higher Education, Research Investment, and the Public Interest <https://www.hoover.org/events/higher-education-research-investment-and-public-interest>
 Wednesday, December 2, 2026 
 Higher Education, Research Investment, and the Public Interest 

@@ -1,0 +1,32 @@
+{"source": "daily page scan", "tags": [], "events": [
+  {
+    "title": "Pop-Up Conversation with Rep. Josh Gottheimer",
+    "start": "2026-11-17 09:00",
+    "end": null,
+    "location": "Washington, DC",
+    "virtual": false,
+    "url": "https://events.punchbowl.news/pop-up_Gottheimer",
+    "host": "Punchbowl News",
+    "description": "Punchbowl tech reporter Anthony Adragna interviews Rep. Josh Gottheimer on how Washington and industry can verify real people online and stop bad actors; then a fireside chat with CLEAR CEO Caryn Seidman Becker.",
+    "speakers": ["Rep. Josh Gottheimer", "Anthony Adragna", "Caryn Seidman Becker", "Anna Palmer"],
+    "topics": ["data/privacy", "trust-and-safety"],
+    "fit": 3,
+    "why": "On-record member of Congress on digital identity verification policy, in person in DC.",
+    "tags": ["media"]
+  },
+  {
+    "title": "A US Navy Fleet for Twenty-First-Century Deterrence and Combat",
+    "start": "2026-11-13 13:00",
+    "end": "2026-11-13 14:00",
+    "location": null,
+    "virtual": true,
+    "url": "https://www.hudson.org/events/us-navy-fleet-twenty-first-century-deterrence-combat",
+    "host": "Hudson Institute",
+    "description": "Bryan Clark presents his report Righting the Ship, on a new US Navy fleet design that fits likely budget and personnel limits. Webinar with Q&A.",
+    "speakers": ["Bryan Clark"],
+    "topics": ["tech-geopolitics"],
+    "fit": 2,
+    "why": "Defense force-design talk; only loosely about technology policy.",
+    "tags": ["think-tank"]
+  }
+]}

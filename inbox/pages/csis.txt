@@ -1,6 +1,6 @@
 # CSIS
 # https://www.csis.org/events
-# fetched 2026-11-11T07:47:57.169285-05:00
+# fetched 2026-11-12T07:14:16.173747-05:00
 # tags: think-tank
 
 Events
@@ -21,7 +21,7 @@ Webcast
 Korea Chair
 Image
 Photo: Andre Kudyusov/Getty Images
-Powering America: Connecting Regions, Strengthening the Grid <https://www.csis.org/events/powering-america-connecting-regions-strengthening-grid>
+Powering America: Connecting Regions, Strengthening the Grid <https://www.csis.org/index%2Ephp/events/powering-america-connecting-regions-strengthening-grid>
 November 13, 2026 • 1:00 – 1:45 pm EST
 Webcast
  Hosted by 
@@ -46,7 +46,6 @@ See all upcoming events <https://www.csis.org/events?f%5B0%5D=event_type%3A3004&
 Image
 Can Nigeria’s 2027 Election Deliver Hope? <https://www.csis.org/events/can-nigerias-2027-election-deliver-hope>
 November 10, 2026 • 1:30 – 2:30 pm EST
-Webcast
  Hosted by 
 Africa Program
 Image
@@ -63,7 +62,7 @@ November 10, 2026 • 10:00 – 11:00 am EST
 Human Rights Initiative
 Image
 Photo: CSIS
-Why Agriculture is Africa’s Superpower <https://www.csis.org/index%2Ephp/events/why-agriculture-africas-superpower>
+Why Agriculture is Africa’s Superpower <https://www.csis.org/events/why-agriculture-africas-superpower>
 November 10, 2026 • 9:00 – 9:45 am EST
  Hosted by 
 Global Development
@@ -79,12 +78,12 @@ November 9, 2026 • 9:00 – 10:00 am EST
 Middle East Program
 Image
 Photo: CSIS
-2026 Elections: New Congress, New Trade Agenda? <https://www.csis.org/events/2026-elections-new-congress-new-trade-agenda>
+2026 Elections: New Congress, New Trade Agenda? <https://www.csis.org/index%2Ephp/events/2026-elections-new-congress-new-trade-agenda>
 November 6, 2026 • 12:00 – 10:00 pm EST
  Hosted by 
 Economics Program and Scholl Chair in International Business
 Image
-Antitrust and National Security: Balancing Competition, Innovation, and Technological Leadership <https://www.csis.org/events/antitrust-and-national-security-balancing-competition-innovation-and-technological>
+Antitrust and National Security: Balancing Competition, Innovation, and Technological Leadership <https://www.csis.org/index%2Ephp/events/antitrust-and-national-security-balancing-competition-innovation-and-technological>
 November 5, 2026 • 10:00 – 11:00 am EST
  Hosted by 
 Strategic Technologies Program
@@ -207,7 +206,7 @@ Bottleneck to Breakthrough: A Permitting Blueprint to Build
 .
  Event
 — November 16, 2026
-PONI 2026 Fall Conference <https://www.csis.org/index%2Ephp/events/poni-2026-fall-conference>
+PONI 2026 Fall Conference <https://www.csis.org/events/poni-2026-fall-conference>
 PONI's Fall Conference convenes rising nuclear experts to examine a strained global nuclear order — the future of arms control, the nonproliferation regime, verification, deterrence, and restraint. 
  Event
 — November 17, 2026

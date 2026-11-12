@@ -1,6 +1,6 @@
 # Stanford FSI (all centers)
 # https://fsi.stanford.edu/events
-# fetched 2026-11-11T07:47:57.169285-05:00
+# fetched 2026-11-12T07:14:16.173747-05:00
 # tags: bay-area, university
 
 FSI Events
@@ -223,6 +223,15 @@ Conference Room E-008 in Encina Hall, East,
 Alain Schläpfer <https://fsi.stanford.edu/people/alain-schlapfer>
  Moderator: 
 Hesham Sallam <https://fsi.stanford.edu/people/hesham_sallam>
+ Seminars
+Student Seminar | After the Deluge: Economic and Environmental Consequences of Floods in China <https://fsi.stanford.edu/events/student-seminar-after-deluge-economic-and-environmental-consequences-floods-china>
+Friday, November 20, 2026
+12:00 PM - 1:00 PM
+(Pacific)
+Register <https://app.smartsheet.com/b/form/019fce8bf19170f7b7ce36140d48615d>
+Goldman Conference Room, Encina Hall, E409
+ Speaker: 
+ Zhiren Hu, IvyPlus Graduate Student, Economics for Sustainability and Energy Transition Research Program, Stanford University 
 Eliza Ennis - Estimating the population-wide impacts of proposed harm reduction policy: Modeling the syndemic of HIV, HCV, and overdose - PhD Candidate Practice Job Talk <https://fsi.stanford.edu/events/eliza-ennis-estimating-population-wide-impacts-proposed-harm-reduction-policy-modeling>
 Friday, November 20, 2026
 12:00 PM - 1:00 PM
@@ -234,15 +243,6 @@ Encina Commons, Room 119
 Department of Health Policy/Center for Health Policy   
 615 Crothers Way, Stanford
 Lunch will be provided on a first-come, first-served basis for in-person attendees. 
- Seminars
-Student Seminar | After the Deluge: Economic and Environmental Consequences of Floods in China <https://fsi.stanford.edu/events/student-seminar-after-deluge-economic-and-environmental-consequences-floods-china>
-Friday, November 20, 2026
-12:00 PM - 1:00 PM
-(Pacific)
-Register <https://app.smartsheet.com/b/form/019fce8bf19170f7b7ce36140d48615d>
-Goldman Conference Room, Encina Hall, E409
- Speaker: 
- Zhiren Hu, IvyPlus Graduate Student, Economics for Sustainability and Energy Transition Research Program, Stanford University 
  Panel Discussions
 Global Implications of the U.S. Midterm Elections <https://fsi.stanford.edu/events/global-implications-us-midterm-elections>
 Monday, November 30, 2026

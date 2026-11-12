@@ -1,6 +1,6 @@
 # Carnegie Endowment
 # https://carnegieendowment.org/events
-# fetched 2026-11-11T07:47:57.169285-05:00
+# fetched 2026-11-12T07:14:16.173747-05:00
 # tags: think-tank
 
 Global - Events
@@ -30,6 +30,18 @@ November 20, 2026
 Aaron David Miller
 , 
 Rahm Emanuel
+NOVEMBER
+25
+2026
+Event
+The Scramble for Europe: Can the EU Hold Its Ground? <https://carnegieendowment.org/europe/events/2026/11/the-scramble-for-europe-can-the-eu-hold-its-ground>
+November 25, 2026
+6:00 PM - 7:00 PM GMT+1
+Dimitar Bechev
+, 
+Tony Barber
+, 
+Rosa Balfour
 DECEMBER
 2
 2026

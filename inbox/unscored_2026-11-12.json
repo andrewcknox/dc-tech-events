@@ -1,0 +1,421 @@
+{
+ "instructions": "Fill fit (1-5), topics (from the DAILY.md list) and why for each event; add tags (e.g. bay-area) if needed; then `uv run dte score apply <this file>`. Leave fit null to skip.",
+ "events": [
+  {
+   "id": 508,
+   "title": "AI Governance Club",
+   "start": "2026-11-12T12:00:00-05:00",
+   "location": "https://luma.com/event/evt-Yy4ert0csR2iYNt",
+   "virtual": false,
+   "host": "BlueDot Impact (Luma)",
+   "source": "BlueDot Impact (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/6qwexqs3 Hosted by Mmachukwu Osisioma, Mariana Hungria & Christen Rao",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Global AI-safety community event, online or outside DC."
+  },
+  {
+   "id": 509,
+   "title": "iaS - Valencia: AI Safety Session.",
+   "start": "2026-11-12T13:00:00-05:00",
+   "location": "Escola Tècnica Superior d’Enginyeria Aeroespacial i Disseny Industrial (UPV), Camí de Vera, s/n, Edificio 7E, Algirós, 46022 València, Valencia, Spain",
+   "virtual": false,
+   "host": "BlueDot Impact (Luma)",
+   "source": "BlueDot Impact (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/45832b15 Address: Escola Tècnica Superior d’Enginyeria Aeroespacial i Disseny Industrial (UPV) València, Spain Hosted by Osmani Redondo & Johanna Angulo",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Global AI-safety community event, online or outside DC."
+  },
+  {
+   "id": 510,
+   "title": "Cyber X AI Reading Group",
+   "start": "2026-11-13T12:00:00-05:00",
+   "location": "https://luma.com/event/evt-M4cThA08nuu9o3Z",
+   "virtual": false,
+   "host": "BlueDot Impact (Luma)",
+   "source": "BlueDot Impact (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/vtg6s4d3 Hosted by Jeremy & Mmachukwu Osisioma",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Global AI-safety community event, online or outside DC."
+  },
+  {
+   "id": 511,
+   "title": "AI Verification x Crypto",
+   "start": "2026-11-13T13:00:00-05:00",
+   "location": "https://luma.com/event/evt-rifQUccAP7Oz7Hs",
+   "virtual": false,
+   "host": "BlueDot Impact (Luma)",
+   "source": "BlueDot Impact (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/j5glptwa Address: Check event page for more details. Hosted by Anshuman Singh & Encode Club",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Global AI-safety community event, online or outside DC."
+  },
+  {
+   "id": 512,
+   "title": "BAISH Connect",
+   "start": "2026-11-14T14:00:00-05:00",
+   "location": "https://luma.com/event/evt-8ZPHHqzQH5C4NR4",
+   "virtual": false,
+   "host": "BlueDot Impact (Luma)",
+   "source": "BlueDot Impact (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/baish-zjq3 Address: Check event page for more details. Hosted by Rocio, Eitan & baish",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Global AI-safety community event, online or outside DC."
+  },
+  {
+   "id": 526,
+   "title": "Weekly Accountabili-tea Circle: Reflection & Planning #41 - Members Only",
+   "start": "2026-11-16T16:00:00-05:00",
+   "location": "Frontier Tower @ 16th Floor Teahouse, 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/weekly-accountabili-tea-circle-reflectio-7aca Address: Frontier Tower @ 16th Floor Teahouse, 995 Market Street, San Francisco Hosted by Frontier Tower & Laurence Ion",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [],
+   "why": "Community social event; not tech policy."
+  },
+  {
+   "id": 507,
+   "title": "The Future of the Americas: Civil Society, Youth Leadership, and Hemispheric Dialogue",
+   "start": "2026-11-16T17:30:00-05:00",
+   "location": "1957 E Street NW, City View Room, 7th Floor",
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [
+    "university",
+    "gwu"
+   ],
+   "description": "Join us for an exclusive student dialogue with Her Excellency Ambassador Laura Gil, Assistant Secretary General of the Organization of American States (OAS). Hosted by LATAM@GW at the George Washington University, The Future of the Americas: Civil Society, Youth Leadership,",
+   "url": "https://calendar.gwu.edu/event/the-future-of-the-americas-civil-society-youth-leadership-and-hemispheric-dialogue",
+   "fit": 1,
+   "topics": [],
+   "why": "OAS student dialogue; not about technology."
+  },
+  {
+   "id": 513,
+   "title": "Communicating AI Safety. Conversations on Effective Practices.",
+   "start": "2026-11-17T12:00:00-05:00",
+   "location": "https://luma.com/event/evt-WoJSbhdtcU7Jln1",
+   "virtual": false,
+   "host": "BlueDot Impact (Luma)",
+   "source": "BlueDot Impact (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/spod64k6 Hosted by Communicating AI Safety & 3 others",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Global AI-safety community event, online or outside DC."
+  },
+  {
+   "id": 523,
+   "title": "SENATE COMMERCE CMTE EXECUTIVE SESSION, Nov 18, 2026, DC/online, 10:00 am ET",
+   "start": "2026-11-18T10:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "The Senate Commerce, Science, and Transportation Committee will meet in Executive Session on November 18, 2026 at 10:00 am ET in 253 Russell Senate Office Building. Among the items on the agenda are consideration of these nominations: Joshua Shoemake to",
+   "url": "https://spacepolicyonline.com/events/senate-commerce-cmte-executive-session-nov-18-2026-dc-online-1000-am-et/",
+   "fit": 2,
+   "topics": [
+    "space"
+   ],
+   "why": "Senate Commerce markup of nominations; little substantive tech-policy discussion."
+  },
+  {
+   "id": 514,
+   "title": "LIaiSE Community social",
+   "start": "2026-11-18T13:00:00-05:00",
+   "location": "https://luma.com/event/evt-m6dZKFfJZwlKfMV",
+   "virtual": false,
+   "host": "BlueDot Impact (Luma)",
+   "source": "BlueDot Impact (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/aoislkva Address: Check event page for more details. Hosted by London Interface for AI Safety, Rohan & Zuzana Kapustikova",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Global AI-safety community event, online or outside DC."
+  },
+  {
+   "id": 524,
+   "title": "How Children Learn from People: Child Development and Model Rearing",
+   "start": "2026-11-19T21:30:00-05:00",
+   "location": "Mox, 1680 Mission St, San Francisco, CA 94103, USA",
+   "virtual": false,
+   "host": "Mox SF (Luma)",
+   "source": "Mox SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/lfjnp8x7 Address: Mox San Francisco, CA United States Hosted by Chase Denecke, Xi Jia Zhou & Mox SF",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-nfkEvDFat3zN1fe",
+   "fit": 2,
+   "topics": [
+    "AI"
+   ],
+   "why": "Informal Mox talk linking child development to AI model training; not policy."
+  },
+  {
+   "id": 525,
+   "title": "Talent Show: Has Mox Got Talent? 🌟",
+   "start": "2026-11-19T22:00:00-05:00",
+   "location": "Mox, 1680 Mission St, San Francisco, CA 94103, USA",
+   "virtual": false,
+   "host": "Mox SF (Luma)",
+   "source": "Mox SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/mox-inxx Address: Mox San Francisco, CA United States Hosted by Jen Ba",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-nfkEvDFat3zN1fe",
+   "fit": 1,
+   "topics": [],
+   "why": "Community social event; not tech policy."
+  },
+  {
+   "id": 515,
+   "title": "Where is AI in 2026 and Where is it Going?",
+   "start": "2026-11-21T14:00:00-05:00",
+   "location": "401 Merrimack St, Lowell, MA 01852, USA",
+   "virtual": false,
+   "host": "BlueDot Impact (Luma)",
+   "source": "BlueDot Impact (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/aisap-86jy Address: 401 Merrimack St Lowell, MA United States Hosted by Pride Jia",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Global AI-safety community event, online or outside DC."
+  },
+  {
+   "id": 516,
+   "title": "Women4AISafety - First Event",
+   "start": "2026-11-24T13:00:00-05:00",
+   "location": "Celonis SL, Pl. de Manuel Gómez-Moreno, 2, Tetuán, 28020 Madrid, Spain",
+   "virtual": false,
+   "host": "BlueDot Impact (Luma)",
+   "source": "BlueDot Impact (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/w4ais-spain Address: Celonis SL Madrid, Spain Hosted by Osmani Redondo & 4 others",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Global AI-safety community event, online or outside DC."
+  },
+  {
+   "id": 517,
+   "title": "Cyber X AI Reading Group",
+   "start": "2026-11-27T12:00:00-05:00",
+   "location": "https://luma.com/event/evt-FY5DG7LO5mvwU17",
+   "virtual": false,
+   "host": "BlueDot Impact (Luma)",
+   "source": "BlueDot Impact (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/0zg8a8hl Hosted by Jeremy & Mmachukwu Osisioma",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Global AI-safety community event, online or outside DC."
+  },
+  {
+   "id": 518,
+   "title": "AI risks and responsibility: a Christian response",
+   "start": "2026-11-28T05:00:00-05:00",
+   "location": "King's Cross Church (KXC), 242 Pentonville Rd, London N1 9JY, UK",
+   "virtual": false,
+   "host": "BlueDot Impact (Luma)",
+   "source": "BlueDot Impact (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/aex5ottq Address: King's Cross Church (KXC) London, United Kingdom Hosted by Sienna James",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Global AI-safety community event, online or outside DC."
+  },
+  {
+   "id": 519,
+   "title": "AI Safety Careers Panel",
+   "start": "2026-12-01T18:00:00-05:00",
+   "location": "Gates-Dell Complex, 2317 Speedway, Austin, TX 78712, USA",
+   "virtual": false,
+   "host": "BlueDot Impact (Luma)",
+   "source": "BlueDot Impact (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/hhboalu1 Address: Gates-Dell Complex room 2.216 Austin, TX United States Hosted by Tarun Dasari",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Global AI-safety community event, online or outside DC."
+  },
+  {
+   "id": 520,
+   "title": "Canada AI Safety - December Meetup!",
+   "start": "2026-12-02T19:00:00-05:00",
+   "location": "https://luma.com/event/evt-jDiSqaau1pJLFcM",
+   "virtual": false,
+   "host": "BlueDot Impact (Luma)",
+   "source": "BlueDot Impact (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/rnj6c8kd Hosted by Cinthia Nemoto & 3 others",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Global AI-safety community event, online or outside DC."
+  },
+  {
+   "id": 506,
+   "title": "A Taste of Elliott",
+   "start": "2026-12-03T12:00:00-05:00",
+   "location": "Elliott School, City View Room",
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [
+    "university",
+    "gwu"
+   ],
+   "description": "The Elliott Office of Diversity, Equity, and Inclusion invites the Elliott Community to join us for A Taste of Elliott! Pack your appetite and get ready for a culinary adventure around the world. Grab your postcard and join the Elliott",
+   "url": "https://calendar.gwu.edu/event/a-taste-of-elliott-6709",
+   "fit": 1,
+   "topics": [],
+   "why": "Community social event; not tech policy."
+  },
+  {
+   "id": 521,
+   "title": "AI Safety Networking Night - Sydney Conference Week",
+   "start": "2026-12-10T02:30:00-05:00",
+   "location": "https://luma.com/event/evt-4CihXkwip0uLw7S",
+   "virtual": false,
+   "host": "BlueDot Impact (Luma)",
+   "source": "BlueDot Impact (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/qw32xqfa Address: Check event page for more details. Hosted by Vanessa Huang",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Global AI-safety community event, online or outside DC."
+  },
+  {
+   "id": 522,
+   "title": "Cyber X AI Reading Group",
+   "start": "2026-12-11T12:00:00-05:00",
+   "location": "https://luma.com/event/evt-OrRRazsf6qsh5Hq",
+   "virtual": false,
+   "host": "BlueDot Impact (Luma)",
+   "source": "BlueDot Impact (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/devrwaub Hosted by Jeremy & Mmachukwu Osisioma",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Global AI-safety community event, online or outside DC."
+  }
+ ]
+}

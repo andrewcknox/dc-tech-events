@@ -1,14 +1,10 @@
 # Atlantic Council
 # https://www.atlanticcouncil.org/events/
-# fetched 2026-11-11T07:47:57.169285-05:00
+# fetched 2026-11-12T07:14:16.173747-05:00
 # tags: think-tank
 
 Upcoming events
 We convene in Washington DC, internationally, and virtually to inspire global engagement and to shape solutions to the defining challenges of our times. Through small, focused events and larger public gatherings, we inform and build connections. Register for upcoming events or subscribe to watch live on YouTube.
-Online Event
- Wed, November 11, 2026 • 11:00 am ET
- Religion, development, and peace: What is the future of global partnerships? <https://www.atlanticcouncil.org/event/religion-development-and-peace-what-is-the-future-of-global-partnerships/>
-Freedom and Prosperity <https://www.atlanticcouncil.org/issue/freedom-and-prosperity/>
 Public Event
  Thu, November 12, 2026 • 9:00 am ET
  From anthrax to AI: Biological attribution then and now <https://www.atlanticcouncil.org/event/from-anthrax-to-ai-biological-attribution-then-and-now/>
@@ -26,6 +22,13 @@ Defense Policy <https://www.atlanticcouncil.org/issue/defense-policy/>
 National Security <https://www.atlanticcouncil.org/issue/national-security/>
 Politics & Diplomacy <https://www.atlanticcouncil.org/issue/politics-diplomacy/>
 Security & Defense <https://www.atlanticcouncil.org/issue/security-defense/>
+Public Event
+ Mon, November 16, 2026 • 9:30 am ET
+ Unlocking the African diaspora’s financial capital for economic growth <https://www.atlanticcouncil.org/event/unlocking-the-african-diasporas-financial-capital-for-economic-growth/>
+Africa <https://www.atlanticcouncil.org/region/africa/>
+Digital Currencies <https://www.atlanticcouncil.org/issue/digital-currencies/>
+Economy & Business <https://www.atlanticcouncil.org/issue/economy-business/>
+Resilience & Society <https://www.atlanticcouncil.org/issue/resilience-society/>
 Load More <https://www.atlanticcouncil.org/events/?ac-page=2>
 #ACFrontPage <https://www.atlanticcouncil.org/acfrontpage/>
  harnesses the convening power and expertise of the Council’s sixteen programs and centers to spotlight the world’s most prominent leaders and the most compelling ideas across sectors. The virtual platform engages new audiences eager for nonpartisan and constructive solutions to current global challenges. This widely promoted forty-five-minute program features the Council’s most important guests and content serving as the highlight of our programming each week.

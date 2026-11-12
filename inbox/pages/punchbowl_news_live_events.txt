@@ -1,19 +1,19 @@
 # Punchbowl News live events
 # https://punchbowl.news/events/
-# fetched 2026-11-11T07:47:57.169285-05:00
+# fetched 2026-11-12T07:14:16.173747-05:00
 # tags: media
 
 Subscribe to be notified about all upcoming Punchbowl News events.
 Featured Event
 Featured Event
-Youth Mental Health Summit: Richmond, Va.
-Tuesday, November 10, 2026
+Pop-Up Conversation with Rep. Josh Gottheimer
+Tuesday, November 17, 2026
 •
 9 a.m. ET
 •
-Richmond, Va.
-Punchbowl News brought its signature brand of journalism - focused on Power. People. Politics. - to Richmond, Va. On Nov. 10, we hosted a summit on youth mental health, bringing together the policymakers who focus on understanding the many factors shaping the mental health of young people today. The event brought together stakeholders to explore the complexity of the youth mental health challenges and discuss the importance of comprehensive solutions for young people, families and their communities.
-Sign Up for Premium <https://punchbowl.news/pricing>
+Washington, D.C.
+Join Punchbowl News for a conversation with Rep. Josh Gottheimer (D-N.J.) on Tuesday, Nov. 17 at 9 a.m. ET. Punchbowl News Tech Reporter Anthony Adragna will sit down with Gottheimer to discuss how Washington and the private sector can work together to verify real people, stop bad actors and deliver safer, easier experiences that work for Americans. Afterward, Caryn Seidman Becker, chair and CEO of CLEAR, will join Punchbowl News Founder and CEO Anna Palmer for a fireside chat.
+RSVP <https://events.punchbowl.news/pop-up_Gottheimer>
 Browse
 Upcoming Events
 Go to Pop-Up Conversation with Rep. Josh Gottheimer <https://events.punchbowl.news/pop-up_Gottheimer>
