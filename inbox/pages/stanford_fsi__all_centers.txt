@@ -1,6 +1,6 @@
 # Stanford FSI (all centers)
 # https://fsi.stanford.edu/events
-# fetched 2026-11-12T07:14:16.173747-05:00
+# fetched 2026-11-13T09:10:31.448842-05:00
 # tags: bay-area, university
 
 FSI Events
@@ -12,45 +12,6 @@ Event Recordings <https://www.youtube.com/FSIStanford>
 Filter:
 Filter results
 Close
- Seminars
-Nir Halevy — How to Fix a Broken Hierarchy <https://casi.stanford.edu/events/lecture-reading/how-fix-broken-hierarchy>
-Thursday, November 12, 2026
-12:00 PM - 1:00 PM
-(Pacific)
-in-person registration <https://www.eventbrite.com/e/1998915128960?aff=oddtdtcreator>
-zoom registration <https://stanford.zoom.us/webinar/register/WN_fMY6oar6QtmNz_fAXhCAhQ>
-In-person: 
-Class of 1968 Building, Room C102, Stanford GSB
-Online:
- Via Zoom
- Speaker: 
- Nir Halevy 
- Seminars
-Jeanet Sinding Bentzen — Risky Business? Religiosity and Risk-Taking in Full-Population Danish Data <https://fsi.stanford.edu/events/jeanet-sinding-bentzen-risky-business-religiosity-and-risk-taking-full-population-danish>
-Thursday, November 12, 2026
-12:00 PM - 1:15 PM
-(Pacific)
-join via zoom <https://stanford.zoom.us/j/97375161734?pwd=OLCyIHi1xNeK6CJxEHapsnNX93Dssh.1>
-Virtual to Public. If prompted for a password, use: 123456
-Only those with an active Stanford ID with access to 
-William J. Perry Conference Room in Encina Hall,
- may attend in person.
- Speaker: 
- Jeanet Sinding Bentzen 
- Moderator: 
-Hesham Sallam <https://fsi.stanford.edu/people/hesham_sallam>
- Panel Discussions
-Delivering Humanitarian Aid in a Contested World <https://fsi.stanford.edu/events/delivering-humanitarian-aid-contested-world>
-Thursday, November 12, 2026
-4:00 PM - 6:30 PM
-(Pacific)
-Register <https://app.smartsheet.com/b/form/01a0872afab87e4fb63479be86ac5f29>
-Panels: 
-Bechtel Conference Center, Encina Hall
-Reception:
- Coit D. Blacker Lobby, Encina Hall
-Attendance is limited to active Stanford faculty, researchers, students, and staff. Registration required.
-A recording of the introduction and first panel will be posted to CDDRL's YouTube channel after the event.  
 Health Policy Seminar with Noemi Kreif - Better Estimates, Better Decisions? Individualizing Treatment with Conditional Average Treatment Effects from Randomized Trials <https://fsi.stanford.edu/events/health-policy-seminar-noemi-kreif-better-estimates-better-decisions-individualizing>
 Friday, November 13, 2026
 12:00 PM - 1:00 PM
@@ -325,3 +286,35 @@ Conference Room E-008 in Encina Hall, East,
  Ivetta Sergeeva 
  Moderator: 
 Hesham Sallam <https://fsi.stanford.edu/people/hesham_sallam>
+ Seminars
+When a “Salami Slice” Becomes a Maritime Blockade: China’s Maritime Disruptions in the Indo-Pacific and Consequences for Human Populations <https://fsi.stanford.edu/events/when-salami-slice-becomes-maritime-blockade-chinas-maritime-disruptions-indo-pacific-and>
+Thursday, December 3, 2026
+3:30 PM - 5:00 PM
+(Pacific)
+Register to attend in person <https://stanforduniversity.qualtrics.com/jfe/form/SV_06bNCPcPq05VVxY>
+Register to attend online <https://stanford.zoom.us/webinar/register/WN_afXWg6B2RSOUEZtJaL4hHQ>
+William J. Perry Conference Room 
+ Speaker: 
+Ruth Gibson <https://fsi.stanford.edu/people/ruth-gibson>
+ Lectures
+Logan Wright | Broken China: How the Economic Miracle Shattered and What it Means for the World <https://fsi.stanford.edu/events/logan-wright-broken-china-how-economic-miracle-shattered-and-what-it-means-world>
+Thursday, December 3, 2026
+4:00 PM - 5:30 PM
+(Pacific)
+Register <https://docs.google.com/forms/d/e/1FAIpQLScH3d7PK7Vwl00qmFnaeNVX-kBsfkwV1QRbgNIovh7ir6j6Ew/viewform>
+Shultz Auditorium, 
+George P. Shultz Building <https://www.hoover.org/shultzbuilding>
+, Hoover Institution
+ Speaker: 
+ Logan Wright, Partner, Rhodium Group 
+Health Policy Seminar with Nathan Lo - Measles Re-emergence Amid Declining Vaccination in the United States <https://fsi.stanford.edu/events/health-policy-seminar-nathan-lo-measles-re-emergence-amid-declining-vaccination-united>
+Friday, December 4, 2026
+12:00 PM - 1:00 PM
+(Pacific)
+Health Policy Seminars 
+are hybrid events open to the Stanford community. For more information, please reach out to 
+healthpolicy-comms@stanford.edu
+Encina Commons, Room 119
+Department of Health Policy/Center for Health Policy   
+615 Crothers Way, Stanford
+Lunch will be provided on a first-come, first-served basis for in-person attendees.

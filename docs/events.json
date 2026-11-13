@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-12T07:48:14-05:00",
- "today": "2026-11-12",
- "window_start": "2026-11-12",
+ "generated_at": "2026-11-13T09:19:44-05:00",
+ "today": "2026-11-13",
+ "window_start": "2026-11-13",
  "window_days": 14,
  "map_center": [
   38.905,
@@ -4325,6 +4325,33 @@
    "where": "Hudson Institute, 1201 Pennsylvania Ave NW"
   },
   {
+   "id": 536,
+   "title": "AI and Economic Security | Betting on America",
+   "start": "2026-11-13T10:00:00-05:00",
+   "end": "2026-11-13T11:00:00-05:00",
+   "host": "CSIS",
+   "source": "daily page scan",
+   "location": null,
+   "virtual": true,
+   "url": "https://www.csis.org/events/ai-and-economic-security-betting-america",
+   "topics": [
+    "AI",
+    "industrial-policy"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "CSIS Economic Security and Technology recap of the year's AI policy debate; online.",
+   "description": "Special episode of Betting on America looking back on a year in which AI moved from a technology story to a policy and political issue, with insights from government, business, academia and investors.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "10:00 AM–11:00 AM",
+   "where": "Virtual"
+  },
+  {
    "id": 469,
    "title": "Contested Orbits: Wargaming at the Intersection of Cyber and Space",
    "start": "2026-11-13T12:00:00-05:00",
@@ -4536,6 +4563,36 @@
    "where": "FDD, 1701 Pennsylvania Ave NW, Washington, DC"
   },
   {
+   "id": 537,
+   "title": "CMMC on Hold: Charting a Path Forward",
+   "start": "2026-11-16T00:00:00-05:00",
+   "end": null,
+   "host": "CSIS",
+   "source": "daily page scan",
+   "location": null,
+   "virtual": true,
+   "url": "https://www.csis.org/events/cmmc-hold-charting-path-forward",
+   "topics": [
+    "cyber",
+    "industrial-policy"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Defense-contractor cybersecurity rules are a live cyber-policy fight; short online episode.",
+   "description": "All About the Base episode: Jerry McGinn and PSC president Stephanie Sanok Kostro on DoD's CMMC pause, compliance costs, and cybersecurity across the defense industrial base.",
+   "speakers": [
+    "Jerry McGinn",
+    "Stephanie Sanok Kostro"
+   ],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "time TBD",
+   "where": "Virtual"
+  },
+  {
    "id": 97,
    "title": "Careers in Technology and National Security",
    "start": "2026-11-16T12:30:00-05:00",
@@ -4619,6 +4676,34 @@
    "in_dc": true,
    "time": "6:00 PM–8:00 PM",
    "where": "International Student House of Washington DC, 1825 R St NW, Washington, DC 20009, USA"
+  },
+  {
+   "id": 532,
+   "title": "Nov. 16 Flash Panel: Economic Espionage in Silicon Valley: Experts Discuss the Obvious and the Not-So-Obvious",
+   "start": "2026-11-16T15:30:00-08:00",
+   "end": "2026-11-16T17:00:00-08:00",
+   "host": "Berkeley Institute of International Studies",
+   "source": "Berkeley Institute of International Studies",
+   "location": "223 Philosophy Hall",
+   "virtual": false,
+   "url": "https://events.berkeley.edu/iis/event/338186-nov-16-flash-panel-economic-espionage-in-silicon",
+   "topics": [
+    "China",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "fit": 4,
+   "why": "Panel on economic espionage in Silicon Valley: tech security and China, on the Berkeley campus.",
+   "description": "RSVP Link:https://luma.com/93e8fcmr (https://luma.com/93e8fcmr)About Event ​From indictments to arrests, headlines about spies operating in the Bay Area is nothing new. The world's most valuable technology is built here, and foreign intelligence services know it. Why then, does it feel different now?",
+   "speakers": [],
+   "lat": 37.871,
+   "lon": -122.2582,
+   "in_dc": true,
+   "time": "3:30 PM–5:00 PM PT",
+   "where": "223 Philosophy Hall"
   },
   {
    "id": 407,
@@ -5189,6 +5274,59 @@
    "where": "Milken Center for Advancing the American Dream, 1503 Pennsylvania Ave NW, Washington, DC"
   },
   {
+   "id": 539,
+   "title": "Hearing: Worldwide Threats to the Homeland: 25 Years After 9/11",
+   "start": "2026-11-18T10:00:00-05:00",
+   "end": null,
+   "host": "House Committee on Homeland Security",
+   "source": "daily page scan",
+   "location": "310 Cannon House Office Building, Washington, DC",
+   "virtual": false,
+   "url": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=119589",
+   "topics": [
+    "cyber",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "hill"
+   ],
+   "fit": 3,
+   "why": "Annual threats hearing where cyber and China tech threats usually feature; public, on the Hill.",
+   "description": "Annual worldwide threats hearing of the House Homeland Security Committee; typically covers cyber, China and emerging-technology threats alongside terrorism.",
+   "speakers": [],
+   "lat": 38.8899,
+   "lon": -77.0091,
+   "in_dc": true,
+   "time": "10:00 AM",
+   "where": "310 Cannon House Office Building, Washington, DC"
+  },
+  {
+   "id": 540,
+   "title": "Hearing: Protecting Main Street, Securing America: Examining Cybersecurity Challenges for Small Business Contractors",
+   "start": "2026-11-18T10:00:00-05:00",
+   "end": null,
+   "host": "House Small Business Subcommittee on Contracting and Infrastructure",
+   "source": "daily page scan",
+   "location": "2360 Rayburn House Office Building, Washington, DC",
+   "virtual": false,
+   "url": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=119597",
+   "topics": [
+    "cyber"
+   ],
+   "tags": [
+    "hill"
+   ],
+   "fit": 3,
+   "why": "Hill hearing on cyber rules for defense and federal contractors; ties to the CMMC debate.",
+   "description": "Subcommittee hearing on cybersecurity compliance burdens (e.g. CMMC) and threats facing small-business federal contractors.",
+   "speakers": [],
+   "lat": 38.8899,
+   "lon": -77.0091,
+   "in_dc": true,
+   "time": "10:00 AM",
+   "where": "2360 Rayburn House Office Building, Washington, DC"
+  },
+  {
    "id": 276,
    "title": "MSBR LUNCHEON WITH OSC'S TAYLOR JORDAN, Nov 18, 2026, Greenbelt, MD, 11:30 am-1:00 pm ET",
    "start": "2026-11-18T11:30:00-05:00",
@@ -5470,31 +5608,61 @@
    "where": "Washington, DC"
   },
   {
-   "id": 443,
-   "title": "House Select Committee on the CCP hearing (title TBA)",
-   "start": "2026-11-19T10:00:00-05:00",
-   "end": "2026-11-19T12:00:00-05:00",
-   "host": "House Select Committee on the CCP",
+   "id": 541,
+   "title": "Senate HSGAC nominations hearing: Michael LoSapio to be CISA Director and others",
+   "start": "2026-11-19T09:30:00-05:00",
+   "end": null,
+   "host": "Senate Committee on Homeland Security and Governmental Affairs",
    "source": "daily page scan",
-   "location": "HVC 210, U.S. Capitol, Washington, DC",
+   "location": "342 Dirksen Senate Office Building, Washington, DC",
    "virtual": false,
-   "url": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=119593",
+   "url": "https://www.congress.gov/committee-schedule/daily/2026/11/19",
    "topics": [
-    "China",
-    "tech-geopolitics"
+    "cyber"
    ],
    "tags": [
     "hill"
    ],
    "fit": 4,
-   "why": "The China Select Committee's hearings are usually on tech competition and export controls.",
-   "description": "Full committee hearing of the House China Select Committee; topic not yet posted. Recent hearings covered import controls, research security and AI theft.",
-   "speakers": [],
-   "lat": null,
-   "lon": null,
-   "in_dc": false,
-   "time": "10:00 AM–12:00 PM",
-   "where": "HVC 210, U.S. Capitol, Washington, DC"
+   "why": "Confirmation hearing for the next CISA director: a direct read on federal cyber policy.",
+   "description": "Hearing to examine nominations including Michael LoSapio of New Jersey to be Director of the Cybersecurity and Infrastructure Security Agency.",
+   "speakers": [
+    "Michael LoSapio"
+   ],
+   "lat": 38.8899,
+   "lon": -77.0091,
+   "in_dc": true,
+   "time": "9:30 AM",
+   "where": "342 Dirksen Senate Office Building, Washington, DC"
+  },
+  {
+   "id": 538,
+   "title": "Full Committee Hearing - Weathering the Solar Storm: Advancing America's Space Weather Capabilities",
+   "start": "2026-11-19T10:00:00-05:00",
+   "end": null,
+   "host": "House Science, Space, and Technology Committee",
+   "source": "daily page scan",
+   "location": "2318 Rayburn House Office Building, Washington, DC",
+   "virtual": false,
+   "url": "https://science.house.gov/2026/11/weathering-the-solar-storm-advancing-america-s-space-weather-capabilities",
+   "topics": [
+    "space"
+   ],
+   "tags": [
+    "hill"
+   ],
+   "fit": 3,
+   "why": "House Science hearing on space weather capabilities; open to the public on the Hill.",
+   "description": "Hearing on US space weather forecasting and resilience with NASA Heliophysics director Joseph Westlake and NWS director Ken Graham.",
+   "speakers": [
+    "Joseph Westlake",
+    "Ken Graham"
+   ],
+   "lat": 38.8899,
+   "lon": -77.0091,
+   "in_dc": true,
+   "time": "10:00 AM",
+   "where": "2318 Rayburn House Office Building, Washington, DC"
   },
   {
    "id": 389,
@@ -5637,6 +5805,34 @@
    "where": "Brookings Institution, 1775 Massachusetts Ave NW"
   },
   {
+   "id": 542,
+   "title": "Hearing: The Hidden Chokepoint: China's Dominance in Pharmaceuticals",
+   "start": "2026-11-19T14:00:00-05:00",
+   "end": null,
+   "host": "House Foreign Affairs Subcommittee on East Asia and the Pacific",
+   "source": "daily page scan",
+   "location": "2200 Rayburn House Office Building, Washington, DC",
+   "virtual": false,
+   "url": "https://www.congress.gov/committee-schedule/daily/2026/11/19",
+   "topics": [
+    "China",
+    "biotech",
+    "industrial-policy"
+   ],
+   "tags": [
+    "hill"
+   ],
+   "fit": 3,
+   "why": "China supply-chain leverage in pharma/biotech, a growing strand of tech-competition policy.",
+   "description": "Subcommittee hearing on US dependence on China for pharmaceuticals and active ingredients as a supply-chain and security chokepoint.",
+   "speakers": [],
+   "lat": 38.8899,
+   "lon": -77.0091,
+   "in_dc": true,
+   "time": "2:00 PM",
+   "where": "2200 Rayburn House Office Building, Washington, DC"
+  },
+  {
    "id": 408,
    "title": "National Security & Investing in China Tech",
    "start": "2026-11-19T15:00:00-08:00",
@@ -5692,6 +5888,33 @@
    "where": "Hyatt Regency Crystal City, Arlington, VA"
   },
   {
+   "id": 443,
+   "title": "House Select Committee on the CCP hearing (title TBA)",
+   "start": "2026-11-20T08:30:00-05:00",
+   "end": "2026-11-20T10:30:00-05:00",
+   "host": "House Select Committee on the CCP",
+   "source": "daily page scan",
+   "location": "210 Cannon House Office Building, Washington, DC",
+   "virtual": false,
+   "url": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=119593",
+   "topics": [
+    "China",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "hill"
+   ],
+   "fit": 4,
+   "why": "The China Select Committee's hearings are usually on tech competition and export controls.",
+   "description": "House China Select Committee hearing, rescheduled from Nov 19 to Nov 20, 8:30-10:30 am; title not yet posted.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "8:30 AM–10:30 AM",
+   "where": "210 Cannon House Office Building, Washington, DC"
+  },
+  {
    "id": 429,
    "title": "If China Seizes Taiwan: The Implications for the United States and the World",
    "start": "2026-11-20T09:15:00-05:00",
@@ -5718,6 +5941,34 @@
    "in_dc": false,
    "time": "9:15 AM–12:45 PM",
    "where": "Global Taiwan Institute, Washington, DC"
+  },
+  {
+   "id": 530,
+   "title": "The Second Berkeley Global Conference on AI and IP: Human Intelligence, Human Creativity and Human Dignity in the AI Era",
+   "start": "2026-11-20T08:50:00-08:00",
+   "end": "2026-11-20T18:20:00-08:00",
+   "host": "Berkeley Law BCLT",
+   "source": "Berkeley Law BCLT",
+   "location": "Faculty Club (Heyns Room) & Virtual (Zoom), Minor Ln, UC Berkeley, Berkeley, CA, 94720, United States",
+   "virtual": true,
+   "url": "https://www.law.berkeley.edu/event/the-second-berkeley-global-conference-on-ai-and-ip-human-intelligence-human-creativity-and-human-dignity-in-the-ai-era/",
+   "topics": [
+    "AI",
+    "data/privacy"
+   ],
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "fit": 3,
+   "why": "Academic conference on AI and intellectual property law; hybrid from Berkeley.",
+   "description": "The Second Berkeley Global Conference on AI and IP builds upon the success of our inaugural 2025 conference. As the second gathering in an annual conference series, it reflects our long-term commitment to sustained global dialogue on how AI and",
+   "speakers": [],
+   "lat": 37.8719,
+   "lon": -122.2585,
+   "in_dc": true,
+   "time": "8:50 AM–6:20 PM PT",
+   "where": "Faculty Club (Heyns Room) & Virtual (Zoom), Minor Ln, UC Berkeley, Berkeley, CA, 94720, United States (+ virtual)"
   },
   {
    "id": 146,
@@ -5801,6 +6052,33 @@
    "in_dc": false,
    "time": "5:30 PM–7:30 PM",
    "where": "https://luma.com/event/evt-KYFlah0iPDakBnE"
+  },
+  {
+   "id": 545,
+   "title": "NVIDIA GTC Washington, D.C.",
+   "start": "2026-11-30T00:00:00-05:00",
+   "end": "2026-12-03T00:00:00-05:00",
+   "host": "NVIDIA",
+   "source": "daily page scan",
+   "location": "Washington, DC",
+   "virtual": false,
+   "url": "https://luma.com/dc",
+   "topics": [
+    "AI",
+    "semiconductors"
+   ],
+   "tags": [
+    "public"
+   ],
+   "fit": 3,
+   "why": "Big AI-industry gathering in DC with policy tracks and side events; mostly paid.",
+   "description": "NVIDIA's DC conference on AI, accelerated computing and public-sector innovation, Nov 30-Dec 3, with policymaker sessions and many side events (Luma 'NVIDIA GTC DC' calendar).",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "time TBD",
+   "where": "Washington, DC"
   },
   {
    "id": 212,
@@ -6111,6 +6389,68 @@
    "where": "Virtual"
   },
   {
+   "id": 549,
+   "title": "Logan Wright | Broken China: How the Economic Miracle Shattered and What it Means for the World",
+   "start": "2026-12-03T16:00:00-08:00",
+   "end": "2026-12-03T17:30:00-08:00",
+   "host": "Stanford FSI / SCCEI",
+   "source": "daily page scan",
+   "location": "Shultz Auditorium, George P. Shultz Building, Hoover Institution, Stanford, CA",
+   "virtual": false,
+   "url": "https://fsi.stanford.edu/events/logan-wright-broken-china-how-economic-miracle-shattered-and-what-it-means-world",
+   "topics": [
+    "China",
+    "industrial-policy"
+   ],
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "fit": 3,
+   "why": "China's economic trajectory frames its tech and industrial policy; public lecture at Stanford.",
+   "description": "Rhodium Group partner Logan Wright on his book about the end of China's growth model and its global consequences.",
+   "speakers": [
+    "Logan Wright"
+   ],
+   "lat": 37.4272,
+   "lon": -122.1663,
+   "in_dc": true,
+   "time": "4:00 PM–5:30 PM PT",
+   "where": "Shultz Auditorium, George P. Shultz Building, Hoover Institution, Stanford, CA"
+  },
+  {
+   "id": 548,
+   "title": "Securing Freedom: Innovation, Industry, and the Future of Deterrence",
+   "start": "2026-12-03T16:30:00-08:00",
+   "end": null,
+   "host": "Hoover Institution",
+   "source": "daily page scan",
+   "location": "Hoover Institution, Stanford University, Stanford, CA",
+   "virtual": false,
+   "url": "https://www.hoover.org/events/securing-freedom-innovation-industry-and-future-deterrence",
+   "topics": [
+    "tech-geopolitics",
+    "industrial-policy",
+    "AI"
+   ],
+   "tags": [
+    "bay-area",
+    "think-tank"
+   ],
+   "fit": 4,
+   "why": "Defense-tech and deterrence with a leading industry voice, at Stanford.",
+   "description": "Advance screening of 'Deterrence: Winning the 2nd Cold War' and a conversation with Palantir CTO Shyam Sankar and H.R. McMaster.",
+   "speakers": [
+    "Shyam Sankar",
+    "H.R. McMaster"
+   ],
+   "lat": 37.4272,
+   "lon": -122.1663,
+   "in_dc": true,
+   "time": "4:30 PM PT",
+   "where": "Hoover Institution, Stanford University, Stanford, CA"
+  },
+  {
    "id": 219,
    "title": "18th GW China Conference",
    "start": "2026-12-04T09:00:00-05:00",
@@ -6191,6 +6531,32 @@
    "in_dc": false,
    "time": "1:00 PM–2:00 PM",
    "where": "location TBD"
+  },
+  {
+   "id": 544,
+   "title": "Architects of the New Economy",
+   "start": "2026-12-08T00:00:00-05:00",
+   "end": null,
+   "host": "Semafor",
+   "source": "daily page scan",
+   "location": "Washington, DC",
+   "virtual": false,
+   "url": "https://www.semafor.com/events",
+   "topics": [
+    "industrial-policy"
+   ],
+   "tags": [
+    "media"
+   ],
+   "fit": 3,
+   "why": "On-record policymakers on the economic and tech agenda after the midterms; invite request needed.",
+   "description": "Semafor convening on the post-midterm power players shaping American industry, technology, markets and government. Invitation by request.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "time TBD",
+   "where": "Washington, DC"
   },
   {
    "id": 240,
@@ -6301,6 +6667,34 @@
    "in_dc": false,
    "time": "time TBD",
    "where": "location TBD"
+  },
+  {
+   "id": 543,
+   "title": "2026 Aspen Security Forum: DC Edition",
+   "start": "2026-12-09T00:00:00-05:00",
+   "end": null,
+   "host": "Aspen Institute",
+   "source": "daily page scan",
+   "location": "Washington, DC",
+   "virtual": false,
+   "url": "https://www.aspeninstitute.org/our-work/events/",
+   "topics": [
+    "tech-geopolitics",
+    "cyber",
+    "AI"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 4,
+   "why": "Senior officials on record about security and technology competition, in DC.",
+   "description": "The Washington edition of the Aspen Security Forum, a day of on-record conversations with senior national security officials and experts.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "time TBD",
+   "where": "Washington, DC"
   },
   {
    "id": 251,

@@ -1,21 +1,12 @@
 # Simons Institute (public lectures)
 # https://simons.berkeley.edu/events
-# fetched 2026-11-12T07:14:16.173747-05:00
+# fetched 2026-11-13T09:10:31.448842-05:00
 # tags: bay-area, university
 
 Public Lectures
  All Public Lectures
 Upcoming
 Past
-How the Brain Understands the World: Implications for AI and Robotics <https://simons.berkeley.edu/events/how-brain-understands-world-implications-ai-robotics>
-Thursday, Nov. 12, 2026
- | 
-6 – 8 p.m.
-How the Brain Understands the World: Implications for AI and Robotics <https://simons.berkeley.edu/events/how-brain-understands-world-implications-ai-robotics>
-Calvin Lab auditorium
-Speakers: 
-Jeff Hawkins (Thousand Brains Project) <https://thousandbrains.org/>
-ofHow the Brain Understands the World: Implications for AI and Robotics <https://simons.berkeley.edu/events/how-brain-understands-world-implications-ai-robotics>
 Accelerating Research and Engineering with AI | Theoretically Speaking <https://simons.berkeley.edu/events/accelerating-research-engineering-ai-theoretically-speaking>
 Thursday, Nov. 19, 2026
  | 
@@ -43,6 +34,15 @@ Calvin Lab auditorium
 Speakers: 
 Shayan Oveis Gharan (University of Washington) <https://homes.cs.washington.edu/~shayan/>
 ofExistence of Thin Trees | Richard M. Karp Distinguished Lecture <https://simons.berkeley.edu/events/existence-thin-trees-richard-m-karp-distinguished-lecture>
+How the Brain Understands the World: Implications for AI and Robotics <https://simons.berkeley.edu/events/how-brain-understands-world-implications-ai-robotics>
+Thursday, Nov. 12, 2026
+ | 
+6 – 8 p.m.
+How the Brain Understands the World: Implications for AI and Robotics <https://simons.berkeley.edu/events/how-brain-understands-world-implications-ai-robotics>
+Calvin Lab auditorium
+Speakers: 
+Jeff Hawkins (Thousand Brains Project) <https://thousandbrains.org/>
+ofHow the Brain Understands the World: Implications for AI and Robotics <https://simons.berkeley.edu/events/how-brain-understands-world-implications-ai-robotics>
 What is Intelligence? <https://simons.berkeley.edu/events/what-intelligence>
 Wednesday, Oct. 21, 2026
  | 
@@ -130,16 +130,6 @@ Speakers:
 Katrina Ligett (Hebrew University of Jerusalem) <https://www.cs.huji.ac.il/~katrina/>
 ofLet’s Stop Leaving Money on the Table | Richard M. Karp Distinguished Lecture <https://simons.berkeley.edu/events/lets-stop-leaving-money-table-richard-m-karp-distinguished-lecture>
 Video <https://youtube.com/live/NUpX4Cf_adI?feature=share>
-AI’s Models of the World, and Ours | Theoretically Speaking <https://simons.berkeley.edu/events/ais-models-world-ours-theoretically-speaking>
-Tuesday, Dec. 9, 2025
- | 
-5:30 – 7 p.m.
-AI’s Models of the World, and Ours | Theoretically Speaking <https://simons.berkeley.edu/events/ais-models-world-ours-theoretically-speaking>
-Calvin Lab auditorium
-Speakers: 
-Jon Kleinberg (Cornell University) <http://www.cs.cornell.edu/home/kleinber/>
-ofAI’s Models of the World, and Ours | Theoretically Speaking <https://simons.berkeley.edu/events/ais-models-world-ours-theoretically-speaking>
-Video <https://www.youtube.com/live/siu_r8j5-sg>
 Series
 Richard M. Karp Distinguished Lectures <https://simons.berkeley.edu/programs-events/public-lectures/richard-m-karp-distinguished-lectures>
 Theoretically Speaking <https://simons.berkeley.edu/programs-events/public-lectures/theoretically-speaking>

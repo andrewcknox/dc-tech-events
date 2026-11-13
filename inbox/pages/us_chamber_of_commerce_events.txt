@@ -1,6 +1,6 @@
 # US Chamber of Commerce events
 # https://www.uschamber.com/events
-# fetched 2026-11-12T07:14:16.173747-05:00
+# fetched 2026-11-13T09:10:31.448842-05:00
 # tags: industry
 
 Events
@@ -49,9 +49,4 @@ Safety, Upgrades, Workforce Are Center Stage at Global Aerospace Summit <https:/
 Taxes <https://www.uschamber.com/taxes>
 Tax Reform Takes Center Stage at Tax Policy Summit <https://www.uschamber.com/taxes/permanent-tax-reform-will-prevent-a-historic-tax-hike>
  Upcoming Events
-Workforce
-Hiring Our Heroes Awards Gala
-Thursday, November 12
-06:00 PM EST - 10:00 PM EST
-U.S. Chamber of Commerce, 1615 H St NW, Washington, DC 20062
 Security and Resilience2026 Business Risk Innovation ForumMonday, November 1609:00 AM EST - 09:00 AM ESTU.S. Chamber of Commerce, 1615 H St NW, Washington, DC 20062Learn More <https://events.uschamberfoundation.org/businessriskintelligence?ref=uschamber-site-calendar&utm_source=uschamber.com&utm_medium=referral&utm_campaign=events_calendar>

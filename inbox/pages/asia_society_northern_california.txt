@@ -1,6 +1,6 @@
 # Asia Society Northern California
 # https://asiasociety.org/northern-california/events
-# fetched 2026-11-12T07:14:16.173747-05:00
+# fetched 2026-11-13T09:10:31.448842-05:00
 # tags: bay-area, think-tank
 
 Upcoming Events <https://asiasociety.org/northern-california/events>

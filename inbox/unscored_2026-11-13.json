@@ -1,0 +1,143 @@
+{
+ "instructions": "Fill fit (1-5), topics (from the DAILY.md list) and why for each event; add tags (e.g. bay-area) if needed; then `uv run dte score apply <this file>`. Leave fit null to skip.",
+ "events": [
+  {
+   "id": 532,
+   "title": "Nov. 16 Flash Panel: Economic Espionage in Silicon Valley: Experts Discuss the Obvious and the Not-So-Obvious",
+   "start": "2026-11-16T18:30:00-05:00",
+   "location": "223 Philosophy Hall",
+   "virtual": false,
+   "host": "Berkeley Institute of International Studies",
+   "source": "Berkeley Institute of International Studies",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "RSVP Link:https://luma.com/93e8fcmr (https://luma.com/93e8fcmr)About Event ​From indictments to arrests, headlines about spies operating in the Bay Area is nothing new. The world's most valuable technology is built here, and foreign intelligence services know it. Why then, does it feel different now?",
+   "url": "https://events.berkeley.edu/iis/event/338186-nov-16-flash-panel-economic-espionage-in-silicon",
+   "fit": 4,
+   "topics": [
+    "China",
+    "tech-geopolitics"
+   ],
+   "why": "Panel on economic espionage in Silicon Valley: tech security and China, on the Berkeley campus."
+  },
+  {
+   "id": 534,
+   "title": "mox tea time: \"do you have opinions about the lighting\" edition",
+   "start": "2026-11-17T19:30:00-05:00",
+   "location": "Mox, 1680 Mission St, San Francisco, CA 94103, USA",
+   "virtual": false,
+   "host": "Mox SF (Luma)",
+   "source": "Mox SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/mox-o06o Address: Mox San Francisco, CA United States Hosted by sai",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-nfkEvDFat3zN1fe",
+   "fit": 1,
+   "topics": [],
+   "why": "Social tea time; not a policy event."
+  },
+  {
+   "id": 530,
+   "title": "The Second Berkeley Global Conference on AI and IP: Human Intelligence, Human Creativity and Human Dignity in the AI Era",
+   "start": "2026-11-20T11:50:00-05:00",
+   "location": "Faculty Club (Heyns Room) & Virtual (Zoom), Minor Ln, UC Berkeley, Berkeley, CA, 94720, United States",
+   "virtual": true,
+   "host": "Berkeley Law BCLT",
+   "source": "Berkeley Law BCLT",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "The Second Berkeley Global Conference on AI and IP builds upon the success of our inaugural 2025 conference. As the second gathering in an annual conference series, it reflects our long-term commitment to sustained global dialogue on how AI and",
+   "url": "https://www.law.berkeley.edu/event/the-second-berkeley-global-conference-on-ai-and-ip-human-intelligence-human-creativity-and-human-dignity-in-the-ai-era/",
+   "fit": 3,
+   "topics": [
+    "AI",
+    "data/privacy"
+   ],
+   "why": "Academic conference on AI and intellectual property law; hybrid from Berkeley."
+  },
+  {
+   "id": 529,
+   "title": "Fireside Chat with Hon. John Jovanovic, President & Chairman, EXIM Bank",
+   "start": "2026-12-01T17:30:00-05:00",
+   "location": "1957 E Street NW, 7th Floor",
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [
+    "university",
+    "gwu"
+   ],
+   "description": "“Global Governance in a Fragmented World” fireside chat featuring Hon. John Jovanovic President & Chairman, Export-Import Bank of the United States Join us for a fireside chat with the Honorable John Jovanovic, President and Chairman of the Export-Import Bank of",
+   "url": "https://calendar.gwu.edu/event/fireside-chat-with-hon-john-jovanovic-president-chairman-exim-bank",
+   "fit": 2,
+   "topics": [
+    "industrial-policy"
+   ],
+   "why": "EXIM Bank chairman on export finance; trade and industrial policy more than technology."
+  },
+  {
+   "id": 533,
+   "title": "First Encounters with AI",
+   "start": "2026-12-03T13:00:00-05:00",
+   "location": "VIRTUAL",
+   "virtual": true,
+   "host": "Internet Archive",
+   "source": "Internet Archive",
+   "tags": [
+    "bay-area",
+    "public"
+   ],
+   "description": "First Encounters with AI gathers some of today’s most original literary minds to explore one of the central artistic and cultural questions of our era: What happens to writing when language is no longer used only by humans? As large",
+   "url": "https://blog.archive.org/event/first-encounters-with-ai/",
+   "fit": 2,
+   "topics": [
+    "AI"
+   ],
+   "why": "Literary conversation about AI and culture; little policy content."
+  },
+  {
+   "id": 535,
+   "title": "Venue Placeholder – Spaceship (Jan 11) – Lifespan.io Longevity Biotech Pitch Day - Members Only - Members Only",
+   "start": "2027-01-11T17:30:00-05:00",
+   "location": "Frontier Tower @ Spaceship 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/venue-placeholder-spaceship-jan-11-lifes Address: Frontier Tower @ Spaceship 995 Market Street, San Francisco Hosted by Frontier Tower & Xenofon",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [],
+   "why": "Members-only biotech pitch day placeholder; not policy."
+  },
+  {
+   "id": 531,
+   "title": "Book Talk: Chop Fry Watch Learn: Fu-Pei Mei and the Making of Modern Chinese Food | Lecture by Michelle King",
+   "start": "2027-05-07T19:00:00-04:00",
+   "location": "370 Dwinelle Hall, UC Berkeley",
+   "virtual": false,
+   "host": "Berkeley Center for Chinese Studies",
+   "source": "Berkeley Center for Chinese Studies",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "Fu Pei-mei (1931-2004), Taiwan's beloved and pioneering postwar cook book author and television celebrity, was often called the \"Julia Child of Chinese cooking.\" Fu appeared continuously on television for forty years, wrote dozens of best-selling Chinese cookbooks, owned a successful",
+   "url": "https://events.berkeley.edu/ccs/event/338170-book-talk-chop-fry-watch-learn-fu-pei-mei-and-the",
+   "fit": 1,
+   "topics": [],
+   "why": "Food-history book talk; off-topic."
+  }
+ ]
+}

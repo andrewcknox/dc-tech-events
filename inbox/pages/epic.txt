@@ -1,6 +1,6 @@
 # EPIC
 # https://epic.org/events/feed/
-# fetched 2026-11-12T07:14:16.173747-05:00
+# fetched 2026-11-13T09:10:31.448842-05:00
 # tags: civil-society
 
 ### Broadband and AI in the Next Congress

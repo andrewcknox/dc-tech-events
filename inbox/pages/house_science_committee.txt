@@ -1,7 +1,12 @@
 # House Science Committee
 # https://science.house.gov/?a=rss.feed
-# fetched 2026-11-12T07:14:16.173747-05:00
+# fetched 2026-11-13T09:10:31.448842-05:00
 # tags: hill
+
+### Full Committee Hearing - Weathering the Solar Storm: Advancing America’s Space Weather Capabilities
+Link: https://science.house.gov/2026/11/weathering-the-solar-storm-advancing-america-s-space-weather-capabilities
+Published: Thu, 323 Nov 2026 10:00:00 EST
+
 
 ### Chairman Babin, Ranking Member Lofgren Applaud Senate Passage of Bipartisan Weather Act Reauthorization
 Link: https://science.house.gov/2026/11/chairman-babin-ranking-member-lofgren-applaud-senate-passage-of-bipartisan-weather-act-reauthorization
@@ -373,48 +378,3 @@ Makes conforming and technical changes to the bill.
 Amendment #104 to the ANS to H.R. 8981, offered by Rep. McClain Delaney (D-MD) <https://republicans-science.house.gov/_cache/files/5/e/5ec69ae5-0dc7-43e7-85ca-51df0d104ffd/A65F667A75837AB193BB3375A225DDD1F0D29E3C5D9634487A8AFEB5EFDAC297.mcclmd-104-xml.pdf>
  - withdrawn
 This amendment would authorize funding for the biometrology program established by the bill.
-
-### Chairman Babin Applauds Committee Passage of Bipartisan Legislation
-Link: https://science.house.gov/2026/7/chairman-babin-applauds-committee-passage-of-bipartisan-legislation
-Published: Tue, 202 Jul 2026 12:00:00 EST
-(Washington, D.C.) –
- Today, House Science, Space, and Technology Committee 
-Chairman Brian Babin
- released the following statement after the Committee 
-passed <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001i5SQKf6i7-m_MPiaxi2T38hmzGXzQe3BOhayvvzscYR6OZZFO4iExygc7jHir5LfJlUuvbLCJf6vtT5_V7U9ZsD5v4NH0zHMvU8IgwVAfyVXVJkAKesWbUQAk53krZg7V2Nib6C04ogg5B5-7TCgKOTxQHQs_it4Ed1zCPV9jpY-zQMYVFK6V4mOU-WLKAFAW3np9UxopKU2vj6kp2JviPl-o229eGOmISs7MBJpps25h5nblk_Qjg==&c=ScPVxCDoSbwpVVW-1MySP1Mb8PR-Bn3GEC8KGlY1h45B0XMbIF542Q==&ch=c7gbQxRilGn73L6JVzWpMx0YjuFp7Z-YV5-LPdmnYCL4NHS8ljPeWg==__;!!BSgrhSFG!GBQcrbsLbjtXDUnNYZUMR_xPCnxgZXelQ77IYuBcTjfMiRj-Q7MS5ik-qJkCB9_zEHgsoWgliKzHc805ZzUMvAt3JUULeOfQn9pnApSMw7lOQg$>
- four bipartisan bills to strengthen America's research enterprise, improve public safety, support domestic energy development, and reinforce U.S. leadership in critical and emerging technologies. The Committee approved 
-H.R. 3168, the National Earthquake Hazards Reduction Program Reauthorization Act of 2025 <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001i5SQKf6i7-m_MPiaxi2T38hmzGXzQe3BOhayvvzscYR6OZZFO4iExygc7jHir5LfQQCjH7NZv58eX8mKkaYcRJMK9-rOshvanV7rzIJ9_y7DXDfkLYXu4eWSjt0rXaBGAAG1rKfh-ddgKFF05lyXegxoMYK3wVxN-SwcnOrng5GvWae2jIArOgHWjF_nGoAvAxEijbLNalP8sH0AFbq4rWydkAke1uWL_OJ_A5vSvvpfIzZ3UPILo9iOjwg3pHKlHjaMZUglHY1okfpfkKXdM7QxYzRNOKAZ&c=ScPVxCDoSbwpVVW-1MySP1Mb8PR-Bn3GEC8KGlY1h45B0XMbIF542Q==&ch=c7gbQxRilGn73L6JVzWpMx0YjuFp7Z-YV5-LPdmnYCL4NHS8ljPeWg==__;!!BSgrhSFG!GBQcrbsLbjtXDUnNYZUMR_xPCnxgZXelQ77IYuBcTjfMiRj-Q7MS5ik-qJkCB9_zEHgsoWgliKzHc805ZzUMvAt3JUULeOfQn9pnApRxwinl6A$>
-; 
-H.R. 8437, the Geo POWER Act <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001i5SQKf6i7-m_MPiaxi2T38hmzGXzQe3BOhayvvzscYR6OZZFO4iExygc7jHir5LfAyNBhJetyTXb4GFN0ilqTSYy1D3DPuew0cbzoO5jB0KRJG_B407T5qbRMsaXyXFGh8LgWFdzJrslxeHpbQK-wwcFT58UoVdaoyb0tAL4blNThQY-brJVqTKUl21ixgDZucWaIOarYS8=&c=ScPVxCDoSbwpVVW-1MySP1Mb8PR-Bn3GEC8KGlY1h45B0XMbIF542Q==&ch=c7gbQxRilGn73L6JVzWpMx0YjuFp7Z-YV5-LPdmnYCL4NHS8ljPeWg==__;!!BSgrhSFG!GBQcrbsLbjtXDUnNYZUMR_xPCnxgZXelQ77IYuBcTjfMiRj-Q7MS5ik-qJkCB9_zEHgsoWgliKzHc805ZzUMvAt3JUULeOfQn9pnApSO17iPqg$>
-;
-H.R. 9326, the Utilize Standards for All Act <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001i5SQKf6i7-m_MPiaxi2T38hmzGXzQe3BOhayvvzscYR6OZZFO4iExygc7jHir5LfNv1rJPlv0zC-ouH65fxkTucDj1n9rEvMvy4XLU6m5UXi5qyiMQiyxcq2eBff284pG6lbQUd5xjzfot4q4Fz7i7cJpAdp2z2rlERfvgxTy0BQZTv-UET5H5EXga4Gvn1mCGkoiZmD5fU=&c=ScPVxCDoSbwpVVW-1MySP1Mb8PR-Bn3GEC8KGlY1h45B0XMbIF542Q==&ch=c7gbQxRilGn73L6JVzWpMx0YjuFp7Z-YV5-LPdmnYCL4NHS8ljPeWg==__;!!BSgrhSFG!GBQcrbsLbjtXDUnNYZUMR_xPCnxgZXelQ77IYuBcTjfMiRj-Q7MS5ik-qJkCB9_zEHgsoWgliKzHc805ZzUMvAt3JUULeOfQn9pnApQzL7ixQQ$>
-; and 
-H.R. 8981, the SCALE Biology Act <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001i5SQKf6i7-m_MPiaxi2T38hmzGXzQe3BOhayvvzscYR6OZZFO4iEx1jaWcwaDtW2-RsnXMAb0bh41Cq4v8XRQ7B0NsxoARWugZjw7u2C1nKVI7D3vDY6E1UppfWEq3BqFnToT5_safsL-Z9WXYVDhIwmp-FbzQ5NIyQ7y7y01_KUXzhENzkTn4jrvOl_bClE&c=ScPVxCDoSbwpVVW-1MySP1Mb8PR-Bn3GEC8KGlY1h45B0XMbIF542Q==&ch=c7gbQxRilGn73L6JVzWpMx0YjuFp7Z-YV5-LPdmnYCL4NHS8ljPeWg==__;!!BSgrhSFG!GBQcrbsLbjtXDUnNYZUMR_xPCnxgZXelQ77IYuBcTjfMiRj-Q7MS5ik-qJkCB9_zEHgsoWgliKzHc805ZzUMvAt3JUULeOfQn9pnApS8e9VhOQ$>
-.
-“America's leadership depends on our ability to anticipate tomorrow's challenges while investing in tomorrow's opportunities,” 
-said Chairman Babin
-. “These bipartisan bills strengthen public safety, support American energy, promote U.S. leadership in global standards, and advance the research that will shape the future. I thank my colleagues for working together to move this legislation forward.”
-Highlights of 
-H.R. 3168 <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001i5SQKf6i7-m_MPiaxi2T38hmzGXzQe3BOhayvvzscYR6OZZFO4iExygc7jHir5LfQQCjH7NZv58eX8mKkaYcRJMK9-rOshvanV7rzIJ9_y7DXDfkLYXu4eWSjt0rXaBGAAG1rKfh-ddgKFF05lyXegxoMYK3wVxN-SwcnOrng5GvWae2jIArOgHWjF_nGoAvAxEijbLNalP8sH0AFbq4rWydkAke1uWL_OJ_A5vSvvpfIzZ3UPILo9iOjwg3pHKlHjaMZUglHY0dbs7WqJMCgrkXJFkN2V36&c=ScPVxCDoSbwpVVW-1MySP1Mb8PR-Bn3GEC8KGlY1h45B0XMbIF542Q==&ch=c7gbQxRilGn73L6JVzWpMx0YjuFp7Z-YV5-LPdmnYCL4NHS8ljPeWg==__;!!BSgrhSFG!GBQcrbsLbjtXDUnNYZUMR_xPCnxgZXelQ77IYuBcTjfMiRj-Q7MS5ik-qJkCB9_zEHgsoWgliKzHc805ZzUMvAt3JUULeOfQn9pnApTdDW7r0Q$>
-: 
-Strengthens earthquake early warning and expands detection capabilities.
-Modernizes hazard reduction through updated building standards and hazard mapping.
-Expands earthquake research and improves federal coordination with state, local, and tribal partners.
-Highlights of 
-H.R. 8437 <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001i5SQKf6i7-m_MPiaxi2T38hmzGXzQe3BOhayvvzscYR6OZZFO4iExygc7jHir5LfAyNBhJetyTXb4GFN0ilqTSYy1D3DPuew0cbzoO5jB0KRJG_B407T5qbRMsaXyXFGh8LgWFdzJrslxeHpbQK-wwcFT58UoVdaoyb0tAL4blNThQY-brJVqTKUl21ixgDZaDezg_U_XQI=&c=ScPVxCDoSbwpVVW-1MySP1Mb8PR-Bn3GEC8KGlY1h45B0XMbIF542Q==&ch=c7gbQxRilGn73L6JVzWpMx0YjuFp7Z-YV5-LPdmnYCL4NHS8ljPeWg==__;!!BSgrhSFG!GBQcrbsLbjtXDUnNYZUMR_xPCnxgZXelQ77IYuBcTjfMiRj-Q7MS5ik-qJkCB9_zEHgsoWgliKzHc805ZzUMvAt3JUULeOfQn9pnApTr0S0SEQ$>
-:
-Accelerates next-generation geothermal energy development through demonstration projects.
-Supports innovative technologies and expands access to new geothermal resources.
-Promotes data sharing and investment in emerging geothermal solutions.
-Highlights of 
-H.R. 9326 <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001i5SQKf6i7-m_MPiaxi2T38hmzGXzQe3BOhayvvzscYR6OZZFO4iExygc7jHir5LfNv1rJPlv0zC-ouH65fxkTucDj1n9rEvMvy4XLU6m5UXi5qyiMQiyxcq2eBff284pG6lbQUd5xjzfot4q4Fz7i7cJpAdp2z2rlERfvgxTy0BQZTv-UET5H7V5gEmEV6J0vTxCD9pm1IY=&c=ScPVxCDoSbwpVVW-1MySP1Mb8PR-Bn3GEC8KGlY1h45B0XMbIF542Q==&ch=c7gbQxRilGn73L6JVzWpMx0YjuFp7Z-YV5-LPdmnYCL4NHS8ljPeWg==__;!!BSgrhSFG!GBQcrbsLbjtXDUnNYZUMR_xPCnxgZXelQ77IYuBcTjfMiRj-Q7MS5ik-qJkCB9_zEHgsoWgliKzHc805ZzUMvAt3JUULeOfQn9pnApSQcHvkXg$>
-:
-Advances U.S. leadership in global AI standards efforts.
-Connects federal agencies and industry to strengthen standards engagement.
-Increases opportunities for U.S. participation in international standards development.
-Highlights of 
-H.R. 8981 <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001i5SQKf6i7-m_MPiaxi2T38hmzGXzQe3BOhayvvzscYR6OZZFO4iEx1jaWcwaDtW2-RsnXMAb0bh41Cq4v8XRQ7B0NsxoARWugZjw7u2C1nKVI7D3vDY6E1UppfWEq3BqFnToT5_safsL-Z9WXYVDhIwmp-FbzQ5NIyQ7y7y01_K1V6QqKDDmSepvFjg-MTnI&c=ScPVxCDoSbwpVVW-1MySP1Mb8PR-Bn3GEC8KGlY1h45B0XMbIF542Q==&ch=c7gbQxRilGn73L6JVzWpMx0YjuFp7Z-YV5-LPdmnYCL4NHS8ljPeWg==__;!!BSgrhSFG!GBQcrbsLbjtXDUnNYZUMR_xPCnxgZXelQ77IYuBcTjfMiRj-Q7MS5ik-qJkCB9_zEHgsoWgliKzHc805ZzUMvAt3JUULeOfQn9pnApS9vb8XYg$>
-:
-Advances biotechnology innovation through improved measurement science and standards.
-Strengthens collaboration between NIST, industry, and research partners.
-Supports safe and secure growth of the U.S. bioeconomy.

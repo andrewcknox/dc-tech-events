@@ -1,0 +1,197 @@
+{
+ "source": "Caleb Knapp substack",
+ "backup": true,
+ "tags": [
+  "substack"
+ ],
+ "events": [
+  {
+   "title": "The Energy Agenda: What's Next After the Midterms",
+   "start": "2026-11-10 08:00",
+   "end": "2026-11-10 11:00",
+   "location": "Arlo Washington DC, 333 G St NW, Washington, DC",
+   "virtual": false,
+   "url": "https://luma.com/10053q3b",
+   "host": "Heatmap News and ACORE",
+   "description": "Morning forum on the post-midterm energy policy agenda.",
+   "speakers": [],
+   "topics": [
+    "energy-tech"
+   ],
+   "fit": 2,
+   "why": "Energy politics more than emerging tech; relevant mainly for data-center power debates.",
+   "tags": [
+    "public"
+   ]
+  },
+  {
+   "title": "Human Friendly Tech Pop-Up Event - Featuring Monique Priestley",
+   "start": "2026-11-10 18:30",
+   "end": "2026-11-10 20:00",
+   "location": "Crimson Whiskey Bar, 627 H St NW, Washington, DC",
+   "virtual": false,
+   "url": "https://luma.com/zv42fie5",
+   "host": "David Sandson (Human Friendly Tech)",
+   "description": "Evening meetup with Vermont state legislator Monique Priestley on tech accountability legislation.",
+   "speakers": [
+    "Monique Priestley"
+   ],
+   "topics": [
+    "data/privacy",
+    "trust-and-safety",
+    "AI"
+   ],
+   "fit": 3,
+   "why": "Informal access to a leading state-level tech-regulation lawmaker.",
+   "tags": [
+    "public"
+   ]
+  },
+  {
+   "title": "The Bitter Struggle: Book Launch with Ben Buchanan",
+   "start": "2026-11-11 18:00",
+   "end": "2026-11-11 22:00",
+   "location": "National Press Club, 529 14th St NW, Washington, DC",
+   "virtual": false,
+   "url": "https://luma.com/bitter-struggle-book-launch",
+   "host": "BlueDot Impact",
+   "description": "Book launch party for Ben Buchanan's The Bitter Struggle on superintelligence and US-China competition.",
+   "speakers": [
+    "Ben Buchanan"
+   ],
+   "topics": [
+    "AI",
+    "tech-geopolitics",
+    "China"
+   ],
+   "fit": 4,
+   "why": "The DC AI-policy community's launch for the season's central AI-geopolitics book.",
+   "tags": [
+    "public"
+   ]
+  },
+  {
+   "title": "Tech Prom 2026",
+   "start": "2026-11-12 18:00",
+   "end": "2026-11-12 22:00",
+   "location": "The LINE DC, 1770 Euclid St NW, Washington, DC",
+   "virtual": false,
+   "url": "https://cdt.org/events/2026-tech-prom/",
+   "host": "CDT",
+   "description": "Center for Democracy & Technology's annual gala for the tech-policy community (ticketed).",
+   "speakers": [],
+   "topics": [
+    "data/privacy",
+    "AI",
+    "trust-and-safety"
+   ],
+   "fit": 3,
+   "why": "The main annual tech-policy networking night in DC, but ticketed and pricey.",
+   "tags": [
+    "public"
+   ]
+  },
+  {
+   "title": "How Can the Future of AI Center Human Rights?",
+   "start": "2026-11-10 10:00",
+   "end": "2026-11-10 11:00",
+   "location": "CSIS, 1616 Rhode Island Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.csis.org/events/how-can-future-ai-center-human-rights",
+   "host": "CSIS",
+   "description": "CSIS Human Rights Initiative discussion on building human rights into AI development and governance.",
+   "speakers": [],
+   "topics": [
+    "AI",
+    "trust-and-safety"
+   ],
+   "fit": 4,
+   "why": "AI governance from a rights angle, a short walk from SAIS.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "From Anthrax to AI: Biological Attribution Then and Now",
+   "start": "2026-11-12 09:00",
+   "end": null,
+   "location": "Atlantic Council, 1400 L St NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.atlanticcouncil.org/event/from-anthrax-to-ai-biological-attribution-then-and-now/",
+   "host": "Atlantic Council",
+   "description": "Discussion of how attribution of biological incidents has changed from the 2001 anthrax attacks to AI-enabled tools.",
+   "speakers": [],
+   "topics": [
+    "biotech",
+    "AI"
+   ],
+   "fit": 4,
+   "why": "AI-bio security intersection, in person downtown.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Disrupting Politics: A Front Row Seat to the Collision of Technology & Democracy",
+   "start": "2026-11-12 11:00",
+   "end": "2026-11-12 12:00",
+   "location": "Cato Institute, 1000 Massachusetts Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.cato.org/events/disrupting-politics",
+   "host": "Cato Institute",
+   "description": "Book forum on how technology is reshaping democratic politics.",
+   "speakers": [],
+   "topics": [
+    "trust-and-safety",
+    "AI"
+   ],
+   "fit": 3,
+   "why": "Technology-and-democracy debate a few blocks from SAIS.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Fireside Chat with Ben Buchanan",
+   "start": "2026-11-12 15:30",
+   "end": "2026-11-12 16:30",
+   "location": null,
+   "virtual": true,
+   "url": "https://events.cnas.org/firesidechatwithbuchananvirtual",
+   "host": "CNAS",
+   "description": "Virtual CNAS conversation with Ben Buchanan on The Bitter Struggle and US-China AI competition.",
+   "speakers": [
+    "Ben Buchanan"
+   ],
+   "topics": [
+    "AI",
+    "tech-geopolitics",
+    "China"
+   ],
+   "fit": 4,
+   "why": "Buchanan on AI and great-power competition, online.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "How the next Congress will shape US national security policy",
+   "start": "2026-11-13 12:00",
+   "end": null,
+   "location": null,
+   "virtual": true,
+   "url": "https://www.atlanticcouncil.org/event/how-the-next-congress-will-shape-us-national-security-policy/",
+   "host": "Atlantic Council",
+   "description": "Online discussion of the incoming Congress's national security priorities.",
+   "speakers": [],
+   "topics": [
+    "tech-geopolitics"
+   ],
+   "fit": 2,
+   "why": "General defense politics; tech only at the margins.",
+   "tags": [
+    "think-tank"
+   ]
+  }
+ ]
+}

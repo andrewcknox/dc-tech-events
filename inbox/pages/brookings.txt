@@ -1,6 +1,6 @@
 # Brookings
 # https://www.brookings.edu/events/
-# fetched 2026-11-12T07:14:16.173747-05:00
+# fetched 2026-11-13T09:10:31.448842-05:00
 # tags: think-tank
 
 Events
@@ -33,15 +33,15 @@ Immigrants & Immigration <https://www.brookings.edu/topics/immigration-5/>
  Immigration policy and public opinion
  Online only
  Tuesday, 12:00 pm - 1:00 pm EST
-The state of broadband access and affordability <https://www.brookings.edu/events/the-state-of-broadband-access-and-affordability/>
+The next era of Black business growth: Building pathways to ownership in a changing policy landscape <https://www.brookings.edu/events/the-next-era-of-black-business-growth-building-pathways-to-ownership-in-a-changing-policy-landscape/>
  Upcoming Event
 November
 18
 2026
-Internet & Telecommunications <https://www.brookings.edu/topics/telecommunications-internet/>
- The state of broadband access and affordability
+Cities & Communities <https://www.brookings.edu/topics/cities-communities/>
+ The next era of Black business growth: Building pathways to ownership in a changing policy landscape
  The Brookings Institution, Washington D.C.
- Wednesday, 1:30 pm - 2:45 pm EST
+ Wednesday, 9:30 am - 11:15 am EST
 Upcoming
 Deterrence in the Pacific: A conversation with Admiral Paparo <https://www.brookings.edu/events/deterrence-in-the-pacific-a-conversation-with-admiral-paparo/>
  Upcoming Event
@@ -70,6 +70,15 @@ Immigrants & Immigration <https://www.brookings.edu/topics/immigration-5/>
  Immigration policy and public opinion
  Online only
  Tuesday, 12:00 pm - 1:00 pm EST
+The next era of Black business growth: Building pathways to ownership in a changing policy landscape <https://www.brookings.edu/events/the-next-era-of-black-business-growth-building-pathways-to-ownership-in-a-changing-policy-landscape/>
+ Upcoming Event
+November
+18
+2026
+Cities & Communities <https://www.brookings.edu/topics/cities-communities/>
+ The next era of Black business growth: Building pathways to ownership in a changing policy landscape
+ The Brookings Institution, Washington D.C.
+ Wednesday, 9:30 am - 11:15 am EST
 The state of broadband access and affordability <https://www.brookings.edu/events/the-state-of-broadband-access-and-affordability/>
  Upcoming Event
 November

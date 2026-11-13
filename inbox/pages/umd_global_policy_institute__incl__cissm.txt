@@ -1,6 +1,6 @@
 # UMD Global Policy Institute (incl. CISSM)
 # https://gpi.umd.edu/events
-# fetched 2026-11-12T07:14:16.173747-05:00
+# fetched 2026-11-13T09:10:31.448842-05:00
 # tags: university, maryland
 
 Events
@@ -9,13 +9,6 @@ Home <https://gpi.umd.edu/>
 Events Carousel
 For More from the School of Public Policy:
 Sign Up for SPP News <http://visitor.r20.constantcontact.com/d.jsp?llr=wmttuopab&p=oi&m=1116109131158&sit=7cwayjnib&f=e3360197-eb0d-45bc-b80f-6e96b5646d50>
-Nov
-12
-Thu
-Thursday
-CISSM Global Forum | After USAID: Inside the Transformation of U.S. Foreign Assistance | Tobias Stillman <https://gpi.umd.edu/events/cissm-global-forum-after-usaid-inside-transformation-us-foreign-assistance-tobias-stillman>
-0102 Thurgood Marshall Hall
-On January 20, 2025, President Trump signed Executive Order 14169, imposing a 90-day pause on U.S. foreign assistance. Within six months, the U.S. Agency for International Development (USAID), the federal government's main administrator of non-military foreign assistance, was dismantled.
 Nov
 19
 Thu
@@ -31,3 +24,10 @@ Thursday
 After the Midterms: What the Next Congress Means for U.S. Foreign Policy <https://gpi.umd.edu/events/after-midterms-what-next-congress-means-us-foreign-policy>
 3301 Thurgood Marshall Hall
 The 2026 midterm elections will reshape the political landscape in Washington. What will the results mean for how America engages with the world? As a new Congress prepares to take office, lawmakers will confront consequential choices about U.S. priorities and engagement abroad.
+Nov
+12
+Thu
+Thursday
+CISSM Global Forum | After USAID: Inside the Transformation of U.S. Foreign Assistance | Tobias Stillman <https://gpi.umd.edu/events/cissm-global-forum-after-usaid-inside-transformation-us-foreign-assistance-tobias-stillman>
+0102 Thurgood Marshall Hall
+On January 20, 2025, President Trump signed Executive Order 14169, imposing a 90-day pause on U.S. foreign assistance. Within six months, the U.S. Agency for International Development (USAID), the federal government's main administrator of non-military foreign assistance, was dismantled.

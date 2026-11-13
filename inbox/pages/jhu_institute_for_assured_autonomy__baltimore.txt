@@ -1,6 +1,6 @@
 # JHU Institute for Assured Autonomy (Baltimore)
 # https://iaa.jhu.edu/events/
-# fetched 2026-11-10T07:18:05.361471-05:00
+# fetched 2026-11-13T09:10:31.448842-05:00
 # tags: jhu, university, baltimore
 
 Events
@@ -23,7 +23,28 @@ Nov
 @ Johns Hopkins University, Hackerman B-17
 Tickets
  Nov 19 @ 10:45 am – 12:00 pm
-Details coming soon!
+Title: 
+MAD Games: Multi-Agent Dynamic Games – Lessons from the Limits of Autonomous Racing
+Abstract
+: 
+The critical challenge in deploying autonomous systems is achieving peak performance without compromising safety. Autonomous racing crystallizes this challenge, as it punishes timid policies and demands robust, adaptive strategies in multi-agent settings. Current approaches often fail by either oversimplifying the behavior of other agents or lacking mechanisms for real-time adaptation.
+This talk presents research that pushes the boundaries of perception, planning, and control. We will explore how to develop highly competitive agents through:
+Adversarial Training:
+ Leveraging game theory and distributionally robust online adaptation to create agents that dynamically balance safety and assertiveness.
+Adaptive Safety:
+ Using conformal prediction, control barrier function and imitation learning we show how multiple imperfect experts train an AI to perform better than any single expert.
+Learning Invariant Sets from Failure and Success:
+ introduces an information-theoretic MPC framework using normalizing flows alongside a model-free method that directly carves out certified control-invariant sets from closed-loop failure data.
+All research is implemented on our RoboRacer.ai platform—1/10th the size, but 10x the fun. The key takeaway is a deeper understanding of how to build and validate safe autonomous systems for complex, interactive environments.
+Bio
+: 
+Rahul Mangharam is Professor of Electrical & Systems Engineering and Computer & Information Science at the University of Pennsylvania. His research is on Trustworthy AI for safe autonomous systems. His work bridges formal methods, machine learning, and control theory to create provably safe systems for applications including autonomous vehicles, urban air mobility, and life-critical medical devices.
+For his contributions to life-critical systems, he received the Presidential Early Career Award for Scientists and Engineers (PECASE) from President Obama. His work has also been recognized with the NSF CAREER Award, the Intel Early Faculty Career Award, IEEE Benjamin Franklin Key Award, multiple best paper awards from ACM and IEEE, and selection to the National Academy of Engineering’s US Frontiers of Engineering.
+Dr. Mangharam serves as the Penn Director for the $20 million Safety21 National University Transportation Center, a US Department of Transportation center for safe and efficient mobility. He also directs the Autoware Center of Excellence, an open-source autonomous driving consortium of over 33 academic partners, and is the founder of the RoboRacer/F1TENTH Autonomous Racing Community, now active in over 90 universities worldwide.
+Zoom: 
+https://wse.zoom.us/j/95926650506?pwd=ed4uegu5pJI6jKygkB9FyVu8Pga0ra.1 <https://wse.zoom.us/j/95926650506?pwd=ed4uegu5pJI6jKygkB9FyVu8Pga0ra.1>
+Meeting ID: 959 2665 0506
+Passcode: 611091
 Read more <https://iaa.jhu.edu/event/iaa-seminar-rahul-mangharam/?instance_id=436>
 November 2026
 Nov 2026

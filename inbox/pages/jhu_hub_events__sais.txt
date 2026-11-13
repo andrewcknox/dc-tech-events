@@ -1,6 +1,6 @@
 # JHU Hub Events (SAIS)
 # https://hub.jhu.edu/events/feed/
-# fetched 2026-11-10T07:18:05.361471-05:00
+# fetched 2026-11-13T09:10:31.448842-05:00
 # tags: jhu, university
 
 ### Dreams of Scholarship: 150 Years of Discovery
@@ -36,248 +36,202 @@ For more on the center's history, watch this video <https://www.youtube.com/watc
 .
 The exhibit will be available to view from Thursday, Oct. 15, to Friday, Nov. 20, in Levering Lounge.
 
-### The Future of Next
-Link: https://hub.jhu.edu/events/2026/11/10/future-of-next/
+### 25Live Essentials: Advanced Scheduling Tips, Tricks, and Best Practices
+Link: https://hub.jhu.edu/events/2026/11/13/25live-essentials-advanced-scheduling-tips-tricks/
 Published: 
-When: November 10th 9:00am - 6:00pm
-Where: Hopkins Bloomberg Center
-Johns Hopkins closes its 150th anniversary year by looking ahead and bringing together the leaders, thinkers, and creators who can help shape what comes next. Surgeons and historians, mayors and artists, journalists and researchers will come together to explore the ideas shaping the future of health, technology, democracy, our cities, and the arts and how we can turn bold thinking into meaningful impact.
-Join Johns Hopkins University in Washington, D.C., for a free, full-day event celebrating 150 years of innovation and discovery. From health to technology to civic life, at the 
-Future of Next <https://web.cvent.com/event/3619b582-76fc-4d96-b937-599148764c56/summary>
- attendees will ask: What does change mean for you?
-The day features a keynote from Kevin Ashton, who coined the term "Internet of Things," and conversations with Atul Gawande, Anne Applebaum, D. Watkins, Bologna Mayor Matteo Lepore, Peabody's Wendel Patrick, and Johns Hopkins President Ron Daniels, moderated by NBC News' Hallie Jackson. Afternoon breakout sessions dig into the future of cities, aging, and creativity, with a closing session on the future of the American research university.
-
-### Workshop | Teaching Writing in FA1 Courses and Beyond: Revision Strategies and Exercises for Students in Your Class
-Link: https://hub.jhu.edu/events/2026/11/10/workshop-teaching-writing-in-fa1-courses-and-beyond-revision-strategies-and-exercises-for-students-in-your-class/
-Published: 
-When: November 10th 11:00am - 12:30pm
-In this workshop for faculty, as students near the end of the term, 
-University Writing Program <https://krieger.jhu.edu/writing-program/>
- (UWP) faculty discuss ways to help students revise their papers and final projects. Participants are invited to bring questions and concerns about how to assist students and get exercises and strategies that UWP faculty use in their classes.
-This workshop is facilitated by the UWP's 
-Writing in the Majors <https://krieger.jhu.edu/writing-program/writing-in-the-majors/>
- committee.
-
-### The Flock Farm Stand with Hopkins Dining
-Link: https://hub.jhu.edu/events/2026/11/10/the-flock-farm-stand-with-hopkins-dining/
-Published: 
-When: November 10th 11:00am - 2:00pm
-Where: Levering Courtyard, Homewood Campus
-Join 
-Hopkins Dining <https://studentaffairs.jhu.edu/dining/>
- and 
-Richfield Farm <https://www.richfieldfarm.com/>
- and grab your local, seasonal produce at the last farm stand of the season. Cash, card, and tap are all accepted. Bring your own bag to be extra sustainable.
-
-### PLAY: Scale Simulation-Based Learning with AI
-Link: https://hub.jhu.edu/events/2026/11/10/play-scale-simulation-based-learning-with-ai/
-Published: 
-When: November 10th 12:00pm - 1:00pm
-This workshop is part of the PLAY: Pedagogy, Learning, and AI in Your Classroom series from the Bloomberg School of Public Health's 
-Center for Teaching and Learning <https://publichealth.jhu.edu/offices-and-services/center-for-teaching-and-learning>
-.
-Simulation-based learning helps students apply knowledge, make decisions, and practice navigating real-world challenges. This PLAY workshop will explore the benefits and pedagogy behind effective simulations, followed by a case study with 
-Davina Frick <https://carey.jhu.edu/faculty/faculty-directory/k-davina-frick-phd>
-, full-time faculty at Carey School of Business. She will share how she transformed one of her courses through simulation-based learning, including the instructional decisions, student experience, and lessons learned along the way. Frick will also explore how artificial intelligence (AI) supported the design process and discuss how AI can help make simulations more scalable and sustainable for future courses.
-
-### Prompt Smart, Teach Smarter: Learn to Speak AI's Language So It Can Speak Yours
-Link: https://hub.jhu.edu/events/2026/11/10/learn-to-speak-ais-language-so-it-can-speak-yours/
-Published: 
-When: November 10th 12:00pm - 1:00pm
-Where: Mason Hall, Homewood Campus
-Faculty, instructors, and teaching staff are invited to learn how to use large language models platforms—including HopGPT, ChatGPT, Co-Pilot, and Claude—to help with common teaching tasks like writing test and homework questions, generating images, and writing learning objectives. Attendees will have a chance to apply these prompts to their own courses during the workshop—join us in-person and enjoy a delicious lunch catered by 1876 Distinction! Attendance via Zoom is also available.
-Presented by Mike Reese, associate dean and director, Center for Teaching Excellence and Innovation; and Kris Mueck, instructional technologist, Instructional Resource Center.
-To request an accommodation or ask about accessibility, contact Haley Knapp at 
-hknapp3@jhu.edu
+When: November 13th 9:00am - 10:15am
+Do you submit space requests for your area, but not sure how to make the system work smarter for you? This session will provide practical strategies to make your work in 25Live more efficient.
+Join Scheduling & Event Services for a hands-on training session designed to help JHU users get the most from the 25Live event reservation system. Learn how to optimize searches and calendars, create and save your favorite or frequent room searches, copy existing events from year to year, navigate approval workflows, locate optimal event spaces, discover valuable shortcuts that can save time and improve accuracy, and know when and how to engage the Scheduling & Event Services team for assistance.
+Who should attend?
+Advanced or frequent users
+Administrative staff
+Event coordinators
+Department schedulers
+Faculty support staff
+Those who already frequently reserve university spaces through 25Live but want to save time using shortcuts
+Please register no later than 24 hours in advance of the training.
+Send questions to 
+Homewoodscheduleevents@jhu.edu
 .
 
-### Hopkins Lecture Series: A Night in Conversation with Elias Zerhouni
-Link: https://hub.jhu.edu/events/2026/11/10/hopkins-lecture-series-with-dr-elias-zerhouni-md/
+### Retirement Readiness Networking Group
+Link: https://hub.jhu.edu/events/2026/11/13/retirement-readiness-networking-group-2026/
 Published: 
-When: November 10th 7:30pm - 9:00pm
-Where: Shriver Hall, Homewood Campus
-The 
-Johns Hopkins Alumni Association <https://alumni.jhu.edu/>
- is partnering with the Hopkins Lecture Series, a student-lead organization, to invite you to "A Night in Conversation with Elias Zerhouni." Join an engaging conversation, led by current Homewood undergraduates, with 
-Zerhouni <https://www.nih.gov/about-nih/nih-almanac/elias-zerhouni-md>
-, physician, radiologist, and former director of the National Institutes of Health, as he reflects on his remarkable career.
-After the lecture, join Zerhouni and the Alumni Association for a dessert reception in the Clipper Room, located on the second floor of Shriver.
-The first 200 attendees through the door will receive a free, signed copy of Zerhouni's book, 
-Disease Knows No Politics: The Immigrant Journey and Lessons of Elias Zerhouni
+When: November 13th 12:00pm - 1:00pm
+Are you feeling anxiety, dread, or excitement as you approach your retirement? This is your safe space to connect with other pre-retirees to talk about preparing for your post-work life. This group meets via Zoom the second Friday of each month, from noon to 1 p.m. EST.
+This group is one of several recurring 
+Virtual Networking Groups <https://hr.jhu.edu/benefits-worklife/support-programs/networking-groups-2/>
+ hosted by the 
+Office of Benefits & Worklife <https://hr.jhu.edu/benefits-worklife/>
+. These networking groups are opportunities for employees to connect with Hopkins peers who may be going through similar life experiences.
+Registration is required and intended only for Johns Hopkins employees. To protect everyone's privacy, please keep discussions confidential and refrain from recording or taking photos.
+
+### A Balanced Retirement Life | Retirement Readiness Networking Group
+Link: https://hub.jhu.edu/events/2026/11/13/a-balanced-retirement-life-retirement-readiness-networking-group/
+Published: 
+When: November 13th 12:00pm - 1:00pm
+The Retirement Readiness Networking Group welcomes guest speaker Holly McFarland, for a special seminar to help you plan for a balanced retirement life. The session will cover the key issues to consider in planning for your future, and help you develop a current road map for retirement . Participants will leave with resources to help with deciding when the time for retirement may be right and to focus on the positive aspects of retirement while preparing for the challenges.
+Additional retirement benefits information for JHU employees is available on the 
+Planning for Retirement page <https://hr.jhu.edu/benefits-worklife/retirement/planning-for-retirement/>
 .
 
-### The HOP Lecture Series Presents: A Conversation with Elias Zerhouni
-Link: https://hub.jhu.edu/events/2026/11/10/hopkins-student-organization-for-programming-lecture-series-elias-zerhouni/
+### Johns Hopkins Writing Center Graduate Writing Workshop: Zero to Hero in Dissertation Writing
+Link: https://hub.jhu.edu/events/2026/11/13/jhu-writing-center-graduate-writing-workshop-zero-to-hero-in-dissertation-writing/
 Published: 
-When: November 10th 7:30pm - 8:45pm
-Where: Shriver Hall, Homewood Campus
-The Hopkins Student Organization for Programming Lecture Series and Development and the Johns Hopkins Alumni Association invites Johns Hopkins affiliates to join a night in conversation with 
-Elias Zerhouni <https://www.nih.gov/about-nih/nih-almanac/elias-zerhouni-md>
-, 15th director of the National Institutes of Health and a former professor at the Johns Hopkins School of Medicine.
-While at the Johns Hopkins School of Medicine, Zerhouni also served as vice dean for research and as executive vice dean. From 2002 to 2008, he was the director of the National Institutes of Health (NIH) before returning to Johns Hopkins as a senior adviser for Johns Hopkins Medicine in 2009. Later in 2009, President Barack Obama appointed Zerhouni as one of the first presidential U.S. science envoys. Zerhouni is recognized for pioneering contributions to the field of radiology and public service as director of the NIH and as global science envoy and adviser, fostering collaborative leadership and solutions.
-
-### Preparing for an Active Assailant
-Link: https://hub.jhu.edu/events/2026/11/11/preparing-for-an-active-assailant/
-Published: 
-When: November 11th 9:00am - 11:00am
-Where: Scott-Bates Commons, Homewood Campus
-This training teaches survival techniques for an active-assailant scenario, including what to expect when the police arrive. The course is delivered by the 
-Johns Hopkins Public Safety <https://publicsafety.jhu.edu/>
- training team and is built on the "
-Run. Hide. Fight. <https://www.fbi.gov/how-we-can-help-you/active-shooter-safety-resources#:~:text=Guide%20(Spanish)-,Run.%20Hide.%20Fight.,-These%20training%20videos>
-" strategy.
-
-### Green Events Program Training
-Link: https://hub.jhu.edu/events/2026/11/11/green-events-program-training/
-Published: 
-When: November 11th 10:00am - 11:00am
-Where: Bloomberg Student Center, Homewood Campus
-Join your fellow event planners to learn about Johns Hopkins' new 
-Green Events program <https://sustainability.jhu.edu/engage/live-sustainably/green-events/>
-.
-This training will provide an overview of what a green event is, best practices for planning and hosting an event that reduces environmental impact while saving money, and resources to make your next 20-person meeting or 1,500-person conference green.
-Create a culture of sustainability, one event at a time.
-
-### The Bitter Struggle: Superintelligence, Superpowers, and the Fate of the World
-Link: https://hub.jhu.edu/events/2026/11/11/the-bitter-struggle-superintelligence-superpowers-and-the-fate-of-the-world/
-Published: 
-When: November 11th 10:30am - 11:30am
-Where: Hopkins Bloomberg Center
-Join 
-Ben Buchanan <https://sais.jhu.edu/directory/ben-buchanan>
-, School of Advanced International Studies assistant professor and former White House special adviser for artificial intelligence, for a conversation on AI and national security with David E. Sanger, White House and national security correspondent for 
-The New York Times
-. The two will discuss Buchanan's new book 
-The Bitter Struggle: Superintelligence, Superpowers, and the Fate of the World <https://www.penguinrandomhouse.com/books/821154/the-bitter-struggle-by-ben-buchanan-and-tantum-collins/>
-.
-AI is becoming the decisive strategic technology of this century. Built by the private sector, it has profound implications for governments—and for all of us. Can the U.S. keep China from catching up in AI development, or do export controls just buy time? What happens when a handful of AI labs hold capabilities no government can match? And what if the hardest challenge is not between democracies and autocracies but at home, in the fight to make sure AI lives up to our democratic values?
-
-### Workshop | Teaching Writing in FA1 Courses and Beyond: Revision Strategies and Exercises for Students in Your Class
-Link: https://hub.jhu.edu/events/2026/11/11/workshop-teaching-writing-in-fa1-courses-and-beyond-revision-strategies-and-exercises-for-students-in-your-class/
-Published: 
-When: November 11th 11:00am - 12:30pm
-In this workshop for faculty, as students near the end of the term, 
-University Writing Program <https://krieger.jhu.edu/writing-program/>
- (UWP) faculty discuss ways to help students revise their papers and final projects. Participants are invited to bring questions and concerns about how to assist students and get exercises and strategies that UWP faculty use in their classes.
-This workshop is facilitated by the UWP's 
-Writing in the Majors <https://krieger.jhu.edu/writing-program/writing-in-the-majors/>
- committee.
-
-### Off-Campus Housing Meet &amp; Greet
-Link: https://hub.jhu.edu/events/2026/11/11/off-campus-housing-meet-greet/
-Published: 
-When: November 11th 11:00am - 1:30pm
-Where: Bloomberg Student Center, Homewood Campus
+When: November 13th 12:00pm - 4:00pm
+Where: Gilman Hall, Homewood Campus
+Have several research papers or dissertation chapters but aren't sure how to bring them together?
 Join the 
-Off-Campus Housing Office <https://students.jhu.edu/student-life/living-at-hopkins/off-campus-housing/>
- for a meet and greet. Explore your housing options and meet staff from local off-campus properties. Your options, all under one roof.
+Johns Hopkins Writing Center <https://krieger.jhu.edu/writingcenter/>
+'s Write-On-Site program for "Zero to Hero in Dissertation Writing," an interactive workshop exploring strategies for connecting individual research papers or studies into a coherent dissertation. The session will focus on developing an introduction that ties research together, reinforcing the larger narrative throughout the chapters, and bringing it together in the conclusion.
+The workshop is especially useful for graduate students working to integrate published or publishable studies into their dissertations.
+Schedule:
+Noon — Lunch
+12:30–1:30 p.m. — Interactive workshop
+1:30–4 p.m. — Dedicated writing time
+This workshop is open to Krieger School of Arts & Sciences and Whiting School of Engineering graduate students. Lunch will be provided.
 
-### LCSR Seminar Series: Jaime Fernández Fisac
-Link: https://hub.jhu.edu/events/2026/11/11/lcsr-seminar-series-jaime-fernndez-fisac-neural-safety-filters-scaling-safety-critical-control-without-surrendering-guarantees/
+### Friday Noon:30 Recital Series: Composition
+Link: https://hub.jhu.edu/events/2026/11/13/peabody-fall-2026-friday-noon30-recital-series-composition/
 Published: 
-When: November 11th 12:00pm - 1:00pm
-Jaime Fernández Fisac, an assistant professor of electrical and computer engineering at Princeton University, presents "Neural Safety Filters: Scaling Safety-Critical Control Without Surrendering Guarantees" for the Laboratory for Computational Sensing + Robotics.
-The expanding reach of robotics and artificial intelligence brings acute reliability challenges in the face of limited information, rapidly changing conditions, and close human interaction. Recent years have seen a surge of interest in safety filters, runtime schemes that monitor a system's candidate actions and intervene to preempt catastrophic failures. Yet the restrictive assumptions of model-based approaches and the weakened guarantees of data-driven alternatives have reinforced the perception of a fundamental safety—performance tradeoff.
-This talk presents theoretical and experimental evidence against the view that strong safety guarantees must come at the expense of performance. Building on a unified understanding of safety filter mechanics, it introduces a general class of neural safety filters that extend the rigorous guarantees of safety-critical control to regimes beyond the reach of classical synthesis.
-For more about this event, visit the LCSR website <https://lcsr.jhu.edu/event/lcsr-seminar-series-jaime_fernandez_fisac/>
-.
+When: November 13th 12:30pm - 1:30pm
+Where: Leith Symington Griswold Hall, Peabody Institute
 
-### 'Flashlight': Explore fiction writing with Hopkins faculty and alums
-Link: https://hub.jhu.edu/events/2026/11/11/flashlight-exploring-fiction-writing-with-hopkins-faculty-and-alumni/
+### Info Session: Research Grants and Fellowships for KSAS Undergraduates
+Link: https://hub.jhu.edu/events/2026/11/13/info-session-research-grants-and-fellowships-for-ksas-undergraduates/
 Published: 
-When: November 11th 12:00pm - 1:00pm
-Odyssey <https://odyssey.jhu.edu/>
- is thrilled to invite you to a virtual conversation with National Book Award winner and Johns Hopkins Writing Seminars professor 
-Susan Choi <https://writingseminars.jhu.edu/directory/susan-choi/>
-. Discussion will focus on her latest novel, 
-Flashlight <https://www.theivybookshop.com/book/?ean=9780374616373>
-, a spellbinding account of family, loss, memory, and the unseen forces that shape our lives. "Explosive" (
-The New York Times Book Review
-) and "astonishing" (
-The Atlantic
-), 
-Flashlight
- was shortlisted for the Man Booker Prize, longlisted for the National Book Award, and named one of Barack Obama's favorite books of 2025. It was a Best Book of the Year with 
-The New Yorker
+When: November 13th 3:30pm - 5:00pm
+The 
+Office of Undergraduate Research, Scholarly, and Creative Activity <https://krieger.jhu.edu/ursca/>
+ (URSCA) offers more than a dozen different types of grants and fellowships to fund independent research and creative projects by undergraduates in the Krieger School of Arts & Sciences.
+Come learn about URSCA's one-year and multi-year grants and fellowships, short-term project grants, and conference travel grants. This session will also cover eligibility requirements, application processes, and tips and tricks for success.
+
+### Africa and the AI Economy
+Link: https://hub.jhu.edu/events/2026/11/13/africa-and-the-ai-economy/
+Published: 
+When: November 13th 4:30pm - 7:00pm
+Where: Hopkins Bloomberg Center
+Join the 
+Carey Africa Business Club <https://jhu.campusgroups.com/africabusinessclub/home/>
 , 
-Time
- magazine, 
-The Washington Post
-, and numerous other publications.
-The event will consist of readings from the novel, a conversation about the craft of fiction, and time for audience questions, giving attendees the opportunity to engage directly with Choi about her writing process and the ideas at the heart of her novels. She will be in conversation with Writing Seminars lecturer and Moser Family Writer-in-Residence 
-Gabriella Fee <https://odyssey.jhu.edu/team/gabriella-fee/>
-.
-Please attend the event by 
-using the Hopkins at Home link <https://hopkinsathome.jhu.edu/watch-now>
-.
-Copies of Flashlight are available for purchase through The Ivy Bookshop <https://www.theivybookshop.com/book/?ean=9780374616373>
-.
-Odyssey is Johns Hopkins' noncredit lifelong learning program organized by the Office of Alumni Relations, offering engaging courses for curious learners on topics ranging from creative writing and literature to history, science, arts, and more. Interested in exploring more including upcoming creative writing courses? Visit odyssey.jhu.edu to browse upcoming courses.
+SAIS Africa Club <https://jhu.campusgroups.com/saisafricaclub/home/>
+, 
+SAIS Tech Club <https://emergingtech.sais.jhu.edu/tech-club>
+, and Village Ties for a panel discussion on Africa's role in the global artificial intelligence economy.
+Featured speakers:
+Amb. Christopher Kirigua, deputy chief of mission, Embassy of Kenya
+Olivia Igbokwe-Curry, head of political giving and strategy at Amazon
+Christian Duffus, founder and CEO of Fonbnk
+Eric Chehmere, group lead of AI solutions engineering at Cassava Technologies
+Hanan Awel (moderator), founder of Village Ties
+Whether you're interested in African affairs, technology policy, entrepreneurship, fintech, or economic development, this is a great chance to learn, connect, and hear directly from leaders working at the intersection of AI and African economic growth.
+Networking and light bites will follow. Non–Johns Hopkins affiliates will be required to present a government-issued ID upon entering the Hopkins Bloomberg Center.
 
-### CTEI Ed Journal Club
-Link: https://hub.jhu.edu/events/2026/11/11/ctei-ed-journal-club/
+### LIQUID IDENTITY: Sandy Stone &amp; Rahne Alexander in Conversation
+Link: https://hub.jhu.edu/events/2026/11/13/liquid-identity-sandy-stone-rahne-alexander-in-conversation/
 Published: 
-When: November 11th 12:00pm - 1:00pm
-Where: Greenhouse, Homewood Campus
-Join the Center for Teaching Excellence and Innovation for a discussion on artificial-intelligence-generated adaptive feedback in college statistics, facilitated by 
-Sergey Kushnarev <https://engineering.jhu.edu/faculty/sergey-kushnarev/>
-, associate teaching professor at applied mathematics and statistics at Johns Hopkins.
-The article for discussion is 
-"Effects of AI-generated adaptive feedback on statistical skills and interest in statistics: A field experiment in higher education" <https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13609>
- (Bauer at al., 2025).
-Come for the community and conversation.
-
-### 2026 Benefits Orientation for New Full-Time Faculty and Staff
-Link: https://hub.jhu.edu/events/2026/11/11/benefits-orientation-for-new-full-time-faculty-staff/
-Published: 
-When: November 11th 1:00pm - 3:00pm
-As part of the onboarding process, the university offers new employees live orientation webinars to help them better understand its benefits plans, program offerings, policies, and practices.
-Benefits orientation for new full-time faculty and staff is held at 1 p.m. on the second Wednesday of each month and is hosted by the Office of Benefits & Worklife. Each 90-minute Zoom meeting includes an overview of the benefits options offered by the university, along with time for Q&A.
-Registration is required for participation.
-If you are unable to attend, 
-a pre-recorded session is available <https://livejohnshopkins.sharepoint.com/:v:/s/JHUBenefitsWorklifeMedia/IQDaw9JRBVSLQYZekzXX8cm6ATj8JoQU_RWx14JvgSGCpsI?e=63z7Kt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
-. Please allow a few moments for the video to load.
-Contact the Office of Benefits & Worklife with questions at 410-516-2000 or 
-benefits@jhu.edu
-.
-
-### DMSE Fall 2026 Seminar Series | From Superwood to Artificial Sun: Inventing Materials through Scalable Innovation
-Link: https://hub.jhu.edu/events/2026/11/11/dmse-fall-2026-seminar-series-from-superwood-to-artificial-sun-inventing-materials-through-scalable-innovation/
-Published: 
-When: November 11th 3:00pm - 4:00pm
-Where: Maryland Hall, Homewood Campus
-Liangbing Hu <https://engineering.yale.edu/research-and-faculty/faculty-directory/liangbing-hu>
-, a professor of electrical and computer engineering and materials science at Yale University, will give a talk titled "From Superwood to Artificial Sun: Inventing Materials through Scalable Innovation" 
-Department of Materials Science & Engineering <https://engineering.jhu.edu/materials/>
-.
-Abstract
-Hu's group focuses on inventing new classes of materials through disruptive yet scalable processes, with the goal of enabling practical applications. In this talk, Hu will highlight several recent material innovations that open pathways toward emerging technologies:
-Superwood: Nanostructure-engineered wood for next-generation sustainable buildings (
-Nature
-, 2018).
-Molecular-scale wood nanofibers: Engineered fibers as solid-state battery electrolytes (
-Nature
-, 2021).
-High-entropy catalysts: Designed via shock synthesis for energy and chemical transformations (
-Science
-, 2018).
-Ultrafast high-temperature sintering: Rapid processing of oxide-based ion conductors for batteries and solid oxide electrolysis cells (
-Science
-, 2020).
-Ultrahigh-temperature stable plasma (also known as "artificial sun"): A platform for extreme materials synthesis (
-Nature
-, 2023).
-Dynamic heating strategies: Conversion of waste plastics into jet fuel, and methane pyrolysis for high value products (
-Nature
-, 2022; 
-Nature Chemical Engineering
-, 2025).
-Together, these advances illustrate how nanoscale design, extreme processing conditions, and unconventional approaches can converge to create disruptive materials solutions for energy, sustainability, and advanced manufacturing.
-Bio
-Liangbing Hu also serves as the founding director of the Yale Center for Materials Innovation. He joined Yale's faculty in July 2024 after serving as a distinguished university professor at the University of Maryland, College Park. Hu's research group specializes in materials innovation, device integration, and advanced manufacturing, with current projects in electrified ultrahigh-temperature synthesis, next-generation energy storage beyond lithium-ion, and novel wood nanotechnologies.
-He has authored approximately 500 peer-reviewed publications, including more than 10 articles in 
-Science
+When: November 13th 6:00pm - 8:00pm
+Where: Gilman Hall, Homewood Campus
+Join 
+Johns Hopkins' Common Question <https://studentaffairs.jhu.edu/common-question/>
+ for LIQUID IDENTITY, a lively conversation with Sandy Stone and Rahne Alexander. Jumping off from Stone's revolutionary "The 
+Empire
+ Strikes Back: A Posttranssexual Manifesto" into her wild ride through multiple life paths, they'll talk about rock stars' secret habits, pirate history, viral academics, and how to speak the unspeakable.
+The doors open at 6 p.m. and the talk begins at 6:30 p.m.; reception to follow.
+Allucquére Rosanne "Sandy" Stone <https://sandystone.com/>
+ is professor emerita and founding director of the Advanced Communication Technologies Laboratory (ACTLab) and the Convergent Media program at the University of Texas at Austin. As a recording engineer, she worked with Jimi Hendrix and engineered more than 100 rock, folk, blues, and classical albums. She is the first trans woman inducted into the National Women's Hall of Fame, and her archives will be housed at Harvard University's Radcliffe Schlesinger Library for the History of Women in America. Considered the founder of transgender studies and a pioneer in new media, she is also an author and multimedia performance artist. She stars in 
+Girl Island: The Sandy Stone Story
+, a hybrid feature documentary currently in post-production.
+Rahne Alexander <https://msac.org/directory/artists/rahne-alexander>
+ is a creative polymath—intermedia artist, musician, writer, event producer—and senior publicist for Hopkins Press Journals. Formerly the frontwoman of The Degenerettes and Santa Librada, she now kicks out her trans/queer jams in 50′♀ & the Worms. A fixture of the Baltimore LGBTQ and arts scenes, Alexander is a Baker Artist Award winner, a periodical contributor to publications like 
+BmoreArt
  and 
-Nature
-, with an h-index of 200. His work has been recognized with several prestigious awards, including the American Chemical Society's (ACS) Anselme Payen Award, the Materials Research Society (MRS) Medal, five R&D 100 Awards, and the Nature Spinoff Prize. He is an MRS and ACS fellow.
-Hu earned a Bachelor of Science in physics from the University of Science and Technology of China in 2002 and a doctorate in physics from the University of California, Los Angeles in 2007. Based on his doctoral research on carbon nanotube thin films, he became a founding scientist at Unidym, a Silicon Valley startup specializing in printed electronics. From 2009 to 2011, Hu completed a postdoctoral fellowship at Stanford University. In 2011, he joined the University of Maryland, where he launched his independent academic career.
+UMBC Magazine
+, and a sought-after conversation partner for artists and authors at Red Emma's, Greedy Reads, Atomic Books, and more.
+
+### In the Stacks: Celebrating Ukrainian Music
+Link: https://hub.jhu.edu/events/2026/11/13/in-the-stacks-celebrating-ukrainian-music/
+Published: 
+When: November 13th 6:30pm - 7:30pm
+Where: George Peabody Library, Peabody Institute
+Discover the richness of Ukraine's musical heritage through a program of classical art songs, opera selections, and folk-inspired works. Sopranos Alina Cherkasova and Marie Herrington, with pianist Myroslav Mykhailenko, will bring this vibrant repertoire to live while celebrating the depth and diversity of Ukrainian music.
+The performance will be accompanied by a display of rare Ukrainian books from the Sheridan Libraries collections, available for audience members to explore.
+In the Stacks <https://tabbcenter.library.jhu.edu/public-humanities/in-the-stacks-concert-series/>
+ offers an informal, dynamic way for audiences to engage with music and performance art. Throughout the year, this concert series activates Baltimore's iconic George Peabody Library—a glorious space with five tiers of cast-iron balconies that soar up to a latticed spotlight—with art, music, dance, film, drama, and more.
+
+### Interfaith Shabbat
+Link: https://hub.jhu.edu/events/2026/11/13/interfaith-shabbat/
+Published: 
+When: November 13th 6:30pm - 8:30pm
+Where: Glass Pavilion, Homewood Campus
+All Johns Hopkins affiliates are welcome to attend Interfaith Shabbat. The 
+Office of Religious and Spiritual Life <https://students.jhu.edu/student-life/community-belonging/religious-spiritual-life/>
+ in collaboration with the 
+Hopkins Hillel <https://www.hopkinshillel.org/>
+ and the 
+Jewish Students Association <https://jhu.campusgroups.com/jsasom/home/>
+ is hosting an interfaith Shabbat dinner. Join for dinner and community to welcome in the Jewish day of rest.
+
+### Football: Franklin &amp; Marshall at Johns Hopkins
+Link: https://hub.jhu.edu/events/2026/11/13/fall-sports-2026-football-franklin-and-marshall-college-at-johns-hopkins/
+Published: 
+When: November 13th 7:00pm - 9:00pm
+Where: Homewood Field, Homewood Campus
+The Blue Jays host Franklin and Marshall in a Centennial Conference game.
+
+### Peabody Wind Ensemble: Beethoven, Octet in E-flat major
+Link: https://hub.jhu.edu/events/2026/11/13/peabody-fall-2026-peabody-wind-ensemble-beethoven-octet-in-e-flat-major/
+Published: 
+When: November 13th 7:30pm - 9:30pm
+Where: Leith Symington Griswold Hall, Peabody Institute
+Peabody faculty artist Harlan Parker leads the Peabody Wind Ensemble through Ludwig van Beethoven's Octet in E-flat major in Leith Symington Griswold Hall on a program that includes works by Jean Francaix and George Rochberg.
+
+### Composers' Ensemble
+Link: https://hub.jhu.edu/events/2026/11/13/peabody-fall-2026-composers-ensemble/
+Published: 
+When: November 13th 7:30pm - 8:30pm
+Where: Joe Byrd Hall, Peabody Institute
+
+### AstraZeneca National Healthcare Case Competition
+Link: https://hub.jhu.edu/events/2026/11/14/astrazeneca-national-healthcare-case-competition/
+Published: 
+When: November 14th 8:30am - 5:30pm
+Where: Hopkins Bloomberg Center
+Showcase your talent, build your network, and develop critical business skills. This premier graduate-level national competition presents a unique opportunity to analyze a real-world 
+healthcare business challenge <https://carey.jhu.edu/events/astrazeneca-national-healthcare-case-competition>
+ and work alongside diverse and interdisciplinary peers to generate ideas and insights for AstraZeneca. The 2026 case theme is "Growing share of voice to improve uHCC market share in an evolving GI landscape."
+Ten teams will be invited to Carey Business School's Washington, D.C., location at the Hopkins Bloomberg Center to showcase their innovative solutions to a panel of AstraZeneca executives who will serve as judges. The top three selected teams will win awards of $8,000, $5,500, and $3,000, respectively. Teams must include three to five graduate students from the same university and include a minimum of one MBA student. Doctoral students are permitted to join a team.
+The competition will include a Welcome Reception on Nov. 13, from 5 to 7 p.m. for all teams, judges, and organizers.
+
+### Pi Beta Phi Race 4 Reading 5K
+Link: https://hub.jhu.edu/events/2026/11/14/pi-beta-phi-race-4-reading-5k/
+Published: 
+When: November 14th 9:15am - 12:00pm
+Where: Homewood Field, Homewood Campus
+Join the 
+Maryland Gamma Chapter of Pi Beta Phi <https://jhu.pibetaphi.org/>
+ at Johns Hopkins University for Race 4 Reading (R4R), a 5K dedicated to supporting children's literacy.
+R4R brings together students, faculty, families, and members of the Baltimore community for a meaningful cause.
+This year's race comes with a literary twist: participants are encouraged to dress as their favorite book characters. Whether you're a seasoned runner, a casual walker, or simply looking for a fun way to give back, everyone is welcome to participate.
+All proceeds will support Pi Beta Phi's national philanthropic initiative, Read > Lead > Achieve®, which aims to inspire a lifelong love of reading and expand literacy opportunities for children.
+Hosted by the Maryland Gamma Chapter of Pi Beta Phi, R4R is an opportunity to connect with the Johns Hopkins and Baltimore communities while making a positive impact through literacy advocacy.
+
+### Holiday Makers' Market
+Link: https://hub.jhu.edu/events/2026/11/14/holiday-makers-market/
+Published: 
+When: November 14th 11:00am - 3:00pm
+Where: Evergreen Museum & Library, Homewood Campus
+Support local makers and get a head start on your holiday shopping at 
+Evergreen <https://museums.jhu.edu/evergreen-museum-library/>
+'s Holiday Makers' Market. This year's market features a variety of locally made products, including jewelry, stationery, artwork, home goods, and more.
+Parking, self-guided tours of the gardens and grounds, and admission to the exhibition 
+"With Profit and Pleasure: A Legacy of Japanese Prints" <https://museums.jhu.edu/exhibitions/current/with-profit-and-pleasure-the-legacy-of-japanese-prints/>
+ are 
+free
+ with attendance.
+
+### Composers' Ensemble (tech free)
+Link: https://hub.jhu.edu/events/2026/11/15/peabody-fall-2026-composers-ensemble-tech-free/
+Published: 
+When: November 15th 3:00pm - 4:00pm
+Where: Joe Byrd Hall, Peabody Institute

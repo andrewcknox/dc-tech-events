@@ -1,27 +1,8 @@
 # Hudson Institute
 # https://www.hudson.org/events
-# fetched 2026-11-12T07:14:16.173747-05:00
+# fetched 2026-11-13T09:10:31.448842-05:00
 # tags: think-tank
 
-12
-November 2026
- In-Person Event | Hudson Institute
-From Dependence to Resilience: Financing a Secure Pharmaceutical Supply Chain
-Featured Speakers:
-Caroline Vik
-Maryll Toufanian
-Nick Snyder
-12
-November 2026
- In-Person Event | Hudson Institute
-From Dependence to Resilience: Financing a Secure Pharmaceutical Supply Chain
-Join DFC Chief Policy Officer Caroline Vik and Amneal Pharmaceuticals Senior Vice President Maryll Toufanian for a conversation moderated by Senior Fellow Nick Snyder. The discussion will examine America’s strategy to secure pharmaceutical supply chains and the work ahead for policymakers and industry as they pursue sustainable solutions in a complex market and policy environment. 
- THURSDAY 1:00 p.m. - 2:00 p.m.
-Featured Speakers:
-Caroline Vik
-Maryll Toufanian
-Nick Snyder
-Learn More <https://www.hudson.org/events/dependence-resilience-financing-secure-pharmaceutical-supply-chain>
 13
 November 2026
  In-Person Event | Invite Only
@@ -102,7 +83,6 @@ November 2026
 The Tenth US-ROK Joint Public-Private Economic Forum: Advancing Economic Security and Industrial Strength
 Join Hudson Institute for the tenth United States–Republic of Korea Joint Public-Private Economic Forum on November 17.
  TUESDAY 9:30 a.m. - 1:00 p.m.
-Add to calendar
 Featured Speakers:
 Kim Jina
 Kurt Campbell
@@ -138,6 +118,7 @@ November 2026
 Rebuilding the Arsenal of Freedom and Reindustrializing America
 Join House Armed Services Committee Chairman Mike Rogers (AL-03) for a fireside discussion with Senior Fellow Nadia Schadlow on Congress’s role in revitalizing America’s defense industrial base.
  WEDNESDAY 2:00 p.m. - 3:00 p.m.
+Add to calendar
 Featured Speakers:
 Congressman Mike Rogers
 Nadia Schadlow
@@ -159,6 +140,25 @@ Featured Speakers:
 Roger Zakheim
 Nadia Schadlow
 Learn More <https://www.hudson.org/events/peace-through-strength-how-reagans-military-buildup-won-cold-war>
+12
+November 2026
+ Past Event
+From Dependence to Resilience: Financing a Secure Pharmaceutical Supply Chain
+Featured Speakers:
+Caroline Vik
+Maryll Toufanian
+Nick Snyder
+12
+November 2026
+ Past Event
+From Dependence to Resilience: Financing a Secure Pharmaceutical Supply Chain
+Join DFC Chief Policy Officer Caroline Vik and Amneal Pharmaceuticals Senior Vice President Maryll Toufanian for a conversation moderated by Senior Fellow Nick Snyder. The discussion will examine America’s strategy to secure pharmaceutical supply chains and the work ahead for policymakers and industry as they pursue sustainable solutions in a complex market and policy environment. 
+ THURSDAY 1:00 p.m. - 2:00 p.m.
+Featured Speakers:
+Caroline Vik
+Maryll Toufanian
+Nick Snyder
+Learn More <https://www.hudson.org/events/dependence-resilience-financing-secure-pharmaceutical-supply-chain>
 02
 November 2026
  Past Event

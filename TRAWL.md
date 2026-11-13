@@ -59,10 +59,10 @@ scripts get past their blocking.
 | Lawfare | https://www.lawfaremedia.org/events (404 on 2026-11-09; find the new events page) | cyber/national-security law |
 | CDT | https://cdt.org/events/ | AI rights, privacy |
 | US-China Business Council | https://www.uschina.org/events | export controls, China market |
-| BSA / The Software Alliance | https://www.bsa.org/events | AI and data policy, industry view |
+| BSA / The Software Alliance | https://www.bsa.org/events (404 on 2026-11-13; find the new events page) | AI and data policy, industry view |
 | CEPA | https://cepa.org/events/ | transatlantic tech/cyber; page needs a human check |
 | House committees | https://docs.house.gov/Committee/Calendar/ByWeek.aspx (all House hearings this week) | E&C, Science, Homeland, Foreign Affairs, Armed Services |
-| Senate committees | https://www.congress.gov/committee-schedule (week view; filter Commerce, Judiciary, HSGAC, Banking, Foreign Relations, Armed Services) | hearings on AI, chips, export controls |
+| Senate committees | https://www.congress.gov/committee-schedule (the week view lists committees only; hearing titles are on the daily view, `/committee-schedule/daily/YYYY/MM/DD`, which also covers House hearings; filter Commerce, Judiciary, HSGAC, Banking, Foreign Relations, Armed Services) | hearings on AI, chips, export controls |
 | House China Select Committee | https://chinaselectcommittee.house.gov/committee-activity/hearings/all (old `/hearings` 404 on 2026-11-10; titles appear here and on congress.gov a few days ahead) | China tech hearings |
 | FTC / FCC open meetings | https://www.ftc.gov/news-events/events · https://www.fcc.gov/news-events/events | AI enforcement, spectrum, broadband |
 | Annual DC tech/cyber conferences | https://www.cyberwarcon.com · https://events.govexec.com (GovExec / Google Public Sector Summit and similar vendor-government summits) · https://www.stateofthenet.org (Feb 9, 2027) · https://billingtoncybersecurity.com (Mar 17–19, 2027, National Harbor) · ITI's The Intersect (February) | one-off yearly events that never appear on a think-tank page; check monthly |

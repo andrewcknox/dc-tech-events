@@ -1,6 +1,6 @@
 # Foundation for American Innovation
 # https://www.thefai.org/events-feed.xml
-# fetched 2026-11-12T07:14:16.173747-05:00
+# fetched 2026-11-13T09:10:31.448842-05:00
 # tags: think-tank
 
 ### The Machine Age Reception
@@ -17,6 +17,11 @@ November 17, 2026 | 7:00 PM Join the Foundation for American Innovation to celeb
 Link: https://luma.com/joinfai-5y2a
 Published: Wed, 04 Nov 2026 01:18:20 GMT
 November 18, 2026 | 5:30 PM ​Twenty-five years after the 2001 anthrax letter attacks, join the Foundation for American Innovation for a fireside chat with Assistant Secretary of War Robert Kadlec. The conversation will explore lessons learned from the attacks, the evolution of U.S. biodefense, and strategies to counter emerging biothreats, with reference to the Department of War's 2026 Biodeterrence Posture Review.
+
+### Christmas at Sea Cliff
+Link: https://christmas.thefai.org/
+Published: Thu, 12 Nov 2026 16:30:58 GMT
+December 5, 2026 Join the Foundation for American Innovation above the Golden Gate for eggnog and mulled wine, Bing Crosby on the record player, and dancing after dark. Festive black tie encouraged.
 
 ### Humanity, Space, and Industrial Civilization
 Link: https://luma.com/d6abs60o

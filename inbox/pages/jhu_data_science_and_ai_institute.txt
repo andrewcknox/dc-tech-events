@@ -1,26 +1,10 @@
 # JHU Data Science and AI Institute
 # https://ai.jhu.edu/events/
-# fetched 2026-11-10T07:18:05.361471-05:00
+# fetched 2026-11-13T09:10:31.448842-05:00
 # tags: jhu, university
 
 Events
 Refine Your Results:
-Nov
-10
-The Future of Next <https://ai.jhu.edu/event/the-future-of-next/>
-9:00 AM
-Location: 
-JHU Bloomberg Center, 555 Pennsylvania Avenue NW, Washington, DC
-Read More <https://ai.jhu.edu/event/the-future-of-next/>
-Nov
-10
-PLAY: Scale Simulation-Based Learning with AI <https://ai.jhu.edu/event/play-scale-simulation-based-learning-with-ai/>
-12:00 PM
-Location: 
-Zoom
-Organization: 
-Bloomberg School of Public Health Center for Teaching and Learning (CTL) <https://ai.jhu.edu/events/?organization[]=bloomberg-school-of-public-health-center-for-teaching-and-learning-ctl>
-Read More <https://ai.jhu.edu/event/play-scale-simulation-based-learning-with-ai/>
 Nov
 17
 Sip & Solve: AI and Democracy <https://ai.jhu.edu/event/sip-solve-ai-and-democracy/>

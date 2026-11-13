@@ -1,17 +1,13 @@
 # MeriTalk events
 # https://www.meritalk.com/events/
-# fetched 2026-11-12T07:14:16.173747-05:00
+# fetched 2026-11-13T09:10:31.448842-05:00
 # tags: media, industry
 
 Events <https://www.meritalk.com/events>
 Upcoming Events
-Nov 12, 2026 8:00 am - 1:30 pm
-GDIT Emerge: Protect the Homeland <https://web.cvent.com/event/8b56f2e0-7c38-4e95-bb66-3d5a6c3ab01d/summary#new_tab>
-At the GDIT Emerge: Protect the Homeland event, hear from senior agency leaders, government decision makers, and industry experts on the technologies, strategies, and partnerships needed to strengthen national security today, and into the future.
-[…] <https://web.cvent.com/event/8b56f2e0-7c38-4e95-bb66-3d5a6c3ab01d/summary#new_tab>
 Dec 1, 2026 1:00 pm - 4:00 pm
 Tech Tonic December 2026 <https://web.cvent.com/event/d01e87ba-4432-4317-8ba9-cda48495dd20/summary?RefId=MTeventspage#new_tab>
-Join Nutanix for Tech Tonic: GTC Keynote Watch Party to watch NVIDIA’s Jensen Huang’s keynote alongside government and industry peers. Hear insights from Kanuj Behl, Principal Enterprise Architect, on how Nutanix and NVIDIA are helping organizations put AI to work. 
+Join Nutanix for Tech Tonic: GTC Keynote Watch Party to watch the NVIDIA GTC Washington, D.C. keynote alongside government and industry peers. Hear insights from Kanuj Behl, principal enterprise architect, on how Nutanix and NVIDIA are helping organizations put AI to work. 
 […] <https://web.cvent.com/event/d01e87ba-4432-4317-8ba9-cda48495dd20/summary?RefId=MTeventspage#new_tab>
 Dec 2, 2026 9:00 am - 1:25 pm
 GDIT Emerge: Zero Trust <https://zerotrust.billingtonevents.com/#new_tab>
@@ -35,6 +31,10 @@ IBM Think Gov 2026 <https://www.meritalk.com/event/ibm-think-gov-2026/>
 Explore recordings from Think Gov and access the insights, perspectives, and conversations shared by industry and government leaders. Watch sessions on demand to revisit key takeaways or catch up on content you may have missed.
 […] <https://www.meritalk.com/event/ibm-think-gov-2026/>
 Past Events
+Nov 12, 2026 8:00 am - 1:30 pm
+GDIT Emerge: Protect the Homeland <https://web.cvent.com/event/8b56f2e0-7c38-4e95-bb66-3d5a6c3ab01d/summary#new_tab>
+At the GDIT Emerge: Protect the Homeland event, hear from senior agency leaders, government decision makers, and industry experts on the technologies, strategies, and partnerships needed to strengthen national security today, and into the future.
+[…] <https://web.cvent.com/event/8b56f2e0-7c38-4e95-bb66-3d5a6c3ab01d/summary#new_tab>
 Nov, 2026 1:00 pm - 2:00 pm
 Funding the Future: Smarter Capital Planning for Federal Agencies <https://www.meritalk.com/event/smarter-capital-planning-federal-agencies/>
 This on-demand executive discussion explores how agencies can strengthen long-range capital planning through better prioritization, forecasting, what-if scenario planning, funding management, and cross-team visibility. It also examines how modern planning approaches can support more informed investment decisions, safeguard funding, and keep complex capital programs aligned with long-term objectives.
@@ -177,17 +177,3 @@ Jan 26, 2025 1:00 pm - 2:00 pm
 Build Enterprise AI at a Flexible Pace – and Transform Agency Mission Success <https://www.meritalk.com/event/build-enterprise-ai-flexible-pace-transform-agency-mission-success/>
 It’s clear that artificial intelligence (AI) has moved beyond emerging technology to acceptance – but Federal organizations don’t have to be all-in, all at once. As the incoming administration considers new AI policies, agencies can adopt what the co-chair of a U.S. House AI task force calls a “bite-sized” approach.
 […] <https://www.meritalk.com/event/build-enterprise-ai-flexible-pace-transform-agency-mission-success/>
-Dec 19, 2024 5:00 pm - 9:00 pm
-Tech Tonic December 2024 <https://www.meritalk.com/event/tech-tonic-december-2024/>
-‘Tis the season to be jolly – 13 Federal agencies received A’s on the 18th edition of the FITARA Scorecard. Celebrate with 
-Congressman Gerry Connolly
- and 
-Fed CIOs
- at the 
-FITARA Awards
-, hosted at 
-MeriTalk Tech Tonic
- on 
-December 19
- at Morton’s in D.C. Raise a glass with us as we toast to Fed IT excellence and a bright year ahead.
-[…] <https://www.meritalk.com/event/tech-tonic-december-2024/>

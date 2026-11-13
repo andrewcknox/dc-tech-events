@@ -1,12 +1,20 @@
 # Hoover Institution
 # https://www.hoover.org/events
-# fetched 2026-11-12T07:14:16.173747-05:00
+# fetched 2026-11-13T09:10:31.448842-05:00
 # tags: think-tank
 
 Events
 Hoover hosts academic conferences and gatherings featuring talks by our fellows. Policy leaders also visit and interact with the fellows in the Leadership Forum.
 0
 Featured Events
+Read More <https://www.hoover.org/events/securing-freedom-innovation-industry-and-future-deterrence>
+ <img loading="lazy" src="https://hoover-s3-website.s3.us-west-2.amazonaws.com/s3fs-public/styles/340x370/public/2026-11/250_Graphic-Dec3.png?h=5055962e&amp;itok=PXyujyyT" width="680" height="740" alt="Securing Freedom: Innovation, Industry, and the Future of Deterrence" />
+Events
+Securing Freedom: Innovation, Industry, and the Future of Deterrence
+An advance screening of Deterrence: Winning the 2nd Cold War and a conversation with Shyam Sankar and H.R. McMaster…
+December 03, 2026
+Hoover Institution, Stanford University
+[Edit] <https://www.hoover.org/node/395835/edit>
 Read More <https://www.hoover.org/events/ideas-uncorked-billionaire-tax-act-california-capitol-hill>
  <img loading="lazy" src="https://hoover-s3-website.s3.us-west-2.amazonaws.com/s3fs-public/styles/340x370/public/2026-10/Ideas-Uncorked_rectangle-templateNov.jpg?h=e5c98efa&amp;itok=FPdjkv8d" width="680" height="740" alt="Ideas Uncorked | The Billionaire Tax Act: From California to Capitol Hill" />
 Events
@@ -79,27 +87,12 @@ The Hoover Institution in DC hosts Ideas Uncorked: National Treasure Book Launch
 June 18, 2026
 Hoover Institution in DC
 [Edit] <https://www.hoover.org/node/387293/edit>
-Read More <https://www.hoover.org/events/choosing-freedom-courage-exile-and-human-pursuit-liberty>
- <img loading="lazy" src="https://hoover-s3-website.s3.us-west-2.amazonaws.com/s3fs-public/styles/340x370/public/2026-06/250_Graphic-6-17_v2.png?h=69c8baf2&amp;itok=LC9V0MuP" width="680" height="740" alt="June 17 - US@250 Series" />
-Events
-Choosing Freedom: Courage, Exile, And The Human Pursuit Of Liberty
-Choosing Freedom draws from powerful testimonies, personal belongings, and striking archival materials to tell the…
-June 17, 2026
-Hoover Institution, Stanford University
-[Edit] <https://www.hoover.org/node/386961/edit>
 Upcoming Events
 Choosing Freedom: Lives That Defied Tyranny <https://www.hoover.org/events/choosing-freedom-lives-defied-tyranny>
 Wednesday, June 17, 2026 
 Choosing Freedom: Lives That Defied Tyranny 
 Uncover personal stories of courage in the pursuit of freedom in a new exhibition from the Hoover Institution Library & Archives 
 Lou Henry Hoover Gallery, Hoover Tower
-25 Years After 9/11: The History And Future Of Surveillance, Technology, And Democracy <https://www.hoover.org/events/25-years-after-911-history-and-future-surveillance-technology-and-democracy>
-Thursday, November 12, 2026 
-4:30 PM PT
-25 Years After 9/11: The History And Future Of Surveillance, Technology, And Democracy 
-How does a free society use increasingly powerful technologies to protect itself without compromising the freedoms it exists to protect?
-Register To… 
-Hoover Institution, Stanford University
 Reading Adam Smith in North Korea An Insider's View of the State <https://www.hoover.org/events/reading-adam-smith-north-korea-insiders-view-state>
 Monday, November 16, 2026 
 Reading Adam Smith in North Korea An Insider's View of the State 
@@ -128,6 +121,13 @@ Higher Education, Research Investment, and the Public Interest <https://www.hoov
 Wednesday, December 2, 2026 
 Higher Education, Research Investment, and the Public Interest 
 The Hoover Institution's Center for Revitalizing American Institutions invites you to attend Higher Education, Research Investment, and the Public… 
+Securing Freedom: Innovation, Industry, and the Future of Deterrence <https://www.hoover.org/events/securing-freedom-innovation-industry-and-future-deterrence>
+Thursday, December 3, 2026 
+4:30 PM PT
+Securing Freedom: Innovation, Industry, and the Future of Deterrence 
+An advance screening of Deterrence: Winning the 2nd Cold War and a conversation with Shyam Sankar and H.R. McMaster
+Register To Attend 
+Hoover Institution, Stanford University
 Strengthening American Institutions For The Next 250 Years <https://www.hoover.org/events/strengthening-american-institutions-next-250-years>
 Tuesday, December 8, 2026 
 4:30 PM PT

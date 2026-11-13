@@ -1,20 +1,10 @@
 # Atlantic Council
 # https://www.atlanticcouncil.org/events/
-# fetched 2026-11-12T07:14:16.173747-05:00
+# fetched 2026-11-13T09:10:31.448842-05:00
 # tags: think-tank
 
 Upcoming events
 We convene in Washington DC, internationally, and virtually to inspire global engagement and to shape solutions to the defining challenges of our times. Through small, focused events and larger public gatherings, we inform and build connections. Register for upcoming events or subscribe to watch live on YouTube.
-Public Event
- Thu, November 12, 2026 • 9:00 am ET
- From anthrax to AI: Biological attribution then and now <https://www.atlanticcouncil.org/event/from-anthrax-to-ai-biological-attribution-then-and-now/>
-Crisis Management <https://www.atlanticcouncil.org/issue/crisis-management/>
-Infrastructure Protection <https://www.atlanticcouncil.org/issue/infrastructure-protection/>
-National Security <https://www.atlanticcouncil.org/issue/national-security/>
-Non-Traditional Threats <https://www.atlanticcouncil.org/issue/non-traditional-threats/>
-Online Event
- Thu, November 12, 2026 • 9:00 am ET
- The future of development assistance in South Asia <https://www.atlanticcouncil.org/event/the-future-of-development-assistance-in-south-asia/>
 Online Event
  Fri, November 13, 2026 • 12:00 pm ET
  How the next Congress will shape US national security policy <https://www.atlanticcouncil.org/event/how-the-next-congress-will-shape-us-national-security-policy/>
@@ -29,6 +19,16 @@ Africa <https://www.atlanticcouncil.org/region/africa/>
 Digital Currencies <https://www.atlanticcouncil.org/issue/digital-currencies/>
 Economy & Business <https://www.atlanticcouncil.org/issue/economy-business/>
 Resilience & Society <https://www.atlanticcouncil.org/issue/resilience-society/>
+Online Event
+ Mon, November 16, 2026 • 2:30 pm ET
+ Ambassador Vinay Kwatra on US-India cooperation in the Indian Ocean region <https://www.atlanticcouncil.org/event/ambassador-vinay-kwatra-on-us-india-cooperation-in-the-indian-ocean-region/>
+Politics & Diplomacy <https://www.atlanticcouncil.org/issue/politics-diplomacy/>
+Public Event
+ Wed, November 18, 2026 • 3:00 am EST
+ Seventh Partnership for Transatlantic Energy Cooperation (P-TEC) <https://www.atlanticcouncil.org/event/seventh-partnership-for-transatlantic-energy-cooperation/>
+Central Europe <https://www.atlanticcouncil.org/region/central-europe/>
+Energy & Environment <https://www.atlanticcouncil.org/issue/energy-environment/>
+Europe & Eurasia <https://www.atlanticcouncil.org/region/europe-eurasia/>
 Load More <https://www.atlanticcouncil.org/events/?ac-page=2>
 #ACFrontPage <https://www.atlanticcouncil.org/acfrontpage/>
  harnesses the convening power and expertise of the Council’s sixteen programs and centers to spotlight the world’s most prominent leaders and the most compelling ideas across sectors. The virtual platform engages new audiences eager for nonpartisan and constructive solutions to current global challenges. This widely promoted forty-five-minute program features the Council’s most important guests and content serving as the highlight of our programming each week.

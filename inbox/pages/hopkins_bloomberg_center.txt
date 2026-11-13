@@ -1,22 +1,7 @@
 # Hopkins Bloomberg Center
 # https://hub.jhu.edu/tags/555-Penn/events/feed/
-# fetched 2026-11-10T07:18:05.361471-05:00
+# fetched 2026-11-13T09:10:31.448842-05:00
 # tags: jhu, university
-
-### Sam Gilliam Lecture Series: Jeffrey Gibson
-Link: https://hub.jhu.edu/events/2026/11/12/sam-gilliam-lecture-series-jeffrey-gibson/
-Published: 
-When: November 12th 5:00pm - 7:00pm
-Where: Hopkins Bloomberg Center
-Join the Hopkins Bloomberg Center for the next installment of the Sam Gilliam Lecture Series featuring Jeffrey Gibson.
-A multidisciplinary Indigenous American artist who is a member of the Mississippi Band of Choctaw and is of Cherokee heritage, 
-Gibson
- is renowned for blending Indigenous and Western traditions across painting, installation, video, and performance. In 2024, he became the first Indigenous artist to represent the United States with a solo presentation at the U.S. Pavilion at the Venice Biennale. Through his vibrant practice, Gibson explores identity, community, and the vitality of Indigenous cultures.
-A fireside chat following the Sam Gilliam Lecture will be moderated by 
-Melissa Walls
-, a scholar of Couchiching First Nation and Bois Forte Band of Ojibwe heritage, a Bloomberg Associate Professor of American Health, and the co-director of the Center for Indigenous Health at the Johns Hopkins Bloomberg School of Public Health.
-About the Sam Gilliam Lecture Series
-The Sam Gilliam Lecture Series welcomes prominent artists and speakers to the Johns Hopkins University Bloomberg Center to reflect on the intersections between contemporary art, academia, and public policy, and the role art plays in advancing society.
 
 ### Stories That Matter Presents "The Cycle of Love"
 Link: https://hub.jhu.edu/events/2026/11/30/stories-that-matter-film-screening-the-cycle-of-love/

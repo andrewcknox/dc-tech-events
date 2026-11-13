@@ -1,6 +1,6 @@
 # Punchbowl News live events
 # https://punchbowl.news/events/
-# fetched 2026-11-12T07:14:16.173747-05:00
+# fetched 2026-11-13T09:10:31.448842-05:00
 # tags: media
 
 Subscribe to be notified about all upcoming Punchbowl News events.
@@ -30,17 +30,17 @@ Brown Bag sessions are exclusive events for Premium and Premium+ community membe
 PREMIUM MEMBERS ONLY
 The Brown Bag Lunch Community Briefing
 Series
-Thursday, Nov. 12 • 1:00 PM EST • VIRTUAL
-Sign Up for Premium <https://punchbowl.news/pricing>
-or
-Log In <https://punchbowl.news/wp-json/pb-idm/v1/login>
-Confirmed for Thursday, Nov. 12 event at 1:00 PM EST
-Series
 Thursday, Dec. 10 • 1:00 PM EST • VIRTUAL
 Sign Up for Premium <https://punchbowl.news/pricing>
 or
 Log In <https://punchbowl.news/wp-json/pb-idm/v1/login>
 Confirmed for Thursday, Dec. 10 event at 1:00 PM EST
+Series
+Thursday, Jan. 14 • 1:00 PM EST • VIRTUAL
+Sign Up for Premium <https://punchbowl.news/pricing>
+or
+Log In <https://punchbowl.news/wp-json/pb-idm/v1/login>
+Confirmed for Thursday, Jan. 14 event at 1:00 PM EST
 PREMIUM+ MEMBERS ONLY
 The Premium+ Community Briefing
 Series
