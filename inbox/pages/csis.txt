@@ -1,38 +1,17 @@
 # CSIS
 # https://www.csis.org/events
-# fetched 2026-11-13T09:10:31.448842-05:00
+# fetched 2026-11-14T12:52:48.422983-05:00
 # tags: think-tank
 
 Events
 CSIS organizes & hosts a variety of international relations & policy events featuring expert speakers. Register for live events, webinars, series & conferences.
  Next Up
 Webcast
-Taking Stock of the U.S.-Korea Alliance | The Capital Cable #146 <https://www.csis.org/events/taking-stock-us-korea-alliance-capital-cable-146>
+Beyond the Pause: What's Next for CMMC <https://www.csis.org/events/beyond-pause-whats-next-cmmc>
 Presented by
-Korea Chair <https://www.csis.org/programs/korea-chair>
-November 13, 2026 • 9:30 – 10:15 am EST
+All About the Base <https://www.csis.org/programs/center-industrial-base/focus-areas/all-about-base>
+November 16, 2026 • 9:00 – 9:30 am EST
  Upcoming Events
-Image
-Photo: iLab/CSIS
-AI and Economic Security | Betting on America <https://www.csis.org/events/ai-and-economic-security-betting-america>
-November 13, 2026 • 10:00 – 11:00 am EST
-Webcast
- Hosted by 
-Economic Security and Technology
-Image
-Photo: CSIS
-Energy Shots: Are Climate Summits Getting the Job Done? <https://www.csis.org/events/energy-shots-are-climate-summits-getting-job-done>
-November 13, 2026 • 10:30 – 11:00 am EST
-Webcast
- Hosted by 
-Energy Security and Climate Change Program
-Image
-Photo: Andre Kudyusov/Getty Images
-Powering America: Connecting Regions, Strengthening the Grid <https://www.csis.org/events/powering-america-connecting-regions-strengthening-grid>
-November 13, 2026 • 1:00 – 1:45 pm EST
-Webcast
- Hosted by 
-Energy Security and Climate Change Program
 Image
 Photo: Contributor/Getty Images
 The Strategic Implications of the Russia-North Korea Axis <https://www.csis.org/events/strategic-implications-russia-north-korea-axis>
@@ -41,14 +20,65 @@ In Person
 Webcast
  Hosted by 
 Korea Chair
+Image
+Photo: STR/JIJI Press/AFP/Getty Images
+Dynamics in U.S.-Japan Semiconductor Partnership For National Security <https://www.csis.org/events/dynamics-us-japan-semiconductor-partnership-national-security>
+November 16, 2026 • 9:15 – 11:45 am EST
+In Person
+ Hosted by 
+Renewing American Innovation
+Image
+Photo: Stefano Madrigali/GETTY IMAGES
+Decoding Energy Markets: A Conversation with Amrita Sen <https://www.csis.org/events/decoding-energy-markets-conversation-amrita-sen>
+November 16, 2026 • 11:00 – 11:45 am EST
+Webcast
+ Hosted by 
+Energy Security and Climate Change Program
+Image
+Photo: tiero/Adobe Stock
+From Bottleneck to Breakthrough: A Conversation on Energy Permitting Reform <https://www.csis.org/index%2Ephp/events/bottleneck-breakthrough-conversation-energy-permitting-reform>
+November 16, 2026 • 12:00 – 1:00 pm EST
+In Person
+ Hosted by 
+Energy Security and Climate Change Program
 See all upcoming events <https://www.csis.org/events?f%5B0%5D=event_type%3A3004&f%5B1%5D=event_type%3A3005&f%5B2%5D=event_type%3A3012>
  Recent Events
 Image
-Photo: Erik Marmor/picture alliance via Getty Images
+Photo: CSIS
+Powering America: Connecting Regions, Strengthening the Grid <https://www.csis.org/index%2ephp/events/powering-america-connecting-regions-strengthening-grid>
+November 13, 2026 • 1:00 – 1:45 pm EST
+ Hosted by 
+Energy Security and Climate Change Program
+Image
+Photo: CSIS
+Energy Shots: Are Climate Summits Getting the Job Done? <https://www.csis.org/index%2ephp/events/energy-shots-are-climate-summits-getting-job-done>
+November 13, 2026 • 10:30 – 11:00 am EST
+ Hosted by 
+Energy Security and Climate Change Program
+Image
+Photo: CSIS
+AI and Economic Security | Betting on America <https://www.csis.org/index%2ephp/events/ai-and-economic-security-betting-america>
+November 13, 2026 • 10:00 – 11:00 am EST
+ Hosted by 
+Economic Security and Technology
+Image
+Photo: ANDREW CABALLERO-REYNOLDS/AFP via Getty Images
+Taking Stock of the U.S.-Korea Alliance | The Capital Cable #146 <https://www.csis.org/events/taking-stock-us-korea-alliance-capital-cable-146>
+November 13, 2026 • 9:30 – 10:15 am EST
+ Hosted by 
+Korea Chair
+Image
+Photo: CSIS
 Israel’s Elections and the Future of the Middle East <https://www.csis.org/events/israels-elections-and-future-middle-east>
 November 12, 2026 • 10:00 – 11:00 am EST
  Hosted by 
 Middle East Program
+Image
+Photo: CSIS
+What's Powering the Russian War Machine? <https://www.csis.org/index%2Ephp/events/whats-powering-russian-war-machine>
+November 10, 2026 • 2:33 – 3:33 pm EST
+ Hosted by 
+Economics Program and Scholl Chair in International Business
 Image
 Can Nigeria’s 2027 Election Deliver Hope? <https://www.csis.org/events/can-nigerias-2027-election-deliver-hope>
 November 10, 2026 • 1:30 – 2:30 pm EST
@@ -60,34 +90,6 @@ The Impossible State Live Podcast: Camp David, Three Years On: Still Standing? <
 November 10, 2026 • 11:00 – 11:40 am EST
  Hosted by 
 Korea Chair
-Image
-Photo: Kevin Frayer/Getty Images
-How Can the Future of AI Center Human Rights? <https://www.csis.org/events/how-can-future-ai-center-human-rights>
-November 10, 2026 • 10:00 – 11:00 am EST
- Hosted by 
-Human Rights Initiative
-Image
-Photo: CSIS
-Why Agriculture is Africa’s Superpower <https://www.csis.org/events/why-agriculture-africas-superpower>
-November 10, 2026 • 9:00 – 9:45 am EST
- Hosted by 
-Global Development
-Image
-Photo: Eric Thayer/Getty Images
-Press Briefing: Previewing President Trump's Trip to Asia <https://www.csis.org/events/press-briefing-previewing-president-trumps-trip-asia>
-November 9, 2026 • 10:00 – 11:00 am EST
-Image
-Photo: Houssam Shbaro/Anadolu/Getty Images
-Rebuilding Regional Connectivity: A Conversation with Lebanon’s Minister of Public Works and Transport H.E. Fayez Rasamny <https://www.csis.org/events/rebuilding-regional-connectivity-conversation-lebanons-minister-public-works-and-transport>
-November 9, 2026 • 9:00 – 10:00 am EST
- Hosted by 
-Middle East Program
-Image
-Photo: CSIS
-2026 Elections: New Congress, New Trade Agenda? <https://www.csis.org/events/2026-elections-new-congress-new-trade-agenda>
-November 6, 2026 • 12:00 – 10:00 pm EST
- Hosted by 
-Economics Program and Scholl Chair in International Business
 See all past events <https://www.csis.org/events?past_events=1>
 Upcoming Events <https://www.csis.org/events?upcoming_events=1>
 Past Events <https://www.csis.org/events?past_events=1>
@@ -95,33 +97,27 @@ Filter by
 Conference
  (2) <https://www.csis.org/events?f%5B0%5D=event_type%3A3004>
 Event
- (14) <https://www.csis.org/events?f%5B0%5D=event_type%3A3012>
+ (10) <https://www.csis.org/events?f%5B0%5D=event_type%3A3012>
 Africa
  (1) <https://www.csis.org/events?f%5B0%5D=regions%3A789>
 Americas
- (3) <https://www.csis.org/events?f%5B0%5D=regions%3A792>
+ (2) <https://www.csis.org/events?f%5B0%5D=regions%3A792>
 Asia
- (5) <https://www.csis.org/events?f%5B0%5D=regions%3A797>
-Central Asia
- (1) <https://www.csis.org/events?f%5B0%5D=regions%3A804>
+ (3) <https://www.csis.org/events?f%5B0%5D=regions%3A797>
 China
  (1) <https://www.csis.org/events?f%5B0%5D=regions%3A801>
-Eastern Europe
- (1) <https://www.csis.org/events?f%5B0%5D=regions%3A816>
 Europe
- (2) <https://www.csis.org/events?f%5B0%5D=regions%3A787>
+ (1) <https://www.csis.org/events?f%5B0%5D=regions%3A787>
 India
  (2) <https://www.csis.org/events?f%5B0%5D=regions%3A809>
 Japan
  (1) <https://www.csis.org/events?f%5B0%5D=regions%3A799>
 Korea
- (2) <https://www.csis.org/events?f%5B0%5D=regions%3A798>
+ (1) <https://www.csis.org/events?f%5B0%5D=regions%3A798>
 Middle East
  (1) <https://www.csis.org/events?f%5B0%5D=regions%3A785>
-North Africa
- (1) <https://www.csis.org/events?f%5B0%5D=regions%3A1324>
 North America
- (6) <https://www.csis.org/events?f%5B0%5D=regions%3A800>
+ (4) <https://www.csis.org/events?f%5B0%5D=regions%3A800>
 Russia
  (1) <https://www.csis.org/events?f%5B0%5D=regions%3A815>
 Russia and Eurasia
@@ -131,13 +127,13 @@ Southeast Asia
 American Innovation
  (1) <https://www.csis.org/events?f%5B0%5D=topics%3A3055>
 Artificial Intelligence
- (2) <https://www.csis.org/events?f%5B0%5D=topics%3A3056>
+ (1) <https://www.csis.org/events?f%5B0%5D=topics%3A3056>
 Climate Change
  (1) <https://www.csis.org/events?f%5B0%5D=topics%3A837>
 Cybersecurity
  (1) <https://www.csis.org/events?f%5B0%5D=topics%3A846>
 Defense and Security
- (5) <https://www.csis.org/events?f%5B0%5D=topics%3A817>
+ (4) <https://www.csis.org/events?f%5B0%5D=topics%3A817>
 Defense Industrial Base
  (2) <https://www.csis.org/events?f%5B0%5D=topics%3A3096>
 Defense Industry, Acquisition, and Innovation
@@ -145,15 +141,15 @@ Defense Industry, Acquisition, and Innovation
 Defense Strategy and Capabilities
  (3) <https://www.csis.org/events?f%5B0%5D=topics%3A826>
 Economic Security
- (3) <https://www.csis.org/events?f%5B0%5D=topics%3A823>
+ (2) <https://www.csis.org/events?f%5B0%5D=topics%3A823>
 Energy and Geopolitics
- (4) <https://www.csis.org/events?f%5B0%5D=topics%3A838>
+ (2) <https://www.csis.org/events?f%5B0%5D=topics%3A838>
 Energy and Sustainability
- (4) <https://www.csis.org/events?f%5B0%5D=topics%3A819>
+ (2) <https://www.csis.org/events?f%5B0%5D=topics%3A819>
 Energy Innovation
- (4) <https://www.csis.org/events?f%5B0%5D=topics%3A836>
+ (2) <https://www.csis.org/events?f%5B0%5D=topics%3A836>
 Energy Markets, Trends, and Outlooks
- (4) <https://www.csis.org/events?f%5B0%5D=topics%3A835>
+ (2) <https://www.csis.org/events?f%5B0%5D=topics%3A835>
 Family Planning and Maternal and Child Health
  (1) <https://www.csis.org/events?f%5B0%5D=topics%3A842>
 Global Health
@@ -170,47 +166,29 @@ Routine Immunizations
  (1) <https://www.csis.org/events?f%5B0%5D=topics%3A3128>
 Space and Aerospace
  (1) <https://www.csis.org/events?f%5B0%5D=topics%3A845>
-Strategic Capital
- (1) <https://www.csis.org/events?f%5B0%5D=topics%3A3100>
 Technology
  (2) <https://www.csis.org/events?f%5B0%5D=topics%3A822>
 Technology and Innovation
  (2) <https://www.csis.org/events?f%5B0%5D=topics%3A847>
 Trade and International Business
- (2) <https://www.csis.org/events?f%5B0%5D=topics%3A851>
+ (1) <https://www.csis.org/events?f%5B0%5D=topics%3A851>
 2026 <https://www.csis.org/events?f%5B0%5D=event_dates%3A2026>
 2027 <https://www.csis.org/events?f%5B0%5D=event_dates%3A2027>
 Defense and Security
  (5) <https://www.csis.org/events?f%5B0%5D=department%3ADefense%20and%20Security>
 Economic Security and Technology
- (7) <https://www.csis.org/events?f%5B0%5D=department%3AEconomic%20Security%20and%20Technology>
+ (4) <https://www.csis.org/events?f%5B0%5D=department%3AEconomic%20Security%20and%20Technology>
 Geopolitics and Foreign Policy
- (2) <https://www.csis.org/events?f%5B0%5D=department%3AGeopolitics%20and%20Foreign%20Policy>
+ (1) <https://www.csis.org/events?f%5B0%5D=department%3AGeopolitics%20and%20Foreign%20Policy>
 Global Development
  (2) <https://www.csis.org/events?f%5B0%5D=department%3AGlobal%20Development>
  Display Archived Results
-Taking Stock of the U.S.-Korea Alliance | The Capital Cable #146 <https://www.csis.org/events/taking-stock-us-korea-alliance-capital-cable-146>
-On the CSIS Capital Cable, experts discuss the growing dissonance in the U.S.-Korea alliance and what the midterm elections mean for the final two years of the Trump administration.
- Event
-— November 13, 2026
-AI and Economic Security | Betting on America <https://www.csis.org/events/ai-and-economic-security-betting-america>
-Join us for a special episode of Betting on America, looking back on a year in which AI moved from a technology story to a policy and political issue. This episode brings together some of the most compelling insights from leaders across government, business, academia, and the investment community. 
- Event
-— November 13, 2026
-Energy Shots: Are Climate Summits Getting the Job Done? <https://www.csis.org/events/energy-shots-are-climate-summits-getting-job-done>
-This biweekly video series, hosted by Joseph Majkut and Kevin Book, delivers clear insights, visuals, and straight talk on the latest energy trends.
- Event
-— November 13, 2026
-Powering America: Connecting Regions, Strengthening the Grid <https://www.csis.org/events/powering-america-connecting-regions-strengthening-grid>
-What is interregional transmission worth, and why isn’t more of it built? Dr. Julie Mulvaney Kemp (Berkeley Lab) discusses her new research and what it means for planning, investment, affordability, and reliability.
- Event
-— November 13, 2026
-CMMC on Hold: Charting a Path Forward <https://www.csis.org/events/cmmc-hold-charting-path-forward>
-On this episode of All About the Base, Dr. Jerry McGinn speaks with Stephanie Sanok Kostro, President of the Professional Services Council, about the DoD’s CMMC pause, industry concerns over compliance costs and requirements, and the path forward for cybersecurity across the defense industrial base.
- Event
-— November 16, 2026
 The Strategic Implications of the Russia-North Korea Axis <https://www.csis.org/events/strategic-implications-russia-north-korea-axis>
 CSIS convenes a conference examining the durability of the North Korea-Russia partnership, and what it means for the United States and its allies in Europe and the Indo-Pacific by bringing together leading specialists on Russia, North Korea and alliance theory. 
+ Event
+— November 16, 2026
+Beyond the Pause: What's Next for CMMC <https://www.csis.org/events/beyond-pause-whats-next-cmmc>
+On this episode of All About the Base, Dr. Jerry McGinn speaks with Stephanie Sanok Kostro, President of the Professional Services Council, about the DoD’s CMMC pause, industry concerns over compliance costs and requirements, and the path forward for cybersecurity across the defense industrial base.
  Event
 — November 16, 2026
 Dynamics in U.S.-Japan Semiconductor Partnership For National Security <https://www.csis.org/events/dynamics-us-japan-semiconductor-partnership-national-security>
@@ -222,12 +200,27 @@ The CSIS Energy Security and Climate Change Program is pleased to host Dr. Amrit
  Event
 — November 16, 2026
 From Bottleneck to Breakthrough: A Conversation on Energy Permitting Reform <https://www.csis.org/events/bottleneck-breakthrough-conversation-energy-permitting-reform>
-Please join the CSIS Energy Security and Climate Change Program and the National Petroleum Council for an educational briefing at the Capitol Visitor Center on the NPC’s report, 
-Bottleneck to Breakthrough: A Permitting Blueprint to Build
-.
+Please join the CSIS Energy Security and Climate Change Program and the National Petroleum Council for an educational briefing at the Capitol Visitor Center on the NPC’s report, Bottleneck to Breakthrough: A Permitting Blueprint to Build.
  Event
 — November 16, 2026
-PONI 2026 Fall Conference <https://www.csis.org/events/poni-2026-fall-conference>
+PONI 2026 Fall Conference <https://www.csis.org/index%2ephp/events/poni-2026-fall-conference>
 PONI's Fall Conference convenes rising nuclear experts to examine a strained global nuclear order — the future of arms control, the nonproliferation regime, verification, deterrence, and restraint. 
  Event
 — November 17, 2026
+A Conversation on the U.S. Role in Global Port Infrastructure <https://www.csis.org/events/conversation-us-role-global-port-infrastructure>
+Join the CSIS Economic Development and Prosperity Program (EDP) for an expert panel examining EDP's new report 
+Strategic Shores: Strengthening Overseas Port Infrastructure to Safeguard U.S. Economic and Security Interests. 
+ Event
+— November 17, 2026
+Peace Through Strength: A Book Talk with Roger Zakheim <https://www.csis.org/events/peace-through-strength-book-talk-roger-zakheim>
+Please join the CSIS Aerospace Security Project for a conversation with Roger Zakheim, director of the Ronald Reagan Institute, on his forthcoming book, Peace Through Strength: How Reagan's Military Buildup Won the Cold War.
+ Event
+— November 18, 2026
+Global Collaboration to Eliminate Cervical Cancer <https://www.csis.org/events/global-collaboration-eliminate-cervical-cancer>
+Please join the CSIS Bipartisan Alliance for Global Health Security for a broadcast conversation on how countries are advancing towards the global goal of cervical cancer elimination and how collaboration can address the remaining challenges.
+ Event
+— November 18, 2026
+Traffic Jams in Space | Space Strategic Dialogue <https://www.csis.org/events/traffic-jams-space-space-strategic-dialogue>
+Join the CSIS Aerospace Security Project’s Space Strategic Dialogue for a conversation on preventing collisions, distinguishing routine spacecraft activity from potential threats, and strengthening coordination in increasingly crowded orbits.
+ Event
+— November 19, 2026

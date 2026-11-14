@@ -1,71 +1,23 @@
 # Hudson Institute
 # https://www.hudson.org/events
-# fetched 2026-11-13T09:10:31.448842-05:00
+# fetched 2026-11-14T12:52:48.422983-05:00
 # tags: think-tank
 
-13
-November 2026
- In-Person Event | Invite Only
-The Future of US-Japan Cooperation in a Competitive World: Economic Security and Strategy
-Featured Speakers:
-Nick Snyder
-Hiroyuki Nakashima
-13
-November 2026
- In-Person Event | Invite Only
-The Future of US-Japan Cooperation in a Competitive World: Economic Security and Strategy
-Join Japan Bank for International Cooperation Senior Managing Director Hiroyuki Nakashima and Senior Fellow Nick Snyder for a conversation on the state of the US-Japan relationship, the links between economic cooperation and national security, and the opportunities and challenges ahead for the alliance.
- FRIDAY 10:00 a.m. - 11:00 a.m.
-Featured Speakers:
-Nick Snyder
-Hiroyuki Nakashima
-Learn More <https://www.hudson.org/events/future-us-japan-cooperation-competitive-world-economic-security-strategy>
-13
-November 2026
- In-Person Event | Hudson Institute
-Putting Veterans First: A Conversation with Secretary of Veterans Affairs Doug Collins
-Featured Speakers:
-Doug Collins
-Jeremy Hunt
-13
-November 2026
- In-Person Event | Hudson Institute
-Putting Veterans First: A Conversation with Secretary of Veterans Affairs Doug Collins
-Two days after Veterans Day, United States Secretary of Veterans Affairs Douglas Collins will deliver a keynote address on the Department of Veterans Affairs’ work and his plans under President Donald Trump. He will also join Hudson Institute fellow Jeremy Hunt for a fireside chat.
- FRIDAY 11:30 a.m. - 12:30 p.m.
-Featured Speakers:
-Doug Collins
-Jeremy Hunt
-Learn More <https://www.hudson.org/events/putting-veterans-first-conversation-secretary-veterans-affairs-doug-collins>
-13
-November 2026
- Virtual Event | Hudson Institute
-A US Navy Fleet for Twenty-First-Century Deterrence and Combat
-Featured Speaker:
-Bryan Clark
-13
-November 2026
- Virtual Event | Hudson Institute
-A US Navy Fleet for Twenty-First-Century Deterrence and Combat
-Join Senior Fellow Bryan Clark for a presentation of his new report, Righting the Ship: Building a Relevant US Navy Fleet for Twenty-First-Century Deterrence and Combat. He will discuss the challenges facing the US Navy and how a new fleet design could help it address its missions within likely future budget and personnel constraints. The webinar will also include time for questions and answers.
- FRIDAY 1:00 p.m. - 2:00 p.m.
-Featured Speaker:
-Bryan Clark
-Learn More <https://www.hudson.org/events/us-navy-fleet-twenty-first-century-deterrence-combat>
 17
 November 2026
  In-Person Event | Hudson Institute
 The Tenth US-ROK Joint Public-Private Economic Forum: Advancing Economic Security and Industrial Strength
 Featured Speakers:
 Kim Jina
+Senator Bill Hagerty
 Kurt Campbell
-John P. Walters
 Elaine L. Chao
 Ambassador Joseph Y. Yun
 Wendy Cutler
 Michael Coulter
 Brent Sadler
 Troy Stangarone
+Arielle Roth
 Jane Nakano
 Nick Snyder
 Sek Hwan Hong
@@ -85,14 +37,15 @@ Join Hudson Institute for the tenth United States–Republic of Korea Joint Publ
  TUESDAY 9:30 a.m. - 1:00 p.m.
 Featured Speakers:
 Kim Jina
+Senator Bill Hagerty
 Kurt Campbell
-John P. Walters
 Elaine L. Chao
 Ambassador Joseph Y. Yun
 Wendy Cutler
 Michael Coulter
 Brent Sadler
 Troy Stangarone
+Arielle Roth
 Jane Nakano
 Nick Snyder
 Sek Hwan Hong
@@ -105,6 +58,31 @@ Patrick M. Cronin
 Brigham A. McCown
 Bryan Clark
 Learn More <https://www.hudson.org/events/tenth-us-rok-joint-public-private-economic-forum-advancing-economic-security-industrial>
+17
+November 2026
+ In-Person Event | Hudson Institute
+Overcoming US-ROK Alliance Challenges: Trade, Technology, and China
+Featured Speakers:
+David Feith
+Patrick M. Cronin
+Ely Ratner
+Trevor Wagener
+Matt Mowers
+17
+November 2026
+ In-Person Event | Hudson Institute
+Overcoming US-ROK Alliance Challenges: Trade, Technology, and China
+Join Hudson Institute for a conversation with David Feith, Patrick M. Cronin, Ely Ratner, Trevor Wagener, and Matt Mowers on these challenges. The discussion will consider Wagener’s recent Computer and Communications Industry Association report, 
+The KFTC’s Uneven Hand
+, which examines disparities in South Korea’s competition enforcement against American, Korean, and Chinese companies.
+ TUESDAY 4:00 p.m. - 5:00 p.m.
+Featured Speakers:
+David Feith
+Patrick M. Cronin
+Ely Ratner
+Trevor Wagener
+Matt Mowers
+Learn More <https://www.hudson.org/events/overcoming-us-rok-alliance-challenges-trade-technology-china>
 18
 November 2026
  In-Person Event | Hudson Institute
@@ -118,7 +96,6 @@ November 2026
 Rebuilding the Arsenal of Freedom and Reindustrializing America
 Join House Armed Services Committee Chairman Mike Rogers (AL-03) for a fireside discussion with Senior Fellow Nadia Schadlow on Congress’s role in revitalizing America’s defense industrial base.
  WEDNESDAY 2:00 p.m. - 3:00 p.m.
-Add to calendar
 Featured Speakers:
 Congressman Mike Rogers
 Nadia Schadlow
@@ -140,6 +117,55 @@ Featured Speakers:
 Roger Zakheim
 Nadia Schadlow
 Learn More <https://www.hudson.org/events/peace-through-strength-how-reagans-military-buildup-won-cold-war>
+13
+November 2026
+ Past Event
+A US Navy Fleet for Twenty-First-Century Deterrence and Combat
+Featured Speaker:
+Bryan Clark
+13
+November 2026
+ Past Event
+A US Navy Fleet for Twenty-First-Century Deterrence and Combat
+Join Senior Fellow Bryan Clark for a presentation of his new report, Righting the Ship: Building a Relevant US Navy Fleet for Twenty-First-Century Deterrence and Combat. He will discuss the challenges facing the US Navy and how a new fleet design could help it address its missions within likely future budget and personnel constraints. The webinar will also include time for questions and answers.
+ FRIDAY 1:00 p.m. - 2:00 p.m.
+Featured Speaker:
+Bryan Clark
+Learn More <https://www.hudson.org/events/us-navy-fleet-twenty-first-century-deterrence-combat>
+13
+November 2026
+ Past Event
+Putting Veterans First: A Conversation with Secretary of Veterans Affairs Doug Collins
+Featured Speakers:
+Doug Collins
+Jeremy Hunt
+13
+November 2026
+ Past Event
+Putting Veterans First: A Conversation with Secretary of Veterans Affairs Doug Collins
+Two days after Veterans Day, United States Secretary of Veterans Affairs Douglas Collins will deliver a keynote address on the Department of Veterans Affairs’ work and his plans under President Donald Trump. He will also join Hudson Institute fellow Jeremy Hunt for a fireside chat.
+ FRIDAY 11:30 a.m. - 12:30 p.m.
+Featured Speakers:
+Doug Collins
+Jeremy Hunt
+Learn More <https://www.hudson.org/events/putting-veterans-first-conversation-secretary-veterans-affairs-doug-collins>
+13
+November 2026
+ Past Event
+The Future of US-Japan Cooperation in a Competitive World: Economic Security and Strategy
+Featured Speakers:
+Nick Snyder
+Hiroyuki Nakashima
+13
+November 2026
+ Past Event
+The Future of US-Japan Cooperation in a Competitive World: Economic Security and Strategy
+Join Japan Bank for International Cooperation Senior Managing Director Hiroyuki Nakashima and Senior Fellow Nick Snyder for a conversation on the state of the US-Japan relationship, the links between economic cooperation and national security, and the opportunities and challenges ahead for the alliance.
+ FRIDAY 10:00 a.m. - 11:00 a.m.
+Featured Speakers:
+Nick Snyder
+Hiroyuki Nakashima
+Learn More <https://www.hudson.org/events/future-us-japan-cooperation-competitive-world-economic-security-strategy>
 12
 November 2026
  Past Event
@@ -154,6 +180,7 @@ November 2026
 From Dependence to Resilience: Financing a Secure Pharmaceutical Supply Chain
 Join DFC Chief Policy Officer Caroline Vik and Amneal Pharmaceuticals Senior Vice President Maryll Toufanian for a conversation moderated by Senior Fellow Nick Snyder. The discussion will examine America’s strategy to secure pharmaceutical supply chains and the work ahead for policymakers and industry as they pursue sustainable solutions in a complex market and policy environment. 
  THURSDAY 1:00 p.m. - 2:00 p.m.
+Add to calendar
 Featured Speakers:
 Caroline Vik
 Maryll Toufanian
@@ -283,20 +310,3 @@ Featured Speakers:
 Volodymyr Zelenskyy
 John P. Walters
 Learn More <https://www.hudson.org/events/special-address-ukrainian-president-volodymyr-zelenskyy>
-23
-October 2026
- Past Event
-Semiconductors, Onshoring, and US Government Capital: A Conversation with Commerce's Bill Frauenhofer
-Featured Speakers:
-Bill Frauenhofer
-David Feith
-23
-October 2026
- Past Event
-Semiconductors, Onshoring, and US Government Capital: A Conversation with Commerce's Bill Frauenhofer
-Bill Frauenhofer, executive director for semiconductor investment and innovation at the US Department of Commerce, will join Hudson Institute Senior Fellow David Feith for an invitation-only fireside chat on semiconductor onshoring and the role of government capital in strengthening America’s technological and industrial leadership.
- FRIDAY 10:00 a.m. - 11:00 a.m.
-Featured Speakers:
-Bill Frauenhofer
-David Feith
-Learn More <https://www.hudson.org/events/semiconductors-onshoring-us-government-capital-conversation-commerces-bill-frauenhofer>

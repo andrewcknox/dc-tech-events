@@ -1,6 +1,6 @@
 # Hoover Institution
 # https://www.hoover.org/events
-# fetched 2026-11-13T09:10:31.448842-05:00
+# fetched 2026-11-14T12:52:48.422983-05:00
 # tags: think-tank
 
 Events
@@ -10,7 +10,7 @@ Featured Events
 Read More <https://www.hoover.org/events/securing-freedom-innovation-industry-and-future-deterrence>
  <img loading="lazy" src="https://hoover-s3-website.s3.us-west-2.amazonaws.com/s3fs-public/styles/340x370/public/2026-11/250_Graphic-Dec3.png?h=5055962e&amp;itok=PXyujyyT" width="680" height="740" alt="Securing Freedom: Innovation, Industry, and the Future of Deterrence" />
 Events
-Securing Freedom: Innovation, Industry, and the Future of Deterrence
+Securing Freedom: Innovation, Industry, And The Future Of Deterrence
 An advance screening of Deterrence: Winning the 2nd Cold War and a conversation with Shyam Sankar and H.R. McMaster…
 December 03, 2026
 Hoover Institution, Stanford University
@@ -93,9 +93,9 @@ Wednesday, June 17, 2026
 Choosing Freedom: Lives That Defied Tyranny 
 Uncover personal stories of courage in the pursuit of freedom in a new exhibition from the Hoover Institution Library & Archives 
 Lou Henry Hoover Gallery, Hoover Tower
-Reading Adam Smith in North Korea An Insider's View of the State <https://www.hoover.org/events/reading-adam-smith-north-korea-insiders-view-state>
+Reading Adam Smith In North Korea An Insider's View Of The State <https://www.hoover.org/events/reading-adam-smith-north-korea-insiders-view-state>
 Monday, November 16, 2026 
-Reading Adam Smith in North Korea An Insider's View of the State 
+Reading Adam Smith In North Korea An Insider's View Of The State 
 The Northeast Asia History Working Group of the Hoover History Lab invites you to attend Reading Adam Smith in North Korea: An Insider's View of the… 
 Shultz Auditorium, George P. Shultz Building
 Symposium On Domestic Rural Life And Institutions <https://www.hoover.org/events/symposium-domestic-rural-life-and-institutions>
@@ -121,10 +121,10 @@ Higher Education, Research Investment, and the Public Interest <https://www.hoov
 Wednesday, December 2, 2026 
 Higher Education, Research Investment, and the Public Interest 
 The Hoover Institution's Center for Revitalizing American Institutions invites you to attend Higher Education, Research Investment, and the Public… 
-Securing Freedom: Innovation, Industry, and the Future of Deterrence <https://www.hoover.org/events/securing-freedom-innovation-industry-and-future-deterrence>
+Securing Freedom: Innovation, Industry, And The Future Of Deterrence <https://www.hoover.org/events/securing-freedom-innovation-industry-and-future-deterrence>
 Thursday, December 3, 2026 
 4:30 PM PT
-Securing Freedom: Innovation, Industry, and the Future of Deterrence 
+Securing Freedom: Innovation, Industry, And The Future Of Deterrence 
 An advance screening of Deterrence: Winning the 2nd Cold War and a conversation with Shyam Sankar and H.R. McMaster
 Register To Attend 
 Hoover Institution, Stanford University

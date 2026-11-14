@@ -1,6 +1,6 @@
 # Stanford FSI (all centers)
 # https://fsi.stanford.edu/events
-# fetched 2026-11-13T09:10:31.448842-05:00
+# fetched 2026-11-14T12:52:48.422983-05:00
 # tags: bay-area, university
 
 FSI Events
@@ -12,26 +12,6 @@ Event Recordings <https://www.youtube.com/FSIStanford>
 Filter:
 Filter results
 Close
-Health Policy Seminar with Noemi Kreif - Better Estimates, Better Decisions? Individualizing Treatment with Conditional Average Treatment Effects from Randomized Trials <https://fsi.stanford.edu/events/health-policy-seminar-noemi-kreif-better-estimates-better-decisions-individualizing>
-Friday, November 13, 2026
-12:00 PM - 1:00 PM
-(Pacific)
-Health Policy Seminars 
-are hybrid events open to the Stanford community. For more information, please reach out to 
-healthpolicy-comms@stanford.edu
-Encina Commons, Room 119
-Department of Health Policy/Center for Health Policy   
-615 Crothers Way, Stanford
-Lunch will be provided on a first-come, first-served basis for in-person attendees. 
- Seminars
-Daniel Yi Xu | Social Learning and Assortative Matching in Chinese EV Ecosystem <https://fsi.stanford.edu/events/daniel-yi-xu-social-learning-and-assortative-matching-chinese-ev-ecosystem>
-Friday, November 13, 2026
-12:00 PM - 1:20 PM
-(Pacific)
-Register <https://app.smartsheet.com/b/form/019faf03e7537b64b5ec74b97a15319f>
-Goldman Room E409, Encina Hall
- Speaker: 
- Daniel Yi Xu, Professor of Economics, Duke University 
  Seminars
 Neil Rogachevsky — Israel's Declaration of Independence: Founding Values and Contemporary Debates <https://fsi.stanford.edu/events/neil-rogachevsky-israels-declaration-independence-founding-values-and-contemporary-debates>
 Monday, November 16, 2026
@@ -184,15 +164,6 @@ Conference Room E-008 in Encina Hall, East,
 Alain Schläpfer <https://fsi.stanford.edu/people/alain-schlapfer>
  Moderator: 
 Hesham Sallam <https://fsi.stanford.edu/people/hesham_sallam>
- Seminars
-Student Seminar | After the Deluge: Economic and Environmental Consequences of Floods in China <https://fsi.stanford.edu/events/student-seminar-after-deluge-economic-and-environmental-consequences-floods-china>
-Friday, November 20, 2026
-12:00 PM - 1:00 PM
-(Pacific)
-Register <https://app.smartsheet.com/b/form/019fce8bf19170f7b7ce36140d48615d>
-Goldman Conference Room, Encina Hall, E409
- Speaker: 
- Zhiren Hu, IvyPlus Graduate Student, Economics for Sustainability and Energy Transition Research Program, Stanford University 
 Eliza Ennis - Estimating the population-wide impacts of proposed harm reduction policy: Modeling the syndemic of HIV, HCV, and overdose - PhD Candidate Practice Job Talk <https://fsi.stanford.edu/events/eliza-ennis-estimating-population-wide-impacts-proposed-harm-reduction-policy-modeling>
 Friday, November 20, 2026
 12:00 PM - 1:00 PM
@@ -204,6 +175,15 @@ Encina Commons, Room 119
 Department of Health Policy/Center for Health Policy   
 615 Crothers Way, Stanford
 Lunch will be provided on a first-come, first-served basis for in-person attendees. 
+ Seminars
+Student Seminar | After the Deluge: Economic and Environmental Consequences of Floods in China <https://fsi.stanford.edu/events/student-seminar-after-deluge-economic-and-environmental-consequences-floods-china>
+Friday, November 20, 2026
+12:00 PM - 1:00 PM
+(Pacific)
+Register <https://app.smartsheet.com/b/form/019fce8bf19170f7b7ce36140d48615d>
+Goldman Conference Room, Encina Hall, E409
+ Speaker: 
+ Zhiren Hu, IvyPlus Graduate Student, Economics for Sustainability and Energy Transition Research Program, Stanford University 
  Panel Discussions
 Global Implications of the U.S. Midterm Elections <https://fsi.stanford.edu/events/global-implications-us-midterm-elections>
 Monday, November 30, 2026
@@ -318,3 +298,21 @@ Encina Commons, Room 119
 Department of Health Policy/Center for Health Policy   
 615 Crothers Way, Stanford
 Lunch will be provided on a first-come, first-served basis for in-person attendees.
+ Seminars
+Reflections on the Latest Shifts in the U.S.-China Relationship: A Perspective from Shanghai <https://fsi.stanford.edu/events/reflections-latest-shifts-us-china-relationship-perspective-shanghai>
+Friday, December 4, 2026
+12:00 PM - 1:30 PM
+(Pacific)
+REGISTER TO ATTEND IN PERSON <https://forms.gle/yPExFvpA5HkKDsdK8>
+Philippines Conference Room (C330)
+Encina Hall, 3rd Floor
+616 Jane Stanford Way, Stanford, CA 94305
+ Seminars
+Beyond Land and Debt: Rebuilding the Fiscal Foundation to Revitalize Local Government Finance in China <https://fsi.stanford.edu/events/beyond-land-and-debt-rebuilding-fiscal-foundation-revitalize-local-government-finance-china>
+Tuesday, December 8, 2026
+12:00 PM - 1:30 PM
+(Pacific)
+REGISTER TO ATTEND IN PERSON <https://forms.gle/D7152n8HQQBA14tU8>
+Philippines Conference Room (C330)
+Encina Hall, 3rd Floor
+616 Jane Stanford Way, Stanford, CA 94305

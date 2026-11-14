@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-13T09:19:44-05:00",
- "today": "2026-11-13",
- "window_start": "2026-11-13",
+ "generated_at": "2026-11-14T13:01:37-05:00",
+ "today": "2026-11-14",
+ "window_start": "2026-11-14",
  "window_days": 14,
  "map_center": [
   38.905,
@@ -5110,6 +5110,40 @@
    "where": "Milken Institute School of Public Health Building, Convening Center"
   },
   {
+   "id": 560,
+   "title": "Overcoming US-ROK Alliance Challenges: Trade, Technology, and China",
+   "start": "2026-11-17T16:00:00-05:00",
+   "end": "2026-11-17T17:00:00-05:00",
+   "host": "Hudson Institute",
+   "source": "daily page scan",
+   "location": "Hudson Institute, 1201 Pennsylvania Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.hudson.org/events/overcoming-us-rok-alliance-challenges-trade-technology-china",
+   "topics": [
+    "Japan-Korea",
+    "China",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 4,
+   "why": "Alliance tech policy and digital-platform regulation with former senior officials.",
+   "description": "Discussion of US-ROK trade and technology frictions and China, including CCIA report on South Korea's competition enforcement against US tech firms.",
+   "speakers": [
+    "David Feith",
+    "Patrick M. Cronin",
+    "Ely Ratner",
+    "Trevor Wagener",
+    "Matt Mowers"
+   ],
+   "lat": 38.896,
+   "lon": -77.0286,
+   "in_dc": true,
+   "time": "4:00 PM–5:00 PM",
+   "where": "Hudson Institute, 1201 Pennsylvania Ave NW, Washington, DC"
+  },
+  {
    "id": 392,
    "title": "Powering Innovation: Exploring the Intersection of Technology and Energy",
    "start": "2026-11-17T17:00:00-05:00",
@@ -5325,6 +5359,32 @@
    "in_dc": true,
    "time": "10:00 AM",
    "where": "2360 Rayburn House Office Building, Washington, DC"
+  },
+  {
+   "id": 567,
+   "title": "Senate Commerce Committee executive session: S.69 (government interference in content moderation) and other bills",
+   "start": "2026-11-18T10:00:00-05:00",
+   "end": null,
+   "host": "Senate Commerce, Science, and Transportation Committee",
+   "source": "daily page scan",
+   "location": "253 Russell Senate Office Building, Washington, DC",
+   "virtual": false,
+   "url": "https://www.congress.gov/committee-schedule/daily/2026/11/18",
+   "topics": [
+    "trust-and-safety"
+   ],
+   "tags": [
+    "hill"
+   ],
+   "fit": 3,
+   "why": "Markup of a platform content-moderation bill in the Senate tech committee.",
+   "description": "Markup of S.69, amending the Communications Act to address governmental interference in platform content moderation, plus other bills and nominations.",
+   "speakers": [],
+   "lat": 38.8899,
+   "lon": -77.0091,
+   "in_dc": true,
+   "time": "10:00 AM",
+   "where": "253 Russell Senate Office Building, Washington, DC"
   },
   {
    "id": 276,
@@ -5608,6 +5668,84 @@
    "where": "Washington, DC"
   },
   {
+   "id": 558,
+   "title": "Traffic Jams in Space | Space Strategic Dialogue",
+   "start": "2026-11-19T00:00:00-05:00",
+   "end": null,
+   "host": "CSIS",
+   "source": "daily page scan",
+   "location": "CSIS, 1616 Rhode Island Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.csis.org/events/traffic-jams-space-space-strategic-dialogue",
+   "topics": [
+    "space"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 4,
+   "why": "Space traffic management and counterspace signalling, core space-security policy.",
+   "description": "CSIS Aerospace Security Project's Space Strategic Dialogue on preventing collisions, distinguishing routine spacecraft activity from threats, and coordination in crowded orbits.",
+   "speakers": [],
+   "lat": 38.9061,
+   "lon": -77.0378,
+   "in_dc": true,
+   "time": "time TBD",
+   "where": "CSIS, 1616 Rhode Island Ave NW, Washington, DC"
+  },
+  {
+   "id": 569,
+   "title": "GovExec's Cyber Resilience Summit: Transforming Strategy into Capability",
+   "start": "2026-11-19T08:00:00-05:00",
+   "end": "2026-11-19T15:00:00-05:00",
+   "host": "GovExec",
+   "source": "daily page scan",
+   "location": "Reston, VA",
+   "virtual": false,
+   "url": "https://events.govexec.com/",
+   "topics": [
+    "cyber"
+   ],
+   "tags": [
+    "media"
+   ],
+   "fit": 3,
+   "why": "Federal cyber officials on resilience strategy; vendor-government format.",
+   "description": "Government-industry summit on federal cyber resilience strategy and implementation.",
+   "speakers": [],
+   "lat": 38.953282,
+   "lon": -77.3464516,
+   "in_dc": true,
+   "time": "8:00 AM–3:00 PM",
+   "where": "Reston, VA"
+  },
+  {
+   "id": 563,
+   "title": "People-Powered AI: Addressing the Missing Middle",
+   "start": "2026-11-19T08:30:00-05:00",
+   "end": "2026-11-19T17:30:00-05:00",
+   "host": "U.S. Chamber of Commerce Foundation",
+   "source": "daily page scan",
+   "location": "U.S. Chamber of Commerce, 1615 H St NW, Washington, DC 20062",
+   "virtual": false,
+   "url": "https://events.uschamberfoundation.org/aiai/",
+   "topics": [
+    "AI"
+   ],
+   "tags": [
+    "industry"
+   ],
+   "fit": 3,
+   "why": "Business view on AI workforce policy, walkable from SAIS.",
+   "description": "Day-long Chamber Foundation forum on AI and the workforce, focusing on the 'missing middle'.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "8:30 AM–5:30 PM",
+   "where": "U.S. Chamber of Commerce, 1615 H St NW, Washington, DC 20062"
+  },
+  {
    "id": 541,
    "title": "Senate HSGAC nominations hearing: Michael LoSapio to be CISA Director and others",
    "start": "2026-11-19T09:30:00-05:00",
@@ -5831,6 +5969,33 @@
    "in_dc": true,
    "time": "2:00 PM",
    "where": "2200 Rayburn House Office Building, Washington, DC"
+  },
+  {
+   "id": 550,
+   "title": "Will AI Destroy Big Tech’s Moats — Or Make Them Impenetrable?",
+   "start": "2026-11-19T13:00:00-08:00",
+   "end": "2026-11-19T14:00:00-08:00",
+   "host": "Berkeley Law AI events",
+   "source": "Berkeley Law AI events",
+   "location": "140 Law Building",
+   "virtual": false,
+   "url": "https://www.law.berkeley.edu/event/will-ai-destroy-big-techs-moats-or-make-them-impenetrable/",
+   "topics": [
+    "AI"
+   ],
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "fit": 3,
+   "why": "AI and Big Tech competition policy at Berkeley Law.",
+   "description": "The focus of the event will be on explaining the current state of competition for each of the big tech companies and assessing, how AI is likely to bolster or threaten their business models, and what they are doing to",
+   "speakers": [],
+   "lat": 37.8699,
+   "lon": -122.2533,
+   "in_dc": true,
+   "time": "1:00 PM–2:00 PM PT",
+   "where": "140 Law Building"
   },
   {
    "id": 408,
@@ -6335,6 +6500,33 @@
    "where": "Hauck Auditorium, Traitel Building, Hoover Institution, Stanford, CA"
   },
   {
+   "id": 568,
+   "title": "The State of Scam Prevention 2026: From Momentum to Measurable Impact",
+   "start": "2026-12-02T13:30:00-05:00",
+   "end": "2026-12-02T15:30:00-05:00",
+   "host": "Aspen Institute Financial Security Program",
+   "source": "daily page scan",
+   "location": "Aspen Institute, 2300 N St NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.aspeninstitute.org/our-work/events/",
+   "topics": [
+    "cyber",
+    "trust-and-safety"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Fraud and scam policy, overlapping cyber and platform trust-and-safety.",
+   "description": "First annual State of Scam Prevention, reviewing cross-sector progress against scams and priorities for 2027.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "1:30 PM–3:30 PM",
+   "where": "Aspen Institute, 2300 N St NW, Washington, DC"
+  },
+  {
    "id": 345,
    "title": "What Your Machines Should Do: The Science and Strategy of Human-Centered Automation",
    "start": "2026-12-02T12:10:00-08:00",
@@ -6507,6 +6699,34 @@
    "where": "Silicon Valley, CA"
   },
   {
+   "id": 564,
+   "title": "Reflections on the Latest Shifts in the U.S.-China Relationship: A Perspective from Shanghai",
+   "start": "2026-12-04T12:00:00-08:00",
+   "end": "2026-12-04T13:30:00-08:00",
+   "host": "Stanford FSI",
+   "source": "daily page scan",
+   "location": "Philippines Conference Room (C330), Encina Hall, Stanford, CA",
+   "virtual": false,
+   "url": "https://fsi.stanford.edu/events/reflections-latest-shifts-us-china-relationship-perspective-shanghai",
+   "topics": [
+    "China",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "fit": 3,
+   "why": "US-China relations seminar for Bay Area China-policy followers.",
+   "description": "Seminar on recent shifts in US-China relations from a Shanghai perspective.",
+   "speakers": [],
+   "lat": 37.4273,
+   "lon": -122.1646,
+   "in_dc": true,
+   "time": "12:00 PM–1:30 PM PT",
+   "where": "Philippines Conference Room (C330), Encina Hall, Stanford, CA"
+  },
+  {
    "id": 501,
    "title": "Mission-Ready Insight: Impact of AI",
    "start": "2026-12-07T13:00:00-05:00",
@@ -6584,6 +6804,32 @@
    "in_dc": true,
    "time": "8:30 AM",
    "where": "NIST, Gaithersburg, MD"
+  },
+  {
+   "id": 561,
+   "title": "Reimagining global economic governance: Challenges and opportunities in a shifting geopolitical and technological landscape",
+   "start": "2026-12-08T10:00:00-05:00",
+   "end": "2026-12-08T11:45:00-05:00",
+   "host": "Brookings",
+   "source": "daily page scan",
+   "location": "The Brookings Institution, 1775 Massachusetts Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.brookings.edu/events/reimagining-global-economic-governance-challenges-and-opportunities-in-a-shifting-geopolitical-and-technological-landscape/",
+   "topics": [
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "How technology shifts reshape multilateral economic institutions.",
+   "description": "Brookings event on reforming global economic governance amid geopolitical and technological change.",
+   "speakers": [],
+   "lat": 38.9093,
+   "lon": -77.041,
+   "in_dc": true,
+   "time": "10:00 AM–11:45 AM",
+   "where": "The Brookings Institution, 1775 Massachusetts Ave NW, Washington, DC"
   },
   {
    "id": 344,
@@ -6697,6 +6943,33 @@
    "where": "Washington, DC"
   },
   {
+   "id": 562,
+   "title": "The Future of Space Nuclear Power Symposium",
+   "start": "2026-12-09T08:30:00-05:00",
+   "end": null,
+   "host": "NIST / American Nuclear Society / Office of Space Commerce",
+   "source": "daily page scan",
+   "location": "Washington, DC",
+   "virtual": false,
+   "url": "https://www.nist.gov/news-events/events/2026/12/future-space-nuclear-power-symposium",
+   "topics": [
+    "space",
+    "energy-tech"
+   ],
+   "tags": [
+    "government"
+   ],
+   "fit": 3,
+   "why": "Government-industry agenda for space nuclear power, a space and energy-tech policy niche.",
+   "description": "Inaugural symposium co-hosted by ANS, NIST and the Office of Space Commerce on space nuclear power.",
+   "speakers": [],
+   "lat": 38.9,
+   "lon": -77.03,
+   "in_dc": true,
+   "time": "8:30 AM",
+   "where": "Washington, DC"
+  },
+  {
    "id": 251,
    "title": "Rebuilding the American Industrial Base",
    "start": "2026-12-09T09:30:00-05:00",
@@ -6777,6 +7050,33 @@
    "in_dc": false,
    "time": "6:00 PM–8:30 PM",
    "where": "https://luma.com/event/evt-f7oIDTN6J5F78RH"
+  },
+  {
+   "id": 566,
+   "title": "CPPA Public Comment Hearing: Data Broker Updates and DROP Audits",
+   "start": "2027-01-06T00:00:00-08:00",
+   "end": null,
+   "host": "California Privacy Protection Agency",
+   "source": "daily page scan",
+   "location": "Hybrid; California Privacy Protection Agency, Sacramento, CA",
+   "virtual": true,
+   "url": "https://cppa.ca.gov/regulations/drop_audits.html",
+   "topics": [
+    "data/privacy"
+   ],
+   "tags": [
+    "bay-area",
+    "government"
+   ],
+   "fit": 3,
+   "why": "California data-broker rulemaking under the Delete Act.",
+   "description": "Hybrid public comment hearing on proposed data broker rule updates and Delete Request and Opt-out Platform (DROP) audits.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "time TBD",
+   "where": "Hybrid; California Privacy Protection Agency, Sacramento, CA (+ virtual)"
   },
   {
    "id": 409,

@@ -1,6 +1,6 @@
 # Brookings
 # https://www.brookings.edu/events/
-# fetched 2026-11-13T09:10:31.448842-05:00
+# fetched 2026-11-14T12:52:48.422983-05:00
 # tags: think-tank
 
 Events
@@ -142,6 +142,15 @@ Banking & Finance <https://www.brookings.edu/topics/banking-finance/>
  The working person’s bank account: A new proposal for universal banking
  The Brookings Institution, Washington D.C.
  Tuesday, 3:00 pm - 5:00 pm EST
+Reimagining global economic governance: Challenges and opportunities in a shifting geopolitical and technological landscape <https://www.brookings.edu/events/reimagining-global-economic-governance-challenges-and-opportunities-in-a-shifting-geopolitical-and-technological-landscape/>
+ Upcoming Event
+December
+08
+2026
+Diplomacy & Multilateralism <https://www.brookings.edu/topics/diplomacy-multilateralism/>
+ Reimagining global economic governance: Challenges and opportunities in a shifting geopolitical and technological landscape
+ The Brookings Institution, Washington DC
+ Tuesday, 10:00 am - 11:45 am EST
 Recent Past Events
 What comes next: The consequences of the 2026 midterm elections <https://www.brookings.edu/events/what-comes-next-the-consequences-of-the-2026-midterm-elections/>
  Past Event

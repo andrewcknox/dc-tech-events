@@ -1,19 +1,15 @@
 # Scoop News Group (FedScoop/CyberScoop) events
 # https://cyberscoop.com/attend/
-# fetched 2026-11-13T09:10:31.448842-05:00
+# fetched 2026-11-14T12:52:48.422983-05:00
 # tags: media, industry
 
 Advertisement
 Get our latest cybersecurity news first on Google.
 Click here! <https://google.com/preferences/source?q=cyberscoop.com>
-Webinar: Racing the Exploit Clock <https://horizon3vulnerabilitymanagement.upgather.com>
-Nov 12, 2026 <https://horizon3vulnerabilitymanagement.upgather.com>
-Virtual Event <https://horizon3vulnerabilitymanagement.upgather.com>
-Register <https://horizon3vulnerabilitymanagement.upgather.com>
 FedTalks <https://fedtalks.upgather.com>
-Nov 17, 2026
-Waldorf Astoria, Washington, D.C.
-Register
+Nov 17, 2026 <https://fedtalks.upgather.com>
+Waldorf Astoria, Washington, D.C. <https://fedtalks.upgather.com>
+Register <https://fedtalks.upgather.com>
 Webinar: Unleashing the Genesis Mission – Human-Machine Teaming in Nuclear Security <https://genesismission.upgather.com>
 Nov 18, 2026
 VIRTUAL EVENT
@@ -51,6 +47,10 @@ Apr 29, 2027
 Waldorf Astoria, Washington D.C.
 Register
 On Demand Events
+Webinar: Racing the Exploit Clock <https://horizon3vulnerabilitymanagement.upgather.com>
+Nov 12, 2026
+Virtual Event
+Watch Again
 Rubrik Public Sector Summit: Building Resilience for the AI Era <https://rubrikpublicsectorsummit.upgather.com>
 Oct 13, 2026
 Virtual Event
@@ -85,10 +85,6 @@ Virtual Event
 Watch Again
 Rubrik Public Sector Summit: Cyber Resilience in Government <https://rubrikpublicsectorsummit.upgather.com/2025>
 Dec 10, 2025
-Virtual Event
-Watch Again
-AITalks State & Local <https://aitalksstateandlocal.upgather.com>
-Nov 12, 2025
 Virtual Event
 Watch Again
 No events found.

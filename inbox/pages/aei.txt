@@ -1,6 +1,6 @@
 # AEI
 # https://www.aei.org/events/
-# fetched 2026-11-13T09:10:31.448842-05:00
+# fetched 2026-11-14T12:52:48.422983-05:00
 # tags: think-tank
 
 Events
@@ -18,6 +18,11 @@ with 
 Bronwyn Howell <https://www.aei.org/profile/bronwyn-howell/>
  | 
 Mark Jamison <https://www.aei.org/profile/mark-jamison-2/>
+Online Event
+November 18, 2026
+What Now for School Choice in the States? <https://www.aei.org/events/what-now-for-school-choice-in-the-states/>
+with 
+Frederick M. Hess <https://www.aei.org/profile/frederick-m-hess/>
 Online Event
 November 23, 2026
 Harnessing Technology and Policy to Advance Disability Employment and Economic Mobility <https://www.aei.org/events/harnessing-technology-and-policy-to-advance-disability-employment-and-economic-mobility/>

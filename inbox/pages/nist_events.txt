@@ -1,6 +1,6 @@
 # NIST events
 # https://www.nist.gov/news-events/events/rss.xml
-# fetched 2026-11-13T09:10:31.448842-05:00
+# fetched 2026-11-14T12:52:48.422983-05:00
 # tags: government
 
 ### TREC 2026
@@ -11,7 +11,7 @@ TREC is an annual evaluation workshop series hosted by the National Institute of
 ### NICE Webinar - Breaking into Cyber: Gateway Roles and the Skills that Matter
 Link: https://www.nist.gov/news-events/events/2026/12/nice-webinar-breaking-cyber-gateway-roles-and-skills-matter
 Published: Wed, 02 Dec 2026 14:00:00 -0500
-Speakers: Patrick Edwards Data Analyst Opportunity@Work Danielle Santos NICE Deputy Director and Lead for International Engagement NIST Additional speakers to be announced. Synopsis: Upward mobility and economic opportunity are built on accessible
+Speakers: Patrick Edwards Data Analyst Opportunity@Work Kaylah Mackroy Program Manager San Diego Workforce Partnership Danielle Santos NICE Deputy Director and Lead for International Engagement NIST Synopsis: Upward mobility and economic opportunity
 
 ### NIST OWM Volume Metrology Seminar (Class 2065 December 2026)
 Link: https://www.nist.gov/news-events/events/2026/12/nist-owm-volume-metrology-seminar-class-2065-december-2026
@@ -22,6 +22,11 @@ This 5-day NIST Office of Weights and Measures (OWM) Volume Metrology seminar en
 Link: https://www.nist.gov/news-events/events/2026/12/second-semiconductor-traceability-and-provenance-workshop
 Published: Tue, 08 Dec 2026 08:30:00 -0500
 Semiconductor supply chains span a complex network of design, fabrication, assembly and test, packaging, distribution, integration, and deployment. Establishing confidence in the origin, identity, history, and movement of semiconductor products
+
+### The Future of Space Nuclear Power Symposium
+Link: https://www.nist.gov/news-events/events/2026/12/future-space-nuclear-power-symposium
+Published: Wed, 09 Dec 2026 08:30:00 -0500
+Co-hosted by the American Nuclear Society, the Department of Commerce National Institute of Standards and Technology (NIST), and the Office of Space Commerce, the inaugural “Future of Space Nuclear Power Symposium” will take place in Washington, D.C
 
 ### NIST Postmortem Toxicology Testing and Death Reporting (Certificates) Workshop #2
 Link: https://www.nist.gov/news-events/events/2026/12/nist-postmortem-toxicology-testing-and-death-reporting-certificates

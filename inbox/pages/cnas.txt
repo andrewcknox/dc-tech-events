@@ -1,17 +1,27 @@
 # CNAS
 # https://www.cnas.org/events
-# fetched 2026-11-13T09:10:31.448842-05:00
+# fetched 2026-11-14T12:52:48.422983-05:00
 # tags: think-tank
 
 Upcoming Events
-Event <https://www.cnas.org/events/fireside-chat-with-ben-buchanan>
-Next Up <https://www.cnas.org/events/fireside-chat-with-ben-buchanan>
- Technology & National Security
-Fireside Chat with Ben Buchanan <https://www.cnas.org/events/fireside-chat-with-ben-buchanan>
-Nov 12, 2026
-3:30p.m. ET
-Read More <https://www.cnas.org/events/fireside-chat-with-ben-buchanan>
+Event <https://www.cnas.org/events/the-next-phase-of-the-axis-of-upheaval>
+Next Up <https://www.cnas.org/events/the-next-phase-of-the-axis-of-upheaval>
+ Transatlantic Security
+The Next Phase of the Axis of Upheaval <https://www.cnas.org/events/the-next-phase-of-the-axis-of-upheaval>
+Nov 17, 2026
+2:00p.m. ET
+Read More <https://www.cnas.org/events/the-next-phase-of-the-axis-of-upheaval>
+ Defense / 
+ Transatlantic Security / 
+ Middle East Security 
+Partners in Proliferation: Mapping a Decade of Iranian-Russian Military Cooperation <https://www.cnas.org/events/partners-in-proliferation-mapping-a-decade-of-iranian-russian-military-cooperation>
+ Nov 18, 2026
 Recent Events
+Event
+Technology & National Security <https://www.cnas.org/research/technology-and-national-security>
+Fireside Chat with Ben Buchanan <https://www.cnas.org/events/fireside-chat-with-ben-buchanan>
+ Paul Scharre 
+ Nov 12, 2026
 Event
 Indo-Pacific Security <https://www.cnas.org/research/indo-pacific-security>
 Digital Lifelines <https://www.cnas.org/events/digital-lifelines>
@@ -86,11 +96,6 @@ Technology & National Security <https://www.cnas.org/research/technology-and-nat
 U.S.-China AI Competition: A Fireside Chat with Chairman Brian Mast <https://www.cnas.org/events/u-s-china-ai-competition-a-fireside-chat-with-chairman-brian-mast>
  Daniel Remler 
  May 19, 2026
-Event
-Transatlantic Security <https://www.cnas.org/research/transatlantic-security>
-Beyond the Sahel: Russia’s Toolbox for Influence in Africa <https://www.cnas.org/events/beyond-the-sahel-russias-toolbox-for-influence-in-africa>
- Kate Johnston, David McKenzie 
- May 18, 2026
 Previous Page
  Previous <https://www.cnas.org/events>
  of 39

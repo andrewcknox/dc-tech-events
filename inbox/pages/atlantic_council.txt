@@ -1,17 +1,10 @@
 # Atlantic Council
 # https://www.atlanticcouncil.org/events/
-# fetched 2026-11-13T09:10:31.448842-05:00
+# fetched 2026-11-14T12:52:48.422983-05:00
 # tags: think-tank
 
 Upcoming events
 We convene in Washington DC, internationally, and virtually to inspire global engagement and to shape solutions to the defining challenges of our times. Through small, focused events and larger public gatherings, we inform and build connections. Register for upcoming events or subscribe to watch live on YouTube.
-Online Event
- Fri, November 13, 2026 • 12:00 pm ET
- How the next Congress will shape US national security policy <https://www.atlanticcouncil.org/event/how-the-next-congress-will-shape-us-national-security-policy/>
-Defense Policy <https://www.atlanticcouncil.org/issue/defense-policy/>
-National Security <https://www.atlanticcouncil.org/issue/national-security/>
-Politics & Diplomacy <https://www.atlanticcouncil.org/issue/politics-diplomacy/>
-Security & Defense <https://www.atlanticcouncil.org/issue/security-defense/>
 Public Event
  Mon, November 16, 2026 • 9:30 am ET
  Unlocking the African diaspora’s financial capital for economic growth <https://www.atlanticcouncil.org/event/unlocking-the-african-diasporas-financial-capital-for-economic-growth/>
@@ -29,6 +22,13 @@ Public Event
 Central Europe <https://www.atlanticcouncil.org/region/central-europe/>
 Energy & Environment <https://www.atlanticcouncil.org/issue/energy-environment/>
 Europe & Eurasia <https://www.atlanticcouncil.org/region/europe-eurasia/>
+Public Event
+ Wed, November 18, 2026 • 9:00 am ET
+ The risk of ignoring the Horn of Africa’s humanitarian crises <https://www.atlanticcouncil.org/event/the-risk-of-ignoring-the-horn-of-africas-humanitarian-crises/>
+Africa <https://www.atlanticcouncil.org/region/africa/>
+Civil Society <https://www.atlanticcouncil.org/issue/civil-society/>
+Crisis Management <https://www.atlanticcouncil.org/issue/crisis-management/>
+Human Rights <https://www.atlanticcouncil.org/issue/human-rights/>
 Load More <https://www.atlanticcouncil.org/events/?ac-page=2>
 #ACFrontPage <https://www.atlanticcouncil.org/acfrontpage/>
  harnesses the convening power and expertise of the Council’s sixteen programs and centers to spotlight the world’s most prominent leaders and the most compelling ideas across sectors. The virtual platform engages new audiences eager for nonpartisan and constructive solutions to current global challenges. This widely promoted forty-five-minute program features the Council’s most important guests and content serving as the highlight of our programming each week.

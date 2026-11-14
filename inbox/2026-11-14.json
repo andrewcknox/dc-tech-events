@@ -1,0 +1,249 @@
+{
+ "source": "daily page scan",
+ "tags": [],
+ "events": [
+  {
+   "title": "Traffic Jams in Space | Space Strategic Dialogue",
+   "start": "2026-11-19",
+   "end": null,
+   "location": "CSIS, 1616 Rhode Island Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.csis.org/events/traffic-jams-space-space-strategic-dialogue",
+   "host": "CSIS",
+   "description": "CSIS Aerospace Security Project's Space Strategic Dialogue on preventing collisions, distinguishing routine spacecraft activity from threats, and coordination in crowded orbits.",
+   "speakers": [],
+   "topics": [
+    "space"
+   ],
+   "fit": 4,
+   "why": "Space traffic management and counterspace signalling, core space-security policy.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "A Conversation on the U.S. Role in Global Port Infrastructure",
+   "start": "2026-11-17",
+   "end": null,
+   "location": "CSIS, 1616 Rhode Island Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.csis.org/events/conversation-us-role-global-port-infrastructure",
+   "host": "CSIS",
+   "description": "Panel on CSIS EDP report Strategic Shores on overseas port infrastructure and US economic and security interests.",
+   "speakers": [],
+   "topics": [
+    "tech-geopolitics",
+    "industrial-policy"
+   ],
+   "fit": 2,
+   "why": "Economic-security infrastructure competition with China; only tangentially tech.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Overcoming US-ROK Alliance Challenges: Trade, Technology, and China",
+   "start": "2026-11-17 16:00",
+   "end": "2026-11-17 17:00",
+   "location": "Hudson Institute, 1201 Pennsylvania Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.hudson.org/events/overcoming-us-rok-alliance-challenges-trade-technology-china",
+   "host": "Hudson Institute",
+   "description": "Discussion of US-ROK trade and technology frictions and China, including CCIA report on South Korea's competition enforcement against US tech firms.",
+   "speakers": [
+    "David Feith",
+    "Patrick M. Cronin",
+    "Ely Ratner",
+    "Trevor Wagener",
+    "Matt Mowers"
+   ],
+   "topics": [
+    "Japan-Korea",
+    "China",
+    "tech-geopolitics"
+   ],
+   "fit": 4,
+   "why": "Alliance tech policy and digital-platform regulation with former senior officials.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Reimagining global economic governance: Challenges and opportunities in a shifting geopolitical and technological landscape",
+   "start": "2026-12-08 10:00",
+   "end": "2026-12-08 11:45",
+   "location": "The Brookings Institution, 1775 Massachusetts Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.brookings.edu/events/reimagining-global-economic-governance-challenges-and-opportunities-in-a-shifting-geopolitical-and-technological-landscape/",
+   "host": "Brookings",
+   "description": "Brookings event on reforming global economic governance amid geopolitical and technological change.",
+   "speakers": [],
+   "topics": [
+    "tech-geopolitics"
+   ],
+   "fit": 3,
+   "why": "How technology shifts reshape multilateral economic institutions.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "The Future of Space Nuclear Power Symposium",
+   "start": "2026-12-09 08:30",
+   "end": null,
+   "location": "Washington, DC",
+   "virtual": false,
+   "url": "https://www.nist.gov/news-events/events/2026/12/future-space-nuclear-power-symposium",
+   "host": "NIST / American Nuclear Society / Office of Space Commerce",
+   "description": "Inaugural symposium co-hosted by ANS, NIST and the Office of Space Commerce on space nuclear power.",
+   "speakers": [],
+   "topics": [
+    "space",
+    "energy-tech"
+   ],
+   "fit": 3,
+   "why": "Government-industry agenda for space nuclear power, a space and energy-tech policy niche.",
+   "tags": [
+    "government"
+   ]
+  },
+  {
+   "title": "People-Powered AI: Addressing the Missing Middle",
+   "start": "2026-11-19 08:30",
+   "end": "2026-11-19 17:30",
+   "location": "U.S. Chamber of Commerce, 1615 H St NW, Washington, DC 20062",
+   "virtual": false,
+   "url": "https://events.uschamberfoundation.org/aiai/",
+   "host": "U.S. Chamber of Commerce Foundation",
+   "description": "Day-long Chamber Foundation forum on AI and the workforce, focusing on the 'missing middle'.",
+   "speakers": [],
+   "topics": [
+    "AI"
+   ],
+   "fit": 3,
+   "why": "Business view on AI workforce policy, walkable from SAIS.",
+   "tags": [
+    "industry"
+   ]
+  },
+  {
+   "title": "Reflections on the Latest Shifts in the U.S.-China Relationship: A Perspective from Shanghai",
+   "start": "2026-12-04T12:00:00-08:00",
+   "end": "2026-12-04T13:30:00-08:00",
+   "location": "Philippines Conference Room (C330), Encina Hall, Stanford, CA",
+   "virtual": false,
+   "url": "https://fsi.stanford.edu/events/reflections-latest-shifts-us-china-relationship-perspective-shanghai",
+   "host": "Stanford FSI",
+   "description": "Seminar on recent shifts in US-China relations from a Shanghai perspective.",
+   "speakers": [],
+   "topics": [
+    "China",
+    "tech-geopolitics"
+   ],
+   "fit": 3,
+   "why": "US-China relations seminar for Bay Area China-policy followers.",
+   "tags": [
+    "university",
+    "bay-area"
+   ]
+  },
+  {
+   "title": "Beyond Land and Debt: Rebuilding the Fiscal Foundation to Revitalize Local Government Finance in China",
+   "start": "2026-12-08T12:00:00-08:00",
+   "end": "2026-12-08T13:30:00-08:00",
+   "location": "Philippines Conference Room (C330), Encina Hall, Stanford, CA",
+   "virtual": false,
+   "url": "https://fsi.stanford.edu/events/beyond-land-and-debt-rebuilding-fiscal-foundation-revitalize-local-government-finance-china",
+   "host": "Stanford FSI",
+   "description": "Seminar on China's local government finance.",
+   "speakers": [],
+   "topics": [
+    "China"
+   ],
+   "fit": 1,
+   "why": "China fiscal policy, not tech.",
+   "tags": [
+    "university",
+    "bay-area"
+   ]
+  },
+  {
+   "title": "CPPA Public Comment Hearing: Data Broker Updates and DROP Audits",
+   "start": "2027-01-06",
+   "end": null,
+   "location": "Hybrid; California Privacy Protection Agency, Sacramento, CA",
+   "virtual": true,
+   "url": "https://cppa.ca.gov/regulations/drop_audits.html",
+   "host": "California Privacy Protection Agency",
+   "description": "Hybrid public comment hearing on proposed data broker rule updates and Delete Request and Opt-out Platform (DROP) audits.",
+   "speakers": [],
+   "topics": [
+    "data/privacy"
+   ],
+   "fit": 3,
+   "why": "California data-broker rulemaking under the Delete Act.",
+   "tags": [
+    "government",
+    "bay-area"
+   ]
+  },
+  {
+   "title": "Senate Commerce Committee executive session: S.69 (government interference in content moderation) and other bills",
+   "start": "2026-11-18 10:00",
+   "end": null,
+   "location": "253 Russell Senate Office Building, Washington, DC",
+   "virtual": false,
+   "url": "https://www.congress.gov/committee-schedule/daily/2026/11/18",
+   "host": "Senate Commerce, Science, and Transportation Committee",
+   "description": "Markup of S.69, amending the Communications Act to address governmental interference in platform content moderation, plus other bills and nominations.",
+   "speakers": [],
+   "topics": [
+    "trust-and-safety"
+   ],
+   "fit": 3,
+   "why": "Markup of a platform content-moderation bill in the Senate tech committee.",
+   "tags": [
+    "hill"
+   ]
+  },
+  {
+   "title": "The State of Scam Prevention 2026: From Momentum to Measurable Impact",
+   "start": "2026-12-02 13:30",
+   "end": "2026-12-02 15:30",
+   "location": "Aspen Institute, 2300 N St NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.aspeninstitute.org/our-work/events/",
+   "host": "Aspen Institute Financial Security Program",
+   "description": "First annual State of Scam Prevention, reviewing cross-sector progress against scams and priorities for 2027.",
+   "speakers": [],
+   "topics": [
+    "cyber",
+    "trust-and-safety"
+   ],
+   "fit": 3,
+   "why": "Fraud and scam policy, overlapping cyber and platform trust-and-safety.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "GovExec's Cyber Resilience Summit: Transforming Strategy into Capability",
+   "start": "2026-11-19 08:00",
+   "end": "2026-11-19 15:00",
+   "location": "Reston, VA",
+   "virtual": false,
+   "url": "https://events.govexec.com/",
+   "host": "GovExec",
+   "description": "Government-industry summit on federal cyber resilience strategy and implementation.",
+   "speakers": [],
+   "topics": [
+    "cyber"
+   ],
+   "fit": 3,
+   "why": "Federal cyber officials on resilience strategy; vendor-government format.",
+   "tags": [
+    "media"
+   ]
+  }
+ ]
+}

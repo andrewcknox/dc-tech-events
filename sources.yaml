@@ -343,6 +343,14 @@ sources:
     tags: [public, civil-society]
     enabled: true
 
+  # NVIDIA GTC DC side events (Nov 30-Dec 3, 2026), found on luma.com/dc 2026-11-14
+  - name: NVIDIA GTC DC side events (Luma)
+    url: https://api.lu.ma/ics/get?entity=calendar&id=cal-IGTUtC9M8rJP1tb
+    type: ics
+    js: false
+    tags: [public, industry]
+    enabled: true
+
   - name: Human Friendly Tech (Luma)
     url: https://api.lu.ma/ics/get?entity=calendar&id=cal-JhOxDIdiNDtJH2g
     type: ics

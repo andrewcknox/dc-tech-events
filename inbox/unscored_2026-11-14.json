@@ -1,0 +1,163 @@
+{
+ "instructions": "Fill fit (1-5), topics (from the DAILY.md list) and why for each event; add tags (e.g. bay-area) if needed; then `uv run dte score apply <this file>`. Leave fit null to skip.",
+ "events": [
+  {
+   "id": 550,
+   "title": "Will AI Destroy Big Tech’s Moats — Or Make Them Impenetrable?",
+   "start": "2026-11-19T16:00:00-05:00",
+   "location": "140 Law Building",
+   "virtual": false,
+   "host": "Berkeley Law AI events",
+   "source": "Berkeley Law AI events",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "The focus of the event will be on explaining the current state of competition for each of the big tech companies and assessing, how AI is likely to bolster or threaten their business models, and what they are doing to",
+   "url": "https://www.law.berkeley.edu/event/will-ai-destroy-big-techs-moats-or-make-them-impenetrable/",
+   "fit": 3,
+   "topics": [
+    "AI"
+   ],
+   "why": "AI and Big Tech competition policy at Berkeley Law."
+  },
+  {
+   "id": 556,
+   "title": "Blackwell Evening by Fluence @ Nvidia GTC, DC",
+   "start": "2026-12-01T17:30:00-05:00",
+   "location": "https://luma.com/event/evt-fh5XqHJjXjj8moy",
+   "virtual": false,
+   "host": "NVIDIA GTC DC side events (Luma)",
+   "source": "NVIDIA GTC DC side events (Luma)",
+   "tags": [
+    "public",
+    "industry"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/0axn7b35 Address: Check event page for more details. Hosted by Fluence",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-IGTUtC9M8rJP1tb",
+   "fit": 2,
+   "topics": [
+    "AI"
+   ],
+   "why": "Vendor networking evening during NVIDIA GTC DC; light on policy."
+  },
+  {
+   "id": 557,
+   "title": "Elevate DC Meetup with Microsoft (during NVIDIA GTC!)",
+   "start": "2026-12-03T17:00:00-05:00",
+   "location": "Astro Beer Hall, 1306 G St NW, Washington, DC 20005, USA",
+   "virtual": false,
+   "host": "NVIDIA GTC DC side events (Luma)",
+   "source": "NVIDIA GTC DC side events (Luma)",
+   "tags": [
+    "public",
+    "industry"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/0mramzgj Address: Astro Beer Hall Space Room (lower level) Washington, DC United States Hosted by Elevate User Community",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-IGTUtC9M8rJP1tb",
+   "fit": 2,
+   "topics": [
+    "AI"
+   ],
+   "why": "Microsoft user-community meetup during GTC DC; industry networking."
+  },
+  {
+   "id": 551,
+   "title": "CDSS Data Discovery Fall Symposium",
+   "start": "2026-12-09T16:30:00-05:00",
+   "location": "The Gateway",
+   "virtual": false,
+   "host": "Berkeley campus calendar - artificial intelligence search",
+   "source": "Berkeley campus calendar - artificial intelligence search",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "The Data Discovery Symposium features poster presentations from student researchers. Working with mentors across campus and industry, Data Discovery participants use their data skills to design analyses, build tools, and present solutions to real world challenges. All are welcome to",
+   "url": "https://events.berkeley.edu/live/events/332377-cdss-data-discovery-fall-symposium",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Student data-science poster symposium; not policy."
+  },
+  {
+   "id": 552,
+   "title": "Brains Connected Launch Event - Members +3",
+   "start": "2026-12-09T21:00:00-05:00",
+   "location": "Frontier Tower @ Spaceship 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/brains-connected-launch-event Address: Frontier Tower @ Spaceship 995 Market Street, San Francisco Hosted by Frontier Tower, Morgan Hough & NeuroTechX Global",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [
+    "biotech"
+   ],
+   "why": "Neurotech community launch; not policy."
+  },
+  {
+   "id": 553,
+   "title": "Venue Placeholder – Spaceship (Jan 12) – Infinita Federalism 2.0 - Members Only - Members Only",
+   "start": "2027-01-12T11:30:00-05:00",
+   "location": "Frontier Tower @ Spaceship 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/venue-placeholder-spaceship-jan-12-infin Address: Frontier Tower @ Spaceship 995 Market Street, San Francisco Hosted by Frontier Tower & Xenofon",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [],
+   "why": "Members-only venue placeholder."
+  },
+  {
+   "id": 554,
+   "title": "Venue Placeholder – Spaceship (Feb 4) – CfBI Microfluidics Consortium Open Day - Members Only - Members Only",
+   "start": "2027-02-04T11:00:00-05:00",
+   "location": "Frontier Tower @ Spaceship 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/venue-placeholder-spaceship-feb-4-cfbi-m Address: Frontier Tower @ Spaceship 995 Market Street, San Francisco Hosted by Frontier Tower & Xenofon",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [],
+   "why": "Members-only venue placeholder."
+  },
+  {
+   "id": 555,
+   "title": "Venue Placeholder – Spaceship (Jul 29) – UC Berkeley Class Tour (Prof. Jerry Engel) - Members Only - Members Only",
+   "start": "2027-07-29T17:00:00-04:00",
+   "location": "Frontier Tower @ Spaceship 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/venue-placeholder-spaceship-jul-29-uc-be Address: Frontier Tower @ Spaceship 995 Market Street, San Francisco Hosted by Frontier Tower & Xenofon",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [],
+   "why": "Members-only class tour."
+  }
+ ]
+}

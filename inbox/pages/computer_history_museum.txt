@@ -1,16 +1,12 @@
 # Computer History Museum
 # https://computerhistory.org/events/
-# fetched 2026-11-13T09:10:31.448842-05:00
+# fetched 2026-11-14T12:52:48.422983-05:00
 # tags: bay-area, public
 
 Skip to main content
 Home <https://live-comp-history-museum.pantheonsite.io/>
 Events
 CHM Live is our premier event series. It offers original productions exploring historical and current issues in technology, entrepreneurship and innovation, as well as the ongoing transformation of computing and its impact on society.
-CHM Live
- SRI at 80
- Thursday, November 12, 2026
- 6:00 PM <https://computerhistory.org/events/sri-at-80/>
 View past events here <https://computerhistory.org/past-events>
 CHM Live
 CHM Live is our premier event series. It offers original productions exploring historical and current issues in technology, entrepreneurship and innovation, as well as the ongoing transformation of computing and its impact on society.

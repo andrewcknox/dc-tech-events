@@ -1,9 +1,9 @@
 # California Privacy Protection Agency board
 # https://cppa.ca.gov/meetings/
-# fetched 2026-11-13T09:10:31.448842-05:00
+# fetched 2026-11-14T12:52:48.422983-05:00
 # tags: bay-area, public, sacramento
 
-2026 Meetings & Events Schedule
+2027 Meetings & Events Schedule
 The California Privacy Protection Agency Board is calendared to meet every other month, unless otherwise
  indicated. Board meetings are open to the public. Closed sessions, which are not open to the public, will be
  indicated on the agenda.
@@ -16,6 +16,14 @@ Recordings of past board meetings are posted within two weeks of the meeting. Re
 summary of all motions voted on by the Board at past public meetings <https://cppa.ca.gov/meetings/motions_summary.html>
  is
  available.
+JAN
+6
+Public Comment Hearing
+Hybrid Meeting
+Notice <https://cppa.ca.gov/regulations/pdf/data_broker_updates_and_drop_audits_nopr.pdf>
+ | 
+Meeting Records <https://cppa.ca.gov/regulations/drop_audits.html>
+ 2026 Meetings & Events Schedule
 NOV
 5-6
 Board Meeting

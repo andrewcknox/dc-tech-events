@@ -1,6 +1,6 @@
 # Stanford Center on China's Economy and Institutions (SCCEI)
 # https://sccei.fsi.stanford.edu/events
-# fetched 2026-11-13T09:10:31.448842-05:00
+# fetched 2026-11-14T12:52:48.422983-05:00
 # tags: bay-area, university
 
 All SCCEI Events
@@ -13,15 +13,6 @@ Sign Up for Event Announcements <https://app.smartsheet.com/b/form/b85dce57e8ae4
 Filter:
 Filter results
 Close
- Seminars
-Daniel Yi Xu | Social Learning and Assortative Matching in Chinese EV Ecosystem <https://sccei.fsi.stanford.edu/events/daniel-yi-xu-social-learning-and-assortative-matching-chinese-ev-ecosystem>
-Friday, November 13, 2026
-12:00 PM - 1:20 PM
-(Pacific)
-Register <https://app.smartsheet.com/b/form/019faf03e7537b64b5ec74b97a15319f>
-Goldman Room E409, Encina Hall
- Speaker: 
- Daniel Yi Xu, Professor of Economics, Duke University 
  Seminars
 Student Seminar | After the Deluge: Economic and Environmental Consequences of Floods in China <https://sccei.fsi.stanford.edu/events/student-seminar-after-deluge-economic-and-environmental-consequences-floods-china>
 Friday, November 20, 2026
