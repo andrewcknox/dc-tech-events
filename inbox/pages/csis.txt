@@ -1,6 +1,6 @@
 # CSIS
 # https://www.csis.org/events
-# fetched 2026-11-14T12:52:48.422983-05:00
+# fetched 2026-11-15T12:32:02.050001-05:00
 # tags: think-tank
 
 Events
@@ -22,7 +22,7 @@ Webcast
 Korea Chair
 Image
 Photo: STR/JIJI Press/AFP/Getty Images
-Dynamics in U.S.-Japan Semiconductor Partnership For National Security <https://www.csis.org/events/dynamics-us-japan-semiconductor-partnership-national-security>
+Dynamics in U.S.-Japan Semiconductor Partnership For National Security <https://www.csis.org/index%2Ephp/events/dynamics-us-japan-semiconductor-partnership-national-security>
 November 16, 2026 • 9:15 – 11:45 am EST
 In Person
  Hosted by 
@@ -36,7 +36,7 @@ Webcast
 Energy Security and Climate Change Program
 Image
 Photo: tiero/Adobe Stock
-From Bottleneck to Breakthrough: A Conversation on Energy Permitting Reform <https://www.csis.org/index%2Ephp/events/bottleneck-breakthrough-conversation-energy-permitting-reform>
+From Bottleneck to Breakthrough: A Conversation on Energy Permitting Reform <https://www.csis.org/events/bottleneck-breakthrough-conversation-energy-permitting-reform>
 November 16, 2026 • 12:00 – 1:00 pm EST
 In Person
  Hosted by 
@@ -57,7 +57,7 @@ November 13, 2026 • 10:30 – 11:00 am EST
 Energy Security and Climate Change Program
 Image
 Photo: CSIS
-AI and Economic Security | Betting on America <https://www.csis.org/index%2ephp/events/ai-and-economic-security-betting-america>
+AI and Economic Security | Betting on America <https://www.csis.org/index%2Ephp/events/ai-and-economic-security-betting-america>
 November 13, 2026 • 10:00 – 11:00 am EST
  Hosted by 
 Economic Security and Technology
@@ -75,12 +75,12 @@ November 12, 2026 • 10:00 – 11:00 am EST
 Middle East Program
 Image
 Photo: CSIS
-What's Powering the Russian War Machine? <https://www.csis.org/index%2Ephp/events/whats-powering-russian-war-machine>
+What's Powering the Russian War Machine? <https://www.csis.org/index%2ephp/events/whats-powering-russian-war-machine>
 November 10, 2026 • 2:33 – 3:33 pm EST
  Hosted by 
 Economics Program and Scholl Chair in International Business
 Image
-Can Nigeria’s 2027 Election Deliver Hope? <https://www.csis.org/events/can-nigerias-2027-election-deliver-hope>
+Can Nigeria’s 2027 Election Deliver Hope? <https://www.csis.org/index%2Ephp/events/can-nigerias-2027-election-deliver-hope>
 November 10, 2026 • 1:30 – 2:30 pm EST
  Hosted by 
 Africa Program
@@ -183,7 +183,7 @@ Geopolitics and Foreign Policy
 Global Development
  (2) <https://www.csis.org/events?f%5B0%5D=department%3AGlobal%20Development>
  Display Archived Results
-The Strategic Implications of the Russia-North Korea Axis <https://www.csis.org/events/strategic-implications-russia-north-korea-axis>
+The Strategic Implications of the Russia-North Korea Axis <https://www.csis.org/index%2Ephp/events/strategic-implications-russia-north-korea-axis>
 CSIS convenes a conference examining the durability of the North Korea-Russia partnership, and what it means for the United States and its allies in Europe and the Indo-Pacific by bringing together leading specialists on Russia, North Korea and alliance theory. 
  Event
 — November 16, 2026
@@ -191,11 +191,11 @@ Beyond the Pause: What's Next for CMMC <https://www.csis.org/events/beyond-pause
 On this episode of All About the Base, Dr. Jerry McGinn speaks with Stephanie Sanok Kostro, President of the Professional Services Council, about the DoD’s CMMC pause, industry concerns over compliance costs and requirements, and the path forward for cybersecurity across the defense industrial base.
  Event
 — November 16, 2026
-Dynamics in U.S.-Japan Semiconductor Partnership For National Security <https://www.csis.org/events/dynamics-us-japan-semiconductor-partnership-national-security>
+Dynamics in U.S.-Japan Semiconductor Partnership For National Security <https://www.csis.org/index%2ephp/events/dynamics-us-japan-semiconductor-partnership-national-security>
 Discussions will explore the U.S. and Japan’s assets and capabilities and the challenges and opportunities for semiconductor cooperation.
  Event
 — November 16, 2026
-Decoding Energy Markets: A Conversation with Amrita Sen <https://www.csis.org/events/decoding-energy-markets-conversation-amrita-sen>
+Decoding Energy Markets: A Conversation with Amrita Sen <https://www.csis.org/index%2Ephp/events/decoding-energy-markets-conversation-amrita-sen>
 The CSIS Energy Security and Climate Change Program is pleased to host Dr. Amrita Sen for a conversation on global oil markets, unpacking lessons from the past year and exploring prospects for 2027. Joseph Majkut, Director of the CSIS Energy Security and Climate Change Program, will moderate the discussion.
  Event
 — November 16, 2026
@@ -203,7 +203,7 @@ From Bottleneck to Breakthrough: A Conversation on Energy Permitting Reform <htt
 Please join the CSIS Energy Security and Climate Change Program and the National Petroleum Council for an educational briefing at the Capitol Visitor Center on the NPC’s report, Bottleneck to Breakthrough: A Permitting Blueprint to Build.
  Event
 — November 16, 2026
-PONI 2026 Fall Conference <https://www.csis.org/index%2ephp/events/poni-2026-fall-conference>
+PONI 2026 Fall Conference <https://www.csis.org/events/poni-2026-fall-conference>
 PONI's Fall Conference convenes rising nuclear experts to examine a strained global nuclear order — the future of arms control, the nonproliferation regime, verification, deterrence, and restraint. 
  Event
 — November 17, 2026
@@ -216,7 +216,7 @@ Peace Through Strength: A Book Talk with Roger Zakheim <https://www.csis.org/eve
 Please join the CSIS Aerospace Security Project for a conversation with Roger Zakheim, director of the Ronald Reagan Institute, on his forthcoming book, Peace Through Strength: How Reagan's Military Buildup Won the Cold War.
  Event
 — November 18, 2026
-Global Collaboration to Eliminate Cervical Cancer <https://www.csis.org/events/global-collaboration-eliminate-cervical-cancer>
+Global Collaboration to Eliminate Cervical Cancer <https://www.csis.org/index%2ephp/events/global-collaboration-eliminate-cervical-cancer>
 Please join the CSIS Bipartisan Alliance for Global Health Security for a broadcast conversation on how countries are advancing towards the global goal of cervical cancer elimination and how collaboration can address the remaining challenges.
  Event
 — November 18, 2026

@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-14T13:01:37-05:00",
- "today": "2026-11-14",
- "window_start": "2026-11-14",
+ "generated_at": "2026-11-15T12:37:41-05:00",
+ "today": "2026-11-15",
+ "window_start": "2026-11-15",
  "window_days": 14,
  "map_center": [
   38.905,
@@ -4789,6 +4789,35 @@
    "where": "Waldorf Astoria, Washington, DC"
   },
   {
+   "id": 571,
+   "title": "THREAT STATUS: GOLDEN AGE OF SPACE (Washington Times), Nov 17, 2026, Arlington, VA, 8:00 am-12:00 pm ET",
+   "start": "2026-11-17T08:00:00-05:00",
+   "end": "2026-11-17T23:00:00-05:00",
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "location": null,
+   "virtual": false,
+   "url": "https://spacepolicyonline.com/events/threat-status-golden-age-of-space-washington-times-nov-17-2026-arlington-va-800-am-1200-pm-et/",
+   "topics": [
+    "space",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "fit": 3,
+   "why": "Washington Times half-day forum in Arlington on national-security space policy.",
+   "description": "The Washington Times’ Threat Status will hold an event on November 17, 2026 from 8:00 am-12:00 pm at the Ritz-Carlton Pentagon City, Arlington, VA on “The Golden Age of Space” covering national security space, the future of launch, and the",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "8:00 AM–11:00 PM",
+   "where": "location TBD"
+  },
+  {
    "id": 527,
    "title": "Pop-Up Conversation with Rep. Josh Gottheimer",
    "start": "2026-11-17T09:00:00-05:00",
@@ -5694,6 +5723,35 @@
    "where": "CSIS, 1616 Rhode Island Ave NW, Washington, DC"
   },
   {
+   "id": 572,
+   "title": "NEWSPACE NEXUS SSIB 2026: INTL PARTNER WORKSHOP, Nov 19-20, 2026, DC",
+   "start": "2026-11-19T07:00:00-05:00",
+   "end": "2026-11-20T23:00:00-05:00",
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "location": null,
+   "virtual": false,
+   "url": "https://spacepolicyonline.com/events/newspace-nexus-ssib-2026-intl-partner-workshop-nov-19-20-2026-dc/",
+   "topics": [
+    "space",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "fit": 3,
+   "why": "NewSpace Nexus international partner workshop on space security and industry at Meridian House in DC.",
+   "description": "NEWSPACE NEXUS will hold their SSIB 2026: International Partner Workshop from November 19-20, 2026 at Meridian House, 1630 Crescent Place NW, Washington, DC. More information is on the event’s website,. which says:",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "7:00 AM–11:00 PM",
+   "where": "location TBD"
+  },
+  {
    "id": 569,
    "title": "GovExec's Cyber Resilience Summit: Transforming Strategy into Capability",
    "start": "2026-11-19T08:00:00-05:00",
@@ -5744,6 +5802,34 @@
    "in_dc": false,
    "time": "8:30 AM–5:30 PM",
    "where": "U.S. Chamber of Commerce, 1615 H St NW, Washington, DC 20062"
+  },
+  {
+   "id": 573,
+   "title": "TRAFFIC JAMS IN SPACE (CSIS), Nov 19, 2026, DC/online, 9:00-10:00 am ET",
+   "start": "2026-11-19T09:00:00-05:00",
+   "end": "2026-11-19T23:00:00-05:00",
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "location": null,
+   "virtual": true,
+   "url": "https://spacepolicyonline.com/events/traffic-jams-in-space-csis-nov-19-2026-dc-online-900-1000-am-et/",
+   "topics": [
+    "space"
+   ],
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "fit": 4,
+   "why": "CSIS Strategic Space Dialogue on orbital congestion and space traffic management, a short walk from SAIS.",
+   "description": "The Center for Strategic and International Studies (CSIS) will hold a Strategic Space Dialogue on Traffic Jams in Space on November 19, 2026 from 9:00-10:00 am ET at its offices at 1616 Rhode Island Ave, NW, Washington, DC and online.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "9:00 AM–11:00 PM",
+   "where": "Virtual"
   },
   {
    "id": 541,
@@ -5801,6 +5887,34 @@
    "in_dc": true,
    "time": "10:00 AM",
    "where": "2318 Rayburn House Office Building, Washington, DC"
+  },
+  {
+   "id": 574,
+   "title": "HOUSE SS&T HRG ON ADVANCING SPACE WEATHER CAPABILITIES, Nov 19, 2026, DC/online, 10:00 am ET",
+   "start": "2026-11-19T10:00:00-05:00",
+   "end": "2026-11-19T23:00:00-05:00",
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "location": null,
+   "virtual": false,
+   "url": "https://spacepolicyonline.com/events/house-sst-hrg-on-advancing-space-weather-capabilities-july-1-2026-dc-1000-am-et/",
+   "topics": [
+    "space"
+   ],
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "fit": 4,
+   "why": "House Science hearing on space weather capabilities with NASA and NOAA witnesses; open to the public on the Hill.",
+   "description": "Update, November 14: The hearing now will take place on November 19 at 10:00 am ET in 2318 Rayburn House Office Building. Witnesses are: Dr. Joseph Westlake, Heliophysics Division Director, Science Mission Directorate, National Aeronautics and Space Administration Mr. Ken",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "10:00 AM–11:00 PM",
+   "where": "location TBD"
   },
   {
    "id": 389,

@@ -1,0 +1,133 @@
+{
+ "instructions": "Fill fit (1-5), topics (from the DAILY.md list) and why for each event; add tags (e.g. bay-area) if needed; then `uv run dte score apply <this file>`. Leave fit null to skip.",
+ "events": [
+  {
+   "id": 570,
+   "title": "VULCAN LAUNCH OF 40 AMAZON LEO SATELLITES (ULA), Nov 15, 2026, CCSFS, 12:11 pm ET",
+   "start": "2026-11-15T12:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "Update, November 14: The launch has been delayed again, this time due to a communication issue between ground equipment and the rocket. They will try again tomorrow, Sunday, November 15, at 12:11:30 pm ET. The launch of a United Launch",
+   "url": "https://spacepolicyonline.com/events/vulcan-launch-of-40-amazon-leo-satellites-ula-nov-13-2026-ccsfs/",
+   "fit": 1,
+   "topics": [
+    "space"
+   ],
+   "why": "A rocket launch in Florida, not a policy event."
+  },
+  {
+   "id": 571,
+   "title": "THREAT STATUS: GOLDEN AGE OF SPACE (Washington Times), Nov 17, 2026, Arlington, VA, 8:00 am-12:00 pm ET",
+   "start": "2026-11-17T08:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "The Washington Times’ Threat Status will hold an event on November 17, 2026 from 8:00 am-12:00 pm at the Ritz-Carlton Pentagon City, Arlington, VA on “The Golden Age of Space” covering national security space, the future of launch, and the",
+   "url": "https://spacepolicyonline.com/events/threat-status-golden-age-of-space-washington-times-nov-17-2026-arlington-va-800-am-1200-pm-et/",
+   "fit": 3,
+   "topics": [
+    "space",
+    "tech-geopolitics"
+   ],
+   "why": "Washington Times half-day forum in Arlington on national-security space policy."
+  },
+  {
+   "id": 572,
+   "title": "NEWSPACE NEXUS SSIB 2026: INTL PARTNER WORKSHOP, Nov 19-20, 2026, DC",
+   "start": "2026-11-19T07:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "NEWSPACE NEXUS will hold their SSIB 2026: International Partner Workshop from November 19-20, 2026 at Meridian House, 1630 Crescent Place NW, Washington, DC. More information is on the event’s website,. which says:",
+   "url": "https://spacepolicyonline.com/events/newspace-nexus-ssib-2026-intl-partner-workshop-nov-19-20-2026-dc/",
+   "fit": 3,
+   "topics": [
+    "space",
+    "tech-geopolitics"
+   ],
+   "why": "NewSpace Nexus international partner workshop on space security and industry at Meridian House in DC."
+  },
+  {
+   "id": 573,
+   "title": "TRAFFIC JAMS IN SPACE (CSIS), Nov 19, 2026, DC/online, 9:00-10:00 am ET",
+   "start": "2026-11-19T09:00:00-05:00",
+   "location": null,
+   "virtual": true,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "The Center for Strategic and International Studies (CSIS) will hold a Strategic Space Dialogue on Traffic Jams in Space on November 19, 2026 from 9:00-10:00 am ET at its offices at 1616 Rhode Island Ave, NW, Washington, DC and online.",
+   "url": "https://spacepolicyonline.com/events/traffic-jams-in-space-csis-nov-19-2026-dc-online-900-1000-am-et/",
+   "fit": 4,
+   "topics": [
+    "space"
+   ],
+   "why": "CSIS Strategic Space Dialogue on orbital congestion and space traffic management, a short walk from SAIS."
+  },
+  {
+   "id": 574,
+   "title": "HOUSE SS&T HRG ON ADVANCING SPACE WEATHER CAPABILITIES, Nov 19, 2026, DC/online, 10:00 am ET",
+   "start": "2026-11-19T10:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "Update, November 14: The hearing now will take place on November 19 at 10:00 am ET in 2318 Rayburn House Office Building. Witnesses are: Dr. Joseph Westlake, Heliophysics Division Director, Science Mission Directorate, National Aeronautics and Space Administration Mr. Ken",
+   "url": "https://spacepolicyonline.com/events/house-sst-hrg-on-advancing-space-weather-capabilities-july-1-2026-dc-1000-am-et/",
+   "fit": 4,
+   "topics": [
+    "space"
+   ],
+   "why": "House Science hearing on space weather capabilities with NASA and NOAA witnesses; open to the public on the Hill."
+  },
+  {
+   "id": 575,
+   "title": "DISCUSSION OF VOYAGER 1'S ONE-LIGHT-DAY MILESTONE (JPL), Nov 19, 2026, Pasadena, CA/online, 12:00 pm ET",
+   "start": "2026-11-19T12:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "The Jet Propulsion Laboratory (JPL) will host a moderated discussion of Voyager 1’s milestone achievement of reaching a distance from Earth that one entire day is required for a signal to reach the spacecraft, and another day for its response",
+   "url": "https://spacepolicyonline.com/events/discussion-of-voyager-1s-one-light-day-milestone-jpl-nov-19-2026-pasadena-ca-online-1200-pm-et/",
+   "fit": 1,
+   "topics": [
+    "space"
+   ],
+   "why": "JPL science outreach discussion in Pasadena, not policy."
+  }
+ ]
+}

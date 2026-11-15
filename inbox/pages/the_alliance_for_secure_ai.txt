@@ -1,6 +1,6 @@
 # The Alliance for Secure AI
 # https://secureainow.org/events/
-# fetched 2026-11-14T12:52:48.422983-05:00
+# fetched 2026-11-15T12:32:02.050001-05:00
 # tags: civil-society
 
 Events
@@ -9,12 +9,6 @@ Home <https://secureainow.org/>
  » 
 Events
 Upcoming Events
-November 14, 2026 
-Pro-Family Legislative Conference
-Fort Worth,
- Texas
- Alliance CEO Brendan Steinhauser will keynote the Pro-Family Legislative Conference in Fort Worth 
-More Information <https://secureainow.org/events/pro-family-legislative-conference/>
 November 17, 2026 
 Women in Government Leadership & Innovation Summit
 Savannah,
@@ -44,6 +38,12 @@ Washington,
  The Alliance will participate in the convention hosted by National Religious Broadcasters 
 More Information <https://secureainow.org/events/international-christian-media-convention-2027/>
 Past Events
+November 14, 2026 
+Pro-Family Legislative Conference
+Fort Worth,
+ Texas
+ Alliance CEO Brendan Steinhauser will keynote the Pro-Family Legislative Conference in Fort Worth 
+More Information <https://secureainow.org/events/pro-family-legislative-conference/>
 October 26, 2026 
 Presentation to the Texas Catholic Conference of Bishops
 Online
@@ -80,21 +80,16 @@ Online
  ​In our first virtual convening, Creatives for Secure AI will discuss the goals of the coalition, ways to get involved in the coalition and why preserving the human touch in the creative process is vital. 
 More Information <https://secureainow.org/events/virtual-convening-creatives-for-secure-ai/>
 September 16, 2026 
-The AI Doc: A Conversation on Artificial Intelligence
-Washington D.C,
- ​Join Rep. Ted Lieu, The Alliance for Secure AI, and the AI Policy Network for an educational evening examining the rapid development of artificial intelligence and the choices it presents for Congress. 
-More Information <https://secureainow.org/events/the-ai-doc-a-conversation-on-artificial-intelligence/>
-September 16, 2026 
 Humans First DC Bus Tour
 Reston,
  Virginia
  The Humans First Revolt Bus Tour mobilized Americans nationwide to demand that AI development put people, communities, and human well-being first. 
 More Information <https://secureainow.org/events/humans-first-dc-bus-tour/>
-September 15, 2026 
-The Pro-Human Assembly 2026
-Washington, DC,
- Building on The Prohuman AI Declaration from our inaugural New Orleans gathering, this exclusive, one-day convening in Washington DC brings together select leaders to identify risks, spotlight opportunities, and map practical steps forward. 
-More Information <https://secureainow.org/events/the-pro-human-assembly-2026/>
+September 16, 2026 
+The AI Doc: A Conversation on Artificial Intelligence
+Washington D.C,
+ ​Join Rep. Ted Lieu, The Alliance for Secure AI, and the AI Policy Network for an educational evening examining the rapid development of artificial intelligence and the choices it presents for Congress. 
+More Information <https://secureainow.org/events/the-ai-doc-a-conversation-on-artificial-intelligence/>
 Load More
 Submit Your Event
 Have an AI safety event you would like to include on our event calendar? Please 

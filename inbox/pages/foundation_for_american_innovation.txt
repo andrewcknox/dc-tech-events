@@ -1,12 +1,7 @@
 # Foundation for American Innovation
 # https://www.thefai.org/events-feed.xml
-# fetched 2026-11-14T12:52:48.422983-05:00
+# fetched 2026-11-15T12:32:02.050001-05:00
 # tags: think-tank
-
-### The Machine Age Reception
-Link: https://innovationreception.org/nyc/
-Published: Thu, 24 Sep 2026 17:02:16 GMT
-November 14, 2026 | New York, NY On November 14, the Foundation for American Innovation’s Machine Age Reception will gather 200 guests from government, finance, venture capital, industry, and cybersecurity on the working floor of a New York industrial site. We’ll explore AI’s transition from the screen into the physical world,
 
 ### Future Craft Book Launch
 Link: https://luma.com/joinfai-48vw
@@ -22,6 +17,11 @@ November 18, 2026 | 5:30 PM ​Twenty-five years after the 2001 anthrax letter a
 Link: https://christmas.thefai.org/
 Published: Thu, 12 Nov 2026 16:30:58 GMT
 December 5, 2026 Join the Foundation for American Innovation above the Golden Gate for eggnog and mulled wine, Bing Crosby on the record player, and dancing after dark. Festive black tie encouraged.
+
+### The Machine Age Reception
+Link: https://innovationreception.org/nyc/
+Published: Thu, 24 Sep 2026 17:02:16 GMT
+November 14, 2026 | New York, NY On November 14, the Foundation for American Innovation’s Machine Age Reception will gather 200 guests from government, finance, venture capital, industry, and cybersecurity on the working floor of a New York industrial site. We’ll explore AI’s transition from the screen into the physical world,
 
 ### Humanity, Space, and Industrial Civilization
 Link: https://luma.com/d6abs60o
@@ -268,8 +268,3 @@ October 9, 2024 - October 10, 2024 | 3:13 PM | Washington, DC A two-day, invite-
 Link: https://thefai.org/events/bottlenecks-summit
 Published: Fri, 07 Jun 2024 20:51:17 GMT
 September 6, 2024 - September 7, 2024 | 1:00 PM | Private Location, San Francisco, CA An invitation-only gathering bringing together founders, artists, policy entrepreneurs, and builders working to overcome the obstacles to an abundant future.
-
-### FAI 10-Year Anniversary Gala & Reboot: New Reality Conference
-Link: https://thefai.org/events/reboot-conference
-Published: Wed, 20 Mar 2024 17:39:57 GMT
-September 4, 2024 - September 6, 2024 | 9:00 PM | Fort Mason Center for Arts & Culture , San Francisco, CA Join FAI as we celebrate 10 years of bridging the gap between DC and Silicon Valley with a Gala celebration and full-day Conference.

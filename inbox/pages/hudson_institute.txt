@@ -1,6 +1,6 @@
 # Hudson Institute
 # https://www.hudson.org/events
-# fetched 2026-11-14T12:52:48.422983-05:00
+# fetched 2026-11-15T12:32:02.050001-05:00
 # tags: think-tank
 
 17
@@ -180,7 +180,6 @@ November 2026
 From Dependence to Resilience: Financing a Secure Pharmaceutical Supply Chain
 Join DFC Chief Policy Officer Caroline Vik and Amneal Pharmaceuticals Senior Vice President Maryll Toufanian for a conversation moderated by Senior Fellow Nick Snyder. The discussion will examine America’s strategy to secure pharmaceutical supply chains and the work ahead for policymakers and industry as they pursue sustainable solutions in a complex market and policy environment. 
  THURSDAY 1:00 p.m. - 2:00 p.m.
-Add to calendar
 Featured Speakers:
 Caroline Vik
 Maryll Toufanian

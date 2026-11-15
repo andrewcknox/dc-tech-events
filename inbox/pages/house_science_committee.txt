@@ -1,6 +1,6 @@
 # House Science Committee
 # https://science.house.gov/?a=rss.feed
-# fetched 2026-11-14T12:52:48.422983-05:00
+# fetched 2026-11-15T12:32:02.050001-05:00
 # tags: hill
 
 ### Full Committee Hearing - Weathering the Solar Storm: Advancing America’s Space Weather Capabilities

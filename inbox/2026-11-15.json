@@ -1,0 +1,7 @@
+{"source": "daily page scan", "tags": [], "events": [
+ {"title": "Nebius presents: After Hours at GTC Washington, D.C.", "start": "2026-11-30 19:00", "end": null,
+  "location": "The Henri, Washington, DC", "virtual": false, "url": "https://luma.com/dc", "host": "Nebius",
+  "description": "Evening networking reception during NVIDIA GTC DC hosted by AI cloud provider Nebius.",
+  "speakers": [], "topics": ["AI"], "fit": 2, "why": "Industry social on the sidelines of NVIDIA GTC DC; useful for networking with AI infrastructure people, little policy content.",
+  "tags": ["public"]}
+]}
