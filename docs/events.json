@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T09:05:28-05:00",
+ "generated_at": "2026-11-16T09:09:33-05:00",
  "today": "2026-11-16",
  "window_start": "2026-11-16",
  "window_days": 14,
@@ -4614,6 +4614,36 @@
    "where": "Virtual"
   },
   {
+   "id": 586,
+   "title": "Foreign Policy in the 120th Congress with Senior Senate Staff Members Vidya Neelakantan and Mike Urena",
+   "start": "2026-11-16T12:00:00-05:00",
+   "end": "2026-11-16T13:30:00-05:00",
+   "host": "Kennedy Leadership Project; SAIS Strategy, Security, Intelligence & Technology",
+   "source": "SAIS CampusGroups",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997803",
+   "topics": [
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 3,
+   "why": "Hill staff view of the coming foreign-policy and security agenda, co-hosted by SSIT.",
+   "description": "Senior Senate staffers on the foreign-policy agenda of the 120th Congress.",
+   "speakers": [
+    "Vidya Neelakantan",
+    "Mike Urena"
+   ],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "12:00 PM–1:30 PM",
+   "where": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
+  },
+  {
    "id": 97,
    "title": "Careers in Technology and National Security",
    "start": "2026-11-16T12:30:00-05:00",
@@ -6051,6 +6081,33 @@
    "where": "Virtual"
   },
   {
+   "id": 589,
+   "title": "The Law Lab: AI and International Law",
+   "start": "2026-11-19T12:30:00-05:00",
+   "end": "2026-11-19T14:00:00-05:00",
+   "host": "International Law Society at SAIS",
+   "source": "SAIS CampusGroups",
+   "location": "Hopkins Bloomberg Center, Room 258",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997910",
+   "topics": [
+    "AI"
+   ],
+   "tags": [
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 5,
+   "why": "AI governance through international law, squarely ETI's mission.",
+   "description": "Law Lab session on how international law applies to AI.",
+   "speakers": [],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "12:30 PM–2:00 PM",
+   "where": "Hopkins Bloomberg Center, Room 258"
+  },
+  {
    "id": 227,
    "title": "AI and energy costs: Market and policy solutions",
    "start": "2026-11-19T14:00:00-05:00",
@@ -6298,6 +6355,34 @@
    "where": "R Street Institute, 1411 K St NW"
   },
   {
+   "id": 590,
+   "title": "The Future of Space Governance: Strategic Competition, Scientific Advancement, and International Cooperation",
+   "start": "2026-11-20T13:00:00-05:00",
+   "end": "2026-11-20T14:30:00-05:00",
+   "host": "Space Club at SAIS",
+   "source": "SAIS CampusGroups",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1998074",
+   "topics": [
+    "space",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 4,
+   "why": "Space governance and great-power competition.",
+   "description": "Panel on space governance amid strategic competition and scientific cooperation.",
+   "speakers": [],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "1:00 PM–2:30 PM",
+   "where": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
+  },
+  {
    "id": 131,
    "title": "What is next for the US-China AI safety dialogue?",
    "start": "2026-11-23T10:00:00-05:00",
@@ -6407,6 +6492,34 @@
    "in_dc": true,
    "time": "9:30 AM–4:00 PM",
    "where": "Kenney Link (Rooms 426/428/430), Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
+  },
+  {
+   "id": 591,
+   "title": "Lessons in Leadership: Democratic Renewal in the Digital Age from Women in Latin America and Africa",
+   "start": "2026-11-30T09:30:00-05:00",
+   "end": "2026-11-30T16:00:00-05:00",
+   "host": "Latin America Studies Initiative at SAIS; Global Women in Leadership at SAIS",
+   "source": "SAIS CampusGroups",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997474",
+   "topics": [
+    "trust-and-safety",
+    "data/privacy"
+   ],
+   "tags": [
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 3,
+   "why": "Digital technology and democracy.",
+   "description": "Day-long program on democratic renewal in the digital age, featuring women leaders from Latin America and Africa.",
+   "speakers": [],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "9:30 AM–4:00 PM",
+   "where": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
   },
   {
    "id": 414,

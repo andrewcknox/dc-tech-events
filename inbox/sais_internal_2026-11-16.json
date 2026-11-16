@@ -1,0 +1,189 @@
+{
+ "source": "SAIS mailing lists",
+ "backup": true,
+ "tags": [
+  "sais-internal",
+  "sais"
+ ],
+ "events": [
+  {
+   "title": "Autonomous Systems and Naval Warfare: The View from Saronic",
+   "start": "2026-11-18 13:00",
+   "end": "2026-11-18 14:00",
+   "location": "Hopkins Bloomberg Center, Room 422",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997732",
+   "host": "Merrill Center for Strategic Studies (Defense Industry Speaker Series)",
+   "description": "Brian Burton of Saronic Technologies on autonomous naval systems and the changing defense industrial base, moderated by Thomas Mahnken.",
+   "speakers": [
+    "Brian Burton",
+    "Thomas G. Mahnken"
+   ],
+   "topics": [
+    "AI",
+    "industrial-policy"
+   ],
+   "fit": 5,
+   "why": "Defense-tech autonomy and the industrial base, with a former DoW industrial-base official.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "Careers in Technology and National Security",
+   "start": "2026-11-16 12:30",
+   "end": "2026-11-16 14:15",
+   "location": "Hopkins Bloomberg Center, The Link (Rooms 426/428)",
+   "virtual": false,
+   "url": "https://jhu.joinhandshake.com/events/2057971/share_preview",
+   "host": "SAIS Technology & Innovation and Security, Strategy & Statecraft focus areas",
+   "description": "Rotating small-group conversations with fourteen DC technology and national-security professionals; RSVP required.",
+   "speakers": [
+    "Melissa K. Griffith"
+   ],
+   "topics": [
+    "AI",
+    "cyber"
+   ],
+   "fit": 4,
+   "why": "T&I career event with tech-natsec practitioners.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "Contested Orbits: Wargaming Cyber & Space",
+   "start": "2026-11-13 12:00",
+   "end": "2026-11-13 13:30",
+   "location": "Hopkins Bloomberg Center, Room B228",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997123",
+   "host": "Wargaming Club at SAIS; Space Club at SAIS",
+   "description": "Panel with Magdalena T. Bogacz and James R. Curbo on space security, cyber operations and wargame design.",
+   "speakers": [
+    "Magdalena T. Bogacz",
+    "James R. Curbo"
+   ],
+   "topics": [
+    "space",
+    "cyber"
+   ],
+   "fit": 5,
+   "why": "Cyber and space security wargaming.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "A New Approach to US-Taiwan Relations",
+   "start": "2026-11-19 12:00",
+   "end": "2026-11-19 13:30",
+   "location": "Hopkins Bloomberg Center, Room 422",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997829",
+   "host": "SAIS Focus Area Events; Taiwan Club at SAIS",
+   "description": "Talk proposing a new approach to US-Taiwan relations.",
+   "speakers": [],
+   "topics": [
+    "China",
+    "tech-geopolitics"
+   ],
+   "fit": 3,
+   "why": "US-Taiwan policy, the backdrop to semiconductor geopolitics.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "Voices from Southeast Asia: A Conversation with Visiting Officials",
+   "start": "2026-11-19 12:00",
+   "end": "2026-11-19 13:30",
+   "location": "Hopkins Bloomberg Center, Room 222",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997912",
+   "host": "SAIS Focus Area Events (Asia)",
+   "description": "Conversation with visiting Southeast Asian officials.",
+   "speakers": [],
+   "topics": [
+    "tech-geopolitics"
+   ],
+   "fit": 2,
+   "why": "Regional diplomacy; little tech.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "Faculty Research Forum: Greenback Empire: Global Dollar Dominance and the New Cold War with Ho-fung Hung",
+   "start": "2026-11-12 12:30",
+   "end": "2026-11-12 14:00",
+   "location": "Hopkins Bloomberg Center, Room 258",
+   "virtual": false,
+   "url": "https://www.eventbrite.com/e/faculty-research-forum-greenback-empire-with-ho-fung-hung-tickets-2003314122468",
+   "host": "SAIS Faculty Affairs",
+   "description": "Ho-fung Hung discusses his book on dollar dominance and US-China rivalry with Ling Chen and David Steinberg.",
+   "speakers": [
+    "Ho-fung Hung",
+    "Ling Chen",
+    "David Steinberg"
+   ],
+   "topics": [
+    "China",
+    "tech-geopolitics"
+   ],
+   "fit": 2,
+   "why": "US-China financial rivalry; economic statecraft rather than tech.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "Africa and the AI Economy",
+   "start": "2026-11-13 16:30",
+   "end": "2026-11-13 19:30",
+   "location": "Hopkins Bloomberg Center, Rooms 940/944",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997272",
+   "host": "SAIS",
+   "description": "Program on Africa's place in the AI economy.",
+   "speakers": [],
+   "topics": [
+    "AI"
+   ],
+   "fit": 4,
+   "why": "AI economy and development.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "The Other Side of Policy: A CFO's View from Brazil, China and the U.S. with Graziela Cruz Lima",
+   "start": "2026-11-19 12:00",
+   "end": "2026-11-19 13:30",
+   "location": "Hopkins Bloomberg Center, Room 256",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997618",
+   "host": "International Finance Club at SAIS",
+   "description": "A CFO on how policy looks from companies in Brazil, China and the US.",
+   "speakers": [
+    "Graziela Cruz Lima"
+   ],
+   "topics": [
+    "China"
+   ],
+   "fit": 2,
+   "why": "Corporate view of policy; little tech.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  }
+ ]
+}
