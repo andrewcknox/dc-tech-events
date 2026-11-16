@@ -1,6 +1,6 @@
 # Center for American Progress
 # https://www.americanprogress.org/events/
-# fetched 2026-11-15T12:32:02.050001-05:00
+# fetched 2026-11-16T08:57:32.824333-05:00
 # tags: think-tank
 
 Forced To Go Hungry: How the Big Beautiful Bill Strips Students of Meals <https://www.americanprogress.org/events/forced-to-go-hungry-how-the-big-beautiful-bill-strips-students-of-meals/>

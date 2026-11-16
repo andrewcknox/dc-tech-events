@@ -1,6 +1,6 @@
 # Brookings
 # https://www.brookings.edu/events/
-# fetched 2026-11-15T12:32:02.050001-05:00
+# fetched 2026-11-16T08:57:32.824333-05:00
 # tags: think-tank
 
 Events
@@ -12,7 +12,7 @@ Terms and Conditions of Attendance <https://www.brookings.edu/wp-content/uploads
 November
 16
 2026
-Deterrence in the Pacific: A conversation with Admiral Paparo <https://www.brookings.edu/events/deterrence-in-the-pacific-a-conversation-with-admiral-paparo/>
+POSTPONED – Deterrence in the Pacific: A conversation with Admiral Paparo <https://www.brookings.edu/events/deterrence-in-the-pacific-a-conversation-with-admiral-paparo/>
  The Brookings Institution, Washington DC
  Monday, 6:30 pm - 7:30 pm EST
 Strengthening the resilience and liquidity of the US Treasury market <https://www.brookings.edu/events/strengthening-the-resilience-and-liquidity-of-the-us-treasury-market/>
@@ -43,13 +43,13 @@ Cities & Communities <https://www.brookings.edu/topics/cities-communities/>
  The Brookings Institution, Washington D.C.
  Wednesday, 9:30 am - 11:15 am EST
 Upcoming
-Deterrence in the Pacific: A conversation with Admiral Paparo <https://www.brookings.edu/events/deterrence-in-the-pacific-a-conversation-with-admiral-paparo/>
+POSTPONED &#8211; Deterrence in the Pacific: A conversation with Admiral Paparo <https://www.brookings.edu/events/deterrence-in-the-pacific-a-conversation-with-admiral-paparo/>
  Upcoming Event
 November
 16
 2026
 Defense & Security <https://www.brookings.edu/topics/national-security/>
- Deterrence in the Pacific: A conversation with Admiral Paparo
+ POSTPONED – Deterrence in the Pacific: A conversation with Admiral Paparo
  The Brookings Institution, Washington DC
  Monday, 6:30 pm - 7:30 pm EST
 Strengthening the resilience and liquidity of the US Treasury market <https://www.brookings.edu/events/strengthening-the-resilience-and-liquidity-of-the-us-treasury-market/>

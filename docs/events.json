@@ -1,14 +1,35 @@
 {
- "generated_at": "2026-11-15T12:37:41-05:00",
- "today": "2026-11-15",
- "window_start": "2026-11-15",
+ "generated_at": "2026-11-16T09:05:28-05:00",
+ "today": "2026-11-16",
+ "window_start": "2026-11-16",
  "window_days": 14,
  "map_center": [
   38.905,
   -77.036
  ],
  "map_zoom": 13,
- "flagged_sources": [],
+ "flagged_sources": [
+  {
+   "name": "Hopkins Bloomberg Center",
+   "failures": 3
+  },
+  {
+   "name": "JHU Data Science and AI Institute",
+   "failures": 3
+  },
+  {
+   "name": "JHU Hub Events (SAIS)",
+   "failures": 3
+  },
+  {
+   "name": "JHU Institute for Assured Autonomy (Baltimore)",
+   "failures": 3
+  },
+  {
+   "name": "SNF Agora Institute (JHU, Baltimore)",
+   "failures": 3
+  }
+ ],
  "events": [
   {
    "id": 39,
@@ -7164,6 +7185,32 @@
    "in_dc": false,
    "time": "6:00 PM–8:30 PM",
    "where": "https://luma.com/event/evt-f7oIDTN6J5F78RH"
+  },
+  {
+   "id": 583,
+   "title": "Communications Security, Reliability, and Interoperability Council (CSRIC) X Meeting",
+   "start": "2026-12-18T00:00:00-05:00",
+   "end": null,
+   "host": "FCC",
+   "source": "daily page scan",
+   "location": "FCC Headquarters, 45 L Street NE, Washington, DC 20554",
+   "virtual": false,
+   "url": "https://www.fcc.gov/news-events/events",
+   "topics": [
+    "cyber"
+   ],
+   "tags": [
+    "government"
+   ],
+   "fit": 3,
+   "why": "Shows how the FCC is handling telecom network security and resilience (e.g. Salt Typhoon follow-ups).",
+   "description": "Public meeting of the FCC's federal advisory committee on communications network security, reliability and interoperability.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "time TBD",
+   "where": "FCC Headquarters, 45 L Street NE, Washington, DC 20554"
   },
   {
    "id": 566,

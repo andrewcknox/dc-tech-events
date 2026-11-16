@@ -1,0 +1,126 @@
+{
+ "instructions": "Fill fit (1-5), topics (from the DAILY.md list) and why for each event; add tags (e.g. bay-area) if needed; then `uv run dte score apply <this file>`. Leave fit null to skip.",
+ "events": [
+  {
+   "id": 577,
+   "title": "NYC AI Safety Primer: Hugging Face and Existential Risk.",
+   "start": "2026-11-17T18:00:00-05:00",
+   "location": "https://luma.com/event/evt-XKBAWMELQ3aAv7J",
+   "virtual": false,
+   "host": "BlueDot Impact (Luma)",
+   "source": "BlueDot Impact (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/8f8ac3yk Address: Check event page for more details. Hosted by Sam Donahue, Kevin Yang & Collider",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "NYC meetup, not DC."
+  },
+  {
+   "id": 578,
+   "title": "AI Governance Club",
+   "start": "2026-11-19T12:00:00-05:00",
+   "location": "https://luma.com/event/evt-bhRANHTyfywiepz",
+   "virtual": false,
+   "host": "BlueDot Impact (Luma)",
+   "source": "BlueDot Impact (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/pi4cxbfi Hosted by Mmachukwu Osisioma, Christen Rao & Mariana Hungria",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby",
+   "fit": 2,
+   "topics": [
+    "AI"
+   ],
+   "why": "Global online BlueDot discussion group, not DC-specific."
+  },
+  {
+   "id": 579,
+   "title": "Seguridad de la IA: cómo entrar en el campo · Primer encuentro Women4AISafety en Madrid",
+   "start": "2026-11-24T13:00:00-05:00",
+   "location": "Celonis SL, Pl. de Manuel Gómez-Moreno, 2, Tetuán, 28020 Madrid, Spain",
+   "virtual": false,
+   "host": "BlueDot Impact (Luma)",
+   "source": "BlueDot Impact (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/w4ais-spain Address: Celonis SL Madrid, Spain Hosted by Osmani Redondo & 4 others",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Madrid meetup."
+  },
+  {
+   "id": 580,
+   "title": "[Save the Date] Baltimore Tech Holiday Happy Hour 2026",
+   "start": "2026-12-09T17:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "Baltimore Tech Meetup (Meetup)",
+   "source": "Baltimore Tech Meetup (Meetup)",
+   "tags": [
+    "meetup",
+    "baltimore",
+    "public"
+   ],
+   "description": "Baltimore Tech Celebrating the success of Baltimore Technology Community Raise a Glass to Baltimore Techâand Give Back This Holiday Season! 2026 has been an incredible year for Baltimore's technology community. From thriving startups to innovative corporate IT solutions to expanding",
+   "url": "https://www.meetup.com/baltimore-tech/events/317446858/",
+   "fit": 1,
+   "topics": [],
+   "why": "Baltimore social happy hour, no policy content."
+  },
+  {
+   "id": 581,
+   "title": "Venue Placeholder – Spaceship (Jan 11) – Lifespan.io Longevity Biotech Pitch Day - Members Only - Members Only",
+   "start": "2027-01-09T17:30:00-05:00",
+   "location": "Frontier Tower @ Spaceship 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/venue-placeholder-spaceship-jan-11-lifes Address: Frontier Tower @ Spaceship 995 Market Street, San Francisco Hosted by Frontier Tower, Xenofon & Javier Noris",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [
+    "biotech"
+   ],
+   "why": "Members-only SF pitch day, not policy."
+  },
+  {
+   "id": 582,
+   "title": "Venue Placeholder – Spaceship (Feb 28) – AltruAgent AI Agent Gaming Tournament - Members Only - Members Only",
+   "start": "2027-02-28T12:00:00-05:00",
+   "location": "Frontier Tower @ Spaceship 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/venue-placeholder-spaceship-feb-28-altru Address: Frontier Tower @ Spaceship 995 Market Street, San Francisco Hosted by Frontier Tower, Xenofon & Javier Noris",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Members-only SF gaming tournament."
+  }
+ ]
+}

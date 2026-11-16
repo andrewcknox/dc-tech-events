@@ -1,9 +1,25 @@
 # Carnegie Endowment
 # https://carnegieendowment.org/events
-# fetched 2026-11-15T12:32:02.050001-05:00
+# fetched 2026-11-16T08:57:32.824333-05:00
 # tags: think-tank
 
 Global - Events
+NOVEMBER
+19
+2026
+Event
+Arab Shiites Between Sect and State <https://carnegieendowment.org/middle-east/events/2026/11/arab-shiites-between-sect-and-state>
+November 19, 2026
+4:30 PM - 5:30 PM GMT+2
++
+1
+Mohanad Hage Ali
+, 
+Ali Al-Mawlawi 
+, 
+Alia Ibrahim
+, 
+…
 NOVEMBER
 20
 2026
@@ -39,7 +55,7 @@ DECEMBER
 Conference
 Global Shifts, Regional Stakes: Looking Ahead to 2027 <https://carnegieendowment.org/middle-east/events/2026/10/global-shifts-regional-stakes-looking-ahead-to-2027>
 December 9, 2026
-9:00 AM - 6:00 PM GMT+2
+9:00 AM - 2:00 PM GMT+2
 +
 19
 Avril Haines

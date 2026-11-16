@@ -1,6 +1,6 @@
 # Punchbowl News live events
 # https://punchbowl.news/events/
-# fetched 2026-11-15T12:32:02.050001-05:00
+# fetched 2026-11-16T08:57:32.824333-05:00
 # tags: media
 
 Subscribe to be notified about all upcoming Punchbowl News events.
@@ -79,6 +79,6 @@ Go to Pop-Up Conversation with Sen. Ted Budd <https://events.bizzabo.com/pop-up_
 Presented by Bank of America
 Pop-Up Conversation with Sen. Ted Budd
 Presented by Bank of America
- Presented by bp 
-bp’s 2026 US Impact Report is here. Explore how bp’s US operations have contributed more than $250 billion to the economy since 2022. 
-Read the report. <https://www.bp.com/en-US/about-us/investing-in-america/our-us-impact?utm_source=Punchbowl&utm_medium=Direct&utm_campaign=26100_bp-America_Investing-in-America&utm_term=O-25c3308b_Punchbowl_Direct_A-51a12817_T-51a12817&utm_content=Article_USIR>
+ Presented by The American Cancer Society Cancer Action Network 
+Dana honors her husband Jon’s memory by advocating for the policies and research that make life-saving breakthroughs possible. Congress: Support the millions of cancer patients, survivors, and their loved ones by funding cancer research. 
+Fight cancer together. <https://researchvoices.fightcancer.org/story/dana?utm_source=punchbowl&utm_campaign=research&utm_id=storytellingNov&utm_medium=web&ms=research_storytellingNov_web_punchbowl>
