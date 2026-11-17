@@ -1,6 +1,6 @@
 # Future of Privacy Forum
 # https://fpf.org/fpf-events/
-# fetched 2026-11-16T08:57:32.824333-05:00
+# fetched 2026-11-17T09:02:05.787717-05:00
 # tags: civil-society
 
 Upcoming Events 
@@ -8,20 +8,15 @@ Upcoming Events
 FPF Events <https://fpf.org/fpf-events/>
  > Upcoming Events
 Featured Event
-Empowering Aging Through Technology: Privacy, Economics, and Adoption
+Agentic Data Flows: A Closer Look at Data Realities, Risks, and Safeguards
  Public Event 
-Join Future of Privacy Forum and the University of Arizona Eller College of Management on Monday, November 16, 2026 from 1pm – 2pm for an interactive public webinar presenting findings from our joint research initiative supported by the Alfred P. Sloan Foundation. Based on parallel, nationally representative surveys of 1,000 older adults (age 55+) and […]
- November 16, 2026 @ 1:00pm – 2:00pm ET 
+What are the privacy governance challenges when AI agents share data, memory, and inferences with each other? We’ll continue exploring that question in the second session of agentic data minimization series, Agentic Data Flows: A Closer Look at Data Realities, Risks, and Safeguards, hosted by FPF’s Center for AI on Tuesday, December 15, 2026, from […]
+ December 15, 2026 @ 9:30am – 11:00am ET 
  Online 
-Register <https://fpf.org/fpf-event/empowering-aging-through-technology-privacy-economics-and-adoption/>
+Register <https://fpf.org/fpf-event/agentic-data-flows-a-closer-look-at-data-realities-risks-and-safeguards/>
  Upcoming Events
 Past Events <https://fpf.org/events/past#events-listing>
 Let’s Go 
-Empowering Aging Through Technology: Privacy, Economics, and Adoption
- Public Event 
- Join Future of Privacy Forum and the University of Arizona Eller College of Management on Monday, November 16, 2026 from 1pm – 2pm for an interactive public w...
- November 16, 2026 @ 1:00pm - 2:00pm ET 
- Online <https://fpf.org/fpf-event/empowering-aging-through-technology-privacy-economics-and-adoption/>
 FPF Europe’s New Office Warming
  Public Event 
  We've moved! If you'll be in Brussels for the busy week of global privacy and AI events this November, we'd love for you to join us for FPF Europe's New Office...

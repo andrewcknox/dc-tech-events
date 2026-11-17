@@ -1,6 +1,6 @@
 # Hudson Institute
 # https://www.hudson.org/events
-# fetched 2026-11-16T08:57:32.824333-05:00
+# fetched 2026-11-17T09:02:05.787717-05:00
 # tags: think-tank
 
 17
@@ -13,6 +13,7 @@ Senator Bill Hagerty
 Kurt Campbell
 Elaine L. Chao
 Ambassador Joseph Y. Yun
+Elizabeth Urbanas
 Wendy Cutler
 Michael Coulter
 Brent Sadler
@@ -28,7 +29,7 @@ Cordell Hull
 Moderators:
 Patrick M. Cronin
 Brigham A. McCown
-Bryan Clark
+Timothy A. Walton
 17
 November 2026
  In-Person Event | Hudson Institute
@@ -41,6 +42,7 @@ Senator Bill Hagerty
 Kurt Campbell
 Elaine L. Chao
 Ambassador Joseph Y. Yun
+Elizabeth Urbanas
 Wendy Cutler
 Michael Coulter
 Brent Sadler
@@ -56,7 +58,7 @@ Cordell Hull
 Moderators:
 Patrick M. Cronin
 Brigham A. McCown
-Bryan Clark
+Timothy A. Walton
 Learn More <https://www.hudson.org/events/tenth-us-rok-joint-public-private-economic-forum-advancing-economic-security-industrial>
 17
 November 2026
@@ -180,7 +182,6 @@ November 2026
 From Dependence to Resilience: Financing a Secure Pharmaceutical Supply Chain
 Join DFC Chief Policy Officer Caroline Vik and Amneal Pharmaceuticals Senior Vice President Maryll Toufanian for a conversation moderated by Senior Fellow Nick Snyder. The discussion will examine America’s strategy to secure pharmaceutical supply chains and the work ahead for policymakers and industry as they pursue sustainable solutions in a complex market and policy environment. 
  THURSDAY 1:00 p.m. - 2:00 p.m.
-Add to calendar
 Featured Speakers:
 Caroline Vik
 Maryll Toufanian

@@ -1,6 +1,6 @@
 # Brookings
 # https://www.brookings.edu/events/
-# fetched 2026-11-16T08:57:32.824333-05:00
+# fetched 2026-11-17T09:02:05.787717-05:00
 # tags: think-tank
 
 Events
@@ -10,18 +10,9 @@ Terms and Conditions of Attendance <https://www.brookings.edu/wp-content/uploads
 .
  Featured Events
 November
-16
-2026
-POSTPONED – Deterrence in the Pacific: A conversation with Admiral Paparo <https://www.brookings.edu/events/deterrence-in-the-pacific-a-conversation-with-admiral-paparo/>
- The Brookings Institution, Washington DC
- Monday, 6:30 pm - 7:30 pm EST
-Strengthening the resilience and liquidity of the US Treasury market <https://www.brookings.edu/events/strengthening-the-resilience-and-liquidity-of-the-us-treasury-market/>
- Upcoming Event
-November
 17
 2026
-Federal Fiscal & Tax Policy <https://www.brookings.edu/topics/federal-fiscal-tax-policy/>
- Strengthening the resilience and liquidity of the US Treasury market
+Strengthening the resilience and liquidity of the US Treasury market <https://www.brookings.edu/events/strengthening-the-resilience-and-liquidity-of-the-us-treasury-market/>
  The Brookings Institution, Washington D.C.
  Tuesday, 9:30 am - 11:30 am EST
 Immigration policy and public opinion <https://www.brookings.edu/events/immigration-policy-and-public-opinion/>
@@ -42,16 +33,16 @@ Cities & Communities <https://www.brookings.edu/topics/cities-communities/>
  The next era of Black business growth: Building pathways to ownership in a changing policy landscape
  The Brookings Institution, Washington D.C.
  Wednesday, 9:30 am - 11:15 am EST
-Upcoming
-POSTPONED &#8211; Deterrence in the Pacific: A conversation with Admiral Paparo <https://www.brookings.edu/events/deterrence-in-the-pacific-a-conversation-with-admiral-paparo/>
+The state of broadband access and affordability <https://www.brookings.edu/events/the-state-of-broadband-access-and-affordability/>
  Upcoming Event
 November
-16
+18
 2026
-Defense & Security <https://www.brookings.edu/topics/national-security/>
- POSTPONED – Deterrence in the Pacific: A conversation with Admiral Paparo
- The Brookings Institution, Washington DC
- Monday, 6:30 pm - 7:30 pm EST
+Internet & Telecommunications <https://www.brookings.edu/topics/telecommunications-internet/>
+ The state of broadband access and affordability
+ The Brookings Institution, Washington D.C.
+ Wednesday, 1:30 pm - 2:45 pm EST
+Upcoming
 Strengthening the resilience and liquidity of the US Treasury market <https://www.brookings.edu/events/strengthening-the-resilience-and-liquidity-of-the-us-treasury-market/>
  Upcoming Event
 November
@@ -114,7 +105,7 @@ November
 Energy Markets & Governance <https://www.brookings.edu/topics/energy-markets-and-governance/>
  AI and energy costs: Market and policy solutions
  The Brookings Institution, Washington D.C.
- Thursday, 2:00 pm - 3:30 pm EST
+ Thursday, 2:15 pm - 3:45 pm EST
 Coming of age in an uncertain era <https://www.brookings.edu/events/coming-of-age-in-an-uncertain-era/>
  Upcoming Event
 November
@@ -133,6 +124,15 @@ Artificial Intelligence <https://www.brookings.edu/topics/artificial-intelligenc
  What is next for the US-China AI safety dialogue?
  Online only
  Monday, 10:00 am - 11:00 am EST
+Preparing young people for an AI-driven future: Lessons from California <https://www.brookings.edu/events/preparing-young-people-for-an-ai-driven-future-lessons-from-california/>
+ Upcoming Event
+December
+01
+2026
+Education Policy <https://www.brookings.edu/topics/education-policy/>
+ Preparing young people for an AI-driven future: Lessons from California
+ Online only
+ Tuesday, 1:30 pm - 2:30 pm EST
 The working person’s bank account: A new proposal for universal banking <https://www.brookings.edu/events/the-working-persons-bank-account-a-new-proposal-for-universal-banking/>
  Upcoming Event
 December
@@ -152,6 +152,15 @@ Diplomacy & Multilateralism <https://www.brookings.edu/topics/diplomacy-multilat
  The Brookings Institution, Washington DC
  Tuesday, 10:00 am - 11:45 am EST
 Recent Past Events
+POSTPONED &#8211; Deterrence in the Pacific: A conversation with Admiral Paparo <https://www.brookings.edu/events/deterrence-in-the-pacific-a-conversation-with-admiral-paparo/>
+ Past Event
+November
+16
+2026
+Defense & Security <https://www.brookings.edu/topics/national-security/>
+ POSTPONED – Deterrence in the Pacific: A conversation with Admiral Paparo
+ The Brookings Institution, Washington DC
+ Monday, 6:30 pm - 7:30 pm EST
 What comes next: The consequences of the 2026 midterm elections <https://www.brookings.edu/events/what-comes-next-the-consequences-of-the-2026-midterm-elections/>
  Past Event
 November
@@ -179,13 +188,4 @@ Regulatory Policy <https://www.brookings.edu/topics/regulatory-policy/>
  US biosafety policy and regulations: Assessing the landscape
  The Brookings Institution, Washington D.C.
  Thursday, 2:00 pm - 2:45 pm EST
-Israel after the elections: What&#8217;s next for US-Israel relations? <https://www.brookings.edu/events/israel-after-the-elections-whats-next-for-us-israel-relations/>
- Past Event
-November
-05
-2026
-Israel <https://www.brookings.edu/regions/middle-east-north-africa/israel/>
- Israel after the elections: What’s next for US-Israel relations?
- Online Only
- Thursday, 10:00 am - 11:00 am EST
 See all past events <https://www.brookings.edu/past-events/>

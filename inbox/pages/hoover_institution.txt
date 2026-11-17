@@ -1,6 +1,6 @@
 # Hoover Institution
 # https://www.hoover.org/events
-# fetched 2026-11-16T08:57:32.824333-05:00
+# fetched 2026-11-17T09:02:05.787717-05:00
 # tags: think-tank
 
 Events
@@ -8,7 +8,7 @@ Hoover hosts academic conferences and gatherings featuring talks by our fellows.
 0
 Featured Events
 Read More <https://www.hoover.org/events/securing-freedom-innovation-industry-and-future-deterrence>
- <img loading="lazy" src="https://hoover-s3-website.s3.us-west-2.amazonaws.com/s3fs-public/styles/340x370/public/2026-11/250_Graphic-Dec3.png?h=5055962e&amp;itok=PXyujyyT" width="680" height="740" alt="Securing Freedom: Innovation, Industry, and the Future of Deterrence" />
+ <img loading="lazy" src="https://hoover-s3-website.s3.us-west-2.amazonaws.com/s3fs-public/styles/340x370/public/2026-11/250_Graphic-Dec3_update.png?h=5055962e&amp;itok=BzmwwyB1" width="680" height="740" alt="Securing Freedom: Innovation, Industry, And The Future Of Deterrence" />
 Events
 Securing Freedom: Innovation, Industry, And The Future Of Deterrence
 An advance screening of Deterrence: Winning the 2nd Cold War and a conversation with Shyam Sankar and H.R. McMaster…
@@ -88,31 +88,26 @@ June 18, 2026
 Hoover Institution in DC
 [Edit] <https://www.hoover.org/node/387293/edit>
 Upcoming Events
-Choosing Freedom: Lives That Defied Tyranny <https://www.hoover.org/index%2Ephp/events/choosing-freedom-lives-defied-tyranny>
+Choosing Freedom: Lives That Defied Tyranny <https://www.hoover.org/events/choosing-freedom-lives-defied-tyranny>
 Wednesday, June 17, 2026 
 Choosing Freedom: Lives That Defied Tyranny 
 Uncover personal stories of courage in the pursuit of freedom in a new exhibition from the Hoover Institution Library & Archives 
 Lou Henry Hoover Gallery, Hoover Tower
-Reading Adam Smith In North Korea An Insider's View Of The State <https://www.hoover.org/index%2Ephp/events/reading-adam-smith-north-korea-insiders-view-state>
-Monday, November 16, 2026 
-Reading Adam Smith In North Korea An Insider's View Of The State 
-The Northeast Asia History Working Group of the Hoover History Lab invites you to attend Reading Adam Smith in North Korea: An Insider's View of the… 
-Shultz Auditorium, George P. Shultz Building
-Symposium On Domestic Rural Life And Institutions <https://www.hoover.org/index%2Ephp/events/symposium-domestic-rural-life-and-institutions>
+Symposium On Domestic Rural Life And Institutions <https://www.hoover.org/events/symposium-domestic-rural-life-and-institutions>
 Tuesday, November 17, 2026 
 Symposium On Domestic Rural Life And Institutions 
 Rural America encompasses diverse communities and experiences, shaped by a wide range of political, economic, social, and environmental forces.  
-Ideas Uncorked | The Billionaire Tax Act: From California To Capitol Hill <https://www.hoover.org/index%2Ephp/events/ideas-uncorked-billionaire-tax-act-california-capitol-hill>
+Ideas Uncorked | The Billionaire Tax Act: From California To Capitol Hill <https://www.hoover.org/events/ideas-uncorked-billionaire-tax-act-california-capitol-hill>
 Tuesday, November 17, 2026 
 Ideas Uncorked | The Billionaire Tax Act: From California To Capitol Hill 
 The Hoover Institution in DC hosts Ideas Uncorked: The Billionaire Tax Act: From California to Capitol Hill on Tuesday, November 17 from 5:00-6:30 pm… 
 Hoover Institution in DC
-The Intellectual Odyssey Of James Burnham <https://www.hoover.org/index%2Ephp/events/intellectual-odyssey-james-burnham>
+James Burnham, the United States, the World <https://www.hoover.org/events/james-burnham-united-states-world>
 Wednesday, November 18, 2026 
-The Intellectual Odyssey Of James Burnham 
+James Burnham, the United States, the World 
 The Hoover Institution invites you to a public recording of Uncommon Knowledge with Peter Robinson, The Intellectual Odyssey of James Burnham, … 
 Hauck Auditorium, David and Joan Traitel Building
-Taiwan's 2026 Local Elections: Assessing the Results <https://www.hoover.org/index%2Ephp/events/taiwans-2026-local-elections-assessing-results>
+Taiwan's 2026 Local Elections: Assessing the Results <https://www.hoover.org/events/taiwans-2026-local-elections-assessing-results>
 Tuesday, December 1, 2026 
 Taiwan's 2026 Local Elections: Assessing the Results 
 The Hoover Institution cordially invites you to Taiwan's 2026 Local Elections: Assessing the Results on Tuesday, December 1, 2026 from 12:00-1:30 PM… 
@@ -121,21 +116,21 @@ Higher Education, Research Investment, and the Public Interest <https://www.hoov
 Wednesday, December 2, 2026 
 Higher Education, Research Investment, and the Public Interest 
 The Hoover Institution's Center for Revitalizing American Institutions invites you to attend Higher Education, Research Investment, and the Public… 
-Securing Freedom: Innovation, Industry, And The Future Of Deterrence <https://www.hoover.org/index%2Ephp/events/securing-freedom-innovation-industry-and-future-deterrence>
+Securing Freedom: Innovation, Industry, And The Future Of Deterrence <https://www.hoover.org/events/securing-freedom-innovation-industry-and-future-deterrence>
 Thursday, December 3, 2026 
 4:30 PM PT
 Securing Freedom: Innovation, Industry, And The Future Of Deterrence 
 An advance screening of Deterrence: Winning the 2nd Cold War and a conversation with Shyam Sankar and H.R. McMaster
 Register To Attend 
 Hoover Institution, Stanford University
-Strengthening American Institutions For The Next 250 Years <https://www.hoover.org/index%2Ephp/events/strengthening-american-institutions-next-250-years>
+Strengthening American Institutions For The Next 250 Years <https://www.hoover.org/events/strengthening-american-institutions-next-250-years>
 Tuesday, December 8, 2026 
 4:30 PM PT
 Strengthening American Institutions For The Next 250 Years 
 What will it take to sustain the American experiment for the next 250 years?
 Register To Attend 
 Hoover Institution, Stanford University
-Bio-Strategies & Leadership Congressional Leadership Accelerator For Biotechnology <https://www.hoover.org/index%2Ephp/events/bio-strategies-leadership-congressional-leadership-accelerator-biotechnology>
+Bio-Strategies & Leadership Congressional Leadership Accelerator For Biotechnology <https://www.hoover.org/events/bio-strategies-leadership-congressional-leadership-accelerator-biotechnology>
 Thursday, February 18, 2027 
 Bio-Strategies & Leadership Congressional Leadership Accelerator For Biotechnology 
 The Hoover Institution's Bio-Strategies and Leadership Congressional Leadership Accelerator for Biotechnology (C-LAB) is an intensive two-day program… 

@@ -1,6 +1,6 @@
 # Punchbowl News live events
 # https://punchbowl.news/events/
-# fetched 2026-11-16T08:57:32.824333-05:00
+# fetched 2026-11-17T09:02:05.787717-05:00
 # tags: media
 
 Subscribe to be notified about all upcoming Punchbowl News events.
@@ -25,6 +25,15 @@ Tuesday, November 17, 2026
 •
  Washington, D.C. 
 Presented by CLEAR
+Go to Crypto Summit: Washington, D.C. <https://punchbowl.news/events/>
+Presented by Stand with Crypto
+Crypto Summit: Washington, D.C.
+Tuesday, December 1, 2026
+•
+8 a.m. ET
+•
+ Washington, D.C. 
+Presented by Stand with Crypto
 Join our Brown Bag Lunch Community Briefings
 Brown Bag sessions are exclusive events for Premium and Premium+ community members where our leading reporters discuss the latest news and answer questions live.
 PREMIUM MEMBERS ONLY

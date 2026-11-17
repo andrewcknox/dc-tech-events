@@ -1,12 +1,15 @@
 # Council on Foreign Relations
 # https://www.cfr.org/events
-# fetched 2026-11-16T08:57:32.824333-05:00
+# fetched 2026-11-17T09:02:05.787717-05:00
 # tags: think-tank
 
 Archive
-4859
+4860
  result
 s
+Meeting
+AI Safety and Governance <https://www.cfr.org/event/ai-safety-and-governance>
+November 16, 2026
 Meeting
 Screening and Discussion of "The Fight to Fight" <https://www.cfr.org/event/screening-and-discussion-of-the-fight-to-fight>
 November 10, 2026
@@ -76,6 +79,3 @@ October 13, 2026
 Symposium
 “The Road Not Taken” at 50: U.S. Energy Security for the 21st Century Symposium <https://www.cfr.org/event/the-road-not-taken-at-50-u-s-energy-security-for-the-21st-century-symposium>
 October 13, 2026
-Meeting
-C.V. Starr & Co. Lecture on China With Dan Wang <https://www.cfr.org/event/c-v-starr-co-annual-lecture-on-china>
-October 8, 2026

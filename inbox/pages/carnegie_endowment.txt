@@ -1,6 +1,6 @@
 # Carnegie Endowment
 # https://carnegieendowment.org/events
-# fetched 2026-11-16T08:57:32.824333-05:00
+# fetched 2026-11-17T09:02:05.787717-05:00
 # tags: think-tank
 
 Global - Events
@@ -57,7 +57,7 @@ Global Shifts, Regional Stakes: Looking Ahead to 2027 <https://carnegieendowment
 December 9, 2026
 9:00 AM - 2:00 PM GMT+2
 +
-19
+21
 Avril Haines
 , 
 Nabil Fahmy

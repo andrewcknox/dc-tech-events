@@ -1,6 +1,6 @@
 # INSA (Intelligence & National Security Alliance)
 # https://www.insaonline.org/calendar-of-events
-# fetched 2026-11-16T08:57:32.824333-05:00
+# fetched 2026-11-17T09:02:05.787717-05:00
 # tags: industry
 
 Calendar of Events 
@@ -14,3 +14,10 @@ January
 Coffee and Conversation with The Hon. Justin Overbaugh
  January 19, 2027 9:00 AM to 9:45 AM
  Online <https://www.insaonline.org/detail-pages/event/2027/01/19/default-calendar/coffee-and-conversation-with-justin-overbaugh>
+Integrating Intelligence, Technology and Talent for Mission Success
+ January 21, 2027 8:30 AM to 6:00 PM
+ Waikiki, Hawaii <https://www.insaonline.org/detail-pages/event/2027/01/21/default-calendar/integrating-intelligence--technology-and-talent-for-mission-success>
+June
+42nd William Oliver Baker Award Dinner
+ June 12, 2027 6:00 PM to 10:00 PM
+ Washington, D.C <https://www.insaonline.org/detail-pages/event/2027/06/12/default-calendar/42nd-william-oliver-baker-award-dinner>

@@ -1,6 +1,6 @@
 # ORF America
 # https://orfamerica.org/events
-# fetched 2026-11-16T08:57:32.824333-05:00
+# fetched 2026-11-17T09:02:05.787717-05:00
 # tags: think-tank
 
 Events
@@ -16,6 +16,13 @@ ORF America at COP31 <https://orfamerica.org/recent-events/orfamerica-at-cop31>
 November 11, 2026 – November 13, 2026
 Read more → <https://orfamerica.org/recent-events/orfamerica-at-cop31>
 November 11, 2026 – November 13, 2026
+Nov
+ 10 <https://orfamerica.org/recent-events/the-future-of-israels-partnerships-with-india-and-the-united-states>
+November 10, 2026
+Private Roundtable: The Future of Israel’s Partnerships with India and the United States <https://orfamerica.org/recent-events/the-future-of-israels-partnerships-with-india-and-the-united-states>
+November 10, 2026
+Read more → <https://orfamerica.org/recent-events/the-future-of-israels-partnerships-with-india-and-the-united-states>
+November 10, 2026
 Nov
  6 <https://orfamerica.org/recent-events/william-and-mary-university-student-visit-2026>
 November 6, 2026
@@ -212,10 +219,3 @@ Global Cyber Policy Dialogue: Southeast Asia <https://orfamerica.org/recent-even
 May 19, 2026
 Read more → <https://orfamerica.org/recent-events/global-cyber-policy-dialogue-southeast-asia-may-2026>
 May 19, 2026
-May
- 14 <https://orfamerica.org/recent-events/global-south-expert-working-group-country-leverage-and-bargaining-power-of-the-global-south>
-May 14, 2026
-Global South Expert Working Group on the Future of Global Development Cooperation: Country Leverage and Bargaining Power of the Global South <https://orfamerica.org/recent-events/global-south-expert-working-group-country-leverage-and-bargaining-power-of-the-global-south>
-May 14, 2026
-Read more → <https://orfamerica.org/recent-events/global-south-expert-working-group-country-leverage-and-bargaining-power-of-the-global-south>
-May 14, 2026

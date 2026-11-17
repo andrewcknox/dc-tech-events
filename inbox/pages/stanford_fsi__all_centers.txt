@@ -1,6 +1,6 @@
 # Stanford FSI (all centers)
 # https://fsi.stanford.edu/events
-# fetched 2026-11-16T08:57:32.824333-05:00
+# fetched 2026-11-17T09:02:05.787717-05:00
 # tags: bay-area, university
 
 FSI Events
@@ -12,45 +12,6 @@ Event Recordings <https://www.youtube.com/FSIStanford>
 Filter:
 Filter results
 Close
- Seminars
-Neil Rogachevsky — Israel's Declaration of Independence: Founding Values and Contemporary Debates <https://fsi.stanford.edu/events/neil-rogachevsky-israels-declaration-independence-founding-values-and-contemporary-debates>
-Monday, November 16, 2026
-12:00 PM - 1:15 PM
-(Pacific)
-Register <https://app.smartsheet.com/b/form/019fd45d7256753c9d6944917f1504fe>
-Registration required. Virtual to Public. If prompted for a password, use: 123456.
-Only those with an active Stanford ID with access to Encina Hall E409 (Goldman Conference Room) may attend in person. 
- Speaker: 
- Neil Rogachevsky 
- Moderator: 
-Amichai Magen <https://fsi.stanford.edu/people/Amichai_Magen>
- Book Talks
-Book Talk - Fear of Queer Taiwan: Anti-LGBTQ Movements Between Taiwan and the U.S. Religious Right <https://fsi.stanford.edu/events/book-talk-fear-queer-taiwan-anti-lgbtq-movements-between-taiwan-and-us-religious-right>
-Monday, November 16, 2026
-12:00 PM - 1:30 PM
-(Pacific)
-Register <https://forms.gle/DgoVQu8HrikGqmFr7>
-Philippines Conference Room (C330)
-Encina Hall, 3rd Floor
-616 Jane Stanford Way, Stanford, CA 94305
- Speaker: 
- Ying-Chao Kao, Associate Professor of Sociology, Virginia Commonwealth University 
- Moderator: 
- Pei-Chia Lan 
- Seminars
-Are the Streets Still Talking? Protests and Evolving Repression in the Middle East <https://fsi.stanford.edu/events/are-streets-still-talking-protests-and-evolving-repression-middle-east>
-Monday, November 16, 2026
-4:00 PM - 5:15 PM
-(Pacific)
-Register Now <https://app.smartsheet.com/b/form/01a184d7582176d685d7207b4cda357b>
-Virtual to Public. If prompted for a password, use: 123456
-Only those with an active Stanford ID with access to 
-William J. Perry Conference Room
- in Encina Hall may attend in person.
- Speaker: 
- Jillian Schwedler 
- Moderator: 
-Hesham Sallam <https://fsi.stanford.edu/people/hesham_sallam>
  Seminars
 Robin Nabi | The Dangers of Focusing on the Danger of Digital Media Use <https://fsi.stanford.edu/events/robin-nabi-dangers-focusing-danger-digital-media-use-0>
 Tuesday, November 17, 2026
@@ -164,6 +125,15 @@ Conference Room E-008 in Encina Hall, East,
 Alain Schläpfer <https://fsi.stanford.edu/people/alain-schlapfer>
  Moderator: 
 Hesham Sallam <https://fsi.stanford.edu/people/hesham_sallam>
+ Seminars
+Student Seminar | After the Deluge: Economic and Environmental Consequences of Floods in China <https://fsi.stanford.edu/events/student-seminar-after-deluge-economic-and-environmental-consequences-floods-china>
+Friday, November 20, 2026
+12:00 PM - 1:00 PM
+(Pacific)
+Register <https://app.smartsheet.com/b/form/019fce8bf19170f7b7ce36140d48615d>
+Goldman Conference Room, Encina Hall, E409
+ Speaker: 
+ Zhiren Hu, IvyPlus Graduate Student, Economics for Sustainability and Energy Transition Research Program, Stanford University 
 Eliza Ennis - Estimating the population-wide impacts of proposed harm reduction policy: Modeling the syndemic of HIV, HCV, and overdose - PhD Candidate Practice Job Talk <https://fsi.stanford.edu/events/eliza-ennis-estimating-population-wide-impacts-proposed-harm-reduction-policy-modeling>
 Friday, November 20, 2026
 12:00 PM - 1:00 PM
@@ -175,15 +145,6 @@ Encina Commons, Room 119
 Department of Health Policy/Center for Health Policy   
 615 Crothers Way, Stanford
 Lunch will be provided on a first-come, first-served basis for in-person attendees. 
- Seminars
-Student Seminar | After the Deluge: Economic and Environmental Consequences of Floods in China <https://fsi.stanford.edu/events/student-seminar-after-deluge-economic-and-environmental-consequences-floods-china>
-Friday, November 20, 2026
-12:00 PM - 1:00 PM
-(Pacific)
-Register <https://app.smartsheet.com/b/form/019fce8bf19170f7b7ce36140d48615d>
-Goldman Conference Room, Encina Hall, E409
- Speaker: 
- Zhiren Hu, IvyPlus Graduate Student, Economics for Sustainability and Energy Transition Research Program, Stanford University 
  Panel Discussions
 Global Implications of the U.S. Midterm Elections <https://fsi.stanford.edu/events/global-implications-us-midterm-elections>
 Monday, November 30, 2026
@@ -315,4 +276,30 @@ Tuesday, December 8, 2026
 REGISTER TO ATTEND IN PERSON <https://forms.gle/D7152n8HQQBA14tU8>
 Philippines Conference Room (C330)
 Encina Hall, 3rd Floor
+616 Jane Stanford Way, Stanford, CA 94305
+ Seminars
+Student Seminar | Discipline without Slack: Anti-Corruption in China's Health Sector <https://fsi.stanford.edu/events/student-seminar-discipline-without-slack-anti-corruption-chinas-health-sector>
+Friday, December 11, 2026
+12:00 PM - 1:00 PM
+(Pacific)
+Register <https://app.smartsheet.com/b/form/019fce8bfe6e7e0d90c49e5e1769cb8d>
+Goldman Conference Room, Encina Hall, E409
+ Speaker: 
+ Victoria Liu, PhD student, Stanford University 
+ Seminars
+Emma Xiaolu Zang | Demographic Constraint: Why Aging Societies Struggle to Invest in the Future <https://fsi.stanford.edu/events/emma-xiaolu-zang-demographic-constraint-why-aging-societies-struggle-invest-future>
+Friday, January 15, 2027
+12:00 PM - 1:20 PM
+(Pacific)
+Register <https://app.smartsheet.com/b/form/019faf0688d3701b9055cca7d1ce7eb6>
+Goldman Room E409, Encina Hall
+ Speaker: 
+ Emma Xiaolu Zang, Associate Professor of Sociology, Biostatistics, and Global Affairs, Yale University 
+Information Session — Fisher Family CDDRL Honors Program AY27-28 <https://fsi.stanford.edu/events/information-session-fisher-family-cddrl-honors-program-ay27-28>
+Wednesday, January 20, 2027
+12:00 PM - 1:30 PM
+(Pacific)
+Register Now <https://forms.gle/fZQTRpF1YoCSbcDC6>
+ Encina Ground Floor Conference Room E008
+Encina Hall, Ground Floor, East Wing 
 616 Jane Stanford Way, Stanford, CA 94305

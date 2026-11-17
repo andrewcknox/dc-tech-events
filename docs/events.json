@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-16T09:09:33-05:00",
- "today": "2026-11-16",
- "window_start": "2026-11-16",
+ "generated_at": "2026-11-17T09:06:05-05:00",
+ "today": "2026-11-17",
+ "window_start": "2026-11-17",
  "window_days": 14,
  "map_center": [
   38.905,
@@ -11,23 +11,23 @@
  "flagged_sources": [
   {
    "name": "Hopkins Bloomberg Center",
-   "failures": 3
+   "failures": 4
   },
   {
    "name": "JHU Data Science and AI Institute",
-   "failures": 3
+   "failures": 4
   },
   {
    "name": "JHU Hub Events (SAIS)",
-   "failures": 3
+   "failures": 4
   },
   {
    "name": "JHU Institute for Assured Autonomy (Baltimore)",
-   "failures": 3
+   "failures": 4
   },
   {
    "name": "SNF Agora Institute (JHU, Baltimore)",
-   "failures": 3
+   "failures": 4
   }
  ],
  "events": [
@@ -5278,6 +5278,33 @@
    "where": "Foundation for American Innovation, Washington, DC"
   },
   {
+   "id": 598,
+   "title": "Emma Pierson: Interpretability for safety and scientific discovery",
+   "start": "2026-11-17T16:00:00-08:00",
+   "end": "2026-11-17T17:00:00-08:00",
+   "host": "Berkeley Risk & Security Lab",
+   "source": "Berkeley Risk & Security Lab",
+   "location": "In Person",
+   "virtual": false,
+   "url": "https://brsl.berkeley.edu/event/emma-pierson-interpretability-for-safety-and-scientific-discovery/",
+   "topics": [
+    "AI"
+   ],
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "fit": 3,
+   "why": "Berkeley talk on AI interpretability for safety; research-heavy but relevant to AI safety policy.",
+   "description": "Events Emma Pierson: Interpretability for safety and scientific discovery NOV 17 Tuesday, November 17, 2026 | 4:00 PM – 5:00 PM PT In Person Add to Calendar Google Calendar iCal / Outlook Register Foundation models are powerful but inscrutable, which",
+   "speakers": [],
+   "lat": 37.8719,
+   "lon": -122.2585,
+   "in_dc": true,
+   "time": "4:00 PM–5:00 PM PT",
+   "where": "In Person"
+  },
+  {
    "id": 351,
    "title": "Basic Science Lights the Way presents: AI and Education: A Conversation about Where We Are and Where We're Headed",
    "start": "2026-11-17T17:00:00-08:00",
@@ -5774,6 +5801,35 @@
    "where": "CSIS, 1616 Rhode Island Ave NW, Washington, DC"
   },
   {
+   "id": 602,
+   "title": "India's Data Moment: A Conversation with Secretary Saurabh Garg on India's AI-Ready Data Push",
+   "start": "2026-11-19T00:00:00-05:00",
+   "end": null,
+   "host": "CSIS",
+   "source": "daily page scan",
+   "location": "CSIS, 1616 Rhode Island Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.csis.org/events/indias-data-moment-conversation-secretary-saurabh-garg-indias-ai-ready-data-push",
+   "topics": [
+    "AI",
+    "data/privacy"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 4,
+   "why": "A senior Indian official on national AI data strategy and international partnership.",
+   "description": "India's statistics secretary on making MoSPI's fragmented data an AI-ready foundation for governance, innovation and international partnership.",
+   "speakers": [
+    "Saurabh Garg"
+   ],
+   "lat": 38.9061,
+   "lon": -77.0378,
+   "in_dc": true,
+   "time": "time TBD",
+   "where": "CSIS, 1616 Rhode Island Ave NW, Washington, DC"
+  },
+  {
    "id": 572,
    "title": "NEWSPACE NEXUS SSIB 2026: INTL PARTNER WORKSHOP, Nov 19-20, 2026, DC",
    "start": "2026-11-19T07:00:00-05:00",
@@ -6243,6 +6299,33 @@
    "in_dc": true,
    "time": "time TBD",
    "where": "Hyatt Regency Crystal City, Arlington, VA"
+  },
+  {
+   "id": 601,
+   "title": "Understanding the Memory Chip Crunch & the Way Ahead",
+   "start": "2026-11-20T00:00:00-05:00",
+   "end": null,
+   "host": "CSIS",
+   "source": "daily page scan",
+   "location": "CSIS, 1616 Rhode Island Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.csis.org/events/understanding-memory-chip-crunch-way-ahead",
+   "topics": [
+    "semiconductors",
+    "industrial-policy"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 5,
+   "why": "Squarely on chip supply chains and industrial policy, a short walk from SAIS.",
+   "description": "Discussion of what is driving the current memory chip supply crunch, its effects on the wider tech ecosystem, and industry and policy fixes.",
+   "speakers": [],
+   "lat": 38.9061,
+   "lon": -77.0378,
+   "in_dc": true,
+   "time": "time TBD",
+   "where": "CSIS, 1616 Rhode Island Ave NW, Washington, DC"
   },
   {
    "id": 443,
@@ -7269,6 +7352,33 @@
    "lon": null,
    "in_dc": false,
    "time": "1:00 PM",
+   "where": "Virtual"
+  },
+  {
+   "id": 606,
+   "title": "Agentic Data Flows: A Closer Look at Data Realities, Risks, and Safeguards",
+   "start": "2026-12-15T09:30:00-05:00",
+   "end": "2026-12-15T11:00:00-05:00",
+   "host": "Future of Privacy Forum",
+   "source": "daily page scan",
+   "location": null,
+   "virtual": true,
+   "url": "https://fpf.org/fpf-event/agentic-data-flows-a-closer-look-at-data-realities-risks-and-safeguards/",
+   "topics": [
+    "AI",
+    "data/privacy"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 4,
+   "why": "Privacy governance for AI agents, an emerging policy question.",
+   "description": "Second session of FPF Center for AI's agentic data minimization series: privacy governance when AI agents share data, memory and inferences.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "9:30 AM–11:00 AM",
    "where": "Virtual"
   },
   {

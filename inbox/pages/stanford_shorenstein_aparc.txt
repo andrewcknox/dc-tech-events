@@ -1,6 +1,6 @@
 # Stanford Shorenstein APARC
 # https://aparc.fsi.stanford.edu/events
-# fetched 2026-11-16T08:57:32.824333-05:00
+# fetched 2026-11-17T09:02:05.787717-05:00
 # tags: bay-area, university
 
 Shorenstein Asia-Pacific Research Center Events
@@ -13,19 +13,6 @@ Explore: Events Series <https://aparc.fsi.stanford.edu/content/aparc-events-seri
 Filter:
 Filter results
 Close
- Book Talks
-Book Talk - Fear of Queer Taiwan: Anti-LGBTQ Movements Between Taiwan and the U.S. Religious Right <https://aparc.fsi.stanford.edu/events/book-talk-fear-queer-taiwan-anti-lgbtq-movements-between-taiwan-and-us-religious-right>
-Monday, November 16, 2026
-12:00 PM - 1:30 PM
-(Pacific)
-Register <https://forms.gle/DgoVQu8HrikGqmFr7>
-Philippines Conference Room (C330)
-Encina Hall, 3rd Floor
-616 Jane Stanford Way, Stanford, CA 94305
- Speaker: 
- Ying-Chao Kao, Associate Professor of Sociology, Virginia Commonwealth University 
- Moderator: 
- Pei-Chia Lan 
  Seminars
 Authoritarian Markets: The Politics of China’s Banking Explosion <https://aparc.fsi.stanford.edu/events/authoritarian-markets-politics-chinas-banking-explosion>
 Tuesday, November 17, 2026

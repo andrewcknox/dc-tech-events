@@ -1,6 +1,6 @@
 # Asia Society Northern California
 # https://asiasociety.org/northern-california/events
-# fetched 2026-11-16T08:57:32.824333-05:00
+# fetched 2026-11-17T09:02:05.787717-05:00
 # tags: bay-area, think-tank
 
 Upcoming Events <https://asiasociety.org/northern-california/events>
@@ -11,15 +11,6 @@ Game Changers West Gala <https://asiasociety.org/northern-california/asia-game-c
 Signature Arts Programming <https://asiasociety.org/northern-california/signature-arts-programming>
 Tech Series <https://asiasociety.org/northern-california/tech-series>
 Upcoming Events
- In-person and Online
-Discussion
-From Models to Machines: The Next Phase of Artificial Intelligence <https://asiasociety.org/northern-california/events/models-machines-next-phase-artificial-intelligence>
-Monday 16 Nov 2026 
- 4:30 - 6:15 p.m.
- San Francisco
- Time
-Calculate your local time » <https://www.thetimezoneconverter.com/>
-PUBLIC PROGRAM | Join us for a public program as part of our ongoing technology series on advances in physical artificial intelligence and the next frontier of Silicon Valley innovation.
  Online
 Discussion
 National Security & Investing in China Tech <https://asiasociety.org/northern-california/events/national-security-investing-china-tech>

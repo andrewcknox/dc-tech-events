@@ -1,21 +1,10 @@
 # Atlantic Council
 # https://www.atlanticcouncil.org/events/
-# fetched 2026-11-16T08:57:32.824333-05:00
+# fetched 2026-11-17T09:02:05.787717-05:00
 # tags: think-tank
 
 Upcoming events
 We convene in Washington DC, internationally, and virtually to inspire global engagement and to shape solutions to the defining challenges of our times. Through small, focused events and larger public gatherings, we inform and build connections. Register for upcoming events or subscribe to watch live on YouTube.
-Public Event
- Mon, November 16, 2026 • 9:30 am ET
- Unlocking the African diaspora’s financial capital for economic growth <https://www.atlanticcouncil.org/event/unlocking-the-african-diasporas-financial-capital-for-economic-growth/>
-Africa <https://www.atlanticcouncil.org/region/africa/>
-Digital Currencies <https://www.atlanticcouncil.org/issue/digital-currencies/>
-Economy & Business <https://www.atlanticcouncil.org/issue/economy-business/>
-Resilience & Society <https://www.atlanticcouncil.org/issue/resilience-society/>
-Online Event
- Mon, November 16, 2026 • 2:30 pm ET
- Ambassador Vinay Kwatra on US-India cooperation in the Indian Ocean region <https://www.atlanticcouncil.org/event/ambassador-vinay-kwatra-on-us-india-cooperation-in-the-indian-ocean-region/>
-Politics & Diplomacy <https://www.atlanticcouncil.org/issue/politics-diplomacy/>
 Public Event
  Wed, November 18, 2026 • 3:00 am EST
  Seventh Partnership for Transatlantic Energy Cooperation (P-TEC) <https://www.atlanticcouncil.org/event/seventh-partnership-for-transatlantic-energy-cooperation/>
@@ -29,6 +18,17 @@ Africa <https://www.atlanticcouncil.org/region/africa/>
 Civil Society <https://www.atlanticcouncil.org/issue/civil-society/>
 Crisis Management <https://www.atlanticcouncil.org/issue/crisis-management/>
 Human Rights <https://www.atlanticcouncil.org/issue/human-rights/>
+Online Event
+ Wed, November 18, 2026 • 11:00 am ET
+ The future of Iraq-Syria relations <https://www.atlanticcouncil.org/event/the-future-of-iraq-syria-relations/>
+Iraq <https://www.atlanticcouncil.org/region/iraq/>
+Politics & Diplomacy <https://www.atlanticcouncil.org/issue/politics-diplomacy/>
+Syria <https://www.atlanticcouncil.org/region/syria/>
+Public Event
+ Wed, November 18, 2026 • 11:30 am ET
+ Pakistan’s place in the emerging world order <https://www.atlanticcouncil.org/event/pakistans-place-in-the-emerging-world-order/>
+Politics & Diplomacy <https://www.atlanticcouncil.org/issue/politics-diplomacy/>
+Security & Defense <https://www.atlanticcouncil.org/issue/security-defense/>
 Load More <https://www.atlanticcouncil.org/events/?ac-page=2>
 #ACFrontPage <https://www.atlanticcouncil.org/acfrontpage/>
  harnesses the convening power and expertise of the Council’s sixteen programs and centers to spotlight the world’s most prominent leaders and the most compelling ideas across sectors. The virtual platform engages new audiences eager for nonpartisan and constructive solutions to current global challenges. This widely promoted forty-five-minute program features the Council’s most important guests and content serving as the highlight of our programming each week.

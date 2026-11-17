@@ -1,0 +1,139 @@
+{
+ "instructions": "Fill fit (1-5), topics (from the DAILY.md list) and why for each event; add tags (e.g. bay-area) if needed; then `uv run dte score apply <this file>`. Leave fit null to skip.",
+ "events": [
+  {
+   "id": 598,
+   "title": "Emma Pierson: Interpretability for safety and scientific discovery",
+   "start": "2026-11-17T19:00:00-05:00",
+   "location": "In Person",
+   "virtual": false,
+   "host": "Berkeley Risk & Security Lab",
+   "source": "Berkeley Risk & Security Lab",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "Events Emma Pierson: Interpretability for safety and scientific discovery NOV 17 Tuesday, November 17, 2026 | 4:00 PM – 5:00 PM PT In Person Add to Calendar Google Calendar iCal / Outlook Register Foundation models are powerful but inscrutable, which",
+   "url": "https://brsl.berkeley.edu/event/emma-pierson-interpretability-for-safety-and-scientific-discovery/",
+   "fit": 3,
+   "topics": [
+    "AI"
+   ],
+   "why": "Berkeley talk on AI interpretability for safety; research-heavy but relevant to AI safety policy."
+  },
+  {
+   "id": 599,
+   "title": "After the March: SF In-Person Debrief",
+   "start": "2026-11-17T21:00:00-05:00",
+   "location": "1680 Mission St, San Francisco, CA 94103, USA",
+   "virtual": false,
+   "host": "Mox SF (Luma)",
+   "source": "Mox SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/after-the-march Address: 1680 Mission St San Francisco, CA United States Hosted by Stop The AI Race",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-nfkEvDFat3zN1fe",
+   "fit": 1,
+   "topics": [],
+   "why": "Community debrief, not policy."
+  },
+  {
+   "id": 594,
+   "title": "Spanish Speaking AI Safety Meet up",
+   "start": "2026-11-18T12:00:00-05:00",
+   "location": "https://luma.com/event/evt-rF6C65CGPhp2DTX",
+   "virtual": false,
+   "host": "BlueDot Impact (Luma)",
+   "source": "BlueDot Impact (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/r5geh83y Hosted by Osmani Redondo & Mariana Hungria",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby",
+   "fit": 1,
+   "topics": [],
+   "why": "Online/non-DC community meetup."
+  },
+  {
+   "id": 600,
+   "title": "Venue Placeholder – Spaceship (Nov 19) – Ki Electrolytes Soft Launch - Members Only - Members Only",
+   "start": "2026-11-19T12:00:00-05:00",
+   "location": "Frontier Tower @ Spaceship 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/venue-placeholder-spaceship-nov-19-ki-el Address: Frontier Tower @ Spaceship 995 Market Street, San Francisco Hosted by Frontier Tower & Xenofon",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [],
+   "why": "Product launch, off-topic."
+  },
+  {
+   "id": 595,
+   "title": "ERA × Impact First: AI Safety Community Social",
+   "start": "2026-11-26T14:00:00-05:00",
+   "location": "London Initiative for Safe AI (LISA), 25 Holywell Row, London EC2A 4XE, UK",
+   "virtual": false,
+   "host": "BlueDot Impact (Luma)",
+   "source": "BlueDot Impact (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/rdjq6aoe Address: London Initiative for Safe AI (LISA) London, United Kingdom Hosted by Grace Reuben & Alicia (Impact First)",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby",
+   "fit": 1,
+   "topics": [],
+   "why": "London community social, not DC."
+  },
+  {
+   "id": 597,
+   "title": "Beyond the Skinner Box of AI Competence: Modeling Professional Judgment for AI-Mediated Teaching and Learning",
+   "start": "2026-12-01T17:00:00-05:00",
+   "location": "4215 - Berkeley Way West, and via Zoom",
+   "virtual": true,
+   "host": "Berkeley campus calendar - artificial intelligence search",
+   "source": "Berkeley campus calendar - artificial intelligence search",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "As generative artificial intelligence rapidly reshapes teaching, learning, assessment, and professional practice, teacher education faces increasing pressure to prepare candidates for AI-mediated educational environments. Much of the emerging discourse has focused on developing AI competencies, technical skills, or AI literacy",
+   "url": "https://events.berkeley.edu/educ/event/337965-beyond-the-skinner-box-of-ai-competence-modeling",
+   "fit": 2,
+   "topics": [
+    "AI"
+   ],
+   "why": "AI in education research talk; light on policy."
+  },
+  {
+   "id": 596,
+   "title": "AI Agents at Work | Editing Media and Learning from Feedback",
+   "start": "2026-12-01T18:00:00-05:00",
+   "location": "2112 Pennsylvania Ave NW, Washington, DC 20037, USA",
+   "virtual": false,
+   "host": "DC Data & AI Events (Luma)",
+   "source": "DC Data & AI Events (Luma)",
+   "tags": [
+    "public",
+    "meetup"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/lp7zbi0y Address: 2112 Pennsylvania Ave NW Check in with your ID at the front desk and then head to the 2nd floor conference space Washington, DC United States Hosted by Banjo Obayomi",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-eCuIBRbS1atJOa6",
+   "fit": 2,
+   "topics": [
+    "AI"
+   ],
+   "why": "Technical AI-agents meetup near GWU; light on policy."
+  }
+ ]
+}

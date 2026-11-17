@@ -1,12 +1,7 @@
 # NIST events
 # https://www.nist.gov/news-events/events/rss.xml
-# fetched 2026-11-16T08:57:32.824333-05:00
+# fetched 2026-11-17T09:02:05.787717-05:00
 # tags: government
-
-### TREC 2026
-Link: https://www.nist.gov/news-events/events/2026/11/trec-2026
-Published: Mon, 16 Nov 2026 00:00:00 -0500
-TREC is an annual evaluation workshop series hosted by the National Institute of Standards and Technology (NIST). The workshop's goal is to encourage research in information retrieval by providing large test collections, uniform scoring procedures
 
 ### NICE Webinar - Breaking into Cyber: Gateway Roles and the Skills that Matter
 Link: https://www.nist.gov/news-events/events/2026/12/nice-webinar-breaking-cyber-gateway-roles-and-skills-matter
@@ -42,6 +37,11 @@ The NIST Office of Weights and Measures (OWM) Fundamentals of Metrology seminar 
 Link: https://www.nist.gov/news-events/events/2027/01/super-intelligence-fire-service
 Published: Tue, 26 Jan 2027 00:00:00 -0500
 An interactive workshop discussing the use of super intelligence in the fire service will be hosted, on-site, at the National Institute of Standards and Technology (NIST) in Gaithersburg, MD. The focus of the workshop is on Problems super
+
+### Cybersecurity for Solopreneurs
+Link: https://www.nist.gov/news-events/events/2027/01/cybersecurity-solopreneurs
+Published: Tue, 26 Jan 2027 14:00:00 -0500
+According to the U.S. Small Business Administration Office of Advocacy, there are 34.8 million small businesses in the United States, comprising 99 % of all U.S. businesses. Of those, 81.9 % are “non-employer firms” with no paid employees other than
 
 ### FISSEA Winter Forum: February 9, 2027
 Link: https://www.nist.gov/news-events/events/2027/02/fissea-winter-forum-february-9-2027
