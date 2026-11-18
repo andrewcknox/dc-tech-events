@@ -1,22 +1,24 @@
 # CNAS
 # https://www.cnas.org/events
-# fetched 2026-11-17T09:02:05.787717-05:00
+# fetched 2026-11-18T08:51:41.149851-05:00
 # tags: think-tank
 
 Upcoming Events
-Event <https://www.cnas.org/events/the-next-phase-of-the-axis-of-upheaval>
-Next Up <https://www.cnas.org/events/the-next-phase-of-the-axis-of-upheaval>
- Transatlantic Security
-The Next Phase of the Axis of Upheaval <https://www.cnas.org/events/the-next-phase-of-the-axis-of-upheaval>
-Nov 17, 2026
-2:00p.m. ET
-Read More <https://www.cnas.org/events/the-next-phase-of-the-axis-of-upheaval>
+Event <https://www.cnas.org/events/partners-in-proliferation-mapping-a-decade-of-iranian-russian-military-cooperation>
+Next Up <https://www.cnas.org/events/partners-in-proliferation-mapping-a-decade-of-iranian-russian-military-cooperation>
  Defense / 
  Transatlantic Security / 
- Middle East Security 
+ Middle East Security
 Partners in Proliferation: Mapping a Decade of Iranian-Russian Military Cooperation <https://www.cnas.org/events/partners-in-proliferation-mapping-a-decade-of-iranian-russian-military-cooperation>
- Nov 18, 2026
+Nov 18, 2026
+11:00a.m. ET
+Read More <https://www.cnas.org/events/partners-in-proliferation-mapping-a-decade-of-iranian-russian-military-cooperation>
 Recent Events
+Event
+Transatlantic Security <https://www.cnas.org/research/transatlantic-security>
+The Next Phase of the Axis of Upheaval <https://www.cnas.org/events/the-next-phase-of-the-axis-of-upheaval>
+ Richard Fontaine, Andrea Kendall-Taylor 
+ Nov 17, 2026
 Event
 Technology & National Security <https://www.cnas.org/research/technology-and-national-security>
 Fireside Chat with Ben Buchanan <https://www.cnas.org/events/fireside-chat-with-ben-buchanan>
@@ -91,11 +93,6 @@ Energy, Economics & Security <https://www.cnas.org/research/energy-economics-and
 Invested Allies: How the Private Sector Can Boost U.S.-South Korea Economic Security Cooperation <https://www.cnas.org/events/invested-allies-how-the-private-sector-can-boost-u-s-south-korea-economic-security-cooperation>
  Emily Kilcrease, Eleanor Hume 
  May 21, 2026
-Event
-Technology & National Security <https://www.cnas.org/research/technology-and-national-security>
-U.S.-China AI Competition: A Fireside Chat with Chairman Brian Mast <https://www.cnas.org/events/u-s-china-ai-competition-a-fireside-chat-with-chairman-brian-mast>
- Daniel Remler 
- May 19, 2026
 Previous Page
  Previous <https://www.cnas.org/events>
  of 39

@@ -1,6 +1,6 @@
 # Stimson Center
 # https://www.stimson.org/events/
-# fetched 2026-11-17T09:02:05.787717-05:00
+# fetched 2026-11-18T08:51:41.149851-05:00
 # tags: think-tank
 
 EVENTS AND ENGAGEMENT

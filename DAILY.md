@@ -30,6 +30,12 @@ reading yourself. Work inside this repo. Be economical: skip anything already in
      Struggle* at Georgetown on Nov 10 and at SAIS on Nov 11). Each date/venue is a separate event:
      add every one, don't drop a later page's copy as a duplicate. Read `jhu_hub_events__sais.txt` in
      full; it is our main public source for Hopkins Bloomberg Center events now that sais.jhu.edu/events is gone.
+   - **Hill hearings and markups:** title them by the full agenda (every bill or nominee listed, e.g.
+     "Executive Session 26 (Chip EQUIP Act; ...)"), and use the committee's own meeting URL
+     (commerce.senate.gov/meetings/..., hsgac.senate.gov/hearings/...) rather than the congress.gov
+     daily schedule URL, which is shared by every hearing that day. Otherwise the backup check cannot
+     tell it is the same event (Senate Commerce exec session, 2026-11-18). When a placeholder hearing
+     ("title TBA") gets its title, add it with the same URL as the placeholder.
    - Use the page header's tags (e.g. `think-tank`, `university`) as each event's `tags`.
    - Times are US Eastern. If only a date is known, use `"2026-09-18"`.
    - **Bay Area events** (pages tagged `bay-area`, or any event held in SF / East Bay / Peninsula /

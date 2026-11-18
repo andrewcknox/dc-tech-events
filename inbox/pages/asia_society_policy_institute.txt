@@ -1,6 +1,6 @@
 # Asia Society Policy Institute
 # https://asiasociety.org/policy-institute/events
-# fetched 2026-11-17T09:02:05.787717-05:00
+# fetched 2026-11-18T08:51:41.149851-05:00
 # tags: think-tank
 
 Upcoming Events <https://asiasociety.org/policy-institute/events>
@@ -61,6 +61,15 @@ Wednesday 9 Dec 2026
  8 - 9 a.m.
 Join the Asia Society Policy Institute for a virtual panel discussion to examine the expectations and achievements of China's WTO accession and its impact on the global trading system over the past 25 years.
 Register Now <https://asiasociety.zoom.us/webinar/register/WN_XiVhuMV4R_KzvJynVGcjDg>
+ In-person
+Discussion
+  / 
+New York <https://asiasociety.org/new-york>
+What Is Still Worth Striving For? An Evening with Jimmy Chin <https://asiasociety.org/new-york/events/what-still-worth-striving-evening-jimmy-chin>
+Wednesday 9 Dec 2026 
+ 5 - 7 p.m.
+Join us for a thought-provoking conversation with Academy Award-winning filmmaker Jimmy Chin and Jing Qian on what it means to live well, take risks, and pursue excellence in an age of AI and geopolitical uncertainty.
+Buy Tickets <https://join.asiasociety.org/orders/513/tickets?cdEventIds=6afccb2b84175451a3129253&date=2026-12-09T17:00:00-05:00&eventId=6afccb2b84175451a3129253>
  In-person
 Panel Discussion
 Emerging Technologies and New Frontiers: Forging Digital Connections in the U.S.-ROK Relationship <https://asiasociety.org/policy-institute/events/emerging-technologies-and-new-frontiers-forging-digital-connections-us-rok-relationship>

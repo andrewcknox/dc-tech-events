@@ -1,6 +1,6 @@
 # NIST events
 # https://www.nist.gov/news-events/events/rss.xml
-# fetched 2026-11-17T09:02:05.787717-05:00
+# fetched 2026-11-18T08:51:41.149851-05:00
 # tags: government
 
 ### NICE Webinar - Breaking into Cyber: Gateway Roles and the Skills that Matter
@@ -27,6 +27,11 @@ Co-hosted by the American Nuclear Society, the Department of Commerce National I
 Link: https://www.nist.gov/news-events/events/2026/12/nist-postmortem-toxicology-testing-and-death-reporting-certificates
 Published: Thu, 10 Dec 2026 00:00:00 -0500
 The National Institute of Standards and Technology ( NIST), in support of the 2026 National Drug Control Strategy published by Office of National Drug Control Policy on May 4, 2026, is hosting a second in-person workshop to address the challenges of
+
+### NIST CSF 2.0 Semiconductor Manufacturing Profile Kick-Off Webinar
+Link: https://www.nist.gov/news-events/events/2026/12/nist-csf-20-semiconductor-manufacturing-profile-kick-webinar
+Published: Thu, 10 Dec 2026 12:00:00 -0500
+Join the NIST National Cybersecurity Center of Excellence (NCCoE) on December 10, 2026, for a webinar update on the Cybersecurity Framework (CSF) 2.0 Semiconductor Manufacturing Community Profile. In the coming weeks, the NCCoE will release a revised
 
 ### NIST OWM Fundamentals of Metrology Seminar (January 2027)
 Link: https://www.nist.gov/news-events/events/2027/01/nist-owm-fundamentals-metrology-seminar-january-2027

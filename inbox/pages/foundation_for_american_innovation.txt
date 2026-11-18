@@ -1,12 +1,7 @@
 # Foundation for American Innovation
 # https://www.thefai.org/events-feed.xml
-# fetched 2026-11-17T09:02:05.787717-05:00
+# fetched 2026-11-18T08:51:41.149851-05:00
 # tags: think-tank
-
-### Future Craft Book Launch
-Link: https://luma.com/joinfai-48vw
-Published: Wed, 04 Nov 2026 01:26:42 GMT
-November 17, 2026 | 7:00 PM Join the Foundation for American Innovation to celebrate the launch of Futurecraft: The Day After AGI.
 
 ### Amerithrax 25 Years Later
 Link: https://luma.com/joinfai-5y2a
@@ -17,6 +12,11 @@ November 18, 2026 | 5:30 PM ​Twenty-five years after the 2001 anthrax letter a
 Link: https://christmas.thefai.org/
 Published: Thu, 12 Nov 2026 16:30:58 GMT
 December 5, 2026 Join the Foundation for American Innovation above the Golden Gate for eggnog and mulled wine, Bing Crosby on the record player, and dancing after dark. Festive black tie encouraged.
+
+### Future Craft Book Launch
+Link: https://luma.com/joinfai-48vw
+Published: Wed, 04 Nov 2026 01:26:42 GMT
+November 17, 2026 | 7:00 PM Join the Foundation for American Innovation to celebrate the launch of Futurecraft: The Day After AGI.
 
 ### The Machine Age Reception
 Link: https://innovationreception.org/nyc/
@@ -263,8 +263,3 @@ November 13, 2024 | 6:00 PM | Washington, DC A salon dinner on pathways for fisc
 Link: https://thefai.org/events/abundance-2024
 Published: Fri, 09 Aug 2024 15:11:20 GMT
 October 9, 2024 - October 10, 2024 | 3:13 PM | Washington, DC A two-day, invite-only conference this October in the nation’s capital.
-
-### Bottlenecks Summit
-Link: https://thefai.org/events/bottlenecks-summit
-Published: Fri, 07 Jun 2024 20:51:17 GMT
-September 6, 2024 - September 7, 2024 | 1:00 PM | Private Location, San Francisco, CA An invitation-only gathering bringing together founders, artists, policy entrepreneurs, and builders working to overcome the obstacles to an abundant future.

@@ -1,6 +1,6 @@
 # Stanford CISAC
 # https://cisac.fsi.stanford.edu/events
-# fetched 2026-11-17T09:02:05.787717-05:00
+# fetched 2026-11-18T08:51:41.149851-05:00
 # tags: bay-area, university
 
 CISAC Events
@@ -10,15 +10,6 @@ Events
 Filter:
 Filter results
 Close
- Lectures
-How New is the New Nuclear Age? | Mark Bell <https://cisac.fsi.stanford.edu/events/how-new-new-nuclear-age-mark-bell>
-Tuesday, November 17, 2026
-12:00 PM - 1:15 PM
-(Pacific)
-Register to attend in person or zoom <https://stanforduniversity.qualtrics.com/jfe/form/SV_8ph3rQ1FKsVhwnc>
-William J. Perry Conference Room
- Speaker: 
- Mark Bell 
  Panel Discussions
 Emerging Technologies and Strategic Stability <https://cisac.fsi.stanford.edu/events/emerging-technologies-and-strategic-stability>
 Tuesday, December 1, 2026

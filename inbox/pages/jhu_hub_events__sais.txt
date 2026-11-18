@@ -1,6 +1,6 @@
 # JHU Hub Events (SAIS)
 # https://hub.jhu.edu/events/feed/
-# fetched 2026-11-13T09:10:31.448842-05:00
+# fetched 2026-11-18T08:51:41.149851-05:00
 # tags: jhu, university
 
 ### Dreams of Scholarship: 150 Years of Discovery
@@ -36,202 +36,243 @@ For more on the center's history, watch this video <https://www.youtube.com/watc
 .
 The exhibit will be available to view from Thursday, Oct. 15, to Friday, Nov. 20, in Levering Lounge.
 
-### 25Live Essentials: Advanced Scheduling Tips, Tricks, and Best Practices
-Link: https://hub.jhu.edu/events/2026/11/13/25live-essentials-advanced-scheduling-tips-tricks/
+### Medicaid Work Requirements and Behavioral Health: Implementation and State Approaches
+Link: https://hub.jhu.edu/events/2026/11/18/medicaid-work-requirements-and-behavioral-health-implementation-and-state-approaches/
 Published: 
-When: November 13th 9:00am - 10:15am
-Do you submit space requests for your area, but not sure how to make the system work smarter for you? This session will provide practical strategies to make your work in 25Live more efficient.
-Join Scheduling & Event Services for a hands-on training session designed to help JHU users get the most from the 25Live event reservation system. Learn how to optimize searches and calendars, create and save your favorite or frequent room searches, copy existing events from year to year, navigate approval workflows, locate optimal event spaces, discover valuable shortcuts that can save time and improve accuracy, and know when and how to engage the Scheduling & Event Services team for assistance.
-Who should attend?
-Advanced or frequent users
-Administrative staff
-Event coordinators
-Department schedulers
-Faculty support staff
-Those who already frequently reserve university spaces through 25Live but want to save time using shortcuts
-Please register no later than 24 hours in advance of the training.
-Send questions to 
-Homewoodscheduleevents@jhu.edu
+When: November 18th 9:00am - 11:00am
+Where: Hopkins Bloomberg Center
+Implementing Medicaid work requirements raises distinct challenges for people with mental illness and substance use conditions. How will states identify individuals eligible for exemptions, establish verification processes, and address the implications for coverage and access to care? How might recent litigation shape these implementation decisions?
+Please join us on Nov. 18 from 9 to 11 a.m. at the Hopkins Bloomberg Center located at 555 Pennsylvania Ave, Washington, D.C. to explore diverse perspectives and state approaches to Medicaid work requirements for populations with behavioral health challenges.
+Bringing together state Medicaid leaders, researchers, and policy experts, this event will explore diverse perspectives on state approaches to implementation and the role of health care leaders in supporting people with behavioral health conditions as policies evolve.
+The event will be hosted by the Johns Hopkins University–American Enterprise Institute Fellowship. For questions about the event, please contact Dr. Catherine Ettman at cettman1@jhu.edu.
+Registration
+Please register at the link below by Nov. 17, and see the attached flyer for a list of speakers.
+
+### What's Changing with Workday: Sponsored Projects
+Link: https://hub.jhu.edu/events/2026/11/18/whats-changing-with-workday-sponsored-projects/
+Published: 
+When: November 18th 9:00am - 9:45am
+What's Changing with Workday: Sponsored Projects is a 45-minute webinar focused on tracking funding, spending, and compliance for grant-supported projects in Workday.
+This session is part of the What's Changing with Workday webinar series within the Workday Year of Learning, an initiative designed to familiarize Johns Hopkins employees with Workday's basic features ahead of Workday training in early 2027. No prerequisites are required, and faculty and staff members are encouraged to attend.
+The session will be recorded and automatically captioned. Please email 
+JHWorkdayTraining@jh.edu
+ if you have any accommodation needs.
+
+### Fall 2026 Job Family Reunion
+Link: https://hub.jhu.edu/events/2026/11/18/job-family-reunions-fall-2026/
+Published: 
+When: November 18th 9:30am - 3:00pm
+Where: Scott-Bates Commons, Homewood Campus
+The 
+Center for Staff Life Design <https://hr.jhu.edu/center-for-staff-life-design/>
+ invites staff to attend the Fall 2026 Job Family Reunion. Come connect with colleagues across Johns Hopkins who share similar roles, experiences, and career paths.
+Staff from Finance & Business, Information Technology, Data Management, Learning Technology & Multimedia, Communications, Development & Alumni Relations, and Administrative Services are encouraged to attend.
+Attendees can build relationships, exchange ideas, and learn about resources that support professional growth through networking, interactive workshops, panel discussions, and conversations with campus partners and employee resource groups.
+
+### Detecting Hidden Threats: AI-Enabled Surveillance of Harmful-Product Marketing
+Link: https://hub.jhu.edu/events/2026/11/18/detecting-hidden-threats-ai-enabled-surveillance-of-harmful-product-marketing/
+Published: 
+When: November 18th 10:00am - 11:00am
+Presented via Zoom webinar, this month's Innovations in Tobacco Control lecture series welcomes 
+Nandita Murukutla <https://www.linkedin.com/in/nandita-murukutla-phd-7777176>
+, vice president of global policy, behavioral insights, and evaluation at Vital Strategies, for a lecture titled "Detecting Hidden Threats: AI-Enabled Surveillance of Harmful-Product Marketing."
+Hosted by the 
+Institute for Global Tobacco Control <https://publichealth.jhu.edu/institute-for-global-tobacco-control>
+ (IGTC) at the Johns Hopkins Bloomberg School of Public Health, the monthly Innovations in Tobacco Control lecture series invites key researchers and experts to share ideas, present their work, and spark discussion. The lecture will be followed by a brief moderated Q&A and a recording of the event will subsequently be posted to IGTC's YouTube channel.
+
+### GIS Day 2026
+Link: https://hub.jhu.edu/events/2026/11/18/gis-day-2026/
+Published: 
+When: November 18th 11:00am - 8:00pm
+Where: School of Public Health, East Baltimore Campus
+Join in celebrating 
+GIS Day 2026 <https://storymaps.arcgis.com/stories/8f4177552f5c4474aea4c0b648c0a022>
+ with the Johns Hopkins geographic information system (GIS) community. This year's hybrid event will feature panel discussions, presentations, lightning talks, and poster sessions highlighting GIS research, applications, and projects from across the Johns Hopkins community and beyond.
+Schedule:
+11 a.m.–1 p.m.: In person (Feinstone Hall, E2030) | Join a panel discussion on AI, GIS, and spatial analysis, followed by a poster session. Enjoy donuts and cider while celebrating.
+2–3:30 p.m.: Online | "Don't Lose Your Legacy: Deciding the Future of Your AGO Map Content" — Learn about Johns Hopkins' 2026 ArcGIS Online content retention policy and explore practical steps for organizing, exporting, and transferring your GIS content before your account becomes inactive.
+4–5 p.m.: Online | Lightning talk session: Students, faculty, and staff are invited to share their GIS-related projects, research, or course work through short, engaging lightning talks (4-5 minutes each). 
+Submit your 100- to 150-word abstract <https://arcg.is/LDi8y1>
+ by Nov. 9 at 11:59 p.m. EST.
+6–6:45 p.m.: Online | Virtual poster session: Explore GIS-related projects and research through a virtual poster session.
+7–8 p.m.: Online | GIS After Dark (Special Edition): "Rapidly Building for Resilience: WebGIS Solutions for Real-World Demands" — Join a special GIS After Dark session featuring 
+Amanda Miner <https://www.linkedin.com/in/amanda-miner-msgis-gisp-0703989/>
+, director of resilience and infrastructure planning at Envicom Corp. and a Blue Jay alumna, as she discusses how curated spatial intelligence can help address real-world challenges.
+Hosted by:
+Data Services <https://dataservices.library.jhu.edu/>
+, the Sheridan Libraries
+Johns Hopkins Bloomberg School of Public Health <https://publichealth.jhu.edu/>
+MS in Geographic Information Systems <https://advanced.jhu.edu/academics/graduate/ms-geographic-information-systems/>
+Come celebrate GIS Day and see the great geospatial work happening across the Johns Hopkins community.
+For questions, please email 
+dataservices@jhu.edu
 .
 
-### Retirement Readiness Networking Group
-Link: https://hub.jhu.edu/events/2026/11/13/retirement-readiness-networking-group-2026/
+### Belonging Brunch
+Link: https://hub.jhu.edu/events/2026/11/18/belonging-brunch/
 Published: 
-When: November 13th 12:00pm - 1:00pm
-Are you feeling anxiety, dread, or excitement as you approach your retirement? This is your safe space to connect with other pre-retirees to talk about preparing for your post-work life. This group meets via Zoom the second Friday of each month, from noon to 1 p.m. EST.
+When: November 18th 11:30am - 1:00pm
+Where: Bunting-Meyerhoff Interfaith Center, Homewood Campus
+All Johns Hopkins affiliates are invited to join the 
+Office of Religious and Spiritual Life <https://students.jhu.edu/student-life/community-belonging/religious-spiritual-life/>
+ for a free Belonging Brunch.
+New friends, old friends. All are welcome.
+
+### Adult Caregiving Networking Group
+Link: https://hub.jhu.edu/events/2026/11/18/adult-caregiving-networking-group-2026/
+Published: 
+When: November 18th 12:00pm - 1:00pm
+Caregivers for adults may face financial, emotional, and physical challenges as they navigate the needs or an elderly loved one while managing other life priorities. For those wanting a forum to connect with other Hopkins employees about adult caregiving issues, join this group that meets via Zoom the third Wednesday of each month from noon to 1 p.m. EST.
 This group is one of several recurring 
-Virtual Networking Groups <https://hr.jhu.edu/benefits-worklife/support-programs/networking-groups-2/>
+Virtual Networking Groups <https://hr.jhu.edu/wp-content/uploads/Virtual-Networking-Groups.pdf>
  hosted by the 
 Office of Benefits & Worklife <https://hr.jhu.edu/benefits-worklife/>
 . These networking groups are opportunities for employees to connect with Hopkins peers who may be going through similar life experiences.
 Registration is required and intended only for Johns Hopkins employees. To protect everyone's privacy, please keep discussions confidential and refrain from recording or taking photos.
 
-### A Balanced Retirement Life | Retirement Readiness Networking Group
-Link: https://hub.jhu.edu/events/2026/11/13/a-balanced-retirement-life-retirement-readiness-networking-group/
+### Naviance Cancer Caregiver Support Group
+Link: https://hub.jhu.edu/events/2026/11/18/naviance-cancer-caregiver-support-group/
 Published: 
-When: November 13th 12:00pm - 1:00pm
-The Retirement Readiness Networking Group welcomes guest speaker Holly McFarland, for a special seminar to help you plan for a balanced retirement life. The session will cover the key issues to consider in planning for your future, and help you develop a current road map for retirement . Participants will leave with resources to help with deciding when the time for retirement may be right and to focus on the positive aspects of retirement while preparing for the challenges.
-Additional retirement benefits information for JHU employees is available on the 
-Planning for Retirement page <https://hr.jhu.edu/benefits-worklife/retirement/planning-for-retirement/>
+When: November 18th 12:00pm - 1:00pm
+Are you a caregiver for a loved one with cancer? Please join the monthly Naviance Caregiver Support Group. Hosted by Nurse Navigator Rose Wolfe, these virtual sessions provide a supportive space to share, learn and receive personalized answers to cancer-related questions.
+Support group sessions are held the third Wednesday of every month from noon to 1 p.m. EST. All sessions are virtual. This session is designed for employees who are caregivers for a loved one with cancer.
+What is Naviance? 
+Naviance is a free benefit program available to all Johns Hopkins employees. It provides comprehensive educational information and Nurse Navigator support to help all those impacted by cancer — whether personally, as a caregiver, or as a manager. For more information, visit 
+gonaviance.com/jh <https://gonaviance.com/jh>
+. Or to reach out to a Nurse Navigator directly, call 844-446-6229 or email 
+naviance@jh.edu
 .
 
-### Johns Hopkins Writing Center Graduate Writing Workshop: Zero to Hero in Dissertation Writing
-Link: https://hub.jhu.edu/events/2026/11/13/jhu-writing-center-graduate-writing-workshop-zero-to-hero-in-dissertation-writing/
+### WSE Fall 2026 Book Club Series | Slow AI: Knowing When to Use AI and When to Leave It Alone
+Link: https://hub.jhu.edu/events/2026/11/18/wse-fall-2026-book-club-slow-ai/
 Published: 
-When: November 13th 12:00pm - 4:00pm
-Where: Gilman Hall, Homewood Campus
-Have several research papers or dissertation chapters but aren't sure how to bring them together?
-Join the 
-Johns Hopkins Writing Center <https://krieger.jhu.edu/writingcenter/>
-'s Write-On-Site program for "Zero to Hero in Dissertation Writing," an interactive workshop exploring strategies for connecting individual research papers or studies into a coherent dissertation. The session will focus on developing an introduction that ties research together, reinforcing the larger narrative throughout the chapters, and bringing it together in the conclusion.
-The workshop is especially useful for graduate students working to integrate published or publishable studies into their dissertations.
-Schedule:
-Noon — Lunch
-12:30–1:30 p.m. — Interactive workshop
-1:30–4 p.m. — Dedicated writing time
-This workshop is open to Krieger School of Arts & Sciences and Whiting School of Engineering graduate students. Lunch will be provided.
+When: November 18th 12:00pm - 1:00pm
+With so much pressure to keep up with artificial intelligence, taking time to consider how and when to use it can feel like a welcome change of pace.
+Join colleagues for the Whiting School of Engineering Fall 2026 Faculty Book Club featuring 
+Slow AI: Knowing When to Use AI and When to Leave It Alone
+ by 
+Sam Illingworth <https://samillingworth.com/about>
+. This accessible, thought-provoking read explores how to make meaningful, responsible use of AI while protecting the human judgment and original thinking central to educators' work.
+Across three virtual conversations, attendees will connect the book's ideas to their own teaching and professional practice, considering practical questions:
+Does AI actually save time on a particular task?
+How can we set clear boundaries for its use?
+What consequences should we consider beyond the immediate result?
+How can we ensure that AI supports our thinking while keeping us actively engaged in the work?
+Bring your questions, experiences, and curiosity for a collegial exchange of ideas and practical approaches. Author Sam Illingworth will join the final session, offering an opportunity to discuss the book directly with him.
+This is a three-part series:
+Nov. 4: Book club discussion
+Nov. 18: Book club discussion
+Dec. 2: Book club discussion with author Sam Illingworth
 
-### Friday Noon:30 Recital Series: Composition
-Link: https://hub.jhu.edu/events/2026/11/13/peabody-fall-2026-friday-noon30-recital-series-composition/
+### Care for the Caregiver | Adult Caregiving Networking Group
+Link: https://hub.jhu.edu/events/2026/11/18/care-for-the-caregiver-adult-caregiving-networking-group/
 Published: 
-When: November 13th 12:30pm - 1:30pm
-Where: Leith Symington Griswold Hall, Peabody Institute
+When: November 18th 12:00pm - 1:00pm
+National Family Caregivers Month is celebrated in November to recognize and celebrate family caregivers nationwide to raise awareness of caregiving issues, provide resources and increase support for caregivers.
+Join the Adult Caregiving Networking Group for a special webinar called Care for the Caregiver, offered by CCA supporting Johns Hopkins Employee Assistance Program (JHEAP).
+This webinar will cover the issues of self-care, how to assess your family needs, and how to maintain balance in your life. We will also discuss common emotions caregivers may experience and discuss special caregiving situations.
 
-### Info Session: Research Grants and Fellowships for KSAS Undergraduates
-Link: https://hub.jhu.edu/events/2026/11/13/info-session-research-grants-and-fellowships-for-ksas-undergraduates/
+### 25Live: Basic Scheduling Essentials
+Link: https://hub.jhu.edu/events/2026/11/18/25live-basic-scheduling-essentials/
 Published: 
-When: November 13th 3:30pm - 5:00pm
-The 
-Office of Undergraduate Research, Scholarly, and Creative Activity <https://krieger.jhu.edu/ursca/>
- (URSCA) offers more than a dozen different types of grants and fellowships to fund independent research and creative projects by undergraduates in the Krieger School of Arts & Sciences.
-Come learn about URSCA's one-year and multi-year grants and fellowships, short-term project grants, and conference travel grants. This session will also cover eligibility requirements, application processes, and tips and tricks for success.
+When: November 18th 12:00pm - 1:30pm
+Where: Bloomberg Student Center, Homewood Campus
+Are you new to using 25Live and submitting space requests or having difficulty understanding how to submit and navigate?
+Join Scheduling & Event Services for a hands-on training session designed to help JHU users get the most from the 25Live event reservation system. Learn about 25live and the scheduling process, get an in-depth look at submitting reservation requests, schedule recurring meetings, navigate approval workflows, and know when and how to engage the Scheduling & Event Services team for assistance.
+Who should attend?
+Beginners or new users
+Administrative staff
+Event coordinators
+Department schedulers
+Faculty support staff
+Those who are new to requesting space in 25Live or have minimal experience
+Please register no later than 24 hours in advance of the training session.
+Send questions to 
+Homewoodscheduleevents@jhu.edu
+.
 
-### Africa and the AI Economy
-Link: https://hub.jhu.edu/events/2026/11/13/africa-and-the-ai-economy/
+### In Dialogue: Public Health and Religion
+Link: https://hub.jhu.edu/events/2026/11/18/in-dialogue-public-health-and-religion/
 Published: 
-When: November 13th 4:30pm - 7:00pm
-Where: Hopkins Bloomberg Center
-Join the 
-Carey Africa Business Club <https://jhu.campusgroups.com/africabusinessclub/home/>
-, 
-SAIS Africa Club <https://jhu.campusgroups.com/saisafricaclub/home/>
-, 
-SAIS Tech Club <https://emergingtech.sais.jhu.edu/tech-club>
-, and Village Ties for a panel discussion on Africa's role in the global artificial intelligence economy.
-Featured speakers:
-Amb. Christopher Kirigua, deputy chief of mission, Embassy of Kenya
-Olivia Igbokwe-Curry, head of political giving and strategy at Amazon
-Christian Duffus, founder and CEO of Fonbnk
-Eric Chehmere, group lead of AI solutions engineering at Cassava Technologies
-Hanan Awel (moderator), founder of Village Ties
-Whether you're interested in African affairs, technology policy, entrepreneurship, fintech, or economic development, this is a great chance to learn, connect, and hear directly from leaders working at the intersection of AI and African economic growth.
-Networking and light bites will follow. Non–Johns Hopkins affiliates will be required to present a government-issued ID upon entering the Hopkins Bloomberg Center.
+When: November 18th 12:00pm - 1:00pm
+Where: School of Public Health, East Baltimore Campus
+John Blevins <https://sph.emory.edu/profile/faculty/john-blevins>
+, associate research professor in the Hubert Department of Global Health at Emory University's Rollins School of Public Health, will give a talk titled "Religion and Public Health After the Liberal Protestant Consensus: Past Partnerships, Present Tensions, and New Terms of Engagement," supported by the 
+Dialogue Innovation Fund <https://provost.jhu.edu/the-dialogue-innovation-fund/>
+ and co-sponsored by the 
+Johns Hopkins Berman Institute of Bioethics <https://bioethics.jhu.edu/>
+.
+Blevins' interdisciplinary scholarship examines the complex ways religion shapes public health. At Emory, he directs the Interfaith Health Program and social-behavioral sciences for the Child Health and Mortality Prevention Surveillance program. His work spans health beliefs and practices, health policy, sexuality and reproductive health, HIV, and global health, with extensive research and practice in sub-Saharan Africa and South Asia. He is the author of 
+Christianity's Influence on United States Global Health and Development Policy
+ (Routledge, 2019) and has published widely on religion, health, sexuality, stigma, and faith-based engagement in global public health.
+All are welcome. Open to undergraduate and graduate students, faculty, and staff across disciplines.
 
-### LIQUID IDENTITY: Sandy Stone &amp; Rahne Alexander in Conversation
-Link: https://hub.jhu.edu/events/2026/11/13/liquid-identity-sandy-stone-rahne-alexander-in-conversation/
+### LCSR Seminar Series: Adaptive Control and Automated Design for Aerial Robotic Challenges
+Link: https://hub.jhu.edu/events/2026/11/18/lcsr-seminar-series-mark-mueller-adaptive-control-and-automated-design-for-aerial-robotic-challenges/
 Published: 
-When: November 13th 6:00pm - 8:00pm
-Where: Gilman Hall, Homewood Campus
+When: November 18th 12:00pm - 1:00pm
+Where: Hackerman Hall, Homewood Campus
+Mark W. Mueller <https://me.berkeley.edu/people/mark-w-mueller/>
+, an associate professor of mechanical engineering at the University of California, Berkeley, will give a talk titled "Adaptive Control and Automated Design for Aerial Robotic Challenges" for the 
+Laboratory for Computational Sensing + Robotics <https://lcsr.jhu.edu/>
+.
+Abstract:
+Aerial robotics have become ubiquitous, but (like most robots) they still struggle to operate at high speed in unstructured, cramped environments. In this talk I will present two ideas related to creating more capable aerial systems. First, I will present an approach to simultaneously design control and mechanical properties of a system, specifically considering a system for carrying a load with multiple aerial robots. A conventional design approach typically designs the mechanical aspects of the system for open loop characteristics (such as thrust-to-weight ratio) first, and then afterward designs the feedback controller for it. Instead, we present an approach that uses insights from robust control to design both simultaneously, relying on modeling system dynamics and external disturbances. The second part of the seminar will discuss a learning approach for creating robust and adaptable control strategies for quadcopters. We demonstrate a control strategy able to search over very large parametric uncertainty (in experiment, spanning two orders of magnitude in inertia), and able to almost instantaneously respond to changes in parameters (like offsets in center of mass, or reduction in effectiveness of a motor).
+About the speaker:
+Mueller started at Berkeley in 2016, after a brief stint deploying drones in a play in the biggest theater on New York's Broadway. He received his bachelor's degree from the University of Pretoria in South Africa and master's and doctoral degrees from ETH Zurich in Switzerland. He leads the HiPeRLab (High Performance Robotics Lab), which focuses on design, analysis, and control for autonomous flight.
+
+### Inside Intelligence: Making Sense of Public Revolts in Embattled Democracies
+Link: https://hub.jhu.edu/events/2026/11/18/making-sense-of-public-revolts-in-embattled-democracies/
+Published: 
+When: November 18th 12:00pm - 1:00pm
 Join 
-Johns Hopkins' Common Question <https://studentaffairs.jhu.edu/common-question/>
- for LIQUID IDENTITY, a lively conversation with Sandy Stone and Rahne Alexander. Jumping off from Stone's revolutionary "The 
-Empire
- Strikes Back: A Posttranssexual Manifesto" into her wild ride through multiple life paths, they'll talk about rock stars' secret habits, pirate history, viral academics, and how to speak the unspeakable.
-The doors open at 6 p.m. and the talk begins at 6:30 p.m.; reception to follow.
-Allucquére Rosanne "Sandy" Stone <https://sandystone.com/>
- is professor emerita and founding director of the Advanced Communication Technologies Laboratory (ACTLab) and the Convergent Media program at the University of Texas at Austin. As a recording engineer, she worked with Jimi Hendrix and engineered more than 100 rock, folk, blues, and classical albums. She is the first trans woman inducted into the National Women's Hall of Fame, and her archives will be housed at Harvard University's Radcliffe Schlesinger Library for the History of Women in America. Considered the founder of transgender studies and a pioneer in new media, she is also an author and multimedia performance artist. She stars in 
-Girl Island: The Sandy Stone Story
-, a hybrid feature documentary currently in post-production.
-Rahne Alexander <https://msac.org/directory/artists/rahne-alexander>
- is a creative polymath—intermedia artist, musician, writer, event producer—and senior publicist for Hopkins Press Journals. Formerly the frontwoman of The Degenerettes and Santa Librada, she now kicks out her trans/queer jams in 50′♀ & the Worms. A fixture of the Baltimore LGBTQ and arts scenes, Alexander is a Baker Artist Award winner, a periodical contributor to publications like 
-BmoreArt
- and 
-UMBC Magazine
-, and a sought-after conversation partner for artists and authors at Red Emma's, Greedy Reads, Atomic Books, and more.
+Michael Ard <https://advanced.jhu.edu/directory/michael-ard/>
+, director of the 
+MS in Intelligence Analysis program <https://advanced.jhu.edu/academics/graduate/ms-intelligence-analysis/>
+, for a conversation with 
+Martin Gurri <https://www.mercatus.org/scholars/martin-gurri>
+ about what public protests and political unrest reveal about the health of democracy and how intelligence analysts can interpret these movements in an increasingly complex information environment. Gurri, a former CIA analyst and current visiting fellow at George Mason University's Mercatus Center, will examine what drives mass demonstrations and why some uprisings lead to political reforms or leadership changes while others result in repression, instability, or renewed authoritarianism.
+Gurri is the author of 
+The Revolt of the Public and the Crisis of Authority in the New Millennium
+. He spent nearly three decades as director of research and visual analysis and senior analyst at the U.S. Government's Open Source Center. He now works in the private sector as chief analyst at Fifth Wave Analytics, where he focuses on geopolitical analysis and develops and delivers courses on analysis and open-source exploitation. He is also a frequent contributor to 
+The Free Press
+, 
+City Journal
+, 
+New York Post
+, and other publications.
 
-### In the Stacks: Celebrating Ukrainian Music
-Link: https://hub.jhu.edu/events/2026/11/13/in-the-stacks-celebrating-ukrainian-music/
+### Worklife and Well-Being Programs | Family Building Week
+Link: https://hub.jhu.edu/events/2026/11/18/worklife-and-well-being-programs-family-building-week/
 Published: 
-When: November 13th 6:30pm - 7:30pm
-Where: George Peabody Library, Peabody Institute
-Discover the richness of Ukraine's musical heritage through a program of classical art songs, opera selections, and folk-inspired works. Sopranos Alina Cherkasova and Marie Herrington, with pianist Myroslav Mykhailenko, will bring this vibrant repertoire to live while celebrating the depth and diversity of Ukrainian music.
-The performance will be accompanied by a display of rare Ukrainian books from the Sheridan Libraries collections, available for audience members to explore.
-In the Stacks <https://tabbcenter.library.jhu.edu/public-humanities/in-the-stacks-concert-series/>
- offers an informal, dynamic way for audiences to engage with music and performance art. Throughout the year, this concert series activates Baltimore's iconic George Peabody Library—a glorious space with five tiers of cast-iron balconies that soar up to a latticed spotlight—with art, music, dance, film, drama, and more.
+When: November 18th 1:00pm - 2:00pm
+Johns Hopkins is committed to providing benefits that support you and your loved ones, wherever life takes you. Join this session to learn about family and well-being programs, including backup care by Bright Horizons, childcare partner centers, childcare vouchers and scholarships, and more.
+This event is part Family Building Week, presented by 
+Johns Hopkins' Office of Benefits and Worklife <https://hr.jhu.edu/benefits-worklife/>
+, to support Johns Hopkins employees in planning, building, and growing their families. 
+View the entire schedule. <http://hr.jhu.edu/wp-content/uploads/sites/73/Family-Building-Schedule_November-2026.pdf>
 
-### Interfaith Shabbat
-Link: https://hub.jhu.edu/events/2026/11/13/interfaith-shabbat/
+### DMSE Fall 2026 Seminar Series: Exploiting Molecular Materials for Quantum Information Science
+Link: https://hub.jhu.edu/events/2026/11/18/dmse-fall-2026-seminar-series-exploiting-molecular-materials-for-quantum-information-science/
 Published: 
-When: November 13th 6:30pm - 8:30pm
-Where: Glass Pavilion, Homewood Campus
-All Johns Hopkins affiliates are welcome to attend Interfaith Shabbat. The 
-Office of Religious and Spiritual Life <https://students.jhu.edu/student-life/community-belonging/religious-spiritual-life/>
- in collaboration with the 
-Hopkins Hillel <https://www.hopkinshillel.org/>
- and the 
-Jewish Students Association <https://jhu.campusgroups.com/jsasom/home/>
- is hosting an interfaith Shabbat dinner. Join for dinner and community to welcome in the Jewish day of rest.
+When: November 18th 3:00pm - 4:00pm
+Where: Maryland Hall, Homewood Campus
+Michael R. Wasielewski <https://chemistry.northwestern.edu/people/faculty/profiles/michael-wasielewski.html>
+, a professor of chemistry and applied physics at Northwestern University, will give a talk titled "Exploiting Molecular Materials for Quantum Information Science" for the 
+Department of Materials Science & Engineering <https://engineering.jhu.edu/materials/>
+.
+Abstract
+Molecular electron spins have emerged as versatile quantum bits (qubits) with wide ranging applications in quantum sensing, communications, and computing at the nanoscale. These applications take advantage of the ability of chemical synthesis to 1) create specific structures with atomic scale spatial control; 2) tailor the magnetic, optical, and electronic properties of the qubits; and 3) construct large-scale ordered arrays of qubits via crystal growth and self-assembly. In order to take further advantage of the tunability of molecular qubits, optical-spin interfaces must be developed to permit addressing and readout of spin information. We will describe recent work from our laboratory that focuses on using photo-driven processes to generate optical-spin interfaces in molecular materials targeting quantum information applications. We will show how ultrafast photogeneration of electron-hole pairs within covalent electron donor-acceptor systems results in two entangled spins having sufficiently long coherence times to perform a variety of operations relevant to quantum information. We will also describe how molecular chirality can be used to control the spin dynamics of photogenerated electron-hole pairs in donor-acceptor molecules. Finally, we will show how molecular diradicals with triplet ground states can serve as versatile quantum sensors using optical spin polarization, microwave manipulation, and optical readout.
+Bio
+In addition to his position at Northwestern University, Michael Wasielewski is director of the Institute for Quantum Information Research and Engineering (INQUIRE) and director of the Center for Molecular Quantum Transduction (CMQT), an Energy Frontier Research Center at Northwestern affiliated with the U.S. Department of Energy. He received his Bachelor of Science, Master of Science, and doctorate degrees from the University of Chicago and was a postdoctoral fellow at Columbia University. His research has resulted in over 870 publications and focuses on light-driven processes in molecules and materials, artificial photosynthesis, molecular electronics, quantum information science, ultrafast optical spectroscopy, and time-resolved electron paramagnetic resonance spectroscopy. He is member of the National Academy of Sciences and the American Academy of Arts and Sciences and is the recipient of numerous awards.
 
-### Football: Franklin &amp; Marshall at Johns Hopkins
-Link: https://hub.jhu.edu/events/2026/11/13/fall-sports-2026-football-franklin-and-marshall-college-at-johns-hopkins/
+### Leading Change: Perspectives from Outside of Medicine | A Conversation with Rowland Illing
+Link: https://hub.jhu.edu/events/2026/11/18/leading-change-perspectives-from-outside-of-medicine-conversation-series-2026-2027-presents-dr-rowland-illing-chief-medical-officer-and-director-of-global-healthcare-and-life-sciences-for-amazon-web-services-on-wed-nov-18th-at-5pm-via-zoom/
 Published: 
-When: November 13th 7:00pm - 9:00pm
-Where: Homewood Field, Homewood Campus
-The Blue Jays host Franklin and Marshall in a Centennial Conference game.
-
-### Peabody Wind Ensemble: Beethoven, Octet in E-flat major
-Link: https://hub.jhu.edu/events/2026/11/13/peabody-fall-2026-peabody-wind-ensemble-beethoven-octet-in-e-flat-major/
-Published: 
-When: November 13th 7:30pm - 9:30pm
-Where: Leith Symington Griswold Hall, Peabody Institute
-Peabody faculty artist Harlan Parker leads the Peabody Wind Ensemble through Ludwig van Beethoven's Octet in E-flat major in Leith Symington Griswold Hall on a program that includes works by Jean Francaix and George Rochberg.
-
-### Composers' Ensemble
-Link: https://hub.jhu.edu/events/2026/11/13/peabody-fall-2026-composers-ensemble/
-Published: 
-When: November 13th 7:30pm - 8:30pm
-Where: Joe Byrd Hall, Peabody Institute
-
-### AstraZeneca National Healthcare Case Competition
-Link: https://hub.jhu.edu/events/2026/11/14/astrazeneca-national-healthcare-case-competition/
-Published: 
-When: November 14th 8:30am - 5:30pm
-Where: Hopkins Bloomberg Center
-Showcase your talent, build your network, and develop critical business skills. This premier graduate-level national competition presents a unique opportunity to analyze a real-world 
-healthcare business challenge <https://carey.jhu.edu/events/astrazeneca-national-healthcare-case-competition>
- and work alongside diverse and interdisciplinary peers to generate ideas and insights for AstraZeneca. The 2026 case theme is "Growing share of voice to improve uHCC market share in an evolving GI landscape."
-Ten teams will be invited to Carey Business School's Washington, D.C., location at the Hopkins Bloomberg Center to showcase their innovative solutions to a panel of AstraZeneca executives who will serve as judges. The top three selected teams will win awards of $8,000, $5,500, and $3,000, respectively. Teams must include three to five graduate students from the same university and include a minimum of one MBA student. Doctoral students are permitted to join a team.
-The competition will include a Welcome Reception on Nov. 13, from 5 to 7 p.m. for all teams, judges, and organizers.
-
-### Pi Beta Phi Race 4 Reading 5K
-Link: https://hub.jhu.edu/events/2026/11/14/pi-beta-phi-race-4-reading-5k/
-Published: 
-When: November 14th 9:15am - 12:00pm
-Where: Homewood Field, Homewood Campus
-Join the 
-Maryland Gamma Chapter of Pi Beta Phi <https://jhu.pibetaphi.org/>
- at Johns Hopkins University for Race 4 Reading (R4R), a 5K dedicated to supporting children's literacy.
-R4R brings together students, faculty, families, and members of the Baltimore community for a meaningful cause.
-This year's race comes with a literary twist: participants are encouraged to dress as their favorite book characters. Whether you're a seasoned runner, a casual walker, or simply looking for a fun way to give back, everyone is welcome to participate.
-All proceeds will support Pi Beta Phi's national philanthropic initiative, Read > Lead > Achieve®, which aims to inspire a lifelong love of reading and expand literacy opportunities for children.
-Hosted by the Maryland Gamma Chapter of Pi Beta Phi, R4R is an opportunity to connect with the Johns Hopkins and Baltimore communities while making a positive impact through literacy advocacy.
-
-### Holiday Makers' Market
-Link: https://hub.jhu.edu/events/2026/11/14/holiday-makers-market/
-Published: 
-When: November 14th 11:00am - 3:00pm
-Where: Evergreen Museum & Library, Homewood Campus
-Support local makers and get a head start on your holiday shopping at 
-Evergreen <https://museums.jhu.edu/evergreen-museum-library/>
-'s Holiday Makers' Market. This year's market features a variety of locally made products, including jewelry, stationery, artwork, home goods, and more.
-Parking, self-guided tours of the gardens and grounds, and admission to the exhibition 
-"With Profit and Pleasure: A Legacy of Japanese Prints" <https://museums.jhu.edu/exhibitions/current/with-profit-and-pleasure-the-legacy-of-japanese-prints/>
- are 
-free
- with attendance.
-
-### Composers' Ensemble (tech free)
-Link: https://hub.jhu.edu/events/2026/11/15/peabody-fall-2026-composers-ensemble-tech-free/
-Published: 
-When: November 15th 3:00pm - 4:00pm
-Where: Joe Byrd Hall, Peabody Institute
+When: November 18th 5:00pm - 6:00pm
+Rowland Illing <https://www.linkedin.com/in/mostafatoloui/>
+, chief medical officer and director of global healthcare and life sciences for Amazon Web Services, will give a talk titled "A Conversation with Rowland Illing" for the Leading Change: Perspectives from Outside of Medicine Conversation Series 2026–27, followed by a Q&A session.
+Please attend the event by 
+using the Zoom link <https://jhjhm.zoom.us/j/99190702027?pwd=4U6WHNUlaQmBsw84YywupENb_ayJUg.qWSjZpE9KtCfou0p>
+ (Passcode: 912532).
+The goal of the series is to help participants think about ways to improve the patient experience at Johns Hopkins by learning from experts in other fields and disciplines.

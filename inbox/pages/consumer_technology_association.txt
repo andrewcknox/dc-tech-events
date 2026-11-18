@@ -1,6 +1,6 @@
 # Consumer Technology Association
 # https://www.cta.tech/events
-# fetched 2026-11-17T09:02:05.787717-05:00
+# fetched 2026-11-18T08:51:41.149851-05:00
 # tags: industry
 
 CES 2027
@@ -11,12 +11,6 @@ Sign up
 Join our community of innovators and shape the future of technology.
 Become a member <https://www.cta.tech/Membership/Join>
 Why Join CTA <https://www.cta.tech/Membership>
-EVENT
-Powering Innovation: Exploring the Intersection of Technology and Energy
-Tue November 17, 2026
-Innovation House | 5-7 PM
-​Join CTA for a discussion with leaders from the technology and energy sectors on how the two industries are increasingly connected, and what the U.S. needs to stay competitive for the next wave of American innovation.
-Register
 Event Type: 
 Member only
 Virtual Roundtable
@@ -55,6 +49,12 @@ Why Join CTA <https://www.cta.tech/Membership>
 CTA Member Benefits at CES <https://www.ces.tech/attend/cta-member-benefits-at-ces/>
 Benefits and Pricing <https://www.cta.tech/Membership/Membership-Pricing>
 Member Hub <https://www.cta.tech/Membership/Benefits/Member-Hub>
+EVENT
+Powering Innovation: Exploring the Intersection of Technology and Energy
+Tue November 17, 2026
+Innovation House | 5-7 PM
+​Join CTA for a discussion with leaders from the technology and energy sectors on how the two industries are increasingly connected, and what the U.S. needs to stay competitive for the next wave of American innovation.
+Learn More
 Event Type: 
 Member only
 Virtual Roundtable
@@ -166,14 +166,7 @@ June 21-25, 2026
 Warsaw, Poland
 This invitation-only Summit will provide unique and exclusive opportunities to make valuable face-to-face connections with peers and memorable cultural experiences not available to most travelers.
 Learn More
-Event Type: 
-Member only
-Media Best Practices for Entrepreneurs and Small Businesses
-Thu May 28, 2026
-1-2 PM ET
-Brought to you by the CTA Entrepreneur Council, this Virtual Roundtable is designed to help entrepreneurs and small business leaders better understand how to position their companies in today’s changing media landscape.
-Learn More
- 1 - 16 of 38 items
+ 1 - 16 of 39 items
 1
 2
 3

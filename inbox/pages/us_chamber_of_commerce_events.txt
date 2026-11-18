@@ -1,6 +1,6 @@
 # US Chamber of Commerce events
 # https://www.uschamber.com/events
-# fetched 2026-11-17T09:02:05.787717-05:00
+# fetched 2026-11-18T08:51:41.149851-05:00
 # tags: industry
 
 Events
@@ -42,11 +42,11 @@ At the Hiring Our Heroes Military Spouse Employment Summit, we united to boost m
 Congressional candidates, business leaders, policy experts, and former members of Congress discuss policy issues facing American businesses at the Free Enterprise Forum.
  Recent Events
 State of American Business 2026 “A Year for Choosing” <https://www.youtube.com/watch?v=RVCudH39jIU>
+International <https://www.uschamber.com/international>
+B20 USA Summit Concludes With Call to Action for Global Growth and Business Leadership <https://www.uschamber.com/international/b20-usa-summit-concludes-with-call-to-action-for-global-growth-and-business-leadership>
 Small Business <https://www.uschamber.com/small-business>
-Celebrating America's Top 100 Small Businesses of 2025 <https://www.uschamber.com/small-business/co-100-americas-top-small-business-2025>
-Infrastructure <https://www.uschamber.com/infrastructure>
-Safety, Upgrades, Workforce Are Center Stage at Global Aerospace Summit <https://www.uschamber.com/infrastructure/day-one-2025-global-aerospace-summit>
-Taxes <https://www.uschamber.com/taxes>
-Tax Reform Takes Center Stage at Tax Policy Summit <https://www.uschamber.com/taxes/permanent-tax-reform-will-prevent-a-historic-tax-hike>
+Celebrating America's Small Businesses: Meet the 2026 CO—100 Top Business <https://www.uschamber.com/small-business/celebrating-americas-small-business-applications-now-open-for-the-co-100-awards>
+Housing <https://www.uschamber.com/housing>
+Building for Growth: Tackling America’s Housing Shortage <https://www.uschamber.com/housing/building-for-growth-tackling-americas-housing-shortage>
  Upcoming Events
 TechnologyPeople-Powered AI: Addressing the Missing MiddleThursday, November 1908:30 AM EST - 05:30 PM ESTU.S. Chamber of Commerce, 1615 H St NW, Washington, DC 20062Learn More <https://events.uschamberfoundation.org/aiai/>

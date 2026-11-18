@@ -1,11 +1,11 @@
 # New America
 # https://www.newamerica.org/events/
-# fetched 2026-11-17T09:02:05.787717-05:00
+# fetched 2026-11-18T08:51:41.149851-05:00
 # tags: think-tank
 
-What is the Science of Dad Brain? <https://www.newamerica.org/events/what-is-the-science-of-dad-brain/>
-November 17, 2026
-What is the Science of Dad Brain?
-Are great Dads born? Or are they made? How does the experience of caring for others change the brain? Learn more from new research discussed during this hybrid event.
-Hybrid
+New Portrait of Computer Science Majors in the Age of AI <https://www.newamerica.org/events/new-portrait-of-computer-science-majors-in-the-age-of-ai/>
+December 1, 2026
+New Portrait of Computer Science Majors in the Age of AI
+Learn what it means to study computer science in the age of AI, and how the next generation of technologists will redefine the field.
+Virtual
 12PM – 1PM EST

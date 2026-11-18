@@ -1,10 +1,11 @@
 # Atlantic Council
 # https://www.atlanticcouncil.org/events/
-# fetched 2026-11-17T09:02:05.787717-05:00
+# fetched 2026-11-18T08:51:41.149851-05:00
 # tags: think-tank
 
 Upcoming events
 We convene in Washington DC, internationally, and virtually to inspire global engagement and to shape solutions to the defining challenges of our times. Through small, focused events and larger public gatherings, we inform and build connections. Register for upcoming events or subscribe to watch live on YouTube.
+ Happening Now
 Public Event
  Wed, November 18, 2026 • 3:00 am EST
  Seventh Partnership for Transatlantic Energy Cooperation (P-TEC) <https://www.atlanticcouncil.org/event/seventh-partnership-for-transatlantic-energy-cooperation/>
@@ -24,7 +25,7 @@ Online Event
 Iraq <https://www.atlanticcouncil.org/region/iraq/>
 Politics & Diplomacy <https://www.atlanticcouncil.org/issue/politics-diplomacy/>
 Syria <https://www.atlanticcouncil.org/region/syria/>
-Public Event
+Online Event
  Wed, November 18, 2026 • 11:30 am ET
  Pakistan’s place in the emerging world order <https://www.atlanticcouncil.org/event/pakistans-place-in-the-emerging-world-order/>
 Politics & Diplomacy <https://www.atlanticcouncil.org/issue/politics-diplomacy/>

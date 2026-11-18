@@ -30,7 +30,7 @@ on Mondays, covering the next 14 days.
 
 ## Tier 1 — scripted (`uv run dte fetch`)
 
-Everything enabled in `sources.yaml` (99 enabled sources: about 75 for DC/Baltimore and 24 for the Bay Area,
+Everything enabled in `sources.yaml` (106 enabled sources; Atlantic Council is read as pages 1-5 because each page shows only about a day of events: about 75 for DC/Baltimore and 24 for the Bay Area,
 which are listed below. The 2026-11-07 additions include SpacePolicyOnline's ICS, Global Taiwan Institute,
 AAAS, JHU APL, UMD GPI/CISSM, Scoop News Group, MeriTalk, Punchbowl, INSA, US Chamber, CTA, and in
 Baltimore SNF Agora, JHU IAA, GBC and Baltimore Tech Meetup. Also included are Luma iCal feeds for Fathom, IFP, Center for Technology & Statecraft, Squadra Ventures and ACE Health/Millennium Project). Covers: JHU/SAIS, the core think tanks (CSIS, CNAS,
@@ -62,6 +62,7 @@ scripts get past their blocking.
 | BSA / The Software Alliance | https://www.bsa.org/events (404 on 2026-11-13; find the new events page) | AI and data policy, industry view |
 | CEPA | https://cepa.org/events/ | transatlantic tech/cyber; page needs a human check |
 | House committees | https://docs.house.gov/Committee/Calendar/ByWeek.aspx (all House hearings this week) | E&C, Science, Homeland, Foreign Affairs, Armed Services |
+| Senate Commerce markups | https://www.commerce.senate.gov/meetings (executive sessions list every bill on the agenda; congress.gov names only one. Use this page's meeting URL and full agenda as the event's url/title so backups match it) | chips, biosecurity, telecom-security bills |
 | Senate committees | https://www.congress.gov/committee-schedule (the week view lists committees only; hearing titles are on the daily view, `/committee-schedule/daily/YYYY/MM/DD`, which also covers House hearings; filter Commerce, Judiciary, HSGAC, Banking, Foreign Relations, Armed Services) | hearings on AI, chips, export controls |
 | House China Select Committee | https://chinaselectcommittee.house.gov/committee-activity/hearings/all (old `/hearings` 404 on 2026-11-10; titles appear here and on congress.gov a few days ahead) | China tech hearings |
 | FTC / FCC open meetings | https://www.ftc.gov/news-events/events · https://www.fcc.gov/news-events/events | AI enforcement, spectrum, broadband |
@@ -101,7 +102,10 @@ DC's AI/defense-tech community runs almost entirely on Luma. In Chrome, check:
   cal id is in the event page HTML (`"calendar":{"api_id":...`).
 - Hosts that post from a *personal* Luma calendar (no org feed to subscribe to), so check them by
   searching Luma for the host name: IAPS, DCMC (AI Governance Happy Hour), Inclusive Abundance,
-  VALS AI, IST happy hours, and Alperovitch Institute / SAIS ETI talks (e.g. "The Bitter Struggle").
+  VALS AI, IST happy hours, and Alperovitch Institute / SAIS ETI talks (e.g. "The Bitter Struggle"), and **Ready State Labs** (AI-security
+  congressional briefings at the Capitol Visitor Center; its Nov 19, 2026 briefing sat on a personal
+  Luma calendar, cal-GKJBBJ0Kl7BgBTN, whose iCal feed is empty to scripts). Also search Luma for
+  "congressional briefing" + AI: Hill briefings by small AI-security firms are posted only there.
 - Hosts that announce events only as Zoom webinars, with no events page: **Americans for Responsible
   Innovation (ARI)**. Checked 2026-11-08: `ari.us/events` is a 404 and `ari.us/feed/` only carries
   press statements. Each tier-3 run, search the web and Luma for "Americans for Responsible Innovation"

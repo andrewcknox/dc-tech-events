@@ -1,6 +1,6 @@
 # JHU Institute for Assured Autonomy (Baltimore)
 # https://iaa.jhu.edu/events/
-# fetched 2026-11-13T09:10:31.448842-05:00
+# fetched 2026-11-18T08:51:41.149851-05:00
 # tags: jhu, university, baltimore
 
 Events
@@ -12,8 +12,8 @@ IAAResearchSummit2022 <https://iaa.jhu.edu/events/action~agenda/request_format~j
  Agenda
 Agenda <https://iaa.jhu.edu/events/action~agenda/request_format~json/>
 Month <https://iaa.jhu.edu/events/action~month/request_format~json/>
-November 2026
-Nov 2026
+November – December 2026
+Nov – Dec 2026
  Collapse All
  Expand All
 Nov
@@ -46,8 +46,34 @@ https://wse.zoom.us/j/95926650506?pwd=ed4uegu5pJI6jKygkB9FyVu8Pga0ra.1 <https://
 Meeting ID: 959 2665 0506
 Passcode: 611091
 Read more <https://iaa.jhu.edu/event/iaa-seminar-rahul-mangharam/?instance_id=436>
-November 2026
-Nov 2026
+ IAA Seminar Series — Craig Lennon
+@ Johns Hopkins University Applied Physics Laboratory
+Tickets
+ Nov 19 @ 3:00 pm – 4:00 pm
+Title:
+ Autonomy T&E and V&V Progress and Challenges
+Abstract
+: Trends in autonomy, including low-cost drones, rapidly evolving capabilities, and expanding AI application at the edge have changed the defense autonomy landscape, and the needs for test, evaluation (T&E), verification, and validation (V&V) of autonomy. This presentation reviews progress made toward T&E and V&V of autonomy and the new challenges presented by the changing defense landscape.
+Bio
+: 
+Dr. Craig Lennon is a senior research scientist at the Army Research Laboratory where he specializes in experimentation with and evaluation of low technology readiness level research in autonomy and AI, including assessments of research by university and industry working in cooperative research agreements with ARL, and internal Army applied autonomy research.  He co-leads the DoD Autonomy Community of Interest working group on test, evaluation, verification and validation of autonomy and AI, which identifies and finds solutions for challenges related to test and evaluation of autonomy and AI.  Previously, he has been chief for the Human and Intelligent Agent Integration branch at ARL and an assistant professor of mathematics at the United States Military Academy.  Prior to working at ARL, he was an Army officer in the 2
+nd
+ Cavalry Regiment.
+Zoom: 
+Available upon request. Please email Veronica Koch (Veronica [dot] Koch [at] jhuapl [dot] edu) to request the link.
+Read more <https://iaa.jhu.edu/event/iaa-seminar-series-craig-lennon/?instance_id=439>
+Dec
+ 7
+ Mon <https://iaa.jhu.edu/events/action~oneday/exact_date~2026-12-7/>
+ WOW 3.0: The Third Washington Operations Workshop — Agentic and Autonomous AI in Operations
+@ Johns Hopkins University Bloomberg Center, Washington, DC
+Tickets
+ Dec 7 @ 8:30 am – 5:15 pm
+Event details and registration info: 
+https://www.eventbrite.com/e/third-washington-operations-workshop-wow-3-agentic-and-autonomous-ai-tickets-2004000276774?aff=oddtdtcreator <https://www.eventbrite.com/e/third-washington-operations-workshop-wow-3-agentic-and-autonomous-ai-tickets-2004000276774?aff=oddtdtcreator>
+Read more <https://iaa.jhu.edu/event/wow-3-0-the-third-washington-operations-workshop-agentic-and-autonomous-ai-in-operations/?instance_id=442>
+November – December 2026
+Nov – Dec 2026
  Subscribe
 Add to Timely Calendar <http://iaa.jhu.edu/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events>
 Add to Google <https://www.google.com/calendar/render?cid=http%3A%2F%2Fiaa.jhu.edu%2F%3Fplugin%3Dall-in-one-event-calendar%26controller%3Dai1ec_exporter_controller%26action%3Dexport_events%26no_html%3Dtrue%26%26>

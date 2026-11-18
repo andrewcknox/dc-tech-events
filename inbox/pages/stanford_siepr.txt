@@ -1,17 +1,17 @@
 # Stanford SIEPR
 # https://siepr.stanford.edu/events
-# fetched 2026-11-12T07:14:16.173747-05:00
+# fetched 2026-11-18T08:51:41.149851-05:00
 # tags: bay-area, university
 
 Events
 Skip Secondary Navigation
 Main content start
 All upcoming events
-Policy Forum <https://siepr.stanford.edu/events/policy-forum>
-Economic Policy in the Age of AI <https://siepr.stanford.edu/events/policy-forum/economic-policy-age-ai>
-Thursday, November 12, 2026 | 9:30am
+A book talk with author Eric Zwick <https://siepr.stanford.edu/events/book-talk-author-eric-zwick>
+Wednesday, December 2, 2026 | 4:30pm
  - 
-5:00pm PST
+5:30pm PST
+Stanford Institute for Economic Policy Research
 John A. and Cynthia Fry Gunn Building
 366 Galvez Street
 Stanford

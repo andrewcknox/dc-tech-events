@@ -1,0 +1,254 @@
+{
+ "source": "daily page scan",
+ "tags": [],
+ "events": [
+  {
+   "title": "Digital Resilience in a Post-Mythos World: A Conversation with Greg Rattray",
+   "start": "2026-11-18 09:00",
+   "end": "2026-11-18 10:00",
+   "location": "Online",
+   "virtual": true,
+   "url": "https://www.csis.org/events/digital-resilience-post-mythos-world-conversation-greg-rattray",
+   "host": "CSIS",
+   "description": "CDAC executive director Greg Rattray on AI-enabled cyberattacks, Iranian cyber operations against U.S. critical infrastructure, and digital resilience.",
+   "speakers": [
+    "Greg Rattray"
+   ],
+   "topics": [
+    "cyber",
+    "AI"
+   ],
+   "fit": 4,
+   "why": "AI-enabled cyber threats to critical infrastructure, core ETI territory; online.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Strengthening Japanese and Allied Critical Minerals Supply Chains: A Conversation with JOGMEC Chairman Ichiro Takahara",
+   "start": "2026-12-08 11:00",
+   "end": "2026-12-08 12:00",
+   "location": "Hudson Institute, 1201 Pennsylvania Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.hudson.org/events/strengthening-japanese-allied-critical-minerals-supply-chains-conversation-jogmec-chairman",
+   "host": "Hudson Institute",
+   "description": "JOGMEC chairman and CEO Ichiro Takahara on critical mineral resilience and allied cooperation, introduced by Japan Chair Kenneth Weinstein.",
+   "speakers": [
+    "Ichiro Takahara",
+    "Kenneth R. Weinstein",
+    "William Chou"
+   ],
+   "topics": [
+    "industrial-policy",
+    "Japan-Korea",
+    "tech-geopolitics"
+   ],
+   "fit": 4,
+   "why": "Allied critical-mineral supply chains underpin chips and defense tech; senior Japanese official.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "A Conversation with Chairman Carr: The FCC's New National Security Mandate",
+   "start": "2026-12-09",
+   "end": null,
+   "location": "AEI, 1789 Massachusetts Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.aei.org/events/a-conversation-with-chairman-carr-the-fccs-new-national-security-mandate/",
+   "host": "AEI",
+   "description": "FCC Chairman Brendan Carr with AEI's Chris Miller on the FCC's national security role: covered equipment, Chinese telecom and connected-device risks.",
+   "speakers": [
+    "Brendan Carr",
+    "Chris Miller"
+   ],
+   "topics": [
+    "tech-geopolitics",
+    "China",
+    "cyber"
+   ],
+   "fit": 5,
+   "why": "The FCC chair on telecom national security, moderated by the author of Chip War, a short walk from SAIS.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Automatic License Plate Readers: Technologies, Impacts and Policy Responses",
+   "start": "2026-12-16",
+   "end": null,
+   "location": "AAAS, 1200 New York Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.aaas.org/events/automatic-license-plate-readers-technologies-impacts-and-policy-responses",
+   "host": "AAAS",
+   "description": "AAAS Center for Scientific Evidence in Public Issues session on ALPR technology, its impacts and policy responses.",
+   "speakers": [],
+   "topics": [
+    "data/privacy"
+   ],
+   "fit": 3,
+   "why": "Surveillance technology and privacy policy, evidence-focused.",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "title": "NIST CSF 2.0 Semiconductor Manufacturing Profile Kick-Off Webinar",
+   "start": "2026-12-10 12:00",
+   "end": null,
+   "location": "Online",
+   "virtual": true,
+   "url": "https://www.nist.gov/news-events/events/2026/12/nist-csf-20-semiconductor-manufacturing-profile-kick-webinar",
+   "host": "NIST",
+   "description": "NCCoE webinar launching the Cybersecurity Framework 2.0 profile for semiconductor manufacturing.",
+   "speakers": [],
+   "topics": [
+    "semiconductors",
+    "cyber"
+   ],
+   "fit": 3,
+   "why": "Chip-fab cybersecurity standards from NIST; online.",
+   "tags": [
+    "government"
+   ]
+  },
+  {
+   "title": "WOW 3.0: The Third Washington Operations Workshop - Agentic and Autonomous AI in Operations",
+   "start": "2026-12-07 08:30",
+   "end": "2026-12-07 17:15",
+   "location": "Johns Hopkins University Bloomberg Center, 555 Pennsylvania Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://iaa.jhu.edu/event/wow-3-0-the-third-washington-operations-workshop-agentic-and-autonomous-ai-in-operations/",
+   "host": "JHU Institute for Assured Autonomy",
+   "description": "Day-long workshop on agentic and autonomous AI in government and military operations, held at the Hopkins Bloomberg Center.",
+   "speakers": [],
+   "topics": [
+    "AI"
+   ],
+   "fit": 4,
+   "why": "Agentic AI in national-security operations, at the Hopkins Bloomberg Center.",
+   "tags": [
+    "university"
+   ]
+  },
+  {
+   "title": "After Shenzhen: What Did Trump and Xi Achieve?",
+   "start": "2026-11-23 10:30",
+   "end": "2026-11-23 11:30",
+   "location": "Online",
+   "virtual": true,
+   "url": "https://asiasociety.org/policy-institute/events/after-shenzhen-what-did-trump-and-xi-achieve",
+   "host": "Asia Society Policy Institute",
+   "description": "ASPI and CCA experts unpack the Trump-Xi Shenzhen summit: what was achieved, what remains unresolved, and what comes next for U.S.-China relations.",
+   "speakers": [],
+   "topics": [
+    "China",
+    "tech-geopolitics"
+   ],
+   "fit": 3,
+   "why": "Summit readout covering trade and tech controls in U.S.-China relations; online.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "New Portrait of Computer Science Majors in the Age of AI",
+   "start": "2026-12-01 12:00",
+   "end": "2026-12-01 13:00",
+   "location": "Online",
+   "virtual": true,
+   "url": "https://www.newamerica.org/events/new-portrait-of-computer-science-majors-in-the-age-of-ai/",
+   "host": "New America",
+   "description": "What it means to study computer science in the age of AI and how the next generation of technologists will redefine the field.",
+   "speakers": [],
+   "topics": [
+    "AI"
+   ],
+   "fit": 2,
+   "why": "AI and the tech talent pipeline; more education than policy.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Outproducing the CCP: Restoring American Manufacturing",
+   "start": "2026-11-20 08:30",
+   "end": null,
+   "location": "210 Cannon House Office Building, Washington, DC",
+   "virtual": false,
+   "url": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=119593",
+   "host": "House Select Committee on the CCP",
+   "description": "Select Committee on the CCP hearing on rebuilding U.S. manufacturing capacity against Chinese industrial competition.",
+   "speakers": [],
+   "topics": [
+    "industrial-policy",
+    "China"
+   ],
+   "fit": 4,
+   "why": "Congressional hearing on U.S.-China industrial competition; open to the public on the Hill.",
+   "tags": [
+    "hill"
+   ]
+  },
+  {
+   "title": "Can US-EU tech relations get back on track?",
+   "start": "2026-11-20 09:00",
+   "end": null,
+   "location": "Online",
+   "virtual": true,
+   "url": "https://www.atlanticcouncil.org/event/can-us-eu-tech-relations-get-back-on-track/",
+   "host": "Atlantic Council",
+   "description": "Atlantic Council online discussion on the state of transatlantic digital and tech policy relations and how to repair them.",
+   "speakers": [],
+   "topics": [
+    "EU",
+    "tech-geopolitics"
+   ],
+   "fit": 4,
+   "why": "Transatlantic tech policy (DMA, AI rules, export controls); online.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Tomorrow's fleet: Revitalizing US shipbuilding and the maritime industrial base",
+   "start": "2026-12-07 15:00",
+   "end": null,
+   "location": "Atlantic Council, 1400 L St NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.atlanticcouncil.org/event/tomorrows-fleet-revitalizing-us-shipbuilding-and-the-maritime-industrial-base/",
+   "host": "Atlantic Council",
+   "description": "Discussion of how to rebuild U.S. shipbuilding capacity and the maritime defense industrial base.",
+   "speakers": [],
+   "topics": [
+    "industrial-policy"
+   ],
+   "fit": 3,
+   "why": "Defense industrial policy, a relevant adjacent topic for ETI.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "2026 Transatlantic Forum on GeoEconomics",
+   "start": "2026-12-11 08:00",
+   "end": null,
+   "location": "Atlantic Council, 1400 L St NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.atlanticcouncil.org/event/2026-transatlantic-forum-on-geoeconomics/",
+   "host": "Atlantic Council",
+   "description": "Annual flagship forum on economics, finance, foreign policy and national security: sanctions, economic security, tech and trade.",
+   "speakers": [],
+   "topics": [
+    "tech-geopolitics",
+    "EU",
+    "industrial-policy"
+   ],
+   "fit": 3,
+   "why": "Economic-security flagship covering sanctions, trade and tech controls.",
+   "tags": [
+    "think-tank"
+   ]
+  }
+ ]
+}

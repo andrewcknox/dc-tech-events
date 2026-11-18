@@ -1,63 +1,15 @@
 {
- "generated_at": "2026-11-17T09:06:19-05:00",
- "today": "2026-11-17",
- "window_start": "2026-11-17",
+ "generated_at": "2026-11-18T09:07:31-05:00",
+ "today": "2026-11-18",
+ "window_start": "2026-11-18",
  "window_days": 14,
  "map_center": [
   38.905,
   -77.036
  ],
  "map_zoom": 13,
- "flagged_sources": [
-  {
-   "name": "Hopkins Bloomberg Center",
-   "failures": 4
-  },
-  {
-   "name": "JHU Data Science and AI Institute",
-   "failures": 4
-  },
-  {
-   "name": "JHU Hub Events (SAIS)",
-   "failures": 4
-  },
-  {
-   "name": "JHU Institute for Assured Autonomy (Baltimore)",
-   "failures": 4
-  },
-  {
-   "name": "SNF Agora Institute (JHU, Baltimore)",
-   "failures": 4
-  }
- ],
+ "flagged_sources": [],
  "events": [
-  {
-   "id": 39,
-   "title": "NextGen State Capacity Happy Hour",
-   "start": "2026-08-19T17:30:00-04:00",
-   "end": null,
-   "host": "Inclusive Abundance",
-   "source": "Caleb Knapp Weekly AI Digest (Substack)",
-   "location": "ART DC, Arlo Washington DC rooftop",
-   "virtual": false,
-   "url": "https://luma.com/ibwvmo1u",
-   "topics": [
-    "industrial-policy"
-   ],
-   "tags": [
-    "public",
-    "substack"
-   ],
-   "fit": 3,
-   "why": "Networking event for the abundance / state-capacity crowd that overlaps with industrial-policy people.",
-   "description": "",
-   "speakers": [],
-   "lat": 38.9024,
-   "lon": -77.0333,
-   "in_dc": true,
-   "time": "5:30 PM",
-   "where": "ART DC, Arlo Washington DC rooftop"
-  },
   {
    "id": 41,
    "title": "Can the United States Retain Its Scientific Talent?",
@@ -4787,7 +4739,7 @@
    "id": 113,
    "title": "National Economic Power Industry War Conference",
    "start": "2026-11-17T00:00:00-05:00",
-   "end": null,
+   "end": "2026-11-17T16:00:00-05:00",
    "host": "ITIF",
    "source": "daily page scan 2026-09-15",
    "location": "Washington, DC",
@@ -4799,7 +4751,8 @@
     "semiconductors"
    ],
    "tags": [
-    "think-tank"
+    "think-tank",
+    "substack"
    ],
    "fit": 4,
    "why": "ITIF's flagship conference on the techno-economic contest with China.",
@@ -4995,6 +4948,33 @@
    "where": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
   },
   {
+   "id": 626,
+   "title": "Post-Election Symposium",
+   "start": "2026-11-17T13:00:00-05:00",
+   "end": "2026-11-17T14:30:00-05:00",
+   "host": "The Alliance for Secure AI",
+   "source": "Caleb Knapp substack",
+   "location": "Microsoft Innovation & Policy Center, 901 K St NW, 11th Floor, Washington, DC",
+   "virtual": false,
+   "url": "https://luma.com/alliancepostelectionsymposium",
+   "topics": [
+    "AI"
+   ],
+   "tags": [
+    "public",
+    "substack"
+   ],
+   "fit": 4,
+   "why": "Listed in Caleb Knapp's weekly AI digest.",
+   "description": "Post-Election Symposium",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "1:00 PM–2:30 PM",
+   "where": "Microsoft Innovation & Policy Center, 901 K St NW, 11th Floor, Washington, DC"
+  },
+  {
    "id": 248,
    "title": "After NSCEB: What Comes Next for U.S. Biotech Policy",
    "start": "2026-11-17T14:00:00-05:00",
@@ -5010,7 +4990,8 @@
    ],
    "tags": [
     "public",
-    "meetup"
+    "meetup",
+    "substack"
    ],
    "fit": 5,
    "why": "Where US biotech policy goes after the NSCEB commission's final report.",
@@ -5205,7 +5186,8 @@
     "tech-geopolitics"
    ],
    "tags": [
-    "think-tank"
+    "think-tank",
+    "substack"
    ],
    "fit": 4,
    "why": "Alliance tech policy and digital-platform regulation with former senior officials.",
@@ -5239,7 +5221,9 @@
     "industrial-policy"
    ],
    "tags": [
-    "industry"
+    "industry",
+    "public",
+    "substack"
    ],
    "fit": 3,
    "why": "Industry view of the AI-energy nexus, held in DC.",
@@ -5255,7 +5239,7 @@
    "id": 235,
    "title": "Futurecraft: The Day After AGI (book launch)",
    "start": "2026-11-17T19:00:00-05:00",
-   "end": null,
+   "end": "2026-11-17T22:00:00-05:00",
    "host": "Foundation for American Innovation",
    "source": "daily page scan 2026-11-06",
    "location": "Foundation for American Innovation, Washington, DC",
@@ -5265,7 +5249,9 @@
     "AI"
    ],
    "tags": [
-    "think-tank"
+    "think-tank",
+    "public",
+    "substack"
    ],
    "fit": 3,
    "why": "AGI-policy community gathering in DC.",
@@ -5274,7 +5260,7 @@
    "lat": null,
    "lon": null,
    "in_dc": false,
-   "time": "7:00 PM",
+   "time": "7:00 PM–10:00 PM",
    "where": "Foundation for American Innovation, Washington, DC"
   },
   {
@@ -5346,7 +5332,8 @@
     "tech-geopolitics"
    ],
    "tags": [
-    "think-tank"
+    "think-tank",
+    "substack"
    ],
    "fit": 5,
    "why": "Flagship DC cyber-policy gathering with senior officials.",
@@ -5415,6 +5402,36 @@
    "where": "Milken Center for Advancing the American Dream, 1503 Pennsylvania Ave NW, Washington, DC"
   },
   {
+   "id": 616,
+   "title": "Digital Resilience in a Post-Mythos World: A Conversation with Greg Rattray",
+   "start": "2026-11-18T09:00:00-05:00",
+   "end": "2026-11-18T10:00:00-05:00",
+   "host": "CSIS",
+   "source": "daily page scan",
+   "location": "Online",
+   "virtual": true,
+   "url": "https://www.csis.org/events/digital-resilience-post-mythos-world-conversation-greg-rattray",
+   "topics": [
+    "cyber",
+    "AI"
+   ],
+   "tags": [
+    "think-tank",
+    "substack"
+   ],
+   "fit": 4,
+   "why": "AI-enabled cyber threats to critical infrastructure, core ETI territory; online.",
+   "description": "CDAC executive director Greg Rattray on AI-enabled cyberattacks, Iranian cyber operations against U.S. critical infrastructure, and digital resilience.",
+   "speakers": [
+    "Greg Rattray"
+   ],
+   "lat": 38.9061,
+   "lon": -77.0378,
+   "in_dc": true,
+   "time": "9:00 AM–10:00 AM",
+   "where": "Online (+ virtual)"
+  },
+  {
    "id": 539,
    "title": "Hearing: Worldwide Threats to the Homeland: 25 Years After 9/11",
    "start": "2026-11-18T10:00:00-05:00",
@@ -5468,30 +5485,33 @@
    "where": "2360 Rayburn House Office Building, Washington, DC"
   },
   {
-   "id": 567,
-   "title": "Senate Commerce Committee executive session: S.69 (government interference in content moderation) and other bills",
+   "id": 625,
+   "title": "Senate Commerce Executive Session 26 (Chip EQUIP Act; Biosecurity Modernization and Innovation Act; Telecommunications Cybersecurity and Resilience Act)",
    "start": "2026-11-18T10:00:00-05:00",
    "end": null,
-   "host": "Senate Commerce, Science, and Transportation Committee",
-   "source": "daily page scan",
-   "location": "253 Russell Senate Office Building, Washington, DC",
+   "host": "Senate Commerce, Science, and Transportation",
+   "source": "Caleb Knapp substack",
+   "location": "SR-253, Russell Senate Office Building, Washington, DC",
    "virtual": false,
-   "url": "https://www.congress.gov/committee-schedule/daily/2026/11/18",
+   "url": "https://www.commerce.senate.gov/meetings/executive-session-26-11-18-2026/",
    "topics": [
-    "trust-and-safety"
+    "semiconductors",
+    "biotech",
+    "cyber"
    ],
    "tags": [
-    "hill"
+    "hill",
+    "substack"
    ],
-   "fit": 3,
-   "why": "Markup of a platform content-moderation bill in the Senate tech committee.",
-   "description": "Markup of S.69, amending the Communications Act to address governmental interference in platform content moderation, plus other bills and nominations.",
+   "fit": 4,
+   "why": "Listed in Caleb Knapp's weekly AI digest.",
+   "description": "Senate Commerce Executive Session 26 (Chip EQUIP Act; Biosecurity Modernization and Innovation Act; Telecommunications Cybersecurity and Resilience Act)",
    "speakers": [],
    "lat": 38.8899,
    "lon": -77.0091,
    "in_dc": true,
    "time": "10:00 AM",
-   "where": "253 Russell Senate Office Building, Washington, DC"
+   "where": "SR-253, Russell Senate Office Building, Washington, DC"
   },
   {
    "id": 276,
@@ -5623,7 +5643,8 @@
     "industrial-policy"
    ],
    "tags": [
-    "think-tank"
+    "think-tank",
+    "substack"
    ],
    "fit": 3,
    "why": "Telecom policy; domestic but relevant to digital infrastructure debates.",
@@ -5693,6 +5714,34 @@
    "where": "Virtual"
   },
   {
+   "id": 629,
+   "title": "Securing Critical Infrastructure and Strategic Assets Across the Americas",
+   "start": "2026-11-18T14:00:00-05:00",
+   "end": null,
+   "host": "Atlantic Council",
+   "source": "Caleb Knapp substack",
+   "location": "Atlantic Council, 1400 L St NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.atlanticcouncil.org/event/securing-critical-infrastructure-and-strategic-assets-across-the-americas/",
+   "topics": [
+    "cyber",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "substack",
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Listed in Caleb Knapp's weekly AI digest.",
+   "description": "Securing Critical Infrastructure and Strategic Assets Across the Americas",
+   "speakers": [],
+   "lat": 38.903,
+   "lon": -77.0345,
+   "in_dc": true,
+   "time": "2:00 PM",
+   "where": "Atlantic Council, 1400 L St NW, Washington, DC"
+  },
+  {
    "id": 236,
    "title": "Amerithrax 25 Years Later: Fireside Chat with Asst. Secretary Robert Kadlec",
    "start": "2026-11-18T17:30:00-05:00",
@@ -5719,6 +5768,35 @@
    "in_dc": false,
    "time": "5:30 PM",
    "where": "Foundation for American Innovation, Washington, DC"
+  },
+  {
+   "id": 627,
+   "title": "AI Policy and the Race for Global Rules",
+   "start": "2026-11-18T18:00:00-05:00",
+   "end": "2026-11-18T20:00:00-05:00",
+   "host": "AI Innovators Network",
+   "source": "Caleb Knapp substack",
+   "location": "AWS Skills Center, Arlington, VA",
+   "virtual": false,
+   "url": "https://www.meetup.com/ai-innovators-network-tysons-meetup-dc-nova-md/events/316754858/",
+   "topics": [
+    "AI",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "public",
+    "substack",
+    "meetup"
+   ],
+   "fit": 3,
+   "why": "Listed in Caleb Knapp's weekly AI digest.",
+   "description": "AI Policy and the Race for Global Rules",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "6:00 PM–8:00 PM",
+   "where": "AWS Skills Center, Arlington, VA"
   },
   {
    "id": 355,
@@ -5751,7 +5829,7 @@
    "id": 390,
    "title": "50th Annual AAAS Science and Technology Policy Forum",
    "start": "2026-11-19T00:00:00-05:00",
-   "end": null,
+   "end": "2026-11-20T17:30:00-05:00",
    "host": "AAAS",
    "source": "daily page scan",
    "location": "Washington, DC",
@@ -5762,7 +5840,9 @@
     "AI"
    ],
    "tags": [
-    "science"
+    "science",
+    "public",
+    "substack"
    ],
    "fit": 4,
    "why": "The flagship annual DC convening on federal R&D and S&T policy, squarely in ETI's lane.",
@@ -5804,7 +5884,7 @@
    "id": 602,
    "title": "India's Data Moment: A Conversation with Secretary Saurabh Garg on India's AI-Ready Data Push",
    "start": "2026-11-19T00:00:00-05:00",
-   "end": null,
+   "end": "2026-11-19T18:30:00-05:00",
    "host": "CSIS",
    "source": "daily page scan",
    "location": "CSIS, 1616 Rhode Island Ave NW, Washington, DC",
@@ -5815,7 +5895,8 @@
     "data/privacy"
    ],
    "tags": [
-    "think-tank"
+    "think-tank",
+    "substack"
    ],
    "fit": 4,
    "why": "A senior Indian official on national AI data strategy and international partnership.",
@@ -5952,7 +6033,8 @@
     "cyber"
    ],
    "tags": [
-    "hill"
+    "hill",
+    "substack"
    ],
    "fit": 4,
    "why": "Confirmation hearing for the next CISA director: a direct read on federal cyber policy.",
@@ -6022,6 +6104,34 @@
    "in_dc": false,
    "time": "10:00 AM–11:00 PM",
    "where": "location TBD"
+  },
+  {
+   "id": 628,
+   "title": "Congressional Briefing: Future of AI Security with Ready State Labs and Joshua Saxe",
+   "start": "2026-11-19T10:00:00-05:00",
+   "end": "2026-11-19T11:00:00-05:00",
+   "host": "Ready State Labs",
+   "source": "Caleb Knapp substack",
+   "location": "U.S. Capitol Visitor Center, SVC 215, Washington, DC",
+   "virtual": false,
+   "url": "https://luma.com/ydypqfit",
+   "topics": [
+    "AI",
+    "cyber"
+   ],
+   "tags": [
+    "public",
+    "substack"
+   ],
+   "fit": 4,
+   "why": "Listed in Caleb Knapp's weekly AI digest.",
+   "description": "Congressional Briefing: Future of AI Security with Ready State Labs and Joshua Saxe",
+   "speakers": [],
+   "lat": 38.8899,
+   "lon": -77.0091,
+   "in_dc": true,
+   "time": "10:00 AM–11:00 AM",
+   "where": "U.S. Capitol Visitor Center, SVC 215, Washington, DC"
   },
   {
    "id": 389,
@@ -6116,7 +6226,7 @@
    "end": "2026-11-19T13:00:00-05:00",
    "host": "RAND",
    "source": "daily page scan",
-   "location": null,
+   "location": "Online",
    "virtual": true,
    "url": "https://www.rand.org/events/2026/11/ai-and-biosecurity.html",
    "topics": [
@@ -6124,7 +6234,8 @@
     "biotech"
    ],
    "tags": [
-    "think-tank"
+    "think-tank",
+    "substack"
    ],
    "fit": 3,
    "why": "AI-bio risk governance from RAND; easy to join online.",
@@ -6134,7 +6245,7 @@
    "lon": null,
    "in_dc": false,
    "time": "12:00 PM–1:00 PM",
-   "where": "Virtual"
+   "where": "Online (+ virtual)"
   },
   {
    "id": 589,
@@ -6178,7 +6289,8 @@
     "energy-tech"
    ],
    "tags": [
-    "think-tank"
+    "think-tank",
+    "substack"
    ],
    "fit": 4,
    "why": "AI compute meets grid policy, a live ETI theme, walkable from SAIS.",
@@ -6304,7 +6416,7 @@
    "id": 601,
    "title": "Understanding the Memory Chip Crunch & the Way Ahead",
    "start": "2026-11-20T00:00:00-05:00",
-   "end": null,
+   "end": "2026-11-20T11:00:00-05:00",
    "host": "CSIS",
    "source": "daily page scan",
    "location": "CSIS, 1616 Rhode Island Ave NW, Washington, DC",
@@ -6315,7 +6427,8 @@
     "industrial-policy"
    ],
    "tags": [
-    "think-tank"
+    "think-tank",
+    "substack"
    ],
    "fit": 5,
    "why": "Squarely on chip supply chains and industrial policy, a short walk from SAIS.",
@@ -6328,31 +6441,59 @@
    "where": "CSIS, 1616 Rhode Island Ave NW, Washington, DC"
   },
   {
-   "id": 443,
-   "title": "House Select Committee on the CCP hearing (title TBA)",
+   "id": 624,
+   "title": "Outproducing the CCP: Restoring American Manufacturing",
    "start": "2026-11-20T08:30:00-05:00",
-   "end": "2026-11-20T10:30:00-05:00",
+   "end": null,
    "host": "House Select Committee on the CCP",
    "source": "daily page scan",
    "location": "210 Cannon House Office Building, Washington, DC",
    "virtual": false,
    "url": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=119593",
    "topics": [
-    "China",
+    "industrial-policy",
+    "China"
+   ],
+   "tags": [
+    "hill",
+    "substack"
+   ],
+   "fit": 4,
+   "why": "Congressional hearing on U.S.-China industrial competition; open to the public on the Hill.",
+   "description": "Select Committee on the CCP hearing on rebuilding U.S. manufacturing capacity against Chinese industrial competition.",
+   "speakers": [],
+   "lat": 38.8899,
+   "lon": -77.0091,
+   "in_dc": true,
+   "time": "8:30 AM",
+   "where": "210 Cannon House Office Building, Washington, DC"
+  },
+  {
+   "id": 631,
+   "title": "Can US-EU tech relations get back on track?",
+   "start": "2026-11-20T09:00:00-05:00",
+   "end": null,
+   "host": "Atlantic Council",
+   "source": "daily page scan",
+   "location": "Online",
+   "virtual": true,
+   "url": "https://www.atlanticcouncil.org/event/can-us-eu-tech-relations-get-back-on-track/",
+   "topics": [
+    "EU",
     "tech-geopolitics"
    ],
    "tags": [
-    "hill"
+    "think-tank"
    ],
    "fit": 4,
-   "why": "The China Select Committee's hearings are usually on tech competition and export controls.",
-   "description": "House China Select Committee hearing, rescheduled from Nov 19 to Nov 20, 8:30-10:30 am; title not yet posted.",
+   "why": "Transatlantic tech policy (DMA, AI rules, export controls); online.",
+   "description": "Atlantic Council online discussion on the state of transatlantic digital and tech policy relations and how to repair them.",
    "speakers": [],
-   "lat": null,
-   "lon": null,
-   "in_dc": false,
-   "time": "8:30 AM–10:30 AM",
-   "where": "210 Cannon House Office Building, Washington, DC"
+   "lat": 38.903,
+   "lon": -77.0345,
+   "in_dc": true,
+   "time": "9:00 AM",
+   "where": "Online (+ virtual)"
   },
   {
    "id": 429,
@@ -6492,6 +6633,33 @@
    "in_dc": false,
    "time": "10:00 AM–11:00 AM",
    "where": "Virtual"
+  },
+  {
+   "id": 622,
+   "title": "After Shenzhen: What Did Trump and Xi Achieve?",
+   "start": "2026-11-23T10:30:00-05:00",
+   "end": "2026-11-23T11:30:00-05:00",
+   "host": "Asia Society Policy Institute",
+   "source": "daily page scan",
+   "location": "Online",
+   "virtual": true,
+   "url": "https://asiasociety.org/policy-institute/events/after-shenzhen-what-did-trump-and-xi-achieve",
+   "topics": [
+    "China",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Summit readout covering trade and tech controls in U.S.-China relations; online.",
+   "description": "ASPI and CCA experts unpack the Trump-Xi Shenzhen summit: what was achieved, what remains unresolved, and what comes next for U.S.-China relations.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "10:30 AM–11:30 AM",
+   "where": "Online (+ virtual)"
   },
   {
    "id": 253,
@@ -6831,6 +6999,34 @@
    "where": "Hauck Auditorium, Traitel Building, Hoover Institution, Stanford, CA"
   },
   {
+   "id": 633,
+   "title": "Creatives for Secure AI: Verifying Human Work and Protecting Creator Rights",
+   "start": "2026-12-02T13:00:00-05:00",
+   "end": "2026-12-02T14:00:00-05:00",
+   "host": "The Alliance for Secure AI (Luma)",
+   "source": "The Alliance for Secure AI (Luma)",
+   "location": "https://luma.com/event/evt-2pUFqzATi6KZvM2",
+   "virtual": false,
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-vv706HbltJA2syL",
+   "topics": [
+    "AI",
+    "trust-and-safety"
+   ],
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "fit": 3,
+   "why": "Alliance for Secure AI coalition webinar on AI provenance and creator rights; online.",
+   "description": "Get up-to-date information at: https://luma.com/creativesforsecureaidec2 Hosted by Nico Zviovich & The Alliance for Secure AI",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "1:00 PM–2:00 PM",
+   "where": "https://luma.com/event/evt-2pUFqzATi6KZvM2"
+  },
+  {
    "id": 568,
    "title": "The State of Scam Prevention 2026: From Momentum to Measurable Impact",
    "start": "2026-12-02T13:30:00-05:00",
@@ -7058,6 +7254,32 @@
    "where": "Philippines Conference Room (C330), Encina Hall, Stanford, CA"
   },
   {
+   "id": 621,
+   "title": "WOW 3.0: The Third Washington Operations Workshop - Agentic and Autonomous AI in Operations",
+   "start": "2026-12-07T08:30:00-05:00",
+   "end": "2026-12-07T17:15:00-05:00",
+   "host": "JHU Institute for Assured Autonomy",
+   "source": "daily page scan",
+   "location": "Johns Hopkins University Bloomberg Center, 555 Pennsylvania Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://iaa.jhu.edu/event/wow-3-0-the-third-washington-operations-workshop-agentic-and-autonomous-ai-in-operations/",
+   "topics": [
+    "AI"
+   ],
+   "tags": [
+    "university"
+   ],
+   "fit": 4,
+   "why": "Agentic AI in national-security operations, at the Hopkins Bloomberg Center.",
+   "description": "Day-long workshop on agentic and autonomous AI in government and military operations, held at the Hopkins Bloomberg Center.",
+   "speakers": [],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "8:30 AM–5:15 PM",
+   "where": "Johns Hopkins University Bloomberg Center, 555 Pennsylvania Ave NW, Washington, DC"
+  },
+  {
    "id": 501,
    "title": "Mission-Ready Insight: Impact of AI",
    "start": "2026-12-07T13:00:00-05:00",
@@ -7082,6 +7304,32 @@
    "in_dc": false,
    "time": "1:00 PM–2:00 PM",
    "where": "location TBD"
+  },
+  {
+   "id": 632,
+   "title": "Tomorrow's fleet: Revitalizing US shipbuilding and the maritime industrial base",
+   "start": "2026-12-07T15:00:00-05:00",
+   "end": null,
+   "host": "Atlantic Council",
+   "source": "daily page scan",
+   "location": "Atlantic Council, 1400 L St NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.atlanticcouncil.org/event/tomorrows-fleet-revitalizing-us-shipbuilding-and-the-maritime-industrial-base/",
+   "topics": [
+    "industrial-policy"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Defense industrial policy, a relevant adjacent topic for ETI.",
+   "description": "Discussion of how to rebuild U.S. shipbuilding capacity and the maritime defense industrial base.",
+   "speakers": [],
+   "lat": 38.903,
+   "lon": -77.0345,
+   "in_dc": true,
+   "time": "3:00 PM",
+   "where": "Atlantic Council, 1400 L St NW, Washington, DC"
   },
   {
    "id": 544,
@@ -7161,6 +7409,38 @@
    "in_dc": true,
    "time": "10:00 AM–11:45 AM",
    "where": "The Brookings Institution, 1775 Massachusetts Ave NW, Washington, DC"
+  },
+  {
+   "id": 617,
+   "title": "Strengthening Japanese and Allied Critical Minerals Supply Chains: A Conversation with JOGMEC Chairman Ichiro Takahara",
+   "start": "2026-12-08T11:00:00-05:00",
+   "end": "2026-12-08T12:00:00-05:00",
+   "host": "Hudson Institute",
+   "source": "daily page scan",
+   "location": "Hudson Institute, 1201 Pennsylvania Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.hudson.org/events/strengthening-japanese-allied-critical-minerals-supply-chains-conversation-jogmec-chairman",
+   "topics": [
+    "industrial-policy",
+    "Japan-Korea",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 4,
+   "why": "Allied critical-mineral supply chains underpin chips and defense tech; senior Japanese official.",
+   "description": "JOGMEC chairman and CEO Ichiro Takahara on critical mineral resilience and allied cooperation, introduced by Japan Chair Kenneth Weinstein.",
+   "speakers": [
+    "Ichiro Takahara",
+    "Kenneth R. Weinstein",
+    "William Chou"
+   ],
+   "lat": 38.896,
+   "lon": -77.0286,
+   "in_dc": true,
+   "time": "11:00 AM–12:00 PM",
+   "where": "Hudson Institute, 1201 Pennsylvania Ave NW, Washington, DC"
   },
   {
    "id": 344,
@@ -7274,6 +7554,37 @@
    "where": "Washington, DC"
   },
   {
+   "id": 618,
+   "title": "A Conversation with Chairman Carr: The FCC's New National Security Mandate",
+   "start": "2026-12-09T00:00:00-05:00",
+   "end": null,
+   "host": "AEI",
+   "source": "daily page scan",
+   "location": "AEI, 1789 Massachusetts Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.aei.org/events/a-conversation-with-chairman-carr-the-fccs-new-national-security-mandate/",
+   "topics": [
+    "tech-geopolitics",
+    "China",
+    "cyber"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 5,
+   "why": "The FCC chair on telecom national security, moderated by the author of Chip War, a short walk from SAIS.",
+   "description": "FCC Chairman Brendan Carr with AEI's Chris Miller on the FCC's national security role: covered equipment, Chinese telecom and connected-device risks.",
+   "speakers": [
+    "Brendan Carr",
+    "Chris Miller"
+   ],
+   "lat": 38.91,
+   "lon": -77.0426,
+   "in_dc": true,
+   "time": "time TBD",
+   "where": "AEI, 1789 Massachusetts Ave NW, Washington, DC"
+  },
+  {
    "id": 562,
    "title": "The Future of Space Nuclear Power Symposium",
    "start": "2026-12-09T08:30:00-05:00",
@@ -7328,6 +7639,33 @@
    "where": "STATION DC, 1323 4th St NE Ste 200, Washington, DC 20002, USA"
   },
   {
+   "id": 620,
+   "title": "NIST CSF 2.0 Semiconductor Manufacturing Profile Kick-Off Webinar",
+   "start": "2026-12-10T12:00:00-05:00",
+   "end": null,
+   "host": "NIST",
+   "source": "daily page scan",
+   "location": "Online",
+   "virtual": true,
+   "url": "https://www.nist.gov/news-events/events/2026/12/nist-csf-20-semiconductor-manufacturing-profile-kick-webinar",
+   "topics": [
+    "semiconductors",
+    "cyber"
+   ],
+   "tags": [
+    "government"
+   ],
+   "fit": 3,
+   "why": "Chip-fab cybersecurity standards from NIST; online.",
+   "description": "NCCoE webinar launching the Cybersecurity Framework 2.0 profile for semiconductor manufacturing.",
+   "speakers": [],
+   "lat": 38.9,
+   "lon": -77.03,
+   "in_dc": true,
+   "time": "12:00 PM",
+   "where": "Online (+ virtual)"
+  },
+  {
    "id": 458,
    "title": "Understanding the Take It Down Act",
    "start": "2026-12-10T13:00:00-05:00",
@@ -7353,6 +7691,34 @@
    "in_dc": false,
    "time": "1:00 PM",
    "where": "Virtual"
+  },
+  {
+   "id": 637,
+   "title": "2026 Transatlantic Forum on GeoEconomics",
+   "start": "2026-12-11T08:00:00-05:00",
+   "end": null,
+   "host": "Atlantic Council",
+   "source": "daily page scan",
+   "location": "Atlantic Council, 1400 L St NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.atlanticcouncil.org/event/2026-transatlantic-forum-on-geoeconomics/",
+   "topics": [
+    "tech-geopolitics",
+    "EU",
+    "industrial-policy"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Economic-security flagship covering sanctions, trade and tech controls.",
+   "description": "Annual flagship forum on economics, finance, foreign policy and national security: sanctions, economic security, tech and trade.",
+   "speakers": [],
+   "lat": 38.903,
+   "lon": -77.0345,
+   "in_dc": true,
+   "time": "8:00 AM",
+   "where": "Atlantic Council, 1400 L St NW, Washington, DC"
   },
   {
    "id": 606,
@@ -7408,6 +7774,32 @@
    "in_dc": false,
    "time": "6:00 PM–8:30 PM",
    "where": "https://luma.com/event/evt-f7oIDTN6J5F78RH"
+  },
+  {
+   "id": 619,
+   "title": "Automatic License Plate Readers: Technologies, Impacts and Policy Responses",
+   "start": "2026-12-16T00:00:00-05:00",
+   "end": null,
+   "host": "AAAS",
+   "source": "daily page scan",
+   "location": "AAAS, 1200 New York Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.aaas.org/events/automatic-license-plate-readers-technologies-impacts-and-policy-responses",
+   "topics": [
+    "data/privacy"
+   ],
+   "tags": [
+    "science"
+   ],
+   "fit": 3,
+   "why": "Surveillance technology and privacy policy, evidence-focused.",
+   "description": "AAAS Center for Scientific Evidence in Public Issues session on ALPR technology, its impacts and policy responses.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "time TBD",
+   "where": "AAAS, 1200 New York Ave NW, Washington, DC"
   },
   {
    "id": 583,
@@ -7570,6 +7962,33 @@
    "lon": -77.03,
    "in_dc": true,
    "time": "6:00 PM",
+   "where": "Washington, DC"
+  },
+  {
+   "id": 397,
+   "title": "CyberWeek 2027",
+   "start": "2027-02-15T00:00:00-05:00",
+   "end": "2027-02-19T00:00:00-05:00",
+   "host": "Scoop News Group",
+   "source": "daily page scan",
+   "location": "Washington, DC",
+   "virtual": false,
+   "url": "https://www.cyberweek.us/",
+   "topics": [
+    "cyber"
+   ],
+   "tags": [
+    "industry",
+    "media"
+   ],
+   "fit": 3,
+   "why": "Week-long DC cyber policy convening with many open sessions.",
+   "description": "Week of cybersecurity events across Washington convened by CyberScoop.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "time TBD",
    "where": "Washington, DC"
   }
  ]

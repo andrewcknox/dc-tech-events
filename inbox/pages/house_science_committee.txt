@@ -1,12 +1,31 @@
 # House Science Committee
 # https://science.house.gov/?a=rss.feed
-# fetched 2026-11-17T09:02:05.787717-05:00
+# fetched 2026-11-18T08:51:41.149851-05:00
 # tags: hill
 
 ### Full Committee Hearing - Weathering the Solar Storm: Advancing America’s Space Weather Capabilities
 Link: https://science.house.gov/2026/11/weathering-the-solar-storm-advancing-america-s-space-weather-capabilities
 Published: Thu, 323 Nov 2026 10:00:00 EST
 
+
+### Chairmen Babin, McCormick Seek Answers from NIST on Manufacturing Extension Partnership Oversight
+Link: https://science.house.gov/2026/11/chairmen-babin-mccormick-seek-answers-from-nist-on-manufacturing-extension-partnership-oversight
+Published: Tue, 321 Nov 2026 12:00:00 EST
+(Washington, D.C.) – Today, House Science, Space, and Technology Committee 
+Chairman Brian Babin
+ and 
+Investigations and Oversight
+Subcommittee Chairman Rich McCormick 
+sent a 
+letter <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001bKGZwgwbLRvc6rtRgAkqdiMZNDHUF4oy30Tyy_QXeRduqg_LSPqQhtZ4bP4FTGf3Lb8NroH9s8zLsOqymiwDj3Su__swfIVtMy0RzP8xQdZMKPoJMTH9vwDdNn9IPfsUCGjfCYTq2_MheC0sVI5ym_eZ1MDviIJkcElxGVoLj9an1FOD6sqlAP3zstNWJOvtuwlB6waNrnWGA7X6Kqb4hAYJ4iPMbL4jSYnKzqtrZjrDcfwE5bbggQ6WY56pHRVp6hQBh52INM4esbXd4DOv9ZKJISPUtIk5vARq14PeJKCLUex0H-zDjAMEkNTRTX-K0Whpte6SJDQ4tn45s_p2IX4xa4g2GrmlBQ3Ca43i9HyDgilOaJkzYMGn8snwvCTjZNkCRxXeXDSCBoqrhOAjiA==&c=fZvMfYsGsXKf36vv9OBasR_Gty4K9UHNTT9-wVNSH2OTdfk7AOOzng==&ch=bpWN-jabC-eXRr5cA8aOOvh6v2ELC6WvY1FbqqlWlDsH_P5LfeGOaQ==__;!!BSgrhSFG!FPrTCvmvz4cYkKUS3h6BWeF4BoKI7jrLnE9utZuO7-VlHU6_p3tmq2X23shrzouUy1nDVSM6vQckV3lAjTWVUiqKyjznPtLGDqcEvU4GfbY6Ow$>
+to National Institute of Standards and Technology (NIST) Director and Under Secretary of Commerce for Standards and Technology Dr. Arvind Raman, requesting a briefing on NIST's oversight of the Hollings Manufacturing Extension Partnership (MEP) following four Department of Commerce Office of Inspector General (OIG) reports identifying unreliable performance data, financial noncompliance, and inadequate oversight.
+In the letter, the Chairmen raise concerns about NIST's use of unreliable economic-impact data to report MEP's performance to Congress and the public. A September 2024 OIG report found that nearly half of the reviewed fiscal year 2022 reported sales impacts and a quarter of reported available jobs were unreliable. The OIG further found that NIST relied on inaccurate data to overstate MEP's economic impact in reports to Congress and the American public over several years.
+The Chairmen also cite additional OIG findings involving unallowable costs, unreported program income, and conflicts of interest at MEP Centers. Most recently, an August 2026 OIG audit of Ohio's MEP awards questioned more than $20 million in costs and identified additional unreported program income.
+The letter further notes that although NIST agreed to implement corrective actions in response to OIG recommendations, 22 of 23 recommendations remain open. The Chairmen are seeking a detailed accounting of NIST's corrective actions, amounts demanded and recovered from MEP Centers, additional enforcement actions, and procedures for ensuring MEP performance data are accurate and reliable, as well as safeguards addressing potential conflicts of interest.
+The Committee requested that NIST provide a briefing by December 11, 2026.
+To read the full letter, please click
+here <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001bKGZwgwbLRvc6rtRgAkqdiMZNDHUF4oy30Tyy_QXeRduqg_LSPqQhtZ4bP4FTGf3Lb8NroH9s8zLsOqymiwDj3Su__swfIVtMy0RzP8xQdZMKPoJMTH9vwDdNn9IPfsUCGjfCYTq2_MheC0sVI5ym_eZ1MDviIJkcElxGVoLj9an1FOD6sqlAP3zstNWJOvtuwlB6waNrnWGA7X6Kqb4hAYJ4iPMbL4jSYnKzqtrZjrDcfwE5bbggQ6WY56pHRVp6hQBh52INM4esbXd4DOv9ZKJISPUtIk5vARq14PeJKCLUex0H-zDjAMEkNTRTX-K0Whpte6SJDQ4tn45s_p2IX4xa4g2GrmlBQ3Ca43i9HyDgilOaJkzYMGn8snwvCTj2l8dMqnn6du5dx5LrSWkKw==&c=fZvMfYsGsXKf36vv9OBasR_Gty4K9UHNTT9-wVNSH2OTdfk7AOOzng==&ch=bpWN-jabC-eXRr5cA8aOOvh6v2ELC6WvY1FbqqlWlDsH_P5LfeGOaQ==__;!!BSgrhSFG!FPrTCvmvz4cYkKUS3h6BWeF4BoKI7jrLnE9utZuO7-VlHU6_p3tmq2X23shrzouUy1nDVSM6vQckV3lAjTWVUiqKyjznPtLGDqcEvU76FrGZng$>
+.
 
 ### Chairman Babin, Ranking Member Lofgren Applaud Senate Passage of Bipartisan Weather Act Reauthorization
 Link: https://science.house.gov/2026/11/chairman-babin-ranking-member-lofgren-applaud-senate-passage-of-bipartisan-weather-act-reauthorization
@@ -317,64 +336,3 @@ Last month, we also approved ten bipartisan AI bills, including my AI-Ready Fede
 Director Kratsios, we look forward to hearing about how this budget advances the Administration’s priorities, strengthens OSTP, NSF, and NIST, implements Gold Standard Science, protects the federal research enterprise, and ensures the United States remains the world’s leader in science and technology.
 I appreciate your being here today, and I welcome your testimony.
 With that, I yield back the balance of my time.
-
-### Full Committee Markup of H.R. 3168, H.R. 8437, H.R. 9326, and H.R. 8981
-Link: https://science.house.gov/2026/7/full-committee-markup-of-h-r-3168-h-r-8437-and-h-r-9326
-Published: Tue, 202 Jul 2026 10:00:00 EST
-Opening Statement: 
-Chairman Brian Babin <https://science.house.gov/2026/7/opening-statement-of-chairman-babin-at-full-committee-markup-of-h-r>
-Full Committee Markup of:
-H.R. 3168, National Earthquake Hazards Reduction Program Reauthorization Act of 2025 <https://science.house.gov/2026/7/h-r-3168-national-earthquake-hazards-reduction-program-reauthorization-act-of-2025>
- - favorably reported to the House by voice vote
-The National Earthquake Hazards Reduction Program Reauthorization Act of 2026 reauthorizes NEHRP through FY 2031 and modernizes federal efforts to improve earthquake monitoring, early warning capabilities, hazard mapping, and seismic resilience. It also strengthens coordination among federal agencies and with state, local, and Tribal partners.
-Amendment in the Nature of a Substitute (ANS) to H.R. 3168, offered by Rep. Babin (R-TX) <https://republicans-science.house.gov/_cache/files/5/a/5a8ac7f8-b7a2-4c93-a4e5-409205251dba/A1859C50C17840F30AD6BE0C256C17E584E42B5136AD8C2CC3D8B9B1ADF955C8.hr3168-ans-xml.pdf>
- - passed by voice vote
-Makes conforming and technical changes to the bill.
-Amendment #049 to the ANS to H.R. 3168, offered by Rep. Webster (R-FL) <https://republicans-science.house.gov/_cache/files/2/0/20920988-bfa2-45a1-99df-79afab4f2598/429A1D63E6B5F559D4BA808A906330B138F3265E083B33B0ABA3A39E0DD1F726.webste-049-xml.pdf>
- - passed by voice vote
-Coordinate with the Administrators of the FAA and NASA to study the feasibility of using earthquake monitor data to detect sonic booms caused by meteorites or uncontrolled space debris reentering Earth's atmosphere.
-Amendment #116 to the ANS to H.R. 3168, offered by Rep. Bonamici (D-OR) <https://republicans-science.house.gov/_cache/files/7/3/73a66f62-ecfe-4421-a9f0-8699a7ae5279/33A8AEC5146EF26BE116CBBDF6556D72F4629606EC1086B01701CBC777696B13.bonami-116-xml.pdf>
- - passed by voice vote
-Directs NIST to conduct a national risk assessment of earthquake resilience gaps and progress with interagency, state, local, and Tribal partners.
-Amendment #117 to the ANS to H.R. 3168, offered by Rep. Bonamici (D-OR) <https://republicans-science.house.gov/_cache/files/7/1/71b45dfa-17db-429a-9ed4-c91be5cb6f80/B3861CF938F824EDF0B52105A04F62208C1837E8309D97D8E6567B8475C0CF7C.bonami-117-xml.pdf>
- - passed by voice vote
-Directs FEMA to evaluate the reliability and timeliness of earthquake early warning communications and provide recommendations.
-H.R. 8437, Geo POWER Act <https://science.house.gov/2026/7/h-r-8437-geo-power-act>
- - favorably reported to the House by voice vote
-The Geo POWER Act establishes a milestone-based demonstration program to accelerate next-generation geothermal energy projects in new regions across the United States. The bill uses innovative financing to reduce project risk, attract private investment, and expand reliable domestic geothermal electricity generation.
-Amendment in the Nature of a Substitute (ANS) to H.R. 8437, offered by Rep. Begich (R-AK) <https://republicans-science.house.gov/_cache/files/1/d/1d7bf378-6066-4e1f-98f5-0cad7de84ac4/5CBA7829B1ABFD85708AA21DF58D6A317AD1D72FC6C78512613BC3B6E96F5E9D.hr8437-ans-xml.pdf>
- - passed by voice vote
-Makes conforming and technical changes to the bill.
-Amendment #114 to the ANS to H.R. 8437, offered by Rep. Bonamici (D-OR) <https://republicans-science.house.gov/_cache/files/b/1/b16a40d2-d5c0-47c2-8b2c-62818cd3ee28/4136D9A2CA1198989B9EC0A6EAF15DB6FBBF7A583CEFF8259C88A8A239712C25.bonami-114-xml.pdf>
- - passed by voice vote
-Directs DOE to report on technical and financial milestones of selected projects and describe the innovative financing mechanisms used under the Program.
-Amendment #115 to the ANS to H.R. 8437, offered by Rep. Bonamici (D-OR) <https://republicans-science.house.gov/_cache/files/8/7/87283b9f-dbb7-478c-8a0e-ae5d82fc56a5/37ACA6095925B259A781A2FCADE526E238F703D3EFD634BE25D898A1C00C190C.bonami-115-xml.pdf>
- - passed by voice vote
-Includes geothermal projects sited where DOE has previously invested in EGS data collection and infrastructure in Program priority criteria.
-H.R. 9326, USA Act <https://science.house.gov/2026/7/h-r-9326-usa-act>
- - favorably reported to the House by voice vote
-The USA Act strengthens American leadership in setting international technical standards for artificial intelligence and other critical and emerging technologies. It promotes a private sector-led approach, improves federal coordination, and helps ensure U.S. companies—not foreign competitors—shape the rules governing the technologies of the future.
-Amendment in the Nature of a Substitute (ANS) to H.R. 9326, offered by Rep. Webster (R-FL) <https://republicans-science.house.gov/_cache/files/7/1/7103dc0a-aee3-48aa-9128-1eda0ff68662/6AAF042BCA33CD9A158D40FC339A4AD355F329CE8811B76B4582D11A51E3EB3A.hr9326-ans-xml.pdf>
- - passed by voice vote
-Makes conforming and technical changes to the bill.
-Amendment #087 to the ANS to H.R. 9326, offered by Rep. Foushee (D-NC) <https://republicans-science.house.gov/_cache/files/f/3/f3cf9478-fbc4-40b5-ac8b-3ec5d8638c95/7C371D6455B4FB6CB4A5DEB088CAC98245BF904F638E535274227B332C30EDB8.foushe-087-xml-revised-.pdf>
- - passed by voice vote
-To increase the participation of U.S. stakeholders in the standards development process.
-Amendment #086 to the ANS to H.R. 9326, offered by Rep. Foushee (D-NC) <https://republicans-science.house.gov/_cache/files/6/9/69c72806-5827-460a-ac4c-5102d3da55ad/A11F663EA85D428201BACD0D2397C80CCFAD7DCB73534B06BCBB237173F14511.foushe-086-xml.pdf>
- - passed by voice vote
-To safeguard sensitive information against improper release
-Amendment #113 to the ANS to H.R. 9326, offered by Rep. Bonamici (D-OR) <https://republicans-science.house.gov/_cache/files/5/b/5b98b766-3bef-4509-8da3-28926681d047/DF8980FFAB1347E15B247798D623FA4EB6E491C90FC0A00E8AD09A9D8681B48E.bonami-113-xml.pdf>
- - passed by voice vote
-Includes an assessment and recommendations to address barriers for small- and medium-sized business, universities, and nonprofits to participate in AI standards development in briefing elements.
-Amendment #112 to the ANS to H.R. 9326, offered by Rep. Bonamici (D-OR) <https://republicans-science.house.gov/_cache/files/9/6/96094c0f-2fbb-4185-af85-fef6876a2990/F25C8AB5290F0011F7C7957401F30050C5F85B631B01B0429C340F55DFD34703.bonami-112-xml.pdf>
- - passed by voice vote
-Includes consideration of entities that support improved access to participation in standards development meetings in NIST grant decisions.
-H.R. 8981, Standards and Calibration for American Leadership in Engineering Biology Act <https://science.house.gov/2026/7/h-r-8981>
- - passed by voice vote
-The Standards and Calibration for American Leadership in Engineering Biology (SCALE Biology) Act establishes a biometrology program at the National Institute of Standards and Technology (NIST) to advance measurement science, technical standards, and research for engineering biology, biomanufacturing, and biotechnology. The bill aims to strengthen U.S. leadership in the bioeconomy by improving the reliability of biological data, supporting innovation and industrial competitiveness, and promoting the safe, secure, and responsible development of biotechnology.
-Amendment in the Nature of a Substitute (ANS) to H.R. 8981, offered by Rep. McClain Delaney (D-MD) <https://republicans-science.house.gov/_cache/files/5/2/52331f90-e086-4df5-9cac-bf93c157fb96/81B1B919FC04A22FF5EDC00716CCD3C930841FEE585FE87839E0DFF1C9CDDAC9.hr8981-ans-xml.pdf>
- - passed by voice vote
-Makes conforming and technical changes to the bill.
-Amendment #104 to the ANS to H.R. 8981, offered by Rep. McClain Delaney (D-MD) <https://republicans-science.house.gov/_cache/files/5/e/5ec69ae5-0dc7-43e7-85ca-51df0d104ffd/A65F667A75837AB193BB3375A225DDD1F0D29E3C5D9634487A8AFEB5EFDAC297.mcclmd-104-xml.pdf>
- - withdrawn
-This amendment would authorize funding for the biometrology program established by the bill.

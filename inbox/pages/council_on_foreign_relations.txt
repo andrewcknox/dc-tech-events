@@ -1,12 +1,18 @@
 # Council on Foreign Relations
 # https://www.cfr.org/events
-# fetched 2026-11-17T09:02:05.787717-05:00
+# fetched 2026-11-18T08:51:41.149851-05:00
 # tags: think-tank
 
 Archive
-4860
+4862
  result
 s
+Meeting
+CFR Fellows’ Book Launch Series: The Realist <https://www.cfr.org/event/cfr-fellows-book-launch-series-the-realist>
+November 16, 2026
+Meeting
+A Conversation With Former Secretary of Veterans Affairs David Shulkin <https://www.cfr.org/event/a-conversation-with-former-secretary-of-veterans-affairs-david-shulkin>
+November 16, 2026
 Meeting
 AI Safety and Governance <https://www.cfr.org/event/ai-safety-and-governance>
 November 16, 2026
@@ -17,7 +23,7 @@ Meeting
 C. Peter McColough Series on International Economics With Daron Acemoglu <https://www.cfr.org/event/c-peter-mccolough-series-on-international-economics-with-daron-acemoglu>
 November 10, 2026
 Meeting
-Religion and Foreign Policy Webinar: Religion, Policy, and the 2026 Midterm Elections <https://www.cfr.org/event/religion-policy-and-the-2026-midterm-elections>
+CFR Fellows’ Book Launch Series—Germany Rearmed: The Return of War and the End of Illusions <https://www.cfr.org/event/cfr-fellows-book-launch-series-germany-rearmed-the-return-of-war-and-the-end-of-illusions>
 November 9, 2026
 Meeting
 A Conversation With Former Secretary of Veterans Affairs David Shulkin <https://www.cfr.org/event/a-conversation-with-former-secretary-of-veterans-affairs-david-shulkin>
@@ -35,13 +41,13 @@ Meeting
 Virtual Roundtable: A Conversation With Eli Kowaz on Israeli Elections <https://www.cfr.org/event/virtual-roundtable-a-conversation-with-eli-kowaz-on-israeli-elections>
 November 2, 2026
 Meeting
-Religion and Foreign Policy Webinar: Religion, Policy, and the 2026 Midterm Elections <https://www.cfr.org/event/religion-policy-and-the-2026-midterm-elections>
+2026 UN Secretary-General Candidate Series: A Conversation With Rebeca Grynspan <https://www.cfr.org/event/2026-un-secretary-general-candidate-series-a-conversation-with-rebeca-grynspan>
 October 29, 2026
 Conference
 Thirty-First Term Member Conference <https://www.cfr.org/event/thirty-first-term-member-conference>
 October 29, 2026
 Meeting
-Insights on Geopolitics Around the World <https://www.cfr.org/event/insights-on-geopolitics-around-the-world>
+2026 UN Secretary-General Candidate Series: A Conversation With Rebeca Grynspan <https://www.cfr.org/event/2026-un-secretary-general-candidate-series-a-conversation-with-rebeca-grynspan>
 October 28, 2026
 Meeting
 Managing Risk in Clean Energy Supply Chains <https://www.cfr.org/event/hybrid-dc-roundtable-chinese-investment-into-america>
@@ -73,9 +79,3 @@ October 16, 2026
 Meeting
 The State of U.S.-Canada Relations: A Conversation With Chrystia Freeland <https://www.cfr.org/event/david-a-morse-lecture-chaotic-superpower-plutocrats-and-other-complicated-people>
 October 15, 2026
-Meeting
-Religion and Foreign Policy Webinar: Faith-Based Humanitarian Aid and U.S. Foreign Policy <https://www.cfr.org/event/faith-based-humanitarian-aid-and-u-s-foreign-policy>
-October 13, 2026
-Symposium
-“The Road Not Taken” at 50: U.S. Energy Security for the 21st Century Symposium <https://www.cfr.org/event/the-road-not-taken-at-50-u-s-energy-security-for-the-21st-century-symposium>
-October 13, 2026

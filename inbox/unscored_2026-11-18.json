@@ -1,0 +1,86 @@
+{
+ "instructions": "Fill fit (1-5), topics (from the DAILY.md list) and why for each event; add tags (e.g. bay-area) if needed; then `uv run dte score apply <this file>`. Leave fit null to skip.",
+ "events": [
+  {
+   "id": 633,
+   "title": "Creatives for Secure AI: Verifying Human Work and Protecting Creator Rights",
+   "start": "2026-12-02T13:00:00-05:00",
+   "location": "https://luma.com/event/evt-2pUFqzATi6KZvM2",
+   "virtual": false,
+   "host": "The Alliance for Secure AI (Luma)",
+   "source": "The Alliance for Secure AI (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/creativesforsecureaidec2 Hosted by Nico Zviovich & The Alliance for Secure AI",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-vv706HbltJA2syL",
+   "fit": 3,
+   "topics": [
+    "AI",
+    "trust-and-safety"
+   ],
+   "why": "Alliance for Secure AI coalition webinar on AI provenance and creator rights; online."
+  },
+  {
+   "id": 634,
+   "title": "AI Wrote the Code. Should You Ship It? .: AWS Crystal City, VA :.",
+   "start": "2026-12-02T18:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "AI Innovators Network (Meetup, NoVA)",
+   "source": "AI Innovators Network (Meetup, NoVA)",
+   "tags": [
+    "public",
+    "meetup"
+   ],
+   "description": "AI Innovators Network ~ Northern Virginia .: DC, VA, MD :. AI coding agents can produce changes faster than teams can review them. In this interactive session, weâll explore how to keep that speed while making confident decisions about quality",
+   "url": "https://www.meetup.com/ai-innovators-network-tysons-meetup-dc-nova-md/events/316895947/",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Hands-on AI coding talk, not policy."
+  },
+  {
+   "id": 635,
+   "title": "AI Wrote the Code. Should You Ship It? .: AWS Crystal City, VA :.",
+   "start": "2026-12-09T18:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "AI Innovators Network (Meetup, NoVA)",
+   "source": "AI Innovators Network (Meetup, NoVA)",
+   "tags": [
+    "public",
+    "meetup"
+   ],
+   "description": "AI Innovators Network ~ Northern Virginia .: DC, VA, MD :. AI coding agents can produce changes faster than teams can review them. In this interactive session, weâll explore how to keep that speed while making confident decisions about quality",
+   "url": "https://www.meetup.com/ai-innovators-network-tysons-meetup-dc-nova-md/events/317089664/",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Hands-on AI coding talk, not policy."
+  },
+  {
+   "id": 636,
+   "title": "Code Faster, Ship Smarter, Agile in the Age of AI Agents : AWS Crystal City, VA",
+   "start": "2027-01-13T18:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "AI Innovators Network (Meetup, NoVA)",
+   "source": "AI Innovators Network (Meetup, NoVA)",
+   "tags": [
+    "public",
+    "meetup"
+   ],
+   "description": "AI Innovators Network ~ Northern Virginia .: DC, VA, MD :. AI can help teams write code faster, but what happens when that means bigger changes, slower feedback, and more things breaking? In this session, weâll discuss the tension between",
+   "url": "https://www.meetup.com/ai-innovators-network-tysons-meetup-dc-nova-md/events/317458851/",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Agile engineering talk, not policy."
+  }
+ ]
+}

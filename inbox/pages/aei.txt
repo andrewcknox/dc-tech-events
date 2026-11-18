@@ -1,16 +1,9 @@
 # AEI
 # https://www.aei.org/events/
-# fetched 2026-11-17T09:02:05.787717-05:00
+# fetched 2026-11-18T08:51:41.149851-05:00
 # tags: think-tank
 
 Events
-In-Person Event
-November 17, 2026
-“The Path to Zero”: A Documentary Screening and Panel Discussion on the Withdrawal from Afghanistan <https://www.aei.org/events/the-path-to-zero-an-afghanistan-documentary-screening/>
-with 
-Robert Doar <https://www.aei.org/profile/robert-doar/>
- | 
-Marc A. Thiessen <https://www.aei.org/profile/marc-a-thiessen/>
 Online Event
 November 18, 2026
 The EU Digital Markets Act: Regulatory Template or Threat? <https://www.aei.org/events/the-eu-digital-markets-act-regulatory-template-or-threat/>
@@ -33,8 +26,25 @@ December 2, 2026
 The Myth of Transferable Skills <https://www.aei.org/events/the-myth-of-transferable-skills/>
 with 
 Robert Pondiscio <https://www.aei.org/profile/robert-pondiscio/>
+In-Person Event
+December 3, 2026
+The Second Annual Laurence H. Silberman Lecture on Constitutional Governance with Judge Jeffrey S. Sutton <https://www.aei.org/events/the-second-annual-laurence-h-silberman-lecture-on-constitutional-governance-with-judge-jeffrey-s-sutton/>
+with 
+Adam J. White <https://www.aei.org/profile/adam-j-white/>
+In-Person Event
+December 9, 2026
+A Conversation with Chairman Carr: The FCC’s New National Security Mandate <https://www.aei.org/events/a-conversation-with-chairman-carr-the-fccs-new-national-security-mandate/>
+with 
+Chris Miller <https://www.aei.org/profile/chris-miller/>
 Events Calendar
 Past Events
+In-Person Event
+November 17, 2026
+“The Path to Zero”: A Documentary Screening and Panel Discussion on the Withdrawal from Afghanistan <https://www.aei.org/events/the-path-to-zero-an-afghanistan-documentary-screening/>
+with 
+Robert Doar <https://www.aei.org/profile/robert-doar/>
+ | 
+Marc A. Thiessen <https://www.aei.org/profile/marc-a-thiessen/>
 In-Person Event
 November 10, 2026
 China, America, and the Fragmentation of the Global Economy: A Conversation with Aaron Friedberg <https://www.aei.org/events/china-america-and-the-fragmentation-of-the-global-economy-a-conversation-with-aaron-friedberg/>
@@ -91,10 +101,3 @@ Arthur Gailes <https://www.aei.org/profile/arthur-gailes/>
 Tobias Peter <https://www.aei.org/profile/tobias-peter/>
  | 
 Edward J. Pinto <https://www.aei.org/profile/edward-j-pinto/>
-In-Person Event
-October 26, 2026
-Reform from Within: A Fireside Chat with Vanderbilt Chancellor Daniel Diermeier <https://www.aei.org/events/reform-from-within-a-fireside-chat-with-vanderbilt-chancellor-daniel-diermeier/>
-with 
-Frederick M. Hess <https://www.aei.org/profile/frederick-m-hess/>
- | 
-Robert Doar <https://www.aei.org/profile/robert-doar/>

@@ -1,6 +1,6 @@
 # ITIF
 # https://itif.org/events/
-# fetched 2026-11-17T09:02:05.787717-05:00
+# fetched 2026-11-18T08:51:41.149851-05:00
 # tags: think-tank
 
 Events
@@ -20,11 +20,10 @@ email newsletters <https://itif.org/get-our-newsletters/>
  and 
 YouTube channel <https://www.youtube.com/@itif>
  to stay abreast.
-Upcoming Events
+Past Events
 November 17, 2026
 National Economic Power Conference <https://itif.org/events/2026/11/17/national-economic-power-conference/>
-Please join ITIF on November 17 for an important policy conference on what U.S. policymakers must do to prevent America from suffering a catastrophic defeat in its techno-economic-trade war with China. 
-Past Events
+ITIF convened a policy conference on what U.S. policymakers must do to prevent America from suffering a catastrophic defeat in its techno-economic-trade war with China. 
 October 28, 2026
 Immersive Technology in the Classroom: Making Sense of Immersive XR in Education <https://itif.org/events/2026/10/28/immersive-technology-in-the-classroom-making-sense-of-immersive-xr-in-education/>
 Join the XR Association (XRA) and ITIF for a webinar discussing the real-world impact of immersive technology on teaching and learning—including how extended reality can deliver value for institutions, educators, and students.
@@ -41,7 +40,4 @@ Information Technology and Innovation Foundation <https://www.itif.org/>
  (ITIF) and the 
 XR Association <https://xra.org/>
  will take place on Thursday, September 24, 2026 in Washington, DC. 
-September 11, 2026
-2026 Global Trade and Innovation Policy Alliance Summit <https://itif.org/events/2026/09/11/2026-gtipa-summit/>
-Join us in Warsaw, Poland, for the 2026 GTIPA Summit.
 Browse All Past Events <https://itif.org/events/past/>

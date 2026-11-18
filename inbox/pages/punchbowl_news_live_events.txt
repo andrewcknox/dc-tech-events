@@ -1,6 +1,6 @@
 # Punchbowl News live events
 # https://punchbowl.news/events/
-# fetched 2026-11-17T09:02:05.787717-05:00
+# fetched 2026-11-18T08:51:41.149851-05:00
 # tags: media
 
 Subscribe to be notified about all upcoming Punchbowl News events.
@@ -12,20 +12,11 @@ Tuesday, November 17, 2026
 9 a.m. ET
 •
 Washington, D.C.
-Join Punchbowl News for a conversation with Rep. Josh Gottheimer (D-N.J.) on Tuesday, Nov. 17 at 9 a.m. ET. Punchbowl News Tech Reporter Anthony Adragna will sit down with Gottheimer to discuss how Washington and the private sector can work together to verify real people, stop bad actors and deliver safer, easier experiences that work for Americans. Afterward, Caryn Seidman Becker, chair and CEO of CLEAR, will join Punchbowl News Founder and CEO Anna Palmer for a fireside chat.
+Punchbowl News hosted a conversation with Rep. Josh Gottheimer (D-N.J.) on Tuesday, Nov. 17 at 9 a.m. ET. Punchbowl News Tech Reporter Anthony Adragna sat down with Gottheimer to discuss how Washington and the private sector can work together to verify real people, stop bad actors and deliver safer, easier experiences that work for Americans. Afterward, Caryn Seidman Becker, chair and CEO of CLEAR, joined Punchbowl News Founder and CEO Anna Palmer for a fireside chat.
 RSVP <https://events.punchbowl.news/pop-up_Gottheimer>
 Browse
 Upcoming Events
-Go to Pop-Up Conversation with Rep. Josh Gottheimer <https://events.punchbowl.news/pop-up_Gottheimer>
-Presented by CLEAR
-Pop-Up Conversation with Rep. Josh Gottheimer
-Tuesday, November 17, 2026
-•
-9 a.m. ET
-•
- Washington, D.C. 
-Presented by CLEAR
-Go to Crypto Summit: Washington, D.C. <https://punchbowl.news/events/>
+Go to Crypto Summit: Washington, D.C. <https://events.punchbowl.news/CryptoSummit_12_1_26>
 Presented by Stand with Crypto
 Crypto Summit: Washington, D.C.
 Tuesday, December 1, 2026
@@ -64,6 +55,10 @@ Log In <https://punchbowl.news/wp-json/pb-idm/v1/login>
 Confirmed for Thursday, Dec. 24 event at 1:00 PM EST
 Browse
 Past Events
+Go to Pop-Up Conversation with Rep. Josh Gottheimer <https://events.punchbowl.news/pop-up_Gottheimer>
+Presented by CLEAR
+Pop-Up Conversation with Rep. Josh Gottheimer
+Presented by CLEAR
 Go to Youth Mental Health Summit: Richmond, Va. <https://events.punchbowl.news/summit_richmond>
 Presented by Coalition to Empower Our Future
 Youth Mental Health Summit: Richmond, Va.
@@ -84,10 +79,6 @@ Go to New Power Players <https://events.punchbowl.news/npp_sherrill>
 Presented by Arnold Ventures
 New Power Players
 Presented by Arnold Ventures
-Go to Pop-Up Conversation with Sen. Ted Budd <https://events.bizzabo.com/pop-up_budd>
-Presented by Bank of America
-Pop-Up Conversation with Sen. Ted Budd
-Presented by Bank of America
  Presented by The American Cancer Society Cancer Action Network 
 Dana honors her husband Jon’s memory by advocating for the policies and research that make life-saving breakthroughs possible. Congress: Support the millions of cancer patients, survivors, and their loved ones by funding cancer research. 
 Fight cancer together. <https://researchvoices.fightcancer.org/story/dana?utm_source=punchbowl&utm_campaign=research&utm_id=storytellingNov&utm_medium=web&ms=research_storytellingNov_web_punchbowl>

@@ -1,6 +1,6 @@
 # Brookings
 # https://www.brookings.edu/events/
-# fetched 2026-11-17T09:02:05.787717-05:00
+# fetched 2026-11-18T08:51:41.149851-05:00
 # tags: think-tank
 
 Events
@@ -10,27 +10,9 @@ Terms and Conditions of Attendance <https://www.brookings.edu/wp-content/uploads
 .
  Featured Events
 November
-17
-2026
-Strengthening the resilience and liquidity of the US Treasury market <https://www.brookings.edu/events/strengthening-the-resilience-and-liquidity-of-the-us-treasury-market/>
- The Brookings Institution, Washington D.C.
- Tuesday, 9:30 am - 11:30 am EST
-Immigration policy and public opinion <https://www.brookings.edu/events/immigration-policy-and-public-opinion/>
- Upcoming Event
-November
-17
-2026
-Immigrants & Immigration <https://www.brookings.edu/topics/immigration-5/>
- Immigration policy and public opinion
- Online only
- Tuesday, 12:00 pm - 1:00 pm EST
-The next era of Black business growth: Building pathways to ownership in a changing policy landscape <https://www.brookings.edu/events/the-next-era-of-black-business-growth-building-pathways-to-ownership-in-a-changing-policy-landscape/>
- Upcoming Event
-November
 18
 2026
-Cities & Communities <https://www.brookings.edu/topics/cities-communities/>
- The next era of Black business growth: Building pathways to ownership in a changing policy landscape
+The next era of Black business growth: Building pathways to ownership in a changing policy landscape <https://www.brookings.edu/events/the-next-era-of-black-business-growth-building-pathways-to-ownership-in-a-changing-policy-landscape/>
  The Brookings Institution, Washington D.C.
  Wednesday, 9:30 am - 11:15 am EST
 The state of broadband access and affordability <https://www.brookings.edu/events/the-state-of-broadband-access-and-affordability/>
@@ -42,25 +24,25 @@ Internet & Telecommunications <https://www.brookings.edu/topics/telecommunicatio
  The state of broadband access and affordability
  The Brookings Institution, Washington D.C.
  Wednesday, 1:30 pm - 2:45 pm EST
-Upcoming
-Strengthening the resilience and liquidity of the US Treasury market <https://www.brookings.edu/events/strengthening-the-resilience-and-liquidity-of-the-us-treasury-market/>
+From idea to impact: How communities around the world are championing family-centered schools <https://www.brookings.edu/events/from-idea-to-impact-how-communities-around-the-world-are-championing-family-centered-schools/>
  Upcoming Event
 November
-17
+19
 2026
-Federal Fiscal & Tax Policy <https://www.brookings.edu/topics/federal-fiscal-tax-policy/>
- Strengthening the resilience and liquidity of the US Treasury market
- The Brookings Institution, Washington D.C.
- Tuesday, 9:30 am - 11:30 am EST
-Immigration policy and public opinion <https://www.brookings.edu/events/immigration-policy-and-public-opinion/>
- Upcoming Event
-November
-17
-2026
-Immigrants & Immigration <https://www.brookings.edu/topics/immigration-5/>
- Immigration policy and public opinion
+Global Education <https://www.brookings.edu/topics/education-in-developing-nations/>
+ From idea to impact: How communities around the world are championing family-centered schools
  Online only
- Tuesday, 12:00 pm - 1:00 pm EST
+ Thursday, 9:30 am - 10:30 am EST
+America’s role in European security <https://www.brookings.edu/events/americas-role-in-european-security/>
+ Upcoming Event
+November
+19
+2026
+Defense & Security <https://www.brookings.edu/topics/national-security/>
+ America’s role in European security
+ The Brookings Institution, Washington DC
+ Thursday, 10:00 am - 11:30 am EST
+Upcoming
 The next era of Black business growth: Building pathways to ownership in a changing policy landscape <https://www.brookings.edu/events/the-next-era-of-black-business-growth-building-pathways-to-ownership-in-a-changing-policy-landscape/>
  Upcoming Event
 November
@@ -152,6 +134,24 @@ Diplomacy & Multilateralism <https://www.brookings.edu/topics/diplomacy-multilat
  The Brookings Institution, Washington DC
  Tuesday, 10:00 am - 11:45 am EST
 Recent Past Events
+Immigration policy and public opinion <https://www.brookings.edu/events/immigration-policy-and-public-opinion/>
+ Past Event
+November
+17
+2026
+Immigrants & Immigration <https://www.brookings.edu/topics/immigration-5/>
+ Immigration policy and public opinion
+ Online only
+ Tuesday, 12:00 pm - 1:00 pm EST
+Strengthening the resilience and liquidity of the US Treasury market <https://www.brookings.edu/events/strengthening-the-resilience-and-liquidity-of-the-us-treasury-market/>
+ Past Event
+November
+17
+2026
+Federal Fiscal & Tax Policy <https://www.brookings.edu/topics/federal-fiscal-tax-policy/>
+ Strengthening the resilience and liquidity of the US Treasury market
+ The Brookings Institution, Washington D.C.
+ Tuesday, 9:30 am - 11:30 am EST
 POSTPONED &#8211; Deterrence in the Pacific: A conversation with Admiral Paparo <https://www.brookings.edu/events/deterrence-in-the-pacific-a-conversation-with-admiral-paparo/>
  Past Event
 November
@@ -170,22 +170,4 @@ Campaigns & Elections <https://www.brookings.edu/topics/campaigns-elections/>
  What comes next: The consequences of the 2026 midterm elections
  Online only
  Monday, 2:00 pm - 3:00 pm EST
-Building the conditions to thrive: Improving well-being for men and boys of color <https://www.brookings.edu/events/building-the-conditions-to-thrive-improving-well-being-for-men-and-boys-of-color/>
- Past Event
-November
-09
-2026
-Race in Public Policy <https://www.brookings.edu/topics/race-in-american-public-policy/>
- Building the conditions to thrive: Improving well-being for men and boys of color
- Online only
- Monday, 11:00 am - 12:00 pm EST
-US biosafety policy and regulations: Assessing the landscape <https://www.brookings.edu/events/us-biosafety-policy-and-regulations-assessing-the-landscape/>
- Past Event
-November
-05
-2026
-Regulatory Policy <https://www.brookings.edu/topics/regulatory-policy/>
- US biosafety policy and regulations: Assessing the landscape
- The Brookings Institution, Washington D.C.
- Thursday, 2:00 pm - 2:45 pm EST
 See all past events <https://www.brookings.edu/past-events/>

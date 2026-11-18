@@ -114,6 +114,36 @@ sources:
     tags: [think-tank]
     enabled: true
 
+  # The listing shows only ~4 events per page (about one day ahead), so pages 2-5 cover the next
+  # ~3 weeks. Added 2026-11-18 after Knapp caught "Securing critical infrastructure ... Americas" on page 2.
+  - name: Atlantic Council (page 2)
+    url: https://www.atlanticcouncil.org/events/?ac-page=2
+    type: html
+    js: false
+    tags: [think-tank]
+    enabled: true
+
+  - name: Atlantic Council (page 3)
+    url: https://www.atlanticcouncil.org/events/?ac-page=3
+    type: html
+    js: false
+    tags: [think-tank]
+    enabled: true
+
+  - name: Atlantic Council (page 4)
+    url: https://www.atlanticcouncil.org/events/?ac-page=4
+    type: html
+    js: false
+    tags: [think-tank]
+    enabled: true
+
+  - name: Atlantic Council (page 5)
+    url: https://www.atlanticcouncil.org/events/?ac-page=5
+    type: html
+    js: false
+    tags: [think-tank]
+    enabled: true
+
   - name: Wilson Center
     url: https://www.wilsoncenter.org/events
     type: html
@@ -391,6 +421,23 @@ sources:
     type: ics
     js: false
     tags: [public]
+    enabled: true
+
+  # Added 2026-11-18: secureainow.org/events omitted its Nov 17 Post-Election Symposium, which was
+  # only on this Luma calendar (caught by Knapp).
+  - name: The Alliance for Secure AI (Luma)
+    url: https://api.lu.ma/ics/get?entity=calendar&id=cal-vv706HbltJA2syL
+    type: ics
+    js: false
+    tags: [public, civil-society]
+    enabled: true
+
+  # Added 2026-11-18: Meetup group running monthly AI talks at AWS Crystal City (some on AI policy).
+  - name: AI Innovators Network (Meetup, NoVA)
+    url: https://www.meetup.com/ai-innovators-network-tysons-meetup-dc-nova-md/events/ical/
+    type: ics
+    js: false
+    tags: [public, meetup]
     enabled: true
 
   # ---------- DC Luma calendars moved up from TRAWL.md tier 3 (added 2026-11-07) ----------
