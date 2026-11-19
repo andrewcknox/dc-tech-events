@@ -1,12 +1,30 @@
 # House Science Committee
 # https://science.house.gov/?a=rss.feed
-# fetched 2026-11-18T08:51:41.149851-05:00
+# fetched 2026-11-19T10:48:16.628141-05:00
 # tags: hill
 
 ### Full Committee Hearing - Weathering the Solar Storm: Advancing America’s Space Weather Capabilities
 Link: https://science.house.gov/2026/11/weathering-the-solar-storm-advancing-america-s-space-weather-capabilities
 Published: Thu, 323 Nov 2026 10:00:00 EST
 
+
+### Opening Statement of Chairman Brian Babin at Weathering the Solar Storm: Advancing America’s Space Weather Capabilities
+Link: https://science.house.gov/2026/11/chairman-brian-babin-opening-statement-space-weather-hearing
+Published: Thu, 323 Nov 2026 12:00:00 EST
+Today’s hearing presents the Committee with an opportunity to examine an issue that is critical to our nation but is often overlooked: space weather.
+Simply put, space weather is the term used to describe the interaction of solar activity with Earth’s atmosphere and any resulting effects. While many think of beautiful displays such as the aurora, space weather can have serious effects on our daily lives.
+Space weather also raises significant national security questions. Can we accurately predict and identify a space weather event in the upper atmosphere and properly attribute it to a natural phenomenon? Or do we risk misattributing the effects to a hostile act?
+Vital components of our nation’s infrastructure are vulnerable to the effects of a severe space weather event. For example, such an event could seriously damage transformers, disrupting the power grid and potentially leaving millions of Americans without electricity for extended periods of time.
+Solar storms can also disrupt positioning, navigation, and timing (PNT) systems, which can affect shipping and aviation routes as well as financial systems.
+The loss of PNT capabilities can have profound consequences, particularly for agriculture. A severe geomagnetic storm in May 2024, known as the Gannon superstorm, is estimated to have caused up to $500 million in losses for farmers due to the inability to use PNT for precision planting.
+Earlier this year, the Artemis II mission launched, sending four astronauts farther from Earth than anyone has ever traveled. Many Members of this Committee were in Florida for that launch. While we were keeping an eye on potential storms on the Space Coast, forecasters were monitoring solar activity to ensure it wouldn’t interfere with the mission.
+Closer to home, we must be mindful of the risks posed by space weather as we expand our activities in low Earth orbit. We are increasingly dependent on space-based assets for communication, navigation, weather forecasting, and so many other daily activities.
+This is the first time the Committee has held a hearing on this topic in over seven years, giving us a chance to assess the progress made during that time and the challenges that remain.
+In 2020, Congress passed, and President Trump signed, the Promoting Research and Observations of Space Weather to Improve the Forecasting of Tomorrow Act, more commonly known as the PROSWIFT Act. This law provided congressional direction regarding the federal government’s role in observing and predicting space weather events for the first time. In late June, President Trump released an updated National Resilience Strategy. The strategy identifies space weather among the threats facing our nation, recognizing its potential consequences for national security.
+In just the last year, our agencies have taken steps to advance our understanding of the Sun. Last September, NOAA launched the SWFO-L1 spacecraft, now known as SOLAR-1, which provides continuous observations of the Sun in greater detail than before. These observations
+will help us issue earlier warnings, giving emergency responders more time to prepare for potentially disruptive solar events.
+As part of that same launch, NASA sent two spacecraft to Lagrange Point 1 to expand our understanding of solar activity and improve our ability to forecast future solar events. I look forward to working with Ranking Member Lofgren, the Trump Administration, and external stakeholders to ensure the United States is better equipped to anticipate and respond to future solar storms. 
+I thank our expert panel of witnesses for being here today and for their willingness to share their expertise. I welcome a productive discussion.
 
 ### Chairmen Babin, McCormick Seek Answers from NIST on Manufacturing Extension Partnership Oversight
 Link: https://science.house.gov/2026/11/chairmen-babin-mccormick-seek-answers-from-nist-on-manufacturing-extension-partnership-oversight
@@ -80,6 +98,23 @@ Link: https://science.house.gov/2026/9/investigations-and-oversight-subcommittee
 Published: Wed, 259 Sep 2026 10:00:00 EST
 
 
+### Opening Statement of Chairman Brian Babin at Balancing Biotechnology Innovation and Biosecurity: Securing U.S. Leadership in a Global
+Link: https://science.house.gov/2026/9/opening-statement-of-chairman-brian-babin-at-balancing-biotechnology-innovation-and-biosecurity
+Published: Wed, 259 Sep 2026 12:00:00 EST
+Thank you, Chairman McCormick, for holding this hearing on an issue with significant implications for our country.
+Today, we are here to address a field that is increasingly consequential to our national security, economic competitiveness, and scientific leadership.
+Biotechnology is a term that many of us hear frequently, but may not fully grasp just how many industries it touches. Biotechnology uses biological systems to develop products, processes, and solutions. As these technologies advance, the field is reaching into an expanding range of industries, including healthcare, agriculture, chemical manufacturing, fuel development, and even artificial intelligence.
+Developments in biotechnology can provide tremendous benefits to our communities, industries, and economy. But these advances also present significant risks. Laboratory accidents, deliberate misuse, inadequate oversight, or the release of information or biological materials that could be used to harm the public pose serious threats to our national security and public health. Maintaining leadership in this field therefore requires not only sustained support for research and development, but also strong and effective safeguards.
+In May 2025, President Trump signed Executive Order 14292, 
+Improving the Safety and Security of Biological Research
+, which strengthened federal oversight of high-risk biological research, particularly dangerous gain-of-function research. The order seeks to distinguish legitimate and beneficial biological research from activities that could pose unacceptable risks to public health or national security.
+Not every country—or every company operating within it—shares the same concerns about biosafety and biosecurity. That is one reason Congress enacted the BIOSECURE Act last December. The Act establishes restrictions on federal procurement and contracting involving equipment, services, or other capabilities provided by identified biotechnology companies of concern. These actions are critical steps, but more work remains. We must continue developing policies, procedures, and oversight mechanisms that balance American leadership in biotechnology with the responsibility to protect our country from serious risks.
+China is not standing still. The CCP is rapidly expanding its biotechnology capabilities. Its biomanufacturing capacity, research and development efforts, and workforce continue to grow. The United States must strengthen and expand our own capabilities—and move faster to stay ahead.
+Biotechnology is one of the fastest-growing areas of scientific research and manufacturing. The United States must support this growth because it is critical to our economy, national security, and communities. We will only maintain our leadership in the face of strategic competition if we adopt policies that strengthen our domestic capabilities while protecting our research, resources, and people from bad actors.
+I look forward to hearing from our witnesses about what more we can do to advance American biotechnology research, domestic biomanufacturing, supply chain security, and innovation while ensuring the United States remains competitive with China.
+Thank you to our witnesses for being here today and for sharing your knowledge and expertise. And thank you again, Chairman McCormick, for holding this hearing.
+I yield back.
+
 ### Opening Statement of Chairman Rich McCormick at Balancing Biotechnology Innovation and Biosecurity: Securing U.S. Leadership in a Global Race
 Link: https://science.house.gov/2026/9/opening-statement-of-chairman-rich-mccormick-at-balancing biotechnology-innovation-and-biosecurity
 Published: Wed, 259 Sep 2026 12:00:00 EST
@@ -110,23 +145,6 @@ I also introduced the Biotechnology Diplomacy Leadership Act to ensure the Unite
 I welcome our witnesses today, who will help us examine whether federal biosecurity policy and oversight have kept pace with the challenges, how the convergence of AI and biotechnology is reshaping both opportunities and risks, and what additional steps Congress must take to keep
 America's biotechnology enterprise secure, competitive, and worthy of the American people's trust.
 With that, I yield back the balance of my time
-
-### Opening Statement of Chairman Brian Babin at Balancing Biotechnology Innovation and Biosecurity: Securing U.S. Leadership in a Global
-Link: https://science.house.gov/2026/9/opening-statement-of-chairman-brian-babin-at-balancing-biotechnology-innovation-and-biosecurity
-Published: Wed, 259 Sep 2026 12:00:00 EST
-Thank you, Chairman McCormick, for holding this hearing on an issue with significant implications for our country.
-Today, we are here to address a field that is increasingly consequential to our national security, economic competitiveness, and scientific leadership.
-Biotechnology is a term that many of us hear frequently, but may not fully grasp just how many industries it touches. Biotechnology uses biological systems to develop products, processes, and solutions. As these technologies advance, the field is reaching into an expanding range of industries, including healthcare, agriculture, chemical manufacturing, fuel development, and even artificial intelligence.
-Developments in biotechnology can provide tremendous benefits to our communities, industries, and economy. But these advances also present significant risks. Laboratory accidents, deliberate misuse, inadequate oversight, or the release of information or biological materials that could be used to harm the public pose serious threats to our national security and public health. Maintaining leadership in this field therefore requires not only sustained support for research and development, but also strong and effective safeguards.
-In May 2025, President Trump signed Executive Order 14292, 
-Improving the Safety and Security of Biological Research
-, which strengthened federal oversight of high-risk biological research, particularly dangerous gain-of-function research. The order seeks to distinguish legitimate and beneficial biological research from activities that could pose unacceptable risks to public health or national security.
-Not every country—or every company operating within it—shares the same concerns about biosafety and biosecurity. That is one reason Congress enacted the BIOSECURE Act last December. The Act establishes restrictions on federal procurement and contracting involving equipment, services, or other capabilities provided by identified biotechnology companies of concern. These actions are critical steps, but more work remains. We must continue developing policies, procedures, and oversight mechanisms that balance American leadership in biotechnology with the responsibility to protect our country from serious risks.
-China is not standing still. The CCP is rapidly expanding its biotechnology capabilities. Its biomanufacturing capacity, research and development efforts, and workforce continue to grow. The United States must strengthen and expand our own capabilities—and move faster to stay ahead.
-Biotechnology is one of the fastest-growing areas of scientific research and manufacturing. The United States must support this growth because it is critical to our economy, national security, and communities. We will only maintain our leadership in the face of strategic competition if we adopt policies that strengthen our domestic capabilities while protecting our research, resources, and people from bad actors.
-I look forward to hearing from our witnesses about what more we can do to advance American biotechnology research, domestic biomanufacturing, supply chain security, and innovation while ensuring the United States remains competitive with China.
-Thank you to our witnesses for being here today and for sharing your knowledge and expertise. And thank you again, Chairman McCormick, for holding this hearing.
-I yield back.
 
 ### Full Committee Hearing - Innovation in Disaster Prevention: Advancing Technology for Prediction and Response
 Link: https://science.house.gov/2026/9/full-committee-hearing-innovation-in-disaster-prevention-advancing-tech-for-prediction-and-response
@@ -164,6 +182,16 @@ Requires pilot studies using red snapper and tuna to test the methodology across
 Directs agencies, to the extent practicable, to develop a methodology capable of testing prepared seafood, including ceviche, sashimi, sushi, and poke. 
 Following House passage, S. 283 now returns to the Senate for consideration of the House amendment.
 
+### Chairman Babin Issues Statement Following Briefing on AI Agent Cyber Incident
+Link: https://science.house.gov/2026/9/chairman-babin-issues-statement-following-briefing-on-ai-agent-cyber-incident
+Published: Tue, 258 Sep 2026 12:00:00 EST
+(Washington, D.C.) – House Science, Space, and Technology Committee 
+Chairman Brian Babin
+ issued the following statement after a bipartisan, Committee-wide briefing with representatives from Hugging Face, METR, OpenAI, and Anthropic regarding security incidents initially disclosed by Hugging Face in July, as well as additional incidents reported more recently. The briefing provided Committee members an opportunity to assess these events, their broader implications for AI development and deployment, and potential policy considerations.
+"I thank these company representatives for appearing before Committee members and for today’s productive discussion surrounding this incident," 
+said Chairman Babin
+. "As AI becomes increasingly capable, we can promote the development of trustworthy and reliable systems without sacrificing the innovation that gives America a competitive edge. I look forward to continued engagement with AI and emerging technology companies as we navigate this evolving landscape. Like any new technology, AI presents both risks and opportunities. Our overarching goal remains clear: ensuring that America—not the Chinese Communist Party—leads the global AI race."
+
 ### Opening Statement of Chairman Brian Babin at Innovation in Disaster Prevention: Advancing Technology for Prediction and Response
 Link: https://science.house.gov/2026/9/opening-statement-of-chairman-brian-babin-at-natural-disasters-hearing
 Published: Tue, 258 Sep 2026 12:00:00 EST
@@ -188,16 +216,6 @@ And just this summer, we advanced legislation to modernize the National Earthqua
 We must continue that work by breaking down barriers, supporting critical research, and helping ensure American innovation translates into practical tools that protect lives and property. Today’s hearing will help us build on these efforts and identify where emerging technologies can make an even greater difference.
 Again, I appreciate our witnesses being here today, and I look forward to your testimony and our discussion.
 With that, I yield back the balance of my time.
-
-### Chairman Babin Issues Statement Following Briefing on AI Agent Cyber Incident
-Link: https://science.house.gov/2026/9/chairman-babin-issues-statement-following-briefing-on-ai-agent-cyber-incident
-Published: Tue, 258 Sep 2026 12:00:00 EST
-(Washington, D.C.) – House Science, Space, and Technology Committee 
-Chairman Brian Babin
- issued the following statement after a bipartisan, Committee-wide briefing with representatives from Hugging Face, METR, OpenAI, and Anthropic regarding security incidents initially disclosed by Hugging Face in July, as well as additional incidents reported more recently. The briefing provided Committee members an opportunity to assess these events, their broader implications for AI development and deployment, and potential policy considerations.
-"I thank these company representatives for appearing before Committee members and for today’s productive discussion surrounding this incident," 
-said Chairman Babin
-. "As AI becomes increasingly capable, we can promote the development of trustworthy and reliable systems without sacrificing the innovation that gives America a competitive edge. I look forward to continued engagement with AI and emerging technology companies as we navigate this evolving landscape. Like any new technology, AI presents both risks and opportunities. Our overarching goal remains clear: ensuring that America—not the Chinese Communist Party—leads the global AI race."
 
 ### Babin, McCormick Probe Foreign Influence in U.S. AI and Energy Policy
 Link: https://science.house.gov/2026/9/babin-mccormick-probe-foreign-influence-in-u-s-ai-and-energy-policy
@@ -314,25 +332,3 @@ here <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001lPOq3Y
 Link: https://science.house.gov/2026/7/full-committee-hearing-unleashing-golden-age-science-ostp-research-enterprise-priorities-fy27
 Published: Wed, 203 Jul 2026 10:15:00 EST
 
-
-### Opening Statement of Chairman Babin at Unleashing the Golden Age of Science: Examining the Priorities of the FY2027 Research and Technology Enterprise
-Link: https://science.house.gov/2026/7/opening-statement-of-chairman-babin-at-ostp-budget-kratsios
-Published: Wed, 203 Jul 2026 12:00:00 EST
-Good morning, and welcome to today’s hearing on “Unleashing the Golden Age of Science: Examining the Priorities of the FY2027 Research and Technology Enterprise.”
-Director Kratsios, welcome back. The last time you sat before this Committee, we discussed how Congress could build on President Trump’s AI Action Plan, the role of American innovation, and the national security challenges posed by foreign competitors. Six months later, I am glad to say that both the Administration and this Committee have taken meaningful action.
-Last year, President Trump asked you to usher in a Golden Age of American Innovation. This is the standard by which this budget should be judged. A Golden Age is not measured by how much government spends, but by whether taxpayer dollars are focused on the right priorities and produce results that strengthen America’s leadership in science and technology.
-Today’s hearing is about priorities. After years in which Washington too often measured success by dollars obligated rather than by results achieved, this Administration has begun to refocus the federal research enterprise on excellence, accountability, and outcomes.
-I expect today’s discussion will include funding levels, indirect cost policies, Uniform Guidance, and the President’s Budget Request. Those are important discussions, but funding alone is not a measurement of success. The real question is whether taxpayer dollars are being invested wisely and deliver results for the American people.
-This budget directs taxpayer dollars toward the technologies that will decide the next century—artificial intelligence, quantum, advanced manufacturing, nuclear, and biotechnology—while ensuring the science this government funds meets the highest scientific standards.
-The President’s Executive Order on Restoring Gold Standard Science reinforces that commitment by requiring federally funded research to be reproducible, transparent, and honest about uncertainty. Agencies will submit their first annual reports under that Executive Order this September, and this Committee will be reading them.
-Scientific leadership also requires protecting the research we fund. Congress has strengthened research security on a bipartisan basis, and American taxpayers should never subsidize the transfer of cutting-edge research to our foreign adversaries.
-America enters this competition from a position of strength. According to Stanford’s AI 2026 Index, private investment in American AI companies reached nearly $286 billion last year—more than twenty-three times China’s and more than the rest of the world combined.
-But we should be clear-eyed about the competition. The Chinese Communist Party has made artificial intelligence a national priority and is spending accordingly. Chinese frontier models now trail America’s by only a few points on leading benchmarks, and Beijing continues targeting our universities and National Laboratories to obtain cutting-edge research.
-That is exactly why this budget matters.
-The Administration has laid out a strategy to preserve American leadership in critical technologies. Executive Order 14409 hardens our systems against AI-enabled cyberattacks by partnering with American industry rather than regulating it into the ground.
-National Security Presidential Memorandum 11 is helping ensure our warfighters have access to reliable and trustworthy AI capabilities, while the Genesis Mission is leveraging our National Laboratories and supercomputing infrastructure to accelerate scientific discovery.
-This Committee has done its part. Across several markups this Congress, we have reported out the National Quantum Initiative Reauthorization Act, the NOAA Weather Radio Modernization Act, the NASA Reauthorization Act, the Weather Act Reauthorization Act, and other bipartisan measures to strengthen the American science and technology enterprise.
-Last month, we also approved ten bipartisan AI bills, including my AI-Ready Federal Data Guidelines Act, which implements a recommendation in the AI Action Plan to make scientific data AI-ready. We also approved the AI Security and Innovation Act, authorizing the Center for AI Standards and Innovation at NIST to bolster AI evaluation capabilities essential to both national security and American leadership.
-Director Kratsios, we look forward to hearing about how this budget advances the Administration’s priorities, strengthens OSTP, NSF, and NIST, implements Gold Standard Science, protects the federal research enterprise, and ensures the United States remains the world’s leader in science and technology.
-I appreciate your being here today, and I welcome your testimony.
-With that, I yield back the balance of my time.

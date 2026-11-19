@@ -1,17 +1,11 @@
 # Stimson Center
 # https://www.stimson.org/events/
-# fetched 2026-11-18T08:51:41.149851-05:00
+# fetched 2026-11-19T10:48:16.628141-05:00
 # tags: think-tank
 
 EVENTS AND ENGAGEMENT
 Events
 Explore Stimson events where experts, policymakers, and practitioners come together to tackle global challenges and advance practical solutions.
-Upcoming Event 
- T20 US Summit: Harnessing Knowledge and Ensuring Continuity for Better Policymaking in Uncertain Times 
- From November 18-19 in New York, the T20 U.S. Summit will convene in hybrid format at the Ford Foundation Center for Social Justice.
- November 18, 2026
- 9:30 AM (US Eastern)
- Online Only <https://www.stimson.org/event/harnessing-knowledge-and-ensuring-continuity-for-better-policymaking-in-uncertain-times-t20-us-summit/>
 Interact With Us Live
 Pose your questions live at 
 stimson.org/questions <https://www.stimson.org/questions>
@@ -23,6 +17,9 @@ Past
 Neurotechnologies, AI, and the Right to Mental Privacy: Can the Law Save us from Losing our Minds? <https://www.stimson.org/event/neurotechnologies-ai-and-the-right-to-mental-privacy-can-the-law-save-us-from-losing-our-minds/>
 The Washington Foreign Law Society and the Stimson Center host experts to explore how AI and neurotechnologies are redefining mental privacy and testing the limits of international law.
 February 19, 2026
+Past Event
+T20 US Summit: Harnessing Knowledge and Ensuring Continuity for Better Policymaking in Uncertain Times <https://www.stimson.org/event/harnessing-knowledge-and-ensuring-continuity-for-better-policymaking-in-uncertain-times-t20-us-summit/>
+November 18, 2026
 Past Event
 Sustainable Mining and Energy in Latin America <https://www.stimson.org/event/sustainable-mining-and-energy-in-latin-america/>
 November 11, 2026
@@ -56,6 +53,3 @@ October 21, 2026
 Past Event
 Democracy and the Future of Transatlantic Relations After Trump <https://www.stimson.org/event/democracy-and-the-future-of-transatlantic-relations-after-trump/>
 October 20, 2026
-Past Event
-US-Taiwan Relations in the Trump Era <https://www.stimson.org/event/us-taiwan-relations-in-the-trump-era/>
-October 19, 2026

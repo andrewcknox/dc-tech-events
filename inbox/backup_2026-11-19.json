@@ -1,0 +1,423 @@
+{
+ "source": "Caleb Knapp substack",
+ "backup": true,
+ "tags": [
+  "substack"
+ ],
+ "events": [
+  {
+   "title": "Outproducing the CCP: Restoring American Manufacturing",
+   "start": "2026-11-20 08:30",
+   "end": null,
+   "location": "210 Cannon House Office Building, Washington, DC",
+   "virtual": false,
+   "url": "https://chinaselectcommittee.house.gov/media/press-releases/hearing-advisory-outproducing-the-ccp-restoring-american-manufacturing",
+   "host": "House Select Committee on the CCP",
+   "description": "Outproducing the CCP: Restoring American Manufacturing",
+   "speakers": [],
+   "topics": [
+    "industrial-policy",
+    "China"
+   ],
+   "fit": 4,
+   "why": "Listed in Caleb Knapp's weekly AI digest.",
+   "tags": [
+    "hill"
+   ]
+  },
+  {
+   "title": "Senate Commerce Executive Session 26 (Chip EQUIP Act; Biosecurity Modernization and Innovation Act; Telecommunications Cybersecurity and Resilience Act)",
+   "start": "2026-11-18 10:00",
+   "end": null,
+   "location": "SR-253, Russell Senate Office Building, Washington, DC",
+   "virtual": false,
+   "url": "https://www.commerce.senate.gov/meetings/executive-session-26-11-18-2026/",
+   "host": "Senate Commerce, Science, and Transportation",
+   "description": "Senate Commerce Executive Session 26 (Chip EQUIP Act; Biosecurity Modernization and Innovation Act; Telecommunications Cybersecurity and Resilience Act)",
+   "speakers": [],
+   "topics": [
+    "semiconductors",
+    "biotech",
+    "cyber"
+   ],
+   "fit": 4,
+   "why": "Listed in Caleb Knapp's weekly AI digest.",
+   "tags": [
+    "hill"
+   ]
+  },
+  {
+   "title": "Nominations hearing: Michael LoSapio to be Director of CISA",
+   "start": "2026-11-19 09:30",
+   "end": null,
+   "location": "SD-342, Dirksen Senate Office Building, Washington, DC",
+   "virtual": false,
+   "url": "https://www.hsgac.senate.gov/hearings/nominations-16/",
+   "host": "Senate Committee on Homeland Security and Governmental Affairs",
+   "description": "Nominations hearing: Michael LoSapio to be Director of CISA",
+   "speakers": [],
+   "topics": [
+    "cyber"
+   ],
+   "fit": 4,
+   "why": "Listed in Caleb Knapp's weekly AI digest.",
+   "tags": [
+    "hill"
+   ]
+  },
+  {
+   "title": "Post-Election Symposium",
+   "start": "2026-11-17 13:00",
+   "end": "2026-11-17 14:30",
+   "location": "Microsoft Innovation & Policy Center, 901 K St NW, 11th Floor, Washington, DC",
+   "virtual": false,
+   "url": "https://luma.com/alliancepostelectionsymposium",
+   "host": "The Alliance for Secure AI",
+   "description": "Post-Election Symposium",
+   "speakers": [],
+   "topics": [
+    "AI"
+   ],
+   "fit": 4,
+   "why": "Listed in Caleb Knapp's weekly AI digest.",
+   "tags": [
+    "public"
+   ]
+  },
+  {
+   "title": "Powering Innovation: Exploring the Intersection of Technology and Energy",
+   "start": "2026-11-17 17:00",
+   "end": "2026-11-17 19:00",
+   "location": "21 D St SE, Washington, DC",
+   "virtual": false,
+   "url": "https://luma.com/4u759fa2",
+   "host": "Consumer Technology Association",
+   "description": "Powering Innovation: Exploring the Intersection of Technology and Energy",
+   "speakers": [],
+   "topics": [
+    "energy-tech",
+    "AI"
+   ],
+   "fit": 3,
+   "why": "Listed in Caleb Knapp's weekly AI digest.",
+   "tags": [
+    "public"
+   ]
+  },
+  {
+   "title": "Futurecraft: The Day After AGI - Book Launch",
+   "start": "2026-11-17 19:00",
+   "end": "2026-11-17 22:00",
+   "location": "Butterworth's, 1600 Pennsylvania Ave SE, Washington, DC",
+   "virtual": false,
+   "url": "https://luma.com/joinfai-48vw",
+   "host": "Foundation for American Innovation",
+   "description": "Futurecraft: The Day After AGI - Book Launch",
+   "speakers": [],
+   "topics": [
+    "AI"
+   ],
+   "fit": 3,
+   "why": "Listed in Caleb Knapp's weekly AI digest.",
+   "tags": [
+    "public"
+   ]
+  },
+  {
+   "title": "After NSCEB: What Comes Next for U.S. Biotech Policy",
+   "start": "2026-11-17 14:00",
+   "end": "2026-11-17 18:00",
+   "location": "STATION DC, Washington, DC",
+   "virtual": false,
+   "url": "https://luma.com/stationdc-yz0z",
+   "host": "STATION DC",
+   "description": "After NSCEB: What Comes Next for U.S. Biotech Policy",
+   "speakers": [],
+   "topics": [
+    "biotech",
+    "industrial-policy"
+   ],
+   "fit": 4,
+   "why": "Listed in Caleb Knapp's weekly AI digest.",
+   "tags": [
+    "public"
+   ]
+  },
+  {
+   "title": "AI Policy and the Race for Global Rules",
+   "start": "2026-11-18 18:00",
+   "end": "2026-11-18 20:00",
+   "location": "AWS Skills Center, Arlington, VA",
+   "virtual": false,
+   "url": "https://www.meetup.com/ai-innovators-network-tysons-meetup-dc-nova-md/events/316754858/",
+   "host": "AI Innovators Network",
+   "description": "AI Policy and the Race for Global Rules",
+   "speakers": [],
+   "topics": [
+    "AI",
+    "tech-geopolitics"
+   ],
+   "fit": 3,
+   "why": "Listed in Caleb Knapp's weekly AI digest.",
+   "tags": [
+    "public"
+   ]
+  },
+  {
+   "title": "Congressional Briefing: Future of AI Security with Ready State Labs and Joshua Saxe",
+   "start": "2026-11-19 10:00",
+   "end": "2026-11-19 11:00",
+   "location": "U.S. Capitol Visitor Center, SVC 215, Washington, DC",
+   "virtual": false,
+   "url": "https://luma.com/ydypqfit",
+   "host": "Ready State Labs",
+   "description": "Congressional Briefing: Future of AI Security with Ready State Labs and Joshua Saxe",
+   "speakers": [],
+   "topics": [
+    "AI",
+    "cyber"
+   ],
+   "fit": 4,
+   "why": "Listed in Caleb Knapp's weekly AI digest.",
+   "tags": [
+    "public"
+   ]
+  },
+  {
+   "title": "50th Annual AAAS Science and Technology Policy Forum",
+   "start": "2026-11-19 07:45",
+   "end": "2026-11-20 17:30",
+   "location": "University Student Center, 800 21st St NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.aaas.org/events/50th-annual-aaas-science-and-technology-policy-forum2",
+   "host": "AAAS",
+   "description": "50th Annual AAAS Science and Technology Policy Forum",
+   "speakers": [],
+   "topics": [
+    "industrial-policy"
+   ],
+   "fit": 4,
+   "why": "Listed in Caleb Knapp's weekly AI digest.",
+   "tags": [
+    "public"
+   ]
+  },
+  {
+   "title": "National Economic Power Conference",
+   "start": "2026-11-17 08:00",
+   "end": "2026-11-17 16:00",
+   "location": "Convene Hamilton Square, 600 14th St NW, Washington, DC",
+   "virtual": false,
+   "url": "https://luma.com/ibtjzmxl",
+   "host": "ITIF",
+   "description": "National Economic Power Conference",
+   "speakers": [],
+   "topics": [
+    "industrial-policy",
+    "tech-geopolitics"
+   ],
+   "fit": 4,
+   "why": "Listed in Caleb Knapp's weekly AI digest.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Overcoming US-ROK Alliance Challenges: Trade, Technology, and China",
+   "start": "2026-11-17 16:00",
+   "end": "2026-11-17 17:00",
+   "location": "Hudson Institute, 1201 Pennsylvania Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.hudson.org/events/overcoming-us-rok-alliance-challenges-trade-technology-china",
+   "host": "Hudson Institute",
+   "description": "Overcoming US-ROK Alliance Challenges: Trade, Technology, and China",
+   "speakers": [],
+   "topics": [
+    "Japan-Korea",
+    "tech-geopolitics",
+    "China"
+   ],
+   "fit": 4,
+   "why": "Listed in Caleb Knapp's weekly AI digest.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Digital Resilience in a Post-Mythos World: A Conversation with Greg Rattray",
+   "start": "2026-11-18 09:00",
+   "end": "2026-11-18 10:00",
+   "location": "Online",
+   "virtual": true,
+   "url": "https://www.csis.org/events/digital-resilience-post-mythos-world-conversation-greg-rattray",
+   "host": "CSIS",
+   "description": "Digital Resilience in a Post-Mythos World: A Conversation with Greg Rattray",
+   "speakers": [],
+   "topics": [
+    "cyber",
+    "AI"
+   ],
+   "fit": 4,
+   "why": "Listed in Caleb Knapp's weekly AI digest.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Securing Critical Infrastructure and Strategic Assets Across the Americas",
+   "start": "2026-11-18 14:00",
+   "end": null,
+   "location": "Atlantic Council, 1400 L St NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.atlanticcouncil.org/event/securing-critical-infrastructure-and-strategic-assets-across-the-americas/",
+   "host": "Atlantic Council",
+   "description": "Securing Critical Infrastructure and Strategic Assets Across the Americas",
+   "speakers": [],
+   "topics": [
+    "cyber",
+    "tech-geopolitics"
+   ],
+   "fit": 3,
+   "why": "Listed in Caleb Knapp's weekly AI digest.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "The State of Broadband Access and Affordability",
+   "start": "2026-11-18 13:30",
+   "end": "2026-11-18 14:45",
+   "location": "Brookings Institution, 1775 Massachusetts Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.brookings.edu/events/the-state-of-broadband-access-and-affordability/",
+   "host": "Brookings",
+   "description": "The State of Broadband Access and Affordability",
+   "speakers": [],
+   "topics": [
+    "data/privacy"
+   ],
+   "fit": 3,
+   "why": "Listed in Caleb Knapp's weekly AI digest.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "2026 Aspen Cyber Summit",
+   "start": "2026-11-18 08:00",
+   "end": null,
+   "location": "Washington, DC",
+   "virtual": false,
+   "url": "https://www.aspeninstitute.org/events/2026-aspen-cyber-summit/",
+   "host": "Aspen Digital",
+   "description": "2026 Aspen Cyber Summit",
+   "speakers": [],
+   "topics": [
+    "cyber"
+   ],
+   "fit": 5,
+   "why": "Listed in Caleb Knapp's weekly AI digest.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "AI and Energy Costs: Market and Policy Solutions",
+   "start": "2026-11-19 14:15",
+   "end": "2026-11-19 15:45",
+   "location": "Brookings Institution, 1775 Massachusetts Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.brookings.edu/events/ai-and-energy-costs-market-and-policy-solutions/",
+   "host": "Brookings",
+   "description": "AI and Energy Costs: Market and Policy Solutions",
+   "speakers": [],
+   "topics": [
+    "AI",
+    "energy-tech"
+   ],
+   "fit": 4,
+   "why": "Listed in Caleb Knapp's weekly AI digest.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "America After November 3: A Conversation with Rahm Emanuel",
+   "start": "2026-11-19 11:00",
+   "end": "2026-11-19 11:45",
+   "location": "Online",
+   "virtual": true,
+   "url": "https://carnegieendowment.org/events/2026/11/america-after-november-3-a-conversation-with-rahm-emanuel",
+   "host": "Carnegie Endowment",
+   "description": "America After November 3: A Conversation with Rahm Emanuel",
+   "speakers": [],
+   "topics": [
+    "tech-geopolitics"
+   ],
+   "fit": 2,
+   "why": "Listed in Caleb Knapp's weekly AI digest.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "India's Data Moment: A Conversation with Secretary Saurabh Garg on India's AI-Ready Data Push",
+   "start": "2026-11-19 16:00",
+   "end": "2026-11-19 18:30",
+   "location": "CSIS, 1616 Rhode Island Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.csis.org/events/indias-data-moment-conversation-secretary-saurabh-garg-indias-ai-ready-data-push",
+   "host": "CSIS",
+   "description": "India's Data Moment: A Conversation with Secretary Saurabh Garg on India's AI-Ready Data Push",
+   "speakers": [],
+   "topics": [
+    "AI",
+    "data/privacy"
+   ],
+   "fit": 4,
+   "why": "Listed in Caleb Knapp's weekly AI digest.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "AI and Biosecurity: Managing Risks, Preserving Progress",
+   "start": "2026-11-19 12:00",
+   "end": "2026-11-19 13:00",
+   "location": "Online",
+   "virtual": true,
+   "url": "https://www.rand.org/events/2026/11/ai-and-biosecurity.html",
+   "host": "RAND",
+   "description": "AI and Biosecurity: Managing Risks, Preserving Progress",
+   "speakers": [],
+   "topics": [
+    "AI",
+    "biotech"
+   ],
+   "fit": 4,
+   "why": "Listed in Caleb Knapp's weekly AI digest.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Understanding the Memory Chip Crunch & the Way Ahead",
+   "start": "2026-11-20 10:00",
+   "end": "2026-11-20 11:00",
+   "location": "Online",
+   "virtual": true,
+   "url": "https://www.csis.org/events/understanding-memory-chip-crunch-way-ahead",
+   "host": "CSIS",
+   "description": "Understanding the Memory Chip Crunch & the Way Ahead",
+   "speakers": [],
+   "topics": [
+    "semiconductors"
+   ],
+   "fit": 5,
+   "why": "Listed in Caleb Knapp's weekly AI digest.",
+   "tags": [
+    "think-tank"
+   ]
+  }
+ ]
+}

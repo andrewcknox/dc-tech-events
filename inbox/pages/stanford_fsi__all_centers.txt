@@ -1,6 +1,6 @@
 # Stanford FSI (all centers)
 # https://fsi.stanford.edu/events
-# fetched 2026-11-18T08:51:41.149851-05:00
+# fetched 2026-11-19T10:48:16.628141-05:00
 # tags: bay-area, university
 
 FSI Events
@@ -12,45 +12,6 @@ Event Recordings <https://www.youtube.com/FSIStanford>
 Filter:
 Filter results
 Close
- Seminars
-Industry-Wide Forum: Public Attitudes on AI Agents <https://fsi.stanford.edu/events/industry-wide-forum-public-attitudes-ai-agents>
-Wednesday, November 18, 2026
-9:00 AM - 10:00 AM
-(Pacific)
-Register Now <https://luma.com/dkpnvt0u>
-Online. Registration required.
- Speaker: 
-Alice Siu <https://fsi.stanford.edu/people/alice-siu>
- Seminars
-Israel Insights Webinar with Donna Divine & Asaf Romirowsky — Teaching and Researching Israel in 2026 <https://fsi.stanford.edu/events/israel-insights-webinar-donna-divine-asaf-romirowsky-teaching-and-researching-israel-2026>
-Wednesday, November 18, 2026
-10:00 AM - 11:15 AM
-(Pacific)
-Register Now <https://app.smartsheet.com/b/form/01a0024cd11d74d9a91ea1038337fa06>
-Virtual Only Event.
- Speaker: 
- Donna Divine 
-,
- Asaf Romirowsky 
- Moderator: 
-Amichai Magen <https://fsi.stanford.edu/people/Amichai_Magen>
-,
-Or (Ori) Rabinowitz <https://fsi.stanford.edu/people/or-ori-rabinowitz>
- Seminars
-Leonid Gozman — After Putin, After the War: Russia’s Next Chapter <https://fsi.stanford.edu/events/leonid-gozman-after-putin-after-war-russias-next-chapter>
-Wednesday, November 18, 2026
-3:30 PM - 5:00 PM
-(Pacific)
-Register Now <https://app.smartsheet.com/b/form/01a15b55289a746ebca344e525ccee22>
-Join via Zoom - pw: 123456 <https://stanford.zoom.us/j/95572479102?pwd=L5fB3RewwinRgU5b55n17b1fs6cVWP.1>
-Only those with an active Stanford ID and access to the 
-William J. Perry Conference Room
- in Encina Hall may attend in person. Others may attend virtually, via Zoom.
-Registration required.
- Speaker: 
- Leonid Gozman 
- Moderator: 
-Kathryn Stoner <https://fsi.stanford.edu/people/kathryn_stoner>
  Seminars
 Jannis Panagiotidis | Racism against East Europeans in Germany: History and Present <https://fsi.stanford.edu/events/panagiotidis>
 Thursday, November 19, 2026
@@ -79,15 +40,6 @@ Conference Room E-008 in Encina Hall, East,
 Alain Schläpfer <https://fsi.stanford.edu/people/alain-schlapfer>
  Moderator: 
 Hesham Sallam <https://fsi.stanford.edu/people/hesham_sallam>
- Seminars
-Student Seminar | After the Deluge: Economic and Environmental Consequences of Floods in China <https://fsi.stanford.edu/events/student-seminar-after-deluge-economic-and-environmental-consequences-floods-china>
-Friday, November 20, 2026
-12:00 PM - 1:00 PM
-(Pacific)
-Register <https://app.smartsheet.com/b/form/019fce8bf19170f7b7ce36140d48615d>
-Goldman Conference Room, Encina Hall, E409
- Speaker: 
- Zhiren Hu, IvyPlus Graduate Student, Economics for Sustainability and Energy Transition Research Program, Stanford University 
 Eliza Ennis - Estimating the population-wide impacts of proposed harm reduction policy: Modeling the syndemic of HIV, HCV, and overdose - PhD Candidate Practice Job Talk <https://fsi.stanford.edu/events/eliza-ennis-estimating-population-wide-impacts-proposed-harm-reduction-policy-modeling>
 Friday, November 20, 2026
 12:00 PM - 1:00 PM
@@ -99,6 +51,15 @@ Encina Commons, Room 119
 Department of Health Policy/Center for Health Policy   
 615 Crothers Way, Stanford
 Lunch will be provided on a first-come, first-served basis for in-person attendees. 
+ Seminars
+Student Seminar | After the Deluge: Economic and Environmental Consequences of Floods in China <https://fsi.stanford.edu/events/student-seminar-after-deluge-economic-and-environmental-consequences-floods-china>
+Friday, November 20, 2026
+12:00 PM - 1:00 PM
+(Pacific)
+Register <https://app.smartsheet.com/b/form/019fce8bf19170f7b7ce36140d48615d>
+Goldman Conference Room, Encina Hall, E409
+ Speaker: 
+ Zhiren Hu, IvyPlus Graduate Student, Economics for Sustainability and Energy Transition Research Program, Stanford University 
  Panel Discussions
 Global Implications of the U.S. Midterm Elections <https://fsi.stanford.edu/events/global-implications-us-midterm-elections>
 Monday, November 30, 2026
@@ -114,6 +75,17 @@ Nate Persily <https://fsi.stanford.edu/people/nathaniel-persily>
 Jim Goldgeier <https://fsi.stanford.edu/people/james-goldgeier>
  Moderator: 
 Colin Kahl <https://fsi.stanford.edu/people/colin-h-kahl>
+ Seminars
+Coalition Impossible? Inside the Race to Form Israel's Next Government <https://fsi.stanford.edu/events/coalition-impossible-inside-race-form-israels-next-government>
+Tuesday, December 1, 2026
+10:00 AM - 10:45 AM
+(Pacific)
+Register Now <https://app.smartsheet.com/b/form/01a1f0030e7e71178e01edb6b69a1332>
+Virtual Only Event.
+ Speaker: 
+ Yohanan Plesner 
+ Moderator: 
+Amichai Magen <https://fsi.stanford.edu/people/Amichai_Magen>
  Panel Discussions
 Emerging Technologies and Strategic Stability <https://fsi.stanford.edu/events/emerging-technologies-and-strategic-stability>
 Tuesday, December 1, 2026
@@ -288,4 +260,20 @@ Friday, February 19, 2027
 Register <https://app.smartsheet.com/b/form/019faf07fb9372faac9a73b8d3fac04c>
 Goldman Room E409, Encina Hall
  Speaker: 
- Nan Jia, Professor of Strategic Management, USC Marshall School of Business
+ Nan Jia, Professor of Strategic Management, USC Marshall School of Business 
+ Seminars
+Student Seminar | March 5, 2027 <https://fsi.stanford.edu/events/student-seminar-march-5-2027>
+Friday, March 5, 2027
+12:00 PM - 1:00 PM
+(Pacific)
+Register <https://app.smartsheet.com/b/form/019fce8bf31d7dad967415018e817961>
+Goldman Conference Room, Encina Hall, E409
+ Seminars
+Han Zhang | SCCEI Seminar <https://fsi.stanford.edu/events/han-zhang-sccei-seminar>
+Friday, March 12, 2027
+12:00 PM - 1:20 PM
+(Pacific)
+Register <https://app.smartsheet.com/b/form/01a18498d96f77ddbbd57b4b530d55c2>
+Goldman Room E409, Encina Hall
+ Speaker: 
+ Han Zhang, Assistant Professor of Sociology and International and Public Affairs, Brown University

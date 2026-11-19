@@ -1,6 +1,6 @@
 # Aspen Digital
 # https://www.aspendigital.org/events/
-# fetched 2026-11-18T08:51:41.149851-05:00
+# fetched 2026-11-19T10:48:16.628141-05:00
 # tags: think-tank
 
 Our Events
@@ -8,11 +8,11 @@ Our Events
 Upcoming Events
 Our core skill is convening thinkers and doers to surface and elevate promising solutions, and find clarity and insight amid a noisy information environment.
 See how we’re making sense of the ways digital tools and services influence our daily lives. Join us for an upcoming event, or watch the recording of one you missed.
-2026 Aspen Cyber Summit <https://www.aspendigital.org/event/aspen-cyber-summit-2026/>
-Join us in celebrating 11 years of dialogue at the 2026 Aspen Cyber Summit in Washington, DC, on Wednesday, November 18. 
- November 18, 2026 
  {"includes":[{"object":"type","value":"event","label":"All Events"}],"excludes":[],"order":[],"meta":"","rules":[{"object":"custom","property":"_event_date","compare":"<","value":"today","label":"_event_date < today"}],"property":"","details":["title"],"title":"Previous Events","description":"","columns":2,"total":6,"filters":[{"object":"taxonomy","value":"165","label":"Workstream"}],"filtering":[],"abilities":["search","sort","listener"],"action":"paged","buttons":[],"pagination":["button"],"search":"","className":"random alt","sorts":[{"label":"Most Recent","value":{"orderby":["_event_date-DESC"]}},{"label":"Oldest","value":{"orderby":["_event_date-ASC"]}},{"label":"A-Z","value":{"orderby":["title-ASC"]}},{"label":"Z-A","value":{"orderby":["title-DESC"]}}]} 
 Previous Events
+2026 Aspen Cyber Summit <https://www.aspendigital.org/event/aspen-cyber-summit-2026/>
+2026 Aspen Cyber Summit hosted in Washington, D.C. celebrated 11 years of dialogue across government, industry, and civil society to create a safer world, online and off. 
+ November 18, 2026 
 WIN SUmmit <https://www.aspendigital.org/event/win-summit/>
 Join us for the WIN Summit on October 22nd where private-sector leaders, investors, and philanthropic organizations and funders will gather to talk about the future of the workplace. 
  October 22, 2026 
@@ -28,8 +28,5 @@ Shared Futures: The AI Forum brings together cultural architects to explore how 
 Magnifica Humanitas: Catholic Thought for the Digital Age <https://www.aspendigital.org/event/magnifica-humanitas-ai/>
 Join us on the week of the release of Pope Leo’s first encyclical to discuss Pope Leo XIV’s first encyclical and its commentary on AI. 
  May 29, 2026 
-Ingredients for Land Governance & Food Security <https://www.aspendigital.org/event/food-security-roundtable/>
-Aspen Digital hosted a virtual roundtable digging into challenges surrounding land governance in the US context. 
- April 14, 2026 
 THE BEST OF ASPEN DIGITAL, RIGHT IN YOUR INBOX.
 Sign up for our email list to stay current on our work.

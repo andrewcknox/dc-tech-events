@@ -1,19 +1,19 @@
 # Punchbowl News live events
 # https://punchbowl.news/events/
-# fetched 2026-11-18T08:51:41.149851-05:00
+# fetched 2026-11-19T10:48:16.628141-05:00
 # tags: media
 
 Subscribe to be notified about all upcoming Punchbowl News events.
 Featured Event
 Featured Event
-Pop-Up Conversation with Rep. Josh Gottheimer
-Tuesday, November 17, 2026
+Crypto Summit: Washington, D.C.
+Tuesday, December 1, 2026
 •
-9 a.m. ET
+8 a.m. ET
 •
 Washington, D.C.
-Punchbowl News hosted a conversation with Rep. Josh Gottheimer (D-N.J.) on Tuesday, Nov. 17 at 9 a.m. ET. Punchbowl News Tech Reporter Anthony Adragna sat down with Gottheimer to discuss how Washington and the private sector can work together to verify real people, stop bad actors and deliver safer, easier experiences that work for Americans. Afterward, Caryn Seidman Becker, chair and CEO of CLEAR, joined Punchbowl News Founder and CEO Anna Palmer for a fireside chat.
-RSVP <https://events.punchbowl.news/pop-up_Gottheimer>
+Join Punchbowl News on Tuesday, Dec. 1, at 8 a.m. ET for a summit on the future of cryptocurrency. Punchbowl News Founder and CEO Anna Palmer will sit down with Sen.-elect Andy Barr (R-Ky.) to discuss what’s next for crypto policy and how Congress can secure financial systems while also protecting consumers and safeguarding innovation. Following the discussion, we’ll sit down for a crypto advocate panel moderated by Punchbowl News Senior Financial Services Reporter, Brendan Pedersen.
+RSVP <https://events.punchbowl.news/CryptoSummit_12_1_26>
 Browse
 Upcoming Events
 Go to Crypto Summit: Washington, D.C. <https://events.punchbowl.news/CryptoSummit_12_1_26>

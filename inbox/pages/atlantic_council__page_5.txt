@@ -1,18 +1,11 @@
 # Atlantic Council (page 5)
 # https://www.atlanticcouncil.org/events/?ac-page=5
-# fetched 2026-11-18T09:06:12.746927-05:00
+# fetched 2026-11-19T10:48:16.628141-05:00
 # tags: think-tank
 
 Upcoming events
 We convene in Washington DC, internationally, and virtually to inspire global engagement and to shape solutions to the defining challenges of our times. Through small, focused events and larger public gatherings, we inform and build connections. Register for upcoming events or subscribe to watch live on YouTube.
-Flagship Event
- Fri, December 11, 2026 • 8:00 am ET
- 2026 Transatlantic Forum on GeoEconomics
- The Transatlantic Forum on GeoEconomics is an annual flagship convening focused on issues at the nexus of economics, finance, foreign policy, and national security. <https://www.atlanticcouncil.org/event/2026-transatlantic-forum-on-geoeconomics/>
-Digital Policy <https://www.atlanticcouncil.org/issue/digital-policy/>
-Economy & Business <https://www.atlanticcouncil.org/issue/economy-business/>
-Europe & Eurasia <https://www.atlanticcouncil.org/region/europe-eurasia/>
-European Union <https://www.atlanticcouncil.org/region/european-union/>
+No upcoming events match these filters.
 #ACFrontPage <https://www.atlanticcouncil.org/acfrontpage/>
  harnesses the convening power and expertise of the Council’s sixteen programs and centers to spotlight the world’s most prominent leaders and the most compelling ideas across sectors. The virtual platform engages new audiences eager for nonpartisan and constructive solutions to current global challenges. This widely promoted forty-five-minute program features the Council’s most important guests and content serving as the highlight of our programming each week.
 Past event

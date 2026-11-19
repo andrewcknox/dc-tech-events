@@ -1,6 +1,6 @@
 # Center for American Progress
 # https://www.americanprogress.org/events/
-# fetched 2026-11-18T08:51:41.149851-05:00
+# fetched 2026-11-19T10:48:16.628141-05:00
 # tags: think-tank
 
 Preparing for What’s Next: Lessons From Implementing the Nation’s Largest Climate Bill <https://www.americanprogress.org/events/preparing-for-whats-next-lessons-from-implementing-the-nations-largest-climate-bill/>

@@ -1,37 +1,37 @@
 # Atlantic Council (page 2)
 # https://www.atlanticcouncil.org/events/?ac-page=2
-# fetched 2026-11-18T09:06:12.746927-05:00
+# fetched 2026-11-19T10:48:16.628141-05:00
 # tags: think-tank
 
 Upcoming events
 We convene in Washington DC, internationally, and virtually to inspire global engagement and to shape solutions to the defining challenges of our times. Through small, focused events and larger public gatherings, we inform and build connections. Register for upcoming events or subscribe to watch live on YouTube.
-Public Event
- Wed, November 18, 2026 • 2:00 pm ET
- Securing critical infrastructure and strategic assets across the Americas <https://www.atlanticcouncil.org/event/securing-critical-infrastructure-and-strategic-assets-across-the-americas/>
-Americas <https://www.atlanticcouncil.org/region/americas/>
-Economy & Business <https://www.atlanticcouncil.org/issue/economy-business/>
-Infrastructure <https://www.atlanticcouncil.org/issue/infrastructure/>
-Latin America <https://www.atlanticcouncil.org/region/latin-america/>
 Online Event
- Fri, November 20, 2026 • 9:00 am ET
- Can US-EU tech relations get back on track? <https://www.atlanticcouncil.org/event/can-us-eu-tech-relations-get-back-on-track/>
-Digital Policy <https://www.atlanticcouncil.org/issue/digital-policy/>
-Economy & Business <https://www.atlanticcouncil.org/issue/economy-business/>
+ Fri, November 20, 2026 • 11:00 am ET
+ What the Oleshky ceasefire reveals about the human cost of Russia’s war <https://www.atlanticcouncil.org/event/what-the-oleshky-ceasefire-reveals-about-the-human-cost-of-russias-war/>
 Europe & Eurasia <https://www.atlanticcouncil.org/region/europe-eurasia/>
-European Union <https://www.atlanticcouncil.org/region/european-union/>
-Public Event
- Fri, November 20, 2026 • 9:15 am ET
- Future pathways for the US-Korea alliance <https://www.atlanticcouncil.org/event/future-pathways-for-the-us-korea-alliance/>
-Korea <https://www.atlanticcouncil.org/region/korea/>
 Politics & Diplomacy <https://www.atlanticcouncil.org/issue/politics-diplomacy/>
-Security & Defense <https://www.atlanticcouncil.org/issue/security-defense/>
-Security Partnerships <https://www.atlanticcouncil.org/issue/security-partnerships/>
+Resilience & Society <https://www.atlanticcouncil.org/issue/resilience-society/>
+Russia <https://www.atlanticcouncil.org/region/russia/>
 Public Event
- Fri, November 20, 2026 • 9:45 am ET
- NATO in America: How the Alliance impacts Pennsylvania <https://www.atlanticcouncil.org/event/nato-in-america-how-the-alliance-impacts-pennsylvania/>
+ Fri, November 20, 2026 • 11:00 am ET
+ Governor Josh Shapiro on why foreign policy matters to Pennsylvanians
+ AN AC FRONT PAGE EVENT—Pennsylvania Governor Josh Shapiro lays out his vision for US global leadership and a new transatlantic alliance that strengthens America's economy, allows the United States and its allies to solve the world's toughest problems, and ensures the alliance's collective security. <https://www.atlanticcouncil.org/event/governor-josh-shapiro-on-why-foreign-policy-matters-to-pennsylvanians/>
+NATO <https://www.atlanticcouncil.org/issue/nato/>
+Politics & Diplomacy <https://www.atlanticcouncil.org/issue/politics-diplomacy/>
+United States and Canada <https://www.atlanticcouncil.org/region/united-states-canada/>
+Public Event
+ Mon, November 23, 2026 • 10:00 am ET
+ What Washington’s peace push means for Ukraine <https://www.atlanticcouncil.org/event/what-washingtons-peace-push-means-for-ukraine/>
 Europe & Eurasia <https://www.atlanticcouncil.org/region/europe-eurasia/>
 NATO <https://www.atlanticcouncil.org/issue/nato/>
-United States and Canada <https://www.atlanticcouncil.org/region/united-states-canada/>
+Peacekeeping and Peacebuilding <https://www.atlanticcouncil.org/issue/peacekeeping-and-peacebuilding/>
+Politics & Diplomacy <https://www.atlanticcouncil.org/issue/politics-diplomacy/>
+Tue, November 24, 2026 • 9:00 am ET
+ From Antalya to Abu Dhabi: Advancing climate action <https://www.atlanticcouncil.org/event/from-antalya-to-abu-dhabi-advancing-climate-action/>
+Energy & Environment <https://www.atlanticcouncil.org/issue/energy-environment/>
+Energy Markets & Governance <https://www.atlanticcouncil.org/issue/energy-markets-governance/>
+Energy Transitions <https://www.atlanticcouncil.org/issue/energy-transitions/>
+Infrastructure <https://www.atlanticcouncil.org/issue/infrastructure/>
 Load More <https://www.atlanticcouncil.org/events/?ac-page=3>
 #ACFrontPage <https://www.atlanticcouncil.org/acfrontpage/>
  harnesses the convening power and expertise of the Council’s sixteen programs and centers to spotlight the world’s most prominent leaders and the most compelling ideas across sectors. The virtual platform engages new audiences eager for nonpartisan and constructive solutions to current global challenges. This widely promoted forty-five-minute program features the Council’s most important guests and content serving as the highlight of our programming each week.

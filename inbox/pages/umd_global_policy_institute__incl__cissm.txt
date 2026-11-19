@@ -1,6 +1,6 @@
 # UMD Global Policy Institute (incl. CISSM)
 # https://gpi.umd.edu/events
-# fetched 2026-11-18T08:51:41.149851-05:00
+# fetched 2026-11-19T10:48:16.628141-05:00
 # tags: university, maryland
 
 Events

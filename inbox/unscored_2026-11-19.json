@@ -1,0 +1,65 @@
+{
+ "instructions": "Fill fit (1-5), topics (from the DAILY.md list) and why for each event; add tags (e.g. bay-area) if needed; then `uv run dte score apply <this file>`. Leave fit null to skip.",
+ "events": [
+  {
+   "id": 639,
+   "title": "NG-25 PRE-LAUNCH TELECONFERENCE, Nov 23, 2026, virtual, 12:00 pm ET",
+   "start": "2026-11-23T12:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "NASA and Northrop Grumman will hold a pre-launch teleconference on November 23, 2026 at 12:00 pm ET to discuss the upcoming launch of Northrop Grumman’s 25th cargo mission, NG-25, to the International Space Station.The launch is target for Sunday, November",
+   "url": "https://spacepolicyonline.com/events/ng-25-pre-launch-teleconference-nov-23-2026-virtual-1200-pm-et/",
+   "fit": 1,
+   "topics": [
+    "space"
+   ],
+   "why": "Routine NASA launch briefing, not policy."
+  },
+  {
+   "id": 638,
+   "title": "Nebius GTC DC Watch Party",
+   "start": "2026-12-01T13:30:00-05:00",
+   "location": "https://luma.com/event/evt-AwtBbWsCSfdJeEv",
+   "virtual": false,
+   "host": "NVIDIA GTC DC side events (Luma)",
+   "source": "NVIDIA GTC DC side events (Luma)",
+   "tags": [
+    "public",
+    "industry"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/nebius-dq8z Address: Check event page for more details. Hosted by Brit DeBord, Emily & Natasha Sampson",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-IGTUtC9M8rJP1tb",
+   "fit": 2,
+   "topics": [
+    "AI"
+   ],
+   "why": "GTC DC watch party; industry networking more than policy."
+  },
+  {
+   "id": 640,
+   "title": "Lynkable: The Partnership Pipeline - Members +3",
+   "start": "2026-12-04T21:30:00-05:00",
+   "location": "Frontier Tower @ Spaceship 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/voice-ai-for-real-life Address: Frontier Tower @ Spaceship 995 Market Street, San Francisco Hosted by Frontier Tower, Lynkable . & Eric Wang",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [],
+   "why": "Startup networking in SF, off-topic."
+  }
+ ]
+}

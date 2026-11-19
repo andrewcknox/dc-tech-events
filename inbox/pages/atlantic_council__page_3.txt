@@ -1,31 +1,10 @@
 # Atlantic Council (page 3)
 # https://www.atlanticcouncil.org/events/?ac-page=3
-# fetched 2026-11-18T09:06:12.746927-05:00
+# fetched 2026-11-19T10:48:16.628141-05:00
 # tags: think-tank
 
 Upcoming events
 We convene in Washington DC, internationally, and virtually to inspire global engagement and to shape solutions to the defining challenges of our times. Through small, focused events and larger public gatherings, we inform and build connections. Register for upcoming events or subscribe to watch live on YouTube.
-Online Event
- Fri, November 20, 2026 • 11:00 am ET
- What the Oleshky ceasefire reveals about the human cost of Russia’s war <https://www.atlanticcouncil.org/event/what-the-oleshky-ceasefire-reveals-about-the-human-cost-of-russias-war/>
-Europe & Eurasia <https://www.atlanticcouncil.org/region/europe-eurasia/>
-Politics & Diplomacy <https://www.atlanticcouncil.org/issue/politics-diplomacy/>
-Resilience & Society <https://www.atlanticcouncil.org/issue/resilience-society/>
-Russia <https://www.atlanticcouncil.org/region/russia/>
-Public Event
- Fri, November 20, 2026 • 11:00 am ET
- Governor Josh Shapiro on why foreign policy matters to Pennsylvanians
- AN AC FRONT PAGE EVENT—Pennsylvania Governor Josh Shapiro lays out his vision for US global leadership and his foreign policy priorities for 2027 and beyond. <https://www.atlanticcouncil.org/event/governor-josh-shapiro-on-why-foreign-policy-matters-to-pennsylvanians/>
-NATO <https://www.atlanticcouncil.org/issue/nato/>
-Politics & Diplomacy <https://www.atlanticcouncil.org/issue/politics-diplomacy/>
-United States and Canada <https://www.atlanticcouncil.org/region/united-states-canada/>
-Public Event
- Mon, November 23, 2026 • 10:00 am ET
- What Washington’s peace push means for Ukraine <https://www.atlanticcouncil.org/event/what-washingtons-peace-push-means-for-ukraine/>
-Europe & Eurasia <https://www.atlanticcouncil.org/region/europe-eurasia/>
-NATO <https://www.atlanticcouncil.org/issue/nato/>
-Peacekeeping and Peacebuilding <https://www.atlanticcouncil.org/issue/peacekeeping-and-peacebuilding/>
-Politics & Diplomacy <https://www.atlanticcouncil.org/issue/politics-diplomacy/>
 Public Event
  Tue, December 1, 2026 • 1:30 pm ET
  Polar Opposites? Geopolitics in the Arctic and Antarctic <https://www.atlanticcouncil.org/event/polar-opposites-geopolitics-in-the-arctic-and-antarctic/>
@@ -33,6 +12,24 @@ Energy & Environment <https://www.atlanticcouncil.org/issue/energy-environment/>
 Politics & Diplomacy <https://www.atlanticcouncil.org/issue/politics-diplomacy/>
 Resilience & Society <https://www.atlanticcouncil.org/issue/resilience-society/>
 Security & Defense <https://www.atlanticcouncil.org/issue/security-defense/>
+Online Event
+ Wed, December 2, 2026 • 11:00 am ET
+ How investment in health drives economic growth in Latin America <https://www.atlanticcouncil.org/event/how-investment-in-health-drives-economic-growth-in-latin-america/>
+Americas <https://www.atlanticcouncil.org/region/americas/>
+Latin America <https://www.atlanticcouncil.org/region/latin-america/>
+Resilience & Society <https://www.atlanticcouncil.org/issue/resilience-society/>
+Public Event
+ Wed, December 2, 2026 • 2:00 pm ET
+ Powering abundance 2027 <https://www.atlanticcouncil.org/event/public-powering-abundance-2027/>
+Energy & Environment <https://www.atlanticcouncil.org/issue/energy-environment/>
+Infrastructure <https://www.atlanticcouncil.org/issue/infrastructure/>
+Public Event
+ Mon, December 7, 2026 • 3:00 pm ET
+ Tomorrow’s fleet: Revitalizing US shipbuilding and the maritime industrial base <https://www.atlanticcouncil.org/event/tomorrows-fleet-revitalizing-us-shipbuilding-and-the-maritime-industrial-base/>
+Defense Industry <https://www.atlanticcouncil.org/issue/defense-industry/>
+Maritime Security <https://www.atlanticcouncil.org/issue/maritime-security/>
+Security & Defense <https://www.atlanticcouncil.org/issue/security-defense/>
+United States and Canada <https://www.atlanticcouncil.org/region/united-states-canada/>
 Load More <https://www.atlanticcouncil.org/events/?ac-page=4>
 #ACFrontPage <https://www.atlanticcouncil.org/acfrontpage/>
  harnesses the convening power and expertise of the Council’s sixteen programs and centers to spotlight the world’s most prominent leaders and the most compelling ideas across sectors. The virtual platform engages new audiences eager for nonpartisan and constructive solutions to current global challenges. This widely promoted forty-five-minute program features the Council’s most important guests and content serving as the highlight of our programming each week.

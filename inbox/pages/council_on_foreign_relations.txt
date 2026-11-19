@@ -1,26 +1,32 @@
 # Council on Foreign Relations
 # https://www.cfr.org/events
-# fetched 2026-11-18T08:51:41.149851-05:00
+# fetched 2026-11-19T10:48:16.628141-05:00
 # tags: think-tank
 
 Archive
-4862
+4864
  result
 s
+Meeting
+Screening and Discussion of PBS NOVA "Space Wars" <https://www.cfr.org/event/screening-and-discussion-of-pbs-novas-space-wars>
+November 18, 2026
+Meeting
+Media Briefing: Trump, Xi, Putin, and What to Expect <https://www.cfr.org/event/media-briefing-trump-xi-putin-and-what-to-expect>
+November 18, 2026
 Meeting
 CFR Fellows’ Book Launch Series: The Realist <https://www.cfr.org/event/cfr-fellows-book-launch-series-the-realist>
 November 16, 2026
 Meeting
-A Conversation With Former Secretary of Veterans Affairs David Shulkin <https://www.cfr.org/event/a-conversation-with-former-secretary-of-veterans-affairs-david-shulkin>
+CFR Fellows’ Book Launch Series—Germany Rearmed: The Return of War and the End of Illusions <https://www.cfr.org/event/cfr-fellows-book-launch-series-germany-rearmed-the-return-of-war-and-the-end-of-illusions>
 November 16, 2026
 Meeting
 AI Safety and Governance <https://www.cfr.org/event/ai-safety-and-governance>
 November 16, 2026
 Meeting
-Screening and Discussion of "The Fight to Fight" <https://www.cfr.org/event/screening-and-discussion-of-the-fight-to-fight>
+A Conversation With Former Secretary of Veterans Affairs David Shulkin <https://www.cfr.org/event/a-conversation-with-former-secretary-of-veterans-affairs-david-shulkin>
 November 10, 2026
 Meeting
-C. Peter McColough Series on International Economics With Daron Acemoglu <https://www.cfr.org/event/c-peter-mccolough-series-on-international-economics-with-daron-acemoglu>
+C. Peter McColough Series on International Economics With Michelle Bowman <https://www.cfr.org/event/c-peter-mccolough-series-on-international-economics-with-michelle-bowman>
 November 10, 2026
 Meeting
 CFR Fellows’ Book Launch Series—Germany Rearmed: The Return of War and the End of Illusions <https://www.cfr.org/event/cfr-fellows-book-launch-series-germany-rearmed-the-return-of-war-and-the-end-of-illusions>
@@ -35,13 +41,13 @@ Meeting
 China’s Challenge to the U.S. Dollar <https://www.cfr.org/event/chinas-challenge-to-the-u-s-dollar>
 November 3, 2026
 Meeting
-C. Peter McColough Series on International Economics With Daron Acemoglu <https://www.cfr.org/event/c-peter-mccolough-series-on-international-economics-with-daron-acemoglu>
+Virtual Roundtable: A Conversation With Eli Kowaz on Israeli Elections <https://www.cfr.org/event/virtual-roundtable-a-conversation-with-eli-kowaz-on-israeli-elections>
 November 2, 2026
 Meeting
 Virtual Roundtable: A Conversation With Eli Kowaz on Israeli Elections <https://www.cfr.org/event/virtual-roundtable-a-conversation-with-eli-kowaz-on-israeli-elections>
 November 2, 2026
 Meeting
-2026 UN Secretary-General Candidate Series: A Conversation With Rebeca Grynspan <https://www.cfr.org/event/2026-un-secretary-general-candidate-series-a-conversation-with-rebeca-grynspan>
+Religion and Foreign Policy Webinar: Religion, Policy, and the 2026 Midterm Elections <https://www.cfr.org/event/religion-policy-and-the-2026-midterm-elections>
 October 29, 2026
 Conference
 Thirty-First Term Member Conference <https://www.cfr.org/event/thirty-first-term-member-conference>
@@ -73,9 +79,3 @@ October 21, 2026
 Meeting
 Memorial Museums and the Legacy of Terrorism <https://www.cfr.org/event/memorial-museums-and-the-legacy-of-terrorism>
 October 21, 2026
-Meeting
-2026 UN Secretary-General Candidates Series: A Conversation With Carolyn Rodrigues Birkett <https://www.cfr.org/event/2026-un-secretary-general-candidates-series-a-conversation-with-carolyn-rodrigues-birkett>
-October 16, 2026
-Meeting
-The State of U.S.-Canada Relations: A Conversation With Chrystia Freeland <https://www.cfr.org/event/david-a-morse-lecture-chaotic-superpower-plutocrats-and-other-complicated-people>
-October 15, 2026

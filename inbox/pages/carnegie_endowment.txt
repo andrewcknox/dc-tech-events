@@ -1,25 +1,9 @@
 # Carnegie Endowment
 # https://carnegieendowment.org/events
-# fetched 2026-11-18T08:51:41.149851-05:00
+# fetched 2026-11-19T10:48:16.628141-05:00
 # tags: think-tank
 
 Global - Events
-NOVEMBER
-19
-2026
-Event
-Arab Shiites Between Sect and State <https://carnegieendowment.org/middle-east/events/2026/11/arab-shiites-between-sect-and-state>
-November 19, 2026
-4:30 PM - 5:30 PM GMT+2
-+
-1
-Mohanad Hage Ali
-, 
-Geneive Abdo
-, 
-Ali Al-Mawlawi 
-, 
-…
 NOVEMBER
 20
 2026

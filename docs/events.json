@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-18T09:07:31-05:00",
- "today": "2026-11-18",
- "window_start": "2026-11-18",
+ "generated_at": "2026-11-19T10:56:16-05:00",
+ "today": "2026-11-19",
+ "window_start": "2026-11-19",
  "window_days": 14,
  "map_center": [
   38.905,
@@ -10,59 +10,6 @@
  "map_zoom": 13,
  "flagged_sources": [],
  "events": [
-  {
-   "id": 41,
-   "title": "Can the United States Retain Its Scientific Talent?",
-   "start": "2026-08-20T15:00:00-04:00",
-   "end": null,
-   "host": "ITIF",
-   "source": "Caleb Knapp Weekly AI Digest (Substack)",
-   "location": null,
-   "virtual": true,
-   "url": "https://itif.org/events/2026/08/20/can-the-united-states-retain-its-scientific-talent/",
-   "topics": [
-    "industrial-policy",
-    "tech-geopolitics"
-   ],
-   "tags": [
-    "substack",
-    "think-tank"
-   ],
-   "fit": 3,
-   "why": "Talent and immigration as a tech-competition lever, an ETI-adjacent theme.",
-   "description": "",
-   "speakers": [],
-   "lat": null,
-   "lon": null,
-   "in_dc": false,
-   "time": "3:00 PM",
-   "where": "Virtual"
-  },
-  {
-   "id": 40,
-   "title": "Black Gov Tech Summer Tech Mixer",
-   "start": "2026-08-20T17:30:00-04:00",
-   "end": null,
-   "host": "Black Gov Tech",
-   "source": "Caleb Knapp Weekly AI Digest (Substack)",
-   "location": "12 Stories, The Wharf",
-   "virtual": false,
-   "url": "https://www.eventbrite.com/e/black-gov-tech-summer-tech-mixer-12-stories-come-join-us-tickets-1995463243277",
-   "topics": [],
-   "tags": [
-    "public",
-    "substack"
-   ],
-   "fit": 2,
-   "why": "Gov-tech networking mixer; social rather than policy content.",
-   "description": "",
-   "speakers": [],
-   "lat": 38.8786,
-   "lon": -77.0247,
-   "in_dc": true,
-   "time": "5:30 PM",
-   "where": "12 Stories, The Wharf"
-  },
   {
    "id": 42,
    "title": "AI Agent Containment Failures: Technical Realities and Policy Responses",
@@ -6275,6 +6222,35 @@
    "where": "Hopkins Bloomberg Center, Room 258"
   },
   {
+   "id": 641,
+   "title": "Future of Defense 2026 (Axios Live)",
+   "start": "2026-11-19T13:00:00-05:00",
+   "end": null,
+   "host": "Axios",
+   "source": "daily page scan",
+   "location": "Washington, DC 20005",
+   "virtual": false,
+   "url": "https://www.axios.com/events",
+   "topics": [
+    "AI",
+    "cyber",
+    "space",
+    "industrial-policy"
+   ],
+   "tags": [
+    "media"
+   ],
+   "fit": 3,
+   "why": "On-record defense-tech discussion in DC, though invite-only.",
+   "description": "Axios's third annual Future of Defense Summit on defense-tech investment, new equipment and how conflicts are changing warfare across land, air, sea, space and cyber. Invite only; RSVP closed.",
+   "speakers": [],
+   "lat": 38.8950982,
+   "lon": -77.0363849,
+   "in_dc": true,
+   "time": "1:00 PM",
+   "where": "Washington, DC 20005"
+  },
+  {
    "id": 227,
    "title": "AI and energy costs: Market and policy solutions",
    "start": "2026-11-19T14:00:00-05:00",
@@ -6660,6 +6636,38 @@
    "in_dc": false,
    "time": "10:30 AM–11:30 AM",
    "where": "Online (+ virtual)"
+  },
+  {
+   "id": 642,
+   "title": "Senate Commerce Nominations Hearing (Peter Feldman, CPSC; Christopher Mufarrige, FTC; Loren Smith Jr., DOT)",
+   "start": "2026-11-24T10:00:00-05:00",
+   "end": null,
+   "host": "Senate Committee on Commerce, Science, and Transportation",
+   "source": "daily page scan",
+   "location": "SR-253, Russell Senate Office Building, Washington, DC",
+   "virtual": false,
+   "url": "https://www.commerce.senate.gov/meetings/58665/",
+   "topics": [
+    "data/privacy",
+    "trust-and-safety"
+   ],
+   "tags": [
+    "hill"
+   ],
+   "fit": 3,
+   "why": "An FTC nominee will be questioned on AI, privacy and platform enforcement.",
+   "description": "Nominations hearing chaired by Sen. Cruz: Peter Feldman to chair the CPSC, Christopher Mufarrige to be a Federal Trade Commissioner, and Loren Smith Jr. to be an Assistant Secretary of Transportation.",
+   "speakers": [
+    "Ted Cruz",
+    "Peter Feldman",
+    "Christopher Mufarrige",
+    "Loren Smith Jr."
+   ],
+   "lat": 38.8899,
+   "lon": -77.0091,
+   "in_dc": true,
+   "time": "10:00 AM",
+   "where": "SR-253, Russell Senate Office Building, Washington, DC"
   },
   {
    "id": 253,
@@ -7052,6 +7060,33 @@
    "in_dc": false,
    "time": "1:30 PM–3:30 PM",
    "where": "Aspen Institute, 2300 N St NW, Washington, DC"
+  },
+  {
+   "id": 643,
+   "title": "Powering abundance 2027",
+   "start": "2026-12-02T14:00:00-05:00",
+   "end": null,
+   "host": "Atlantic Council",
+   "source": "daily page scan",
+   "location": "Atlantic Council, 1400 L St NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.atlanticcouncil.org/event/public-powering-abundance-2027/",
+   "topics": [
+    "energy-tech",
+    "industrial-policy"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Energy supply for AI and industry is a core tech-policy question.",
+   "description": "Atlantic Council public event on energy and infrastructure for an era of abundant power demand.",
+   "speakers": [],
+   "lat": 38.903,
+   "lon": -77.0345,
+   "in_dc": true,
+   "time": "2:00 PM",
+   "where": "Atlantic Council, 1400 L St NW, Washington, DC"
   },
   {
    "id": 345,

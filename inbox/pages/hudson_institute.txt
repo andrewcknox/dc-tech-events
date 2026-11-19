@@ -1,25 +1,8 @@
 # Hudson Institute
 # https://www.hudson.org/events
-# fetched 2026-11-18T08:51:41.149851-05:00
+# fetched 2026-11-19T10:48:16.628141-05:00
 # tags: think-tank
 
-18
-November 2026
- In-Person Event | Hudson Institute
-Rebuilding the Arsenal of Freedom and Reindustrializing America
-Featured Speakers:
-Congressman Mike Rogers
-Nadia Schadlow
-18
-November 2026
- In-Person Event | Hudson Institute
-Rebuilding the Arsenal of Freedom and Reindustrializing America
-Join House Armed Services Committee Chairman Mike Rogers (AL-03) for a fireside discussion with Senior Fellow Nadia Schadlow on Congress’s role in revitalizing America’s defense industrial base.
- WEDNESDAY 2:00 p.m. - 3:00 p.m.
-Featured Speakers:
-Congressman Mike Rogers
-Nadia Schadlow
-Learn More <https://www.hudson.org/events/rebuilding-arsenal-freedom-reindustrializing-america>
 19
 November 2026
  In-Person Event | Hudson Institute
@@ -37,6 +20,25 @@ Featured Speakers:
 Roger Zakheim
 Nadia Schadlow
 Learn More <https://www.hudson.org/events/peace-through-strength-how-reagans-military-buildup-won-cold-war>
+30
+November 2026
+ In-Person Event | Hudson Institute
+Azerbaijan and the New American Strategy for Eurasia
+Featured Speakers:
+Can Kasapoğlu
+Michael Doran
+Ken Moriyasu
+30
+November 2026
+ In-Person Event | Hudson Institute
+Azerbaijan and the New American Strategy for Eurasia
+Join Hudson Institute for a conversation that examines Washington’s relationship with Azerbaijan.
+ MONDAY 2:30 p.m. - 3:30 p.m.
+Featured Speakers:
+Can Kasapoğlu
+Michael Doran
+Ken Moriyasu
+Learn More <https://www.hudson.org/events/azerbaijan-new-american-strategy-eurasia>
 02
 December 2026
  In-Person Event | Invite Only
@@ -110,6 +112,40 @@ Featured Speakers:
 Tim Sheehy
 Joel Rayburn
 Learn More <https://www.hudson.org/events/americas-opportunity-middle-east-conversation-senator-tim-sheehy>
+07
+January 2027
+ In-Person Event | Hudson Institute
+Transatlantic Defense Industrial Cooperation and NATO 3.0: A Conversation with US Ambassador to NATO Matthew Whitaker
+Featured Speakers:
+Matthew Whitaker
+Peter Rough
+07
+January 2027
+ In-Person Event | Hudson Institute
+Transatlantic Defense Industrial Cooperation and NATO 3.0: A Conversation with US Ambassador to NATO Matthew Whitaker
+Join US Ambassador to NATO Matthew Whitaker and Senior Fellow Peter Rough for a conversation on NATO 3.0, transatlantic defense industrial cooperation, and the state of the alliance in a rapidly evolving threat landscape. 
+ THURSDAY 4:00 p.m. - 5:00 p.m.
+Featured Speakers:
+Matthew Whitaker
+Peter Rough
+Learn More <https://www.hudson.org/events/transatlantic-defense-industrial-cooperation-nato-30-conversation-us-ambassador-nato-matthew>
+18
+November 2026
+ Past Event
+Rebuilding the Arsenal of Freedom and Reindustrializing America
+Featured Speakers:
+Congressman Mike Rogers
+Nadia Schadlow
+18
+November 2026
+ Past Event
+Rebuilding the Arsenal of Freedom and Reindustrializing America
+Join House Armed Services Committee Chairman Mike Rogers (AL-03) for a fireside discussion with Senior Fellow Nadia Schadlow on Congress’s role in revitalizing America’s defense industrial base.
+ WEDNESDAY 2:00 p.m. - 3:00 p.m.
+Featured Speakers:
+Congressman Mike Rogers
+Nadia Schadlow
+Learn More <https://www.hudson.org/events/rebuilding-arsenal-freedom-reindustrializing-america>
 17
 November 2026
  Past Event
@@ -241,67 +277,3 @@ Featured Speakers:
 Nick Snyder
 Hiroyuki Nakashima
 Learn More <https://www.hudson.org/events/future-us-japan-cooperation-competitive-world-economic-security-strategy>
-12
-November 2026
- Past Event
-From Dependence to Resilience: Financing a Secure Pharmaceutical Supply Chain
-Featured Speakers:
-Caroline Vik
-Maryll Toufanian
-Nick Snyder
-12
-November 2026
- Past Event
-From Dependence to Resilience: Financing a Secure Pharmaceutical Supply Chain
-Join DFC Chief Policy Officer Caroline Vik and Amneal Pharmaceuticals Senior Vice President Maryll Toufanian for a conversation moderated by Senior Fellow Nick Snyder. The discussion will examine America’s strategy to secure pharmaceutical supply chains and the work ahead for policymakers and industry as they pursue sustainable solutions in a complex market and policy environment. 
- THURSDAY 1:00 p.m. - 2:00 p.m.
-Featured Speakers:
-Caroline Vik
-Maryll Toufanian
-Nick Snyder
-Learn More <https://www.hudson.org/events/dependence-resilience-financing-secure-pharmaceutical-supply-chain>
-02
-November 2026
- Past Event
-AI Power and National Security Conference: Open Models, Governance, and US-China Military Competition
-Featured Speakers:
-Joel Scanlon
-Steve Kelly
-Michael Ortiz
-Sam Bresnick
-Caroline Zier
-Thomas J. Duesterberg
-Kyle Crichton
-Esther Tetruashvily
-David Helvey
-James Giordano
-Lieutenant General Jack Shanahan (USAF, Ret.)
-Bill Drexel
-Moderators:
-Jason Hsu
-Tsiporah Fried
-Riley Walters
-02
-November 2026
- Past Event
-AI Power and National Security Conference: Open Models, Governance, and US-China Military Competition
-Join Hudson Institute for a conference with leaders from industry, government, academia, and defense to discuss the latest developments in the US-China AI competition.
- MONDAY 2:00 p.m. - 6:00 p.m.
-Featured Speakers:
-Joel Scanlon
-Steve Kelly
-Michael Ortiz
-Sam Bresnick
-Caroline Zier
-Thomas J. Duesterberg
-Kyle Crichton
-Esther Tetruashvily
-David Helvey
-James Giordano
-Lieutenant General Jack Shanahan (USAF, Ret.)
-Bill Drexel
-Moderators:
-Jason Hsu
-Tsiporah Fried
-Riley Walters
-Learn More <https://www.hudson.org/events/ai-power-national-security-conference-open-models-governance-us-china-military-competition>

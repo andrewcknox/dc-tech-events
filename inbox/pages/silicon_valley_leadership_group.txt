@@ -1,12 +1,7 @@
 # Silicon Valley Leadership Group
 # https://svlg.org/events/feed/
-# fetched 2026-11-18T08:51:41.149851-05:00
+# fetched 2026-11-19T10:48:16.628141-05:00
 # tags: bay-area, industry
-
-### Synopsys Chip Design Program (CHIP) Showcase
-Link: https://svlg.org/events/synopsys-chip-design-program-chip-showcase/
-Published: Wed, 18 Nov 2026 10:00:00 -0800
-CHIP is a project-based learning program for dual-enrolled advanced manufacturing students to learn about the semiconductor industry and chip design. The culminating Showcase brings participating students to the Synopsys HQ for a facility tour, career conversations, and networking, allowing them to present their chip designs and build professional skills. By invitation only-please reach out to Ruhi...
 
 ### Civic Impact COE Q4 Meeting + ERG Consortium Holiday Convening
 Link: https://svlg.org/events/civic-impact-coe-q4-meeting-erg-consortium-holiday-convening/

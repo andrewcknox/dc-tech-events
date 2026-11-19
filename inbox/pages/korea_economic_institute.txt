@@ -1,6 +1,6 @@
 # Korea Economic Institute
 # https://keia.org/events/
-# fetched 2026-11-18T08:51:41.149851-05:00
+# fetched 2026-11-19T10:48:16.628141-05:00
 # tags: think-tank
 
 Join us for upcoming discussions, expert panels, and networking opportunities focused on U.S.-Korea relations and policy analysis.

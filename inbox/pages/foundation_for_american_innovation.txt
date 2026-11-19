@@ -1,17 +1,17 @@
 # Foundation for American Innovation
 # https://www.thefai.org/events-feed.xml
-# fetched 2026-11-18T08:51:41.149851-05:00
+# fetched 2026-11-19T10:48:16.628141-05:00
 # tags: think-tank
-
-### Amerithrax 25 Years Later
-Link: https://luma.com/joinfai-5y2a
-Published: Wed, 04 Nov 2026 01:18:20 GMT
-November 18, 2026 | 5:30 PM ​Twenty-five years after the 2001 anthrax letter attacks, join the Foundation for American Innovation for a fireside chat with Assistant Secretary of War Robert Kadlec. The conversation will explore lessons learned from the attacks, the evolution of U.S. biodefense, and strategies to counter emerging biothreats, with reference to the Department of War's 2026 Biodeterrence Posture Review.
 
 ### Christmas at Sea Cliff
 Link: https://christmas.thefai.org/
 Published: Thu, 12 Nov 2026 16:30:58 GMT
 December 5, 2026 Join the Foundation for American Innovation above the Golden Gate for eggnog and mulled wine, Bing Crosby on the record player, and dancing after dark. Festive black tie encouraged.
+
+### Amerithrax 25 Years Later
+Link: https://luma.com/joinfai-5y2a
+Published: Wed, 04 Nov 2026 01:18:20 GMT
+November 18, 2026 | 5:30 PM ​Twenty-five years after the 2001 anthrax letter attacks, join the Foundation for American Innovation for a fireside chat with Assistant Secretary of War Robert Kadlec. The conversation will explore lessons learned from the attacks, the evolution of U.S. biodefense, and strategies to counter emerging biothreats, with reference to the Department of War's 2026 Biodeterrence Posture Review.
 
 ### Future Craft Book Launch
 Link: https://luma.com/joinfai-48vw
@@ -258,8 +258,3 @@ December 5, 2024 | 5:00 PM | Washington, DC With a wave of recent litigation fro
 Link: https://thefai.org/events/salon-dinner-on-government-efficiency
 Published: Wed, 26 Mar 2025 19:22:51 GMT
 November 13, 2024 | 6:00 PM | Washington, DC A salon dinner on pathways for fiscal reform and improving government efficiency in the next administration.
-
-### Abundance 2024
-Link: https://thefai.org/events/abundance-2024
-Published: Fri, 09 Aug 2024 15:11:20 GMT
-October 9, 2024 - October 10, 2024 | 3:13 PM | Washington, DC A two-day, invite-only conference this October in the nation’s capital.
