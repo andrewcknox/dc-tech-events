@@ -1,17 +1,10 @@
 # Atlantic Council (page 3)
 # https://www.atlanticcouncil.org/events/?ac-page=3
-# fetched 2026-11-19T10:48:16.628141-05:00
+# fetched 2026-11-20T07:14:19.024144-05:00
 # tags: think-tank
 
 Upcoming events
 We convene in Washington DC, internationally, and virtually to inspire global engagement and to shape solutions to the defining challenges of our times. Through small, focused events and larger public gatherings, we inform and build connections. Register for upcoming events or subscribe to watch live on YouTube.
-Public Event
- Tue, December 1, 2026 • 1:30 pm ET
- Polar Opposites? Geopolitics in the Arctic and Antarctic <https://www.atlanticcouncil.org/event/polar-opposites-geopolitics-in-the-arctic-and-antarctic/>
-Energy & Environment <https://www.atlanticcouncil.org/issue/energy-environment/>
-Politics & Diplomacy <https://www.atlanticcouncil.org/issue/politics-diplomacy/>
-Resilience & Society <https://www.atlanticcouncil.org/issue/resilience-society/>
-Security & Defense <https://www.atlanticcouncil.org/issue/security-defense/>
 Online Event
  Wed, December 2, 2026 • 11:00 am ET
  How investment in health drives economic growth in Latin America <https://www.atlanticcouncil.org/event/how-investment-in-health-drives-economic-growth-in-latin-america/>
@@ -30,6 +23,12 @@ Defense Industry <https://www.atlanticcouncil.org/issue/defense-industry/>
 Maritime Security <https://www.atlanticcouncil.org/issue/maritime-security/>
 Security & Defense <https://www.atlanticcouncil.org/issue/security-defense/>
 United States and Canada <https://www.atlanticcouncil.org/region/united-states-canada/>
+Public Event
+ Thu, December 10, 2026 • 12:30 am ET
+ Women in finance: Accelerators of invention <https://www.atlanticcouncil.org/event/women-in-finance-accelerators-of-invention/>
+Economy & Business <https://www.atlanticcouncil.org/issue/economy-business/>
+Middle East <https://www.atlanticcouncil.org/region/middle-east/>
+Women <https://www.atlanticcouncil.org/issue/women/>
 Load More <https://www.atlanticcouncil.org/events/?ac-page=4>
 #ACFrontPage <https://www.atlanticcouncil.org/acfrontpage/>
  harnesses the convening power and expertise of the Council’s sixteen programs and centers to spotlight the world’s most prominent leaders and the most compelling ideas across sectors. The virtual platform engages new audiences eager for nonpartisan and constructive solutions to current global challenges. This widely promoted forty-five-minute program features the Council’s most important guests and content serving as the highlight of our programming each week.

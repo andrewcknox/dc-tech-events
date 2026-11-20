@@ -1,0 +1,104 @@
+{
+ "instructions": "Fill fit (1-5), topics (from the DAILY.md list) and why for each event; add tags (e.g. bay-area) if needed; then `uv run dte score apply <this file>`. Leave fit null to skip.",
+ "events": [
+  {
+   "id": 649,
+   "title": "NVIDIA Howard Vibe Hack 2026",
+   "start": "2026-12-01T17:00:00-05:00",
+   "location": "https://luma.com/event/evt-tsYQtFso3zeLLnY",
+   "virtual": false,
+   "host": "NVIDIA GTC DC side events (Luma)",
+   "source": "NVIDIA GTC DC side events (Luma)",
+   "tags": [
+    "public",
+    "industry"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/howard-hackathon Address: Check event page for more details. Hosted by NVIDIA & 3 others",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-IGTUtC9M8rJP1tb",
+   "fit": 2,
+   "topics": [
+    "AI"
+   ],
+   "why": "Hackathon side event at NVIDIA GTC DC; technical, not policy."
+  },
+  {
+   "id": 650,
+   "title": "hosted·ai: GPU Market Forum, Washington DC Edition",
+   "start": "2026-12-01T18:30:00-05:00",
+   "location": "https://luma.com/event/evt-Sr4XLss0nbCpSbH",
+   "virtual": false,
+   "host": "NVIDIA GTC DC side events (Luma)",
+   "source": "NVIDIA GTC DC side events (Luma)",
+   "tags": [
+    "public",
+    "industry"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/x22wzxjq Address: Check event page for more details. Hosted by Divya Dangi & 3 others",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-IGTUtC9M8rJP1tb",
+   "fit": 3,
+   "topics": [
+    "AI",
+    "semiconductors"
+   ],
+   "why": "GPU compute market forum during GTC DC; touches compute supply, an export-control-adjacent topic."
+  },
+  {
+   "id": 651,
+   "title": "NVIDIA Developer Live Agent Gauntlet",
+   "start": "2026-12-02T11:00:00-05:00",
+   "location": "https://luma.com/event/evt-755RgSTBDbAP9f2",
+   "virtual": false,
+   "host": "NVIDIA GTC DC side events (Luma)",
+   "source": "NVIDIA GTC DC side events (Luma)",
+   "tags": [
+    "public",
+    "industry"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/nvidia-live-agent-gauntlet-gtc-dc-2026 Address: Check event page for more details. Hosted by Kiana Steele (NVIDIA)",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-IGTUtC9M8rJP1tb",
+   "fit": 2,
+   "topics": [
+    "AI"
+   ],
+   "why": "Developer agent competition at GTC DC; technical."
+  },
+  {
+   "id": 648,
+   "title": "Pivot to Asia 3.0? Navigating Future Alliances in Northeast Asia",
+   "start": "2026-12-02T12:45:00-05:00",
+   "location": "Elliott School of International Affairs, 505",
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [
+    "university",
+    "gwu"
+   ],
+   "description": "This talk explores a “Pivot 3.0” under new domestic political and geopolitical circumstances in the U.S. and in Northeast Asia. The United States first pivoted toward the Indo-Pacific under the Obama administration, and subsequent administrations have continued, rebranded, or reshaped",
+   "url": "https://calendar.gwu.edu/event/pivot-to-asia-30-navigating-future-alliances-in-northeast-asia",
+   "fit": 2,
+   "topics": [
+    "Japan-Korea"
+   ],
+   "why": "Northeast Asia alliances talk at GW; little tech content."
+  },
+  {
+   "id": 647,
+   "title": "The Darkened Light of Faith",
+   "start": "2026-12-03T16:30:00-05:00",
+   "location": "Elliott School of International Affairs, Suite 412, Voesar conference room",
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [
+    "university",
+    "gwu"
+   ],
+   "description": "Could the African American political tradition save American democracy? African Americans have had every reason to reject America’s democratic experiment. Yet African American activists, intellectuals, and artists who have sought to transform the United States into a racially just society",
+   "url": "https://calendar.gwu.edu/event/the-darkened-light-of-faith",
+   "fit": 1,
+   "topics": [],
+   "why": "Not about technology."
+  }
+ ]
+}

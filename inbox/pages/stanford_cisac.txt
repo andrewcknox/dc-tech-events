@@ -1,6 +1,6 @@
 # Stanford CISAC
 # https://cisac.fsi.stanford.edu/events
-# fetched 2026-11-19T10:48:16.628141-05:00
+# fetched 2026-11-20T07:14:19.024144-05:00
 # tags: bay-area, university
 
 CISAC Events
@@ -35,3 +35,9 @@ Register to attend online <https://stanford.zoom.us/webinar/register/WN_afXWg6B2
 William J. Perry Conference Room 
  Speaker: 
 Ruth Gibson <https://cisac.fsi.stanford.edu/people/ruth-gibson>
+Convenient Morality: Public Opinion on Wartime Conduct | Nivedita Jhunjhunwala <https://cisac.fsi.stanford.edu/events/convenient-morality-public-opinion-wartime-conduct-nivedita-jhunjhunwala>
+Tuesday, January 5, 2027
+12:00 PM - 1:15 PM
+(Pacific)
+Register to attend in person <https://stanforduniversity.qualtrics.com/jfe/form/SV_07nmBdJS2u13LOm>
+William J. Perry Conference Room

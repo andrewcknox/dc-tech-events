@@ -1,6 +1,6 @@
 # US Chamber of Commerce events
 # https://www.uschamber.com/events
-# fetched 2026-11-19T10:48:16.628141-05:00
+# fetched 2026-11-20T07:14:19.024144-05:00
 # tags: industry
 
 Events
@@ -49,4 +49,3 @@ Celebrating America's Small Businesses: Meet the 2026 CO—100 Top Business <htt
 Housing <https://www.uschamber.com/housing>
 Building for Growth: Tackling America’s Housing Shortage <https://www.uschamber.com/housing/building-for-growth-tackling-americas-housing-shortage>
  Upcoming Events
-TechnologyPeople-Powered AI: Addressing the Missing MiddleLive Now08:30 AM EST - 05:30 PM ESTU.S. Chamber of Commerce, 1615 H St NW, Washington, DC 20062Learn More <https://events.uschamberfoundation.org/aiai/>

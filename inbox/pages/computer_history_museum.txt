@@ -1,12 +1,16 @@
 # Computer History Museum
 # https://computerhistory.org/events/
-# fetched 2026-11-19T10:48:16.628141-05:00
+# fetched 2026-11-20T07:14:19.024144-05:00
 # tags: bay-area, public
 
 Skip to main content
 Home <https://computerhistory.org/>
 Events
 CHM Live is our premier event series. It offers original productions exploring historical and current issues in technology, entrepreneurship and innovation, as well as the ongoing transformation of computing and its impact on society.
+CHM Live
+ 20/20 Vision: Is This the Moment for Smart Glasses?
+ Wednesday, December 9, 2026
+ 7:00 PM <https://computerhistory.org/events/20-20-vision-is-this-the-moment-for-smart-glasses/>
 View past events here <https://computerhistory.org/past-events>
 CHM Live
 CHM Live is our premier event series. It offers original productions exploring historical and current issues in technology, entrepreneurship and innovation, as well as the ongoing transformation of computing and its impact on society.

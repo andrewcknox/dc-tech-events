@@ -1,6 +1,6 @@
 # AAAS events
 # https://www.aaas.org/events
-# fetched 2026-11-19T10:48:16.628141-05:00
+# fetched 2026-11-20T07:14:19.024144-05:00
 # tags: science
 
 AAAS is committed to making its events inclusive spaces for sharing ideas and knowledge.
@@ -9,10 +9,6 @@ AAAS Event Policies <https://www.aaas.org/events/policies>
  R&D Budget and Policy Program
 50th Annual AAAS Science and Technology Policy Forum <https://www.aaas.org/events/50th-annual-aaas-science-and-technology-policy-forum2>
 More <https://www.aaas.org/events/50th-annual-aaas-science-and-technology-policy-forum2>
-19 November 2026
- Center for Scientific Evidence in Public Issues
-2026 AAAS Charles Valentine Riley Memorial Lecture <https://www.aaas.org/events/2026-aaas-charles-valentine-riley-memorial-lecture>
-More <https://www.aaas.org/events/2026-aaas-charles-valentine-riley-memorial-lecture>
 2 December 2026
  Center for Scientific Evidence in Public Issues
 The Future of Advanced Nuclear and the Role for State Policy <https://www.aaas.org/events/future-advanced-nuclear-and-role-state-policy>

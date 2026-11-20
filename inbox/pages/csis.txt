@@ -1,34 +1,27 @@
 # CSIS
 # https://www.csis.org/events
-# fetched 2026-11-19T10:48:16.628141-05:00
+# fetched 2026-11-20T07:14:19.024144-05:00
 # tags: think-tank
 
 Events
 CSIS organizes & hosts a variety of international relations & policy events featuring expert speakers. Register for live events, webinars, series & conferences.
  Next Up
-In Person
-India’s Data Moment: A Conversation with Secretary Saurabh Garg on India’s AI-Ready Data Push <https://www.csis.org/events/indias-data-moment-conversation-secretary-saurabh-garg-indias-ai-ready-data-push>
+Webcast
+Understanding the Memory Chip Crunch & the Way Ahead <https://www.csis.org/events/understanding-memory-chip-crunch-way-ahead>
 Presented by
-Chair on India and Emerging Asia Economics <https://www.csis.org/programs/chair-india-and-emerging-asia-economics>
-November 19, 2026 • 4:00 – 6:30 pm EST
+Strategic Technologies Program <https://www.csis.org/programs/strategic-technologies-program>
+November 20, 2026 • 10:00 – 11:00 am EST
  Upcoming Events
 Image
-Photo: Narumon Bowonkitwanchai/GETTY IMAGES
-Understanding the Memory Chip Crunch & the Way Ahead <https://www.csis.org/events/understanding-memory-chip-crunch-way-ahead>
-November 20, 2026 • 10:00 – 11:00 am EST
-Webcast
- Hosted by 
-Strategic Technologies Program
-Image
 Photo: Ramiz Dallah/Anadolu/Getty Images
-Restoring State Sovereignty in Lebanon: Progress, Challenges, and the Road Ahead <https://www.csis.org/events/restoring-state-sovereignty-lebanon-progress-challenges-and-road-ahead>
+Restoring State Sovereignty in Lebanon: Progress, Challenges, and the Road Ahead <https://www.csis.org/index%2ephp/events/restoring-state-sovereignty-lebanon-progress-challenges-and-road-ahead>
 November 23, 2026 • 9:00 – 10:00 am EST
 Webcast
  Hosted by 
 Middle East Program
 Image
 Photo: CSIS
-The UN is Due for a Reboot <https://www.csis.org/events/un-due-reboot>
+The UN is Due for a Reboot <https://www.csis.org/index%2ephp/events/un-due-reboot>
 November 24, 2026 • 9:00 – 9:45 am EST
 Webcast
  Hosted by 
@@ -43,23 +36,32 @@ Arleigh A. Burke Chair in Strategy
 See all upcoming events <https://www.csis.org/events?f%5B0%5D=event_type%3A3004&f%5B1%5D=event_type%3A3005&f%5B2%5D=event_type%3A3012>
  Recent Events
 Image
+Photo: Arun SANKAR / AFP via Getty Images
+India’s Data Moment: A Conversation with Secretary Saurabh Garg on India’s AI-Ready Data Push <https://www.csis.org/index%2ephp/events/indias-data-moment-conversation-secretary-saurabh-garg-indias-ai-ready-data-push>
+November 19, 2026 • 4:00 – 6:30 pm EST
+ Hosted by 
+Chair on India and Emerging Asia Economics
+Image
+Photo: iLab/CSIS
+The Next Energy Order: Featuring Dr. Sarah Kapnick, Global Head of Climate Advisory, J.P. Morgan | Betting on America <https://www.csis.org/events/next-energy-order-featuring-dr-sarah-kapnick-global-head-climate-advisory-jp-morgan-betting>
+November 19, 2026 • 10:00 – 11:00 am EST
+ Hosted by 
+Economic Security and Technology
+Image
 Photo: ESA/AFP/Getty Images
 Traffic Jams in Space | Space Strategic Dialogue <https://www.csis.org/index%2Ephp/events/traffic-jams-space-space-strategic-dialogue>
 November 19, 2026 • 9:00 – 10:00 am EST
-In Person
-Webcast
  Hosted by 
 Aerospace Security Project
 Image
 Photo: Iori Sagisawa / POOL / AFP via Getty Images
 Trump-Xi-Putin Summit: What Happened? | The Capital Cable #147 <https://www.csis.org/events/trump-xi-putin-summit-what-happened-capital-cable-147>
 November 19, 2026 • 8:45 – 9:30 am EST
-Webcast
  Hosted by 
 Korea Chair
 Image
 Photo: RIZWAN TABASSUM/AFP via Getty Images
-Global Collaboration to Eliminate Cervical Cancer <https://www.csis.org/events/global-collaboration-eliminate-cervical-cancer>
+Global Collaboration to Eliminate Cervical Cancer <https://www.csis.org/index%2Ephp/events/global-collaboration-eliminate-cervical-cancer>
 November 18, 2026 • 4:00 – 5:00 pm EST
  Hosted by 
 Global Development
@@ -71,7 +73,7 @@ November 18, 2026 • 12:00 – 1:00 pm EST
 Aerospace Security Project
 Image
 Photo: CSIS
-Digital Resilience in a Post-Mythos World: A Conversation with Greg Rattray <https://www.csis.org/index%2ephp/events/digital-resilience-post-mythos-world-conversation-greg-rattray>
+Digital Resilience in a Post-Mythos World: A Conversation with Greg Rattray <https://www.csis.org/events/digital-resilience-post-mythos-world-conversation-greg-rattray>
 November 18, 2026 • 9:00 – 10:00 am EST
  Hosted by 
 Intelligence, National Security, and Technology Program
@@ -80,79 +82,44 @@ Image
  CSIS Event
  A Conversation on the U.S. Role in Global Port Infrastructure
 November 17, 2026 • 2:30 – 3:30 pm EST
- Hosted by Economic Development and Prosperity Program <https://www.csis.org/index%2ephp/events/conversation-us-role-global-port-infrastructure>
-Image
-The Impossible State Live Podcast: The New Yalta? Trump-Xi-Putin Summit <https://www.csis.org/index%2Ephp/events/impossible-state-live-podcast-new-yalta-trump-xi-putin-summit>
-November 17, 2026 • 11:00 – 11:40 am EST
- Hosted by 
-Korea Chair
-Image
- Photo: ANGELA WEISS / AFP via Getty Images
- CSIS Event
- PONI 2026 Fall Conference 
-November 17, 2026 • 9:00 am – 5:00 pm EST
- Hosted by Project on Nuclear Issues <https://www.csis.org/index%2ephp/events/poni-2026-fall-conference>
+ Hosted by Economic Development and Prosperity Program <https://www.csis.org/events/conversation-us-role-global-port-infrastructure>
 See all past events <https://www.csis.org/events?past_events=1>
 Upcoming Events <https://www.csis.org/events?upcoming_events=1>
 Past Events <https://www.csis.org/events?past_events=1>
 Filter by
 Event
- (7) <https://www.csis.org/events?f%5B0%5D=event_type%3A3012>
-Asia
- (1) <https://www.csis.org/events?f%5B0%5D=regions%3A797>
+ (4) <https://www.csis.org/events?f%5B0%5D=event_type%3A3012>
 China
  (1) <https://www.csis.org/events?f%5B0%5D=regions%3A801>
 Egypt and the Levant
  (1) <https://www.csis.org/events?f%5B0%5D=regions%3A1323>
-India
- (1) <https://www.csis.org/events?f%5B0%5D=regions%3A809>
-Korea
- (1) <https://www.csis.org/events?f%5B0%5D=regions%3A798>
 Middle East
  (1) <https://www.csis.org/events?f%5B0%5D=regions%3A785>
-North America
- (1) <https://www.csis.org/events?f%5B0%5D=regions%3A800>
-Artificial Intelligence
- (1) <https://www.csis.org/events?f%5B0%5D=topics%3A3056>
 Conflict and Humanitarian Crises
  (1) <https://www.csis.org/events?f%5B0%5D=topics%3A1336>
 Defense and Security
- (4) <https://www.csis.org/events?f%5B0%5D=topics%3A817>
+ (2) <https://www.csis.org/events?f%5B0%5D=topics%3A817>
 Defense Strategy and Capabilities
- (2) <https://www.csis.org/events?f%5B0%5D=topics%3A826>
+ (1) <https://www.csis.org/events?f%5B0%5D=topics%3A826>
 Geopolitics and International Security
  (1) <https://www.csis.org/events?f%5B0%5D=topics%3A824>
 International Development
  (1) <https://www.csis.org/events?f%5B0%5D=topics%3A818>
-Space and Aerospace
- (1) <https://www.csis.org/events?f%5B0%5D=topics%3A845>
 Technology
- (2) <https://www.csis.org/events?f%5B0%5D=topics%3A822>
+ (1) <https://www.csis.org/events?f%5B0%5D=topics%3A822>
 Technology and Innovation
  (1) <https://www.csis.org/events?f%5B0%5D=topics%3A847>
 2026 <https://www.csis.org/events?f%5B0%5D=event_dates%3A2026>
 2027 <https://www.csis.org/events?f%5B0%5D=event_dates%3A2027>
 Defense and Security
- (2) <https://www.csis.org/events?f%5B0%5D=department%3ADefense%20and%20Security>
+ (1) <https://www.csis.org/events?f%5B0%5D=department%3ADefense%20and%20Security>
 Economic Security and Technology
- (2) <https://www.csis.org/events?f%5B0%5D=department%3AEconomic%20Security%20and%20Technology>
+ (1) <https://www.csis.org/events?f%5B0%5D=department%3AEconomic%20Security%20and%20Technology>
 Geopolitics and Foreign Policy
- (2) <https://www.csis.org/events?f%5B0%5D=department%3AGeopolitics%20and%20Foreign%20Policy>
+ (1) <https://www.csis.org/events?f%5B0%5D=department%3AGeopolitics%20and%20Foreign%20Policy>
 Global Development
  (1) <https://www.csis.org/events?f%5B0%5D=department%3AGlobal%20Development>
  Display Archived Results
-Trump-Xi-Putin Summit: What Happened? | The Capital Cable #147 <https://www.csis.org/events/trump-xi-putin-summit-what-happened-capital-cable-147>
-On an emergency episode of the CSIS Capital Cable, experts discuss the possible visit by Kim Jong-un to China to meet with Xi Jinping and Donald Trump on the sidelines of the APEC summit. 
- Event
-— November 19, 2026
-Traffic Jams in Space | Space Strategic Dialogue <https://www.csis.org/events/traffic-jams-space-space-strategic-dialogue>
-Join the CSIS Aerospace Security Project’s Space Strategic Dialogue for a conversation on preventing collisions, distinguishing routine spacecraft activity from potential threats, and strengthening coordination in increasingly crowded orbits.
- Event
-— November 19, 2026
-India’s Data Moment: A Conversation with Secretary Saurabh Garg on India’s AI-Ready Data Push <https://www.csis.org/index%2ephp/events/indias-data-moment-conversation-secretary-saurabh-garg-indias-ai-ready-data-push>
-Secretary Saurabh Garg joins CSIS to discuss how MoSPI is turning India’s vast but fragmented data into an AI-ready foundation for governance, innovation, and international partnership.
- Event
-— November 19, 2026
 Understanding the Memory Chip Crunch & the Way Ahead <https://www.csis.org/events/understanding-memory-chip-crunch-way-ahead>
 A discussion examining the factors driving the current memory supply crunch, its implications for the broader technology ecosystem, and the potential industry and policy solutions needed to address these challenges.
  Event

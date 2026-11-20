@@ -1,14 +1,17 @@
 # Council on Foreign Relations
 # https://www.cfr.org/events
-# fetched 2026-11-19T10:48:16.628141-05:00
+# fetched 2026-11-20T07:14:19.024144-05:00
 # tags: think-tank
 
 Archive
-4864
+4865
  result
 s
 Meeting
 Screening and Discussion of PBS NOVA "Space Wars" <https://www.cfr.org/event/screening-and-discussion-of-pbs-novas-space-wars>
+November 18, 2026
+Meeting
+C. Peter McColough Series on International Economics With Michelle Bowman <https://www.cfr.org/event/c-peter-mccolough-series-on-international-economics-with-michelle-bowman>
 November 18, 2026
 Meeting
 Media Briefing: Trump, Xi, Putin, and What to Expect <https://www.cfr.org/event/media-briefing-trump-xi-putin-and-what-to-expect>
@@ -23,7 +26,7 @@ Meeting
 AI Safety and Governance <https://www.cfr.org/event/ai-safety-and-governance>
 November 16, 2026
 Meeting
-A Conversation With Former Secretary of Veterans Affairs David Shulkin <https://www.cfr.org/event/a-conversation-with-former-secretary-of-veterans-affairs-david-shulkin>
+Screening and Discussion of "The Fight to Fight" <https://www.cfr.org/event/screening-and-discussion-of-the-fight-to-fight>
 November 10, 2026
 Meeting
 C. Peter McColough Series on International Economics With Michelle Bowman <https://www.cfr.org/event/c-peter-mccolough-series-on-international-economics-with-michelle-bowman>
@@ -32,7 +35,7 @@ Meeting
 CFR Fellows’ Book Launch Series—Germany Rearmed: The Return of War and the End of Illusions <https://www.cfr.org/event/cfr-fellows-book-launch-series-germany-rearmed-the-return-of-war-and-the-end-of-illusions>
 November 9, 2026
 Meeting
-A Conversation With Former Secretary of Veterans Affairs David Shulkin <https://www.cfr.org/event/a-conversation-with-former-secretary-of-veterans-affairs-david-shulkin>
+C. Peter McColough Series on International Economics With Daron Acemoglu <https://www.cfr.org/event/c-peter-mccolough-series-on-international-economics-with-daron-acemoglu>
 November 9, 2026
 Meeting
 Science Fair Series: When the Sun Strikes <https://www.cfr.org/event/science-fair-series-when-the-sun-strikes>
@@ -41,7 +44,7 @@ Meeting
 China’s Challenge to the U.S. Dollar <https://www.cfr.org/event/chinas-challenge-to-the-u-s-dollar>
 November 3, 2026
 Meeting
-Virtual Roundtable: A Conversation With Eli Kowaz on Israeli Elections <https://www.cfr.org/event/virtual-roundtable-a-conversation-with-eli-kowaz-on-israeli-elections>
+C. Peter McColough Series on International Economics With Daron Acemoglu <https://www.cfr.org/event/c-peter-mccolough-series-on-international-economics-with-daron-acemoglu>
 November 2, 2026
 Meeting
 Virtual Roundtable: A Conversation With Eli Kowaz on Israeli Elections <https://www.cfr.org/event/virtual-roundtable-a-conversation-with-eli-kowaz-on-israeli-elections>
@@ -75,7 +78,4 @@ Midterm Elections and Implications for U.S. Foreign Policy <https://www.cfr.org/
 October 22, 2026
 Meeting
 Early Career Professionals Series: Charting a Career in International Affairs—A Conversation With CFR Visiting Fellows <https://www.cfr.org/event/early-career-professionals-series-charting-a-career-in-international-affairs-a-conversation-with-cfr-visiting-fellows>
-October 21, 2026
-Meeting
-Memorial Museums and the Legacy of Terrorism <https://www.cfr.org/event/memorial-museums-and-the-legacy-of-terrorism>
 October 21, 2026

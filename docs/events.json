@@ -1,14 +1,19 @@
 {
- "generated_at": "2026-11-19T10:56:16-05:00",
- "today": "2026-11-19",
- "window_start": "2026-11-19",
+ "generated_at": "2026-11-20T07:20:59-05:00",
+ "today": "2026-11-20",
+ "window_start": "2026-11-20",
  "window_days": 14,
  "map_center": [
   38.905,
   -77.036
  ],
  "map_zoom": 13,
- "flagged_sources": [],
+ "flagged_sources": [
+  {
+   "name": "National Academies",
+   "failures": 3
+  }
+ ],
  "events": [
   {
    "id": 42,
@@ -6583,6 +6588,35 @@
    "where": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
   },
   {
+   "id": 652,
+   "title": "AI in the Real World: What are Governments Actually Doing, with Lord Simon Case",
+   "start": "2026-11-20T16:00:00-05:00",
+   "end": "2026-11-20T18:30:00-05:00",
+   "host": "Georgetown SFS",
+   "source": "daily page scan",
+   "location": "125 E St NW, Washington, DC",
+   "virtual": false,
+   "url": "https://events.georgetown.edu/live/events/44026-ai-in-the-real-world-what-are-governments-actually-doi",
+   "topics": [
+    "AI",
+    "EU"
+   ],
+   "tags": [
+    "university"
+   ],
+   "fit": 4,
+   "why": "Senior practitioner view of government AI adoption, a short walk from SAIS.",
+   "description": "Former U.K. Cabinet Secretary Lord Simon Case on how governments are actually adopting and governing AI.",
+   "speakers": [
+    "Simon Case"
+   ],
+   "lat": 38.8963887,
+   "lon": -77.0131683,
+   "in_dc": true,
+   "time": "4:00 PM–6:30 PM",
+   "where": "125 E St NW, Washington, DC"
+  },
+  {
    "id": 131,
    "title": "What is next for the US-China AI safety dialogue?",
    "start": "2026-11-23T10:00:00-05:00",
@@ -6891,6 +6925,33 @@
    "where": "Washington, DC"
   },
   {
+   "id": 653,
+   "title": "Sixth Annual AI in Action Conference: Who Does What? AI, Trade, and Work",
+   "start": "2026-12-01T09:00:00-05:00",
+   "end": "2026-12-01T17:30:00-05:00",
+   "host": "Georgetown University",
+   "source": "daily page scan",
+   "location": "Fisher Colloquium, Georgetown University, Washington, DC",
+   "virtual": false,
+   "url": "https://events.georgetown.edu/live/events/43110-sixth-annual-ai-in-action-conference-who-does-what",
+   "topics": [
+    "AI",
+    "industrial-policy"
+   ],
+   "tags": [
+    "university"
+   ],
+   "fit": 4,
+   "why": "Full-day DC conference on AI's economic and trade effects.",
+   "description": "Day-long conference on how AI is reshaping trade and work.",
+   "speakers": [],
+   "lat": 38.9076,
+   "lon": -77.0723,
+   "in_dc": true,
+   "time": "9:00 AM–5:30 PM",
+   "where": "Fisher Colloquium, Georgetown University, Washington, DC"
+  },
+  {
    "id": 418,
    "title": "Emerging Technologies and Strategic Stability",
    "start": "2026-12-01T12:00:00-08:00",
@@ -6951,6 +7012,34 @@
    "in_dc": true,
    "time": "6:00 PM–8:00 PM",
    "where": "Teaism Penn Quarter, 400 8th St NW, Washington, DC 20004, USA"
+  },
+  {
+   "id": 650,
+   "title": "hosted·ai: GPU Market Forum, Washington DC Edition",
+   "start": "2026-12-01T18:30:00-05:00",
+   "end": "2026-12-01T21:00:00-05:00",
+   "host": "NVIDIA GTC DC side events (Luma)",
+   "source": "NVIDIA GTC DC side events (Luma)",
+   "location": "https://luma.com/event/evt-Sr4XLss0nbCpSbH",
+   "virtual": false,
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-IGTUtC9M8rJP1tb",
+   "topics": [
+    "AI",
+    "semiconductors"
+   ],
+   "tags": [
+    "public",
+    "industry"
+   ],
+   "fit": 3,
+   "why": "GPU compute market forum during GTC DC; touches compute supply, an export-control-adjacent topic.",
+   "description": "Get up-to-date information at: https://luma.com/x22wzxjq Address: Check event page for more details. Hosted by Divya Dangi & 3 others",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "6:30 PM–9:00 PM",
+   "where": "https://luma.com/event/evt-Sr4XLss0nbCpSbH"
   },
   {
    "id": 415,
@@ -7699,6 +7788,37 @@
    "in_dc": true,
    "time": "12:00 PM",
    "where": "Online (+ virtual)"
+  },
+  {
+   "id": 654,
+   "title": "Connected Vehicles, Manufacturing, and National Security: A Conversation with Senator Bernie Moreno",
+   "start": "2026-12-10T12:00:00-05:00",
+   "end": "2026-12-10T12:45:00-05:00",
+   "host": "Hudson Institute",
+   "source": "daily page scan",
+   "location": "Hudson Institute, 1201 Pennsylvania Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.hudson.org/events/connected-vehicles-manufacturing-national-security-conversation-senator-bernie-moreno",
+   "topics": [
+    "China",
+    "industrial-policy",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 4,
+   "why": "A senator on connected-vehicle security and China tech competition, in person in DC.",
+   "description": "Fireside chat with Sen. Moreno on protecting US industry from predatory competition and the convergence of industrial and national security driven by advanced technologies, incl. connected vehicles.",
+   "speakers": [
+    "Bernie Moreno",
+    "Joel Scanlon"
+   ],
+   "lat": 38.896,
+   "lon": -77.0286,
+   "in_dc": true,
+   "time": "12:00 PM–12:45 PM",
+   "where": "Hudson Institute, 1201 Pennsylvania Ave NW, Washington, DC"
   },
   {
    "id": 458,

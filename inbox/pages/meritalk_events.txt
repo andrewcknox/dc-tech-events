@@ -1,6 +1,6 @@
 # MeriTalk events
 # https://www.meritalk.com/events/
-# fetched 2026-11-19T10:48:16.628141-05:00
+# fetched 2026-11-20T07:14:19.024144-05:00
 # tags: media, industry
 
 Events <https://www.meritalk.com/events>

@@ -1,11 +1,11 @@
 # Center for American Progress
 # https://www.americanprogress.org/events/
-# fetched 2026-11-19T10:48:16.628141-05:00
+# fetched 2026-11-20T07:14:19.024144-05:00
 # tags: think-tank
 
 Preparing for What’s Next: Lessons From Implementing the Nation’s Largest Climate Bill <https://www.americanprogress.org/events/preparing-for-whats-next-lessons-from-implementing-the-nations-largest-climate-bill/>
-Upcoming Event
-November 13, 2026
+Past Event
+November 18, 2026
 Nov 18
 Preparing for What’s Next: Lessons From Implementing the Nation’s Largest Climate Bill
 Join CAP for a discussion with federal agency alumni as they share first-hand reflections and lessons from implementing the largest and most ambitious climate bill in U.S. history.

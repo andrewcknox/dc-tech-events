@@ -1,6 +1,6 @@
 # Brookings
 # https://www.brookings.edu/events/
-# fetched 2026-11-19T10:48:16.628141-05:00
+# fetched 2026-11-20T07:14:19.024144-05:00
 # tags: think-tank
 
 Events
@@ -8,26 +8,11 @@ Brookings events feature esteemed leaders, thinkers, and experts from around the
 By registering for or attending a Brookings event, you indicate that you agree to our 
 Terms and Conditions of Attendance <https://www.brookings.edu/wp-content/uploads/2024/05/Event-Terms-and-Conditions-2024.pdf>
 .
-November
-19
-2026
-America’s role in European security <https://www.brookings.edu/events/americas-role-in-european-security/>
- The Brookings Institution, Washington DC
- Thursday, 10:00 am - 11:30 am EST
  Featured Events
-November
-19
-2026
-AI and energy costs: Market and policy solutions <https://www.brookings.edu/events/ai-and-energy-costs-market-and-policy-solutions/>
- The Brookings Institution, Washington D.C.
- Thursday, 2:15 pm - 3:45 pm EST
-Coming of age in an uncertain era <https://www.brookings.edu/events/coming-of-age-in-an-uncertain-era/>
- Upcoming Event
 November
 20
 2026
-Society & Culture <https://www.brookings.edu/topics/social-issues/>
- Coming of age in an uncertain era
+Coming of age in an uncertain era <https://www.brookings.edu/events/coming-of-age-in-an-uncertain-era/>
  The Brookings Institution, Washington D.C.
  Friday, 10:00 am - 11:30 am EST
 What is next for the US-China AI safety dialogue? <https://www.brookings.edu/events/what-is-next-for-the-us-china-ai-safety-dialogue/>
@@ -48,16 +33,16 @@ Education Policy <https://www.brookings.edu/topics/education-policy/>
  Preparing young people for an AI-driven future: Lessons from California
  Online only
  Tuesday, 1:30 pm - 2:30 pm EST
-Upcoming
-AI and energy costs: Market and policy solutions <https://www.brookings.edu/events/ai-and-energy-costs-market-and-policy-solutions/>
+The working person’s bank account: A new proposal for universal banking <https://www.brookings.edu/events/the-working-persons-bank-account-a-new-proposal-for-universal-banking/>
  Upcoming Event
-November
-19
+December
+01
 2026
-Energy Markets & Governance <https://www.brookings.edu/topics/energy-markets-and-governance/>
- AI and energy costs: Market and policy solutions
+Banking & Finance <https://www.brookings.edu/topics/banking-finance/>
+ The working person’s bank account: A new proposal for universal banking
  The Brookings Institution, Washington D.C.
- Thursday, 2:15 pm - 3:45 pm EST
+ Tuesday, 3:00 pm - 5:00 pm EST
+Upcoming
 Coming of age in an uncertain era <https://www.brookings.edu/events/coming-of-age-in-an-uncertain-era/>
  Upcoming Event
 November
@@ -104,6 +89,24 @@ Diplomacy & Multilateralism <https://www.brookings.edu/topics/diplomacy-multilat
  The Brookings Institution, Washington DC
  Tuesday, 10:00 am - 11:45 am EST
 Recent Past Events
+AI and energy costs: Market and policy solutions <https://www.brookings.edu/events/ai-and-energy-costs-market-and-policy-solutions/>
+ Past Event
+November
+19
+2026
+Energy Markets & Governance <https://www.brookings.edu/topics/energy-markets-and-governance/>
+ AI and energy costs: Market and policy solutions
+ The Brookings Institution, Washington D.C.
+ Thursday, 2:15 pm - 3:45 pm EST
+America’s role in European security <https://www.brookings.edu/events/americas-role-in-european-security/>
+ Past Event
+November
+19
+2026
+Defense & Security <https://www.brookings.edu/topics/national-security/>
+ America’s role in European security
+ The Brookings Institution, Washington DC
+ Thursday, 10:00 am - 11:30 am EST
 From idea to impact: How communities around the world are championing family-centered schools <https://www.brookings.edu/events/from-idea-to-impact-how-communities-around-the-world-are-championing-family-centered-schools/>
  Past Event
 November
@@ -122,22 +125,4 @@ Internet & Telecommunications <https://www.brookings.edu/topics/telecommunicatio
  The state of broadband access and affordability
  The Brookings Institution, Washington D.C.
  Wednesday, 1:30 pm - 2:45 pm EST
-The next era of Black business growth: Building pathways to ownership in a changing policy landscape <https://www.brookings.edu/events/the-next-era-of-black-business-growth-building-pathways-to-ownership-in-a-changing-policy-landscape/>
- Past Event
-November
-18
-2026
-Cities & Communities <https://www.brookings.edu/topics/cities-communities/>
- The next era of Black business growth: Building pathways to ownership in a changing policy landscape
- The Brookings Institution, Washington D.C.
- Wednesday, 9:30 am - 11:15 am EST
-Immigration policy and public opinion <https://www.brookings.edu/events/immigration-policy-and-public-opinion/>
- Past Event
-November
-17
-2026
-Immigrants & Immigration <https://www.brookings.edu/topics/immigration-5/>
- Immigration policy and public opinion
- Online only
- Tuesday, 12:00 pm - 1:00 pm EST
 See all past events <https://www.brookings.edu/past-events/>

@@ -1,6 +1,6 @@
 # Consumer Technology Association
 # https://www.cta.tech/events
-# fetched 2026-11-19T10:48:16.628141-05:00
+# fetched 2026-11-20T07:14:19.024144-05:00
 # tags: industry
 
 CES 2027
@@ -22,10 +22,25 @@ Register
 Event Type: 
 Member only
 Virtual Roundtable
+Trade Tech in Practice: Tools for a Changing Trade Landscape
+Thu December 3, 2026
+2-3 PM ET
+Join CTA for a member-only Virtual Roundtable exploring how data, AI and emerging technologies can help businesses navigate today's trade challenges. 
+Register
+Event Type: 
+Member only
+Virtual Roundtable
 AI Safety in 2027: What's Next Following the Midterm Elections?
 Tue December 8, 2026
 3 PM ET
 Join us for a virtual roundtable on how the industry can help advance practical, risk-based approaches that build trust, protect consumers and support continued American leadership in AI.
+Register
+Event Type: 
+Member only
+Seeing Behind the Meter with CalPlug: Project SIGNAL and the Future of Grid Forecasting
+Wed December 9, 2026
+12-1 PM ET
+Join industry experts for a discussion on Project SIGNAL, a California Energy Commission-funded initiative exploring how advanced forecasting, data and technology can help grid operators better anticipate changing electricity demand and respond to increasingly variable conditions.
 Register
 Event
 Winter Break

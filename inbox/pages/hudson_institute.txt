@@ -1,25 +1,8 @@
 # Hudson Institute
 # https://www.hudson.org/events
-# fetched 2026-11-19T10:48:16.628141-05:00
+# fetched 2026-11-20T07:14:19.024144-05:00
 # tags: think-tank
 
-19
-November 2026
- In-Person Event | Hudson Institute
-Peace Through Strength: How Reagan’s Military Buildup Won the Cold War
-Featured Speakers:
-Roger Zakheim
-Nadia Schadlow
-19
-November 2026
- In-Person Event | Hudson Institute
-Peace Through Strength: How Reagan’s Military Buildup Won the Cold War
-Join Hudson Institute for a conversation with Senior Fellow Nadia Schadlow and Roger Zakheim, director of the Ronald Reagan Presidential Foundation and Institute, to discuss Peace Through Strength and what President Reagan’s buildup can teach US policymakers today. 
- THURSDAY 11:00 a.m. - 12:30 p.m.
-Featured Speakers:
-Roger Zakheim
-Nadia Schadlow
-Learn More <https://www.hudson.org/events/peace-through-strength-how-reagans-military-buildup-won-cold-war>
 30
 November 2026
  In-Person Event | Hudson Institute
@@ -95,6 +78,23 @@ William Chou
 Ichiro Takahara
 Kenneth R. Weinstein
 Learn More <https://www.hudson.org/events/strengthening-japanese-allied-critical-minerals-supply-chains-conversation-jogmec-chairman>
+10
+December 2026
+ In-Person Event | Hudson Institute
+Connected Vehicles, Manufacturing, and National Security: A Conversation with Senator Bernie Moreno
+Featured Speakers:
+Senator Bernie Moreno
+Joel Scanlon
+10
+December 2026
+ In-Person Event | Hudson Institute
+Connected Vehicles, Manufacturing, and National Security: A Conversation with Senator Bernie Moreno
+Join Senator Moreno for a fireside discussion with Executive Vice President Joel Scanlon on protecting American industry from predatory competition and the rapid convergence between industrial and national security being driven by the proliferation of advanced technologies. 
+ THURSDAY 12:00 p.m. - 12:45 p.m.
+Featured Speakers:
+Senator Bernie Moreno
+Joel Scanlon
+Learn More <https://www.hudson.org/events/connected-vehicles-manufacturing-national-security-conversation-senator-bernie-moreno>
 15
 December 2026
  In-Person Event | Hudson Institute
@@ -129,6 +129,23 @@ Featured Speakers:
 Matthew Whitaker
 Peter Rough
 Learn More <https://www.hudson.org/events/transatlantic-defense-industrial-cooperation-nato-30-conversation-us-ambassador-nato-matthew>
+19
+November 2026
+ Past Event
+Peace Through Strength: How Reagan’s Military Buildup Won the Cold War
+Featured Speakers:
+Roger Zakheim
+Nadia Schadlow
+19
+November 2026
+ Past Event
+Peace Through Strength: How Reagan’s Military Buildup Won the Cold War
+Join Hudson Institute for a conversation with Senior Fellow Nadia Schadlow and Roger Zakheim, director of the Ronald Reagan Presidential Foundation and Institute, to discuss Peace Through Strength and what President Reagan’s buildup can teach US policymakers today. 
+ THURSDAY 11:00 a.m. - 12:30 p.m.
+Featured Speakers:
+Roger Zakheim
+Nadia Schadlow
+Learn More <https://www.hudson.org/events/peace-through-strength-how-reagans-military-buildup-won-cold-war>
 18
 November 2026
  Past Event
@@ -260,20 +277,3 @@ Featured Speakers:
 Doug Collins
 Jeremy Hunt
 Learn More <https://www.hudson.org/events/putting-veterans-first-conversation-secretary-veterans-affairs-doug-collins>
-13
-November 2026
- Past Event
-The Future of US-Japan Cooperation in a Competitive World: Economic Security and Strategy
-Featured Speakers:
-Nick Snyder
-Hiroyuki Nakashima
-13
-November 2026
- Past Event
-The Future of US-Japan Cooperation in a Competitive World: Economic Security and Strategy
-Join Japan Bank for International Cooperation Senior Managing Director Hiroyuki Nakashima and Senior Fellow Nick Snyder for a conversation on the state of the US-Japan relationship, the links between economic cooperation and national security, and the opportunities and challenges ahead for the alliance.
- FRIDAY 10:00 a.m. - 11:00 a.m.
-Featured Speakers:
-Nick Snyder
-Hiroyuki Nakashima
-Learn More <https://www.hudson.org/events/future-us-japan-cooperation-competitive-world-economic-security-strategy>

@@ -1,19 +1,15 @@
 # Scoop News Group (FedScoop/CyberScoop) events
 # https://cyberscoop.com/attend/
-# fetched 2026-11-19T10:48:16.628141-05:00
+# fetched 2026-11-20T07:14:19.024144-05:00
 # tags: media, industry
 
 Advertisement
 Get our latest cybersecurity news first on Google.
 Click here! <https://google.com/preferences/source?q=cyberscoop.com>
-AI & IT Modernization Summit <https://itmodernizationsummit.upgather.com>
-Nov 19, 2026 <https://itmodernizationsummit.upgather.com>
-Virtual Event <https://itmodernizationsummit.upgather.com>
-Register <https://itmodernizationsummit.upgather.com>
 Beyond Cyber Vulnerability Scores <https://afsfedcyber.upgather.com>
-Dec 3, 2026
-VIRTUAL EVENT
-Register
+Dec 3, 2026 <https://afsfedcyber.upgather.com>
+VIRTUAL EVENT <https://afsfedcyber.upgather.com>
+Register <https://afsfedcyber.upgather.com>
 Safeguarding Federal Grants <https://digitalsciencesafeguardingfedgrants.upgather.com>
 Dec 8, 2026
 Virtual Event
@@ -46,6 +42,10 @@ Webinar: Unleashing the Genesis Mission – Human-Machine Teaming in Nuclear Sec
 Nov 18, 2026
 VIRTUAL EVENT
 Watch Again
+AI & IT Modernization Summit <https://itmodernizationsummit.upgather.com>
+Nov 18, 2026
+Virtual Event
+Watch Again
 Webinar: Racing the Exploit Clock <https://horizon3vulnerabilitymanagement.upgather.com>
 Nov 12, 2026
 Virtual Event
@@ -77,9 +77,5 @@ Watch Again
 EMERGE: Modern Government <https://gditmoderngov.upgather.com/>
 Feb 12, 2026
 Waldorf Astoria, Washington, D.C.
-Watch Again
-IT Modernization Summit <https://itmodernizationsummit.upgather.com/2025>
-Dec 11, 2025
-Virtual Event
 Watch Again
 No events found.

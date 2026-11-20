@@ -1,6 +1,6 @@
 # Georgetown SFS
 # https://sfs.georgetown.edu/events-news/
-# fetched 2026-11-19T10:48:16.628141-05:00
+# fetched 2026-11-20T07:14:19.024144-05:00
 # tags: university, georgetown
 
 News & Events
@@ -12,6 +12,20 @@ Browse events <https://events.georgetown.edu/sfs/>
 Latest news
 Discover the latest news stories and updates from the School of Foreign Service.
 View all news <https://sfs.georgetown.edu/news>
+Announcements <https://sfs.georgetown.edu/category/announcements/>
+, 
+News <https://sfs.georgetown.edu/category/news/>
+, 
+Students <https://sfs.georgetown.edu/category/students/>
+Announcing the 2027 Paul F. Pelosi Scholars cohort
+November 18, 2026
+Meet the 2027 cohort of the Paul F. Pelosi Scholars Initiative.
+Read more <https://sfs.georgetown.edu/news/announcing-the-2027-paul-f-pelosi-scholars-cohort/>
+News <https://sfs.georgetown.edu/category/news/>
+DC high school scholars get a taste of college life at SFS through NEON partnership
+November 17, 2026
+Through NEON, SFS brings college-credit global affairs courses to high schoolers nationwide. See how 200 DC scholars experienced a day on the Hilltop.
+Read more <https://sfs.georgetown.edu/news/dc-high-school-scholars-get-a-taste-of-college-life-at-sfs-through-neon-partnership/>
 News <https://sfs.georgetown.edu/category/news/>
 , 
 Students <https://sfs.georgetown.edu/category/students/>
@@ -35,50 +49,30 @@ Georgetown launches new undergraduate semester abroad in Jakarta
 November 3, 2026
 Georgetown launches its new undergraduate Semester in Jakarta study abroad program, focused on geopolitics, development and sustainability in Indonesia.
 Read more <https://sfs.georgetown.edu/news/georgetown-launches-new-undergraduate-semester-abroad-in-jakarta/>
-Faculty <https://sfs.georgetown.edu/category/faculty/>
-, 
-News <https://sfs.georgetown.edu/category/news/>
-, 
-Research <https://sfs.georgetown.edu/category/research/>
-Six questions on the Israeli election
-October 30, 2026
-Oren Kessler discusses Israel’s election results, coalition negotiations and what comes next for Israel, the region and U.S.-Israel relations.
-Read more <https://sfs.georgetown.edu/news/six-questions-on-the-israeli-election/>
-Faculty <https://sfs.georgetown.edu/category/faculty/>
-, 
-News <https://sfs.georgetown.edu/category/news/>
-, 
-Research <https://sfs.georgetown.edu/category/research/>
-Oil, Energy and the Midterms with Professor Theresa Sabonis-Helf
-October 22, 2026
-SFS Professor Theresa Sabonis-Helf explains how Strait of Hormuz disruptions impact global oil markets and U.S. energy policy.
-Read more <https://sfs.georgetown.edu/news/theresa-sabonis-helf-energy/>
 Upcoming events 
 View all upcoming events <https://events.georgetown.edu/sfs>
 Nov
-17
-A Film Screening and Discussion about Wartime Sexual Violence in Ethiopia
-Healey Family Student Center
+20
+AI in the Real World: What are Governments Actually Doing, with Lord Simon Case, former U.K. Cabinet Secretary and top adviser to prime ministers
+125 E St NW
 4:00pm
  – 
-6:00pm
-View Event <https://events.georgetown.edu/live/events/44103-a-film-screening-and-discussion-about-wartime>
-Nov
-18
-After Exit from Hegemony: Ideology and the End of the American Global Order
-Mortara Center for International Studies
-12:30pm
+6:30pm
+View Event <https://events.georgetown.edu/live/events/44026-ai-in-the-real-world-what-are-governments-actually-doi>
+Dec
+1
+Sixth Annual AI in Action Conference: Who Does What? AI, Trade, and Work
+Fisher Colloquium
+9:00am
  – 
-2:00pm
-View Event <https://events.georgetown.edu/live/events/44121-after-exit-from-hegemony-ideology-and-the-end-of>
-Nov
-18
-Those 4 Years Film Screening and Discussion with Filmmaker
-New South Film Screening Room, New South via HFSC
-2:30pm
- – 
-4:00pm
-View Event <https://events.georgetown.edu/live/events/43938-those-4-years-film-screening-and-discussion-with>
+5:30pm
+View Event <https://events.georgetown.edu/live/events/43110-sixth-annual-ai-in-action-conference-who-does-what>
+Dec
+2
+The Quest for Democracy in Saudi Arabia: A Controversy in the Making?
+ACMCU Boardroom (ICC 270)
+12:00pm
+View Event <https://events.georgetown.edu/live/events/45387-the-quest-for-democracy-in-saudi-arabia-a>
 Dean’s Coffee Chats
 Coffee Chats provide a unique opportunity to engage directly with influential professionals and successful alumni who have made significant impacts in their fields. During these informal gatherings, you can ask questions about their experiences and gain valuable insights.
 Explore previous guests <https://sfs.georgetown.edu/news-events/coffee-chats/>

@@ -1,0 +1,156 @@
+{
+ "source": "daily page scan",
+ "tags": [],
+ "events": [
+  {
+   "title": "AI in the Real World: What are Governments Actually Doing, with Lord Simon Case",
+   "start": "2026-11-20 16:00",
+   "end": "2026-11-20 18:30",
+   "location": "125 E St NW, Washington, DC",
+   "virtual": false,
+   "url": "https://events.georgetown.edu/live/events/44026-ai-in-the-real-world-what-are-governments-actually-doi",
+   "host": "Georgetown SFS",
+   "description": "Former U.K. Cabinet Secretary Lord Simon Case on how governments are actually adopting and governing AI.",
+   "speakers": [
+    "Simon Case"
+   ],
+   "topics": [
+    "AI",
+    "EU"
+   ],
+   "fit": 4,
+   "why": "Senior practitioner view of government AI adoption, a short walk from SAIS.",
+   "tags": [
+    "university"
+   ]
+  },
+  {
+   "title": "Sixth Annual AI in Action Conference: Who Does What? AI, Trade, and Work",
+   "start": "2026-12-01 09:00",
+   "end": "2026-12-01 17:30",
+   "location": "Fisher Colloquium, Georgetown University, Washington, DC",
+   "virtual": false,
+   "url": "https://events.georgetown.edu/live/events/43110-sixth-annual-ai-in-action-conference-who-does-what",
+   "host": "Georgetown University",
+   "description": "Day-long conference on how AI is reshaping trade and work.",
+   "speakers": [],
+   "topics": [
+    "AI",
+    "industrial-policy"
+   ],
+   "fit": 4,
+   "why": "Full-day DC conference on AI's economic and trade effects.",
+   "tags": [
+    "university"
+   ]
+  },
+  {
+   "title": "Connected Vehicles, Manufacturing, and National Security: A Conversation with Senator Bernie Moreno",
+   "start": "2026-12-10 12:00",
+   "end": "2026-12-10 12:45",
+   "location": "Hudson Institute, 1201 Pennsylvania Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.hudson.org/events/connected-vehicles-manufacturing-national-security-conversation-senator-bernie-moreno",
+   "host": "Hudson Institute",
+   "description": "Fireside chat with Sen. Moreno on protecting US industry from predatory competition and the convergence of industrial and national security driven by advanced technologies, incl. connected vehicles.",
+   "speakers": [
+    "Bernie Moreno",
+    "Joel Scanlon"
+   ],
+   "topics": [
+    "China",
+    "industrial-policy",
+    "tech-geopolitics"
+   ],
+   "fit": 4,
+   "why": "A senator on connected-vehicle security and China tech competition, in person in DC.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "So You Want a Nuclear Energy Renaissance? Time to Solve the US Nuclear Waste Management Problem",
+   "start": "2026-12-03 11:00",
+   "end": null,
+   "location": "Stimson Center, 1211 Connecticut Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.stimson.org/event/so-you-want-a-nuclear-energy-renaissance-time-to-solve-the-us-nuclear-waste-management-problem/",
+   "host": "Stimson Center",
+   "description": "Fireside chat with Daniel Metlay on his book on high-activity nuclear waste management policy. Online or in person.",
+   "speakers": [
+    "Daniel S. Metlay"
+   ],
+   "topics": [
+    "energy-tech"
+   ],
+   "fit": 2,
+   "why": "Nuclear energy policy, adjacent to tech/energy interests.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Seeing Behind the Meter with CalPlug: Project SIGNAL and the Future of Grid Forecasting",
+   "start": "2026-12-09 12:00",
+   "end": "2026-12-09 13:00",
+   "location": null,
+   "virtual": true,
+   "url": "https://www.cta.tech/events",
+   "host": "Consumer Technology Association",
+   "description": "Webinar on a California Energy Commission-funded project using advanced forecasting and data to anticipate electricity demand.",
+   "speakers": [],
+   "topics": [
+    "energy-tech",
+    "AI"
+   ],
+   "fit": 2,
+   "why": "Grid data/forecasting webinar; niche for ETI.",
+   "tags": [
+    "industry"
+   ]
+  },
+  {
+   "title": "20/20 Vision: Is This the Moment for Smart Glasses?",
+   "start": "2026-12-09T19:00:00-08:00",
+   "end": null,
+   "location": "Computer History Museum, 1401 N Shoreline Blvd, Mountain View, CA",
+   "virtual": false,
+   "url": "https://computerhistory.org/events/20-20-vision-is-this-the-moment-for-smart-glasses/",
+   "host": "Computer History Museum",
+   "description": "CHM Live panel on whether smart glasses are finally ready for the mainstream.",
+   "speakers": [],
+   "topics": [
+    "AI",
+    "data/privacy"
+   ],
+   "fit": 2,
+   "why": "Consumer-tech talk with some privacy angle; light on policy.",
+   "tags": [
+    "bay-area"
+   ]
+  },
+  {
+   "title": "The Healthy, Human Workplace: Teaming HI and AI",
+   "start": "2026-12-01 09:00",
+   "end": "2026-12-01 11:00",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://hub.jhu.edu/events/2026/12/01/the-healthy-human-workplace-teaming-hi-and-ai/",
+   "host": "JHU Carey Human Capital Development Lab",
+   "description": "Carey's Human Capital Development Lab hosts SHRM's DC chapter; panels on healthy workplaces and teaming human and artificial intelligence.",
+   "speakers": [
+    "D. Jill Green",
+    "Rick Smith"
+   ],
+   "topics": [
+    "AI"
+   ],
+   "fit": 2,
+   "why": "HR-focused AI-at-work panels at the Hopkins Bloomberg Center; light on policy.",
+   "tags": [
+    "jhu",
+    "university"
+   ]
+  }
+ ]
+}

@@ -1,17 +1,10 @@
 # Atlantic Council (page 2)
 # https://www.atlanticcouncil.org/events/?ac-page=2
-# fetched 2026-11-19T10:48:16.628141-05:00
+# fetched 2026-11-20T07:14:19.024144-05:00
 # tags: think-tank
 
 Upcoming events
 We convene in Washington DC, internationally, and virtually to inspire global engagement and to shape solutions to the defining challenges of our times. Through small, focused events and larger public gatherings, we inform and build connections. Register for upcoming events or subscribe to watch live on YouTube.
-Online Event
- Fri, November 20, 2026 • 11:00 am ET
- What the Oleshky ceasefire reveals about the human cost of Russia’s war <https://www.atlanticcouncil.org/event/what-the-oleshky-ceasefire-reveals-about-the-human-cost-of-russias-war/>
-Europe & Eurasia <https://www.atlanticcouncil.org/region/europe-eurasia/>
-Politics & Diplomacy <https://www.atlanticcouncil.org/issue/politics-diplomacy/>
-Resilience & Society <https://www.atlanticcouncil.org/issue/resilience-society/>
-Russia <https://www.atlanticcouncil.org/region/russia/>
 Public Event
  Fri, November 20, 2026 • 11:00 am ET
  Governor Josh Shapiro on why foreign policy matters to Pennsylvanians
@@ -32,6 +25,13 @@ Energy & Environment <https://www.atlanticcouncil.org/issue/energy-environment/>
 Energy Markets & Governance <https://www.atlanticcouncil.org/issue/energy-markets-governance/>
 Energy Transitions <https://www.atlanticcouncil.org/issue/energy-transitions/>
 Infrastructure <https://www.atlanticcouncil.org/issue/infrastructure/>
+Public Event
+ Tue, December 1, 2026 • 1:30 pm ET
+ Polar Opposites? Geopolitics in the Arctic and Antarctic <https://www.atlanticcouncil.org/event/polar-opposites-geopolitics-in-the-arctic-and-antarctic/>
+Energy & Environment <https://www.atlanticcouncil.org/issue/energy-environment/>
+Politics & Diplomacy <https://www.atlanticcouncil.org/issue/politics-diplomacy/>
+Resilience & Society <https://www.atlanticcouncil.org/issue/resilience-society/>
+Security & Defense <https://www.atlanticcouncil.org/issue/security-defense/>
 Load More <https://www.atlanticcouncil.org/events/?ac-page=3>
 #ACFrontPage <https://www.atlanticcouncil.org/acfrontpage/>
  harnesses the convening power and expertise of the Council’s sixteen programs and centers to spotlight the world’s most prominent leaders and the most compelling ideas across sectors. The virtual platform engages new audiences eager for nonpartisan and constructive solutions to current global challenges. This widely promoted forty-five-minute program features the Council’s most important guests and content serving as the highlight of our programming each week.

@@ -1,6 +1,6 @@
 # Stanford FSI (all centers)
 # https://fsi.stanford.edu/events
-# fetched 2026-11-19T10:48:16.628141-05:00
+# fetched 2026-11-20T07:14:19.024144-05:00
 # tags: bay-area, university
 
 FSI Events
@@ -12,34 +12,6 @@ Event Recordings <https://www.youtube.com/FSIStanford>
 Filter:
 Filter results
 Close
- Seminars
-Jannis Panagiotidis | Racism against East Europeans in Germany: History and Present <https://fsi.stanford.edu/events/panagiotidis>
-Thursday, November 19, 2026
-12:00 PM - 1:00 PM
-(Pacific)
-register for in person <https://luma.com/3d1y7ndc>
-Join via zoom <https://stanford.zoom.us/webinar/register/WN_mwn-XbggT_KUsVxkMnQ0xg>
- William J. Perry Conference Room
-Encina Hall, Second Floor, Central, C231 
-616 Jane Stanford Way, Stanford, CA 94305
- Speaker: 
- Jannis Panagiotidis, University of Vienna 
- Moderator: 
-Anna Grzymała-Busse <https://fsi.stanford.edu/people/anna-grzymala-busse>
- Seminars
-Alain Schläpfer — Why Do Voters Elect Authoritarians? How Scandal Signals Independence from Elites <https://fsi.stanford.edu/events/alain-schlapfer-why-do-voters-elect-authoritarians-how-scandal-signals-independence-elites>
-Thursday, November 19, 2026
-12:00 PM - 1:15 PM
-(Pacific)
-join via zoom <https://stanford.zoom.us/j/97375161734?pwd=OLCyIHi1xNeK6CJxEHapsnNX93Dssh.1>
-Virtual to Public. If prompted for a password, use: 123456
-Only those with an active Stanford ID with access to 
-Conference Room E-008 in Encina Hall, East,
- may attend in person.
- Speaker: 
-Alain Schläpfer <https://fsi.stanford.edu/people/alain-schlapfer>
- Moderator: 
-Hesham Sallam <https://fsi.stanford.edu/people/hesham_sallam>
 Eliza Ennis - Estimating the population-wide impacts of proposed harm reduction policy: Modeling the syndemic of HIV, HCV, and overdose - PhD Candidate Practice Job Talk <https://fsi.stanford.edu/events/eliza-ennis-estimating-population-wide-impacts-proposed-harm-reduction-policy-modeling>
 Friday, November 20, 2026
 12:00 PM - 1:00 PM
@@ -212,6 +184,12 @@ Register <https://app.smartsheet.com/b/form/019fce8bfe6e7e0d90c49e5e1769cb8d>
 Goldman Conference Room, Encina Hall, E409
  Speaker: 
  Victoria Liu, PhD student, Stanford University 
+Convenient Morality: Public Opinion on Wartime Conduct | Nivedita Jhunjhunwala <https://fsi.stanford.edu/events/convenient-morality-public-opinion-wartime-conduct-nivedita-jhunjhunwala>
+Tuesday, January 5, 2027
+12:00 PM - 1:15 PM
+(Pacific)
+Register to attend in person <https://stanforduniversity.qualtrics.com/jfe/form/SV_07nmBdJS2u13LOm>
+William J. Perry Conference Room
  Seminars
 Emma Xiaolu Zang | Demographic Constraint: Why Aging Societies Struggle to Invest in the Future <https://fsi.stanford.edu/events/emma-xiaolu-zang-demographic-constraint-why-aging-societies-struggle-invest-future>
 Friday, January 15, 2027
@@ -221,6 +199,19 @@ Register <https://app.smartsheet.com/b/form/019faf0688d3701b9055cca7d1ce7eb6>
 Goldman Room E409, Encina Hall
  Speaker: 
  Emma Xiaolu Zang, Associate Professor of Sociology, Biostatistics, and Global Affairs, Yale University 
+ Seminars
+Industrial Islamism: How Authoritarian Movements Mobilize Workers <https://fsi.stanford.edu/events/industrial-islamism-how-authoritarian-movements-mobilize-workers>
+Tuesday, January 19, 2027
+12:00 PM - 1:30 PM
+(Pacific)
+Register Now <https://app.smartsheet.com/b/form/01a1f58415187fe6aaade7ef3b7f370e>
+In-person:
+ Encina Commons 123 (615 Crothers Way, Stanford)
+Online:
+ Via Zoom
+This event is open to the public. Registration is required.
+ Speaker: 
+ Utku Balaban 
 Information Session — Fisher Family CDDRL Honors Program AY27-28 <https://fsi.stanford.edu/events/information-session-fisher-family-cddrl-honors-program-ay27-28>
 Wednesday, January 20, 2027
 12:00 PM - 1:30 PM

@@ -1,6 +1,6 @@
 # Asia Society Northern California
 # https://asiasociety.org/northern-california/events
-# fetched 2026-11-19T10:48:16.628141-05:00
+# fetched 2026-11-20T07:14:19.024144-05:00
 # tags: bay-area, think-tank
 
 Upcoming Events <https://asiasociety.org/northern-california/events>
@@ -11,15 +11,6 @@ Game Changers West Gala <https://asiasociety.org/northern-california/asia-game-c
 Signature Arts Programming <https://asiasociety.org/northern-california/signature-arts-programming>
 Tech Series <https://asiasociety.org/northern-california/tech-series>
 Upcoming Events
- Online
-Discussion
-National Security & Investing in China Tech <https://asiasociety.org/northern-california/events/national-security-investing-china-tech>
-Thursday 19 Nov 2026 
- 3 - 4 p.m.
- San Francisco
- Time
-Calculate your local time » <https://www.thetimezoneconverter.com/>
-VIRTUAL PROGRAM | Join us for the fourth series of our Seeking Truth Through Facts Series with a discussion on balancing investments and security concerns on Chinese Tech.
  In-person and Online
 Discussion
 Executive Roundtable - U.S.-China Relations: From APEC Summit Outcomes to Strategic Realities <https://asiasociety.org/northern-california/events/executive-roundtable-us-china-relations-apec-summit-outcomes-strategic-realities>

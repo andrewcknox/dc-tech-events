@@ -1,6 +1,6 @@
 # Institute for Security and Technology
 # https://securityandtechnology.org/events/
-# fetched 2026-11-19T10:48:16.628141-05:00
+# fetched 2026-11-20T07:14:19.024144-05:00
 # tags: think-tank
 
 Skip to content
@@ -45,7 +45,7 @@ faith <https://securityandtechnology.org/resource_topic/faith/>
 religion <https://securityandtechnology.org/resource_topic/religion/>
 , 
 tradition <https://securityandtechnology.org/resource_topic/tradition/>
- October 27, 2026 
+ November 19, 2026 
 Event <https://securityandtechnology.org/events/>
 November 9, 2026 12:00 pm 
  Introducing the Religious Voices and Responsible AI Curriculum: Sharing Muslim Perspectives 
