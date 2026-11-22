@@ -1,6 +1,6 @@
 # California Privacy Protection Agency board
 # https://cppa.ca.gov/meetings/
-# fetched 2026-11-20T07:14:19.024144-05:00
+# fetched 2026-11-22T11:21:56.108029-05:00
 # tags: bay-area, public, sacramento
 
 2027 Meetings & Events Schedule

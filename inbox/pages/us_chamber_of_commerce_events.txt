@@ -1,6 +1,6 @@
 # US Chamber of Commerce events
 # https://www.uschamber.com/events
-# fetched 2026-11-20T07:14:19.024144-05:00
+# fetched 2026-11-22T11:21:56.108029-05:00
 # tags: industry
 
 Events
@@ -49,3 +49,6 @@ Celebrating America's Small Businesses: Meet the 2026 CO—100 Top Business <htt
 Housing <https://www.uschamber.com/housing>
 Building for Growth: Tackling America’s Housing Shortage <https://www.uschamber.com/housing/building-for-growth-tackling-americas-housing-shortage>
  Upcoming Events
+WorkforceSkilled Trades SummitMonday, December 0709:00 AM EST - 05:30 PM ESTU.S. Chamber of Commerce, 1615 H St NW, Washington, DC 20062Learn More <https://events.uschamberfoundation.org/2026-sts>
+Intellectual PropertyIP Champions ReceptionWednesday, December 0905:00 PM EST - 08:00 PM ESTU.S. Chamber of Commerce, 1615 H St NW, Washington, DC 20062Learn More <https://events.uschamber.com/IPCHAMPS2026>
+Small BusinessSmall Business Update: Planning and Insights for 2027Thursday, December 1712:00 PM EST - 01:00 PM ESTVirtualLearn More <https://www.uschamber.com/co/events/leadership/small-business-update>

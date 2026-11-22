@@ -1,6 +1,6 @@
 # Hoover Institution
 # https://www.hoover.org/events
-# fetched 2026-11-20T07:14:19.024144-05:00
+# fetched 2026-11-22T11:21:56.108029-05:00
 # tags: think-tank
 
 Events
@@ -109,9 +109,9 @@ Securing Freedom: Innovation, Industry, And The Future Of Deterrence
 An advance screening of Deterrence: Winning the 2nd Cold War and a conversation with Shyam Sankar and H.R. McMaster
 Register To Attend 
 Hoover Institution, Stanford University
-Coffee, Donuts, & Doughboys at Hoover Tower <https://www.hoover.org/events/coffee-donuts-doughboys-hoover-tower>
+Coffee, Donuts, & Doughboys At Hoover Tower <https://www.hoover.org/events/coffee-donuts-doughboys-hoover-tower>
 Monday, December 7, 2026 
-Coffee, Donuts, & Doughboys at Hoover Tower 
+Coffee, Donuts, & Doughboys At Hoover Tower 
 Celebrate the American Library Association’s 150th anniversary at Hoover Tower, where historic photos of librarians delivering books to WWI soldiers… 
 Hoover Tower, Stanford, California
 Strengthening American Institutions For The Next 250 Years <https://www.hoover.org/events/strengthening-american-institutions-next-250-years>
@@ -121,12 +121,22 @@ Strengthening American Institutions For The Next 250 Years
 What will it take to sustain the American experiment for the next 250 years?
 Register To Attend 
 Hoover Institution, Stanford University
-D.C. Film Screening: The Barbie Tapes <https://www.hoover.org/index%2ephp/events/dc-film-screening-barbie-tapes>
+The World Trading System: A View from the WTO <https://www.hoover.org/events/world-trading-system-view-wto>
+Wednesday, December 9, 2026 
+The World Trading System: A View from the WTO 
+The Hoover Institution invites you to attend The World Trading System: A View from the WTO with Robert Staiger on Wednesday, December 9, 2026 from 1:… 
+Shultz Auditorium, George P. Shultz Building
+D.C. Film Screening: The Barbie Tapes <https://www.hoover.org/events/dc-film-screening-barbie-tapes>
 Tuesday, December 15, 2026 
 5:00 PM Eastern Time
 D.C. Film Screening: The Barbie Tapes 
 The Hoover Institution Library & Archives invites you to an in-person film screening and discussion featuring the Gerd Heidemann collection:The… 
 1399 New York Ave NW • Suite 500 • Washington, DC 20005
+Unsettled Foundations: Greek and Roman Classics in Civic Life <https://www.hoover.org/events/unsettled-foundations-greek-and-roman-classics-civic-life>
+Thursday, December 17, 2026 
+Unsettled Foundations: Greek and Roman Classics in Civic Life 
+The Alliance for Civics in the Academy held "Unsettled Foundations: Greek and Roman Classics in Civic Life" with Naomi Campa, Avshalom Schwartz,… 
+Hoover Institution, Stanford University
 Bio-Strategies & Leadership Congressional Leadership Accelerator For Biotechnology <https://www.hoover.org/events/bio-strategies-leadership-congressional-leadership-accelerator-biotechnology>
 Thursday, February 18, 2027 
 Bio-Strategies & Leadership Congressional Leadership Accelerator For Biotechnology 

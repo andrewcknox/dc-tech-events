@@ -1,6 +1,6 @@
 # Brookings
 # https://www.brookings.edu/events/
-# fetched 2026-11-20T07:14:19.024144-05:00
+# fetched 2026-11-22T11:21:56.108029-05:00
 # tags: think-tank
 
 Events
@@ -10,20 +10,20 @@ Terms and Conditions of Attendance <https://www.brookings.edu/wp-content/uploads
 .
  Featured Events
 November
-20
-2026
-Coming of age in an uncertain era <https://www.brookings.edu/events/coming-of-age-in-an-uncertain-era/>
- The Brookings Institution, Washington D.C.
- Friday, 10:00 am - 11:30 am EST
-What is next for the US-China AI safety dialogue? <https://www.brookings.edu/events/what-is-next-for-the-us-china-ai-safety-dialogue/>
- Upcoming Event
-November
 23
 2026
-Artificial Intelligence <https://www.brookings.edu/topics/artificial-intelligence/>
- What is next for the US-China AI safety dialogue?
+What is next for the US-China AI safety dialogue? <https://www.brookings.edu/events/what-is-next-for-the-us-china-ai-safety-dialogue/>
  Online only
  Monday, 10:00 am - 11:00 am EST
+Energy, trade, and the US-Canada partnership: A conversation with Canada’s minister of energy and natural resources <https://www.brookings.edu/events/energy-trade-and-the-us-canada-partnership-a-conversation-with-canadas-minister-of-energy-and-natural-resources/>
+ Upcoming Event
+November
+30
+2026
+Climate & Energy <https://www.brookings.edu/topics/climate-energy/>
+ Energy, trade, and the US-Canada partnership: A conversation with Canada’s minister of energy and natural resources
+ The Brookings Institution, Washington DC
+ Monday, 9:00 am - 10:15 am EST
 Preparing young people for an AI-driven future: Lessons from California <https://www.brookings.edu/events/preparing-young-people-for-an-ai-driven-future-lessons-from-california/>
  Upcoming Event
 December
@@ -43,15 +43,6 @@ Banking & Finance <https://www.brookings.edu/topics/banking-finance/>
  The Brookings Institution, Washington D.C.
  Tuesday, 3:00 pm - 5:00 pm EST
 Upcoming
-Coming of age in an uncertain era <https://www.brookings.edu/events/coming-of-age-in-an-uncertain-era/>
- Upcoming Event
-November
-20
-2026
-Society & Culture <https://www.brookings.edu/topics/social-issues/>
- Coming of age in an uncertain era
- The Brookings Institution, Washington D.C.
- Friday, 10:00 am - 11:30 am EST
 What is next for the US-China AI safety dialogue? <https://www.brookings.edu/events/what-is-next-for-the-us-china-ai-safety-dialogue/>
  Upcoming Event
 November
@@ -61,6 +52,15 @@ Artificial Intelligence <https://www.brookings.edu/topics/artificial-intelligenc
  What is next for the US-China AI safety dialogue?
  Online only
  Monday, 10:00 am - 11:00 am EST
+Energy, trade, and the US-Canada partnership: A conversation with Canada’s minister of energy and natural resources <https://www.brookings.edu/events/energy-trade-and-the-us-canada-partnership-a-conversation-with-canadas-minister-of-energy-and-natural-resources/>
+ Upcoming Event
+November
+30
+2026
+Climate & Energy <https://www.brookings.edu/topics/climate-energy/>
+ Energy, trade, and the US-Canada partnership: A conversation with Canada’s minister of energy and natural resources
+ The Brookings Institution, Washington DC
+ Monday, 9:00 am - 10:15 am EST
 Preparing young people for an AI-driven future: Lessons from California <https://www.brookings.edu/events/preparing-young-people-for-an-ai-driven-future-lessons-from-california/>
  Upcoming Event
 December
@@ -89,6 +89,15 @@ Diplomacy & Multilateralism <https://www.brookings.edu/topics/diplomacy-multilat
  The Brookings Institution, Washington DC
  Tuesday, 10:00 am - 11:45 am EST
 Recent Past Events
+Coming of age in an uncertain era <https://www.brookings.edu/events/coming-of-age-in-an-uncertain-era/>
+ Past Event
+November
+20
+2026
+Society & Culture <https://www.brookings.edu/topics/social-issues/>
+ Coming of age in an uncertain era
+ The Brookings Institution, Washington D.C.
+ Friday, 10:00 am - 11:30 am EST
 AI and energy costs: Market and policy solutions <https://www.brookings.edu/events/ai-and-energy-costs-market-and-policy-solutions/>
  Past Event
 November
@@ -116,13 +125,4 @@ Global Education <https://www.brookings.edu/topics/education-in-developing-natio
  From idea to impact: How communities around the world are championing family-centered schools
  Online only
  Thursday, 9:30 am - 10:30 am EST
-The state of broadband access and affordability <https://www.brookings.edu/events/the-state-of-broadband-access-and-affordability/>
- Past Event
-November
-18
-2026
-Internet & Telecommunications <https://www.brookings.edu/topics/telecommunications-internet/>
- The state of broadband access and affordability
- The Brookings Institution, Washington D.C.
- Wednesday, 1:30 pm - 2:45 pm EST
 See all past events <https://www.brookings.edu/past-events/>

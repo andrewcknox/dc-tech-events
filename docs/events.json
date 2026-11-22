@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-20T07:20:59-05:00",
- "today": "2026-11-20",
- "window_start": "2026-11-20",
+ "generated_at": "2026-11-22T11:28:58-05:00",
+ "today": "2026-11-22",
+ "window_start": "2026-11-22",
  "window_days": 14,
  "map_center": [
   38.905,
@@ -10,8 +10,12 @@
  "map_zoom": 13,
  "flagged_sources": [
   {
-   "name": "National Academies",
+   "name": "Berkeley Risk & Security Lab",
    "failures": 3
+  },
+  {
+   "name": "National Academies",
+   "failures": 4
   }
  ],
  "events": [
@@ -7567,6 +7571,33 @@
    "where": "Hudson Institute, 1201 Pennsylvania Ave NW, Washington, DC"
   },
   {
+   "id": 668,
+   "title": "2026 Global Korea Forum",
+   "start": "2026-12-08T13:30:00-05:00",
+   "end": null,
+   "host": "Korea Economic Institute of America",
+   "source": "daily page scan",
+   "location": "Korea Economic Institute of America, 1800 K St NW, Washington, DC",
+   "virtual": false,
+   "url": "https://keia.org/event/2026-global-korea-forum/",
+   "topics": [
+    "Japan-Korea",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Annual DC forum on U.S.-ROK economic-security ties, often including supply chains and tech cooperation.",
+   "description": "KEI's annual Global Korea Forum on the U.S.-Korea alliance, economic security and Korea's global role.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "1:30 PM",
+   "where": "Korea Economic Institute of America, 1800 K St NW, Washington, DC"
+  },
+  {
    "id": 344,
    "title": "UC Berkeley Cybersecurity Clinic Showcase",
    "start": "2026-12-08T11:00:00-08:00",
@@ -8094,6 +8125,32 @@
    "where": "location TBD"
   },
   {
+   "id": 669,
+   "title": "Space Boot Camp for Nuclear Policy Professionals",
+   "start": "2027-01-25T09:00:00-05:00",
+   "end": null,
+   "host": "Secure World Foundation",
+   "source": "daily page scan",
+   "location": "Washington, DC",
+   "virtual": false,
+   "url": "https://www.swfound.org/events/space-boot-camp-for-nuclear-policy-professionals",
+   "topics": [
+    "space"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Hands-on DC training on space security and its nuclear links; application likely required.",
+   "description": "Weeklong Secure World Foundation boot camp in Washington for early-career nuclear policy professionals on space security.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "9:00 AM",
+   "where": "Washington, DC"
+  },
+  {
    "id": 115,
    "title": "Fourth Annual Cyber Policy Awards",
    "start": "2027-02-04T18:00:00-05:00",
@@ -8145,6 +8202,64 @@
    "in_dc": false,
    "time": "time TBD",
    "where": "Washington, DC"
+  },
+  {
+   "id": 398,
+   "title": "CyberTalks 2027",
+   "start": "2027-02-18T00:00:00-05:00",
+   "end": null,
+   "host": "Scoop News Group",
+   "source": "daily page scan",
+   "location": "International Spy Museum, 700 L'Enfant Plaza SW, Washington, DC",
+   "virtual": false,
+   "url": "https://cybertalks.upgather.com/",
+   "topics": [
+    "cyber"
+   ],
+   "tags": [
+    "industry",
+    "media"
+   ],
+   "fit": 3,
+   "why": "On-record cyber officials in DC.",
+   "description": "CyberScoop's flagship one-day cyber summit with government and industry leaders.",
+   "speakers": [],
+   "lat": 38.883955,
+   "lon": -77.0255371,
+   "in_dc": true,
+   "time": "time TBD",
+   "where": "International Spy Museum, 700 L'Enfant Plaza SW, Washington, DC"
+  },
+  {
+   "id": 670,
+   "title": "Nan Jia | Shielding or Stifling? How Restrictions on Foreign Acquisitions Shape Entrepreneurial Innovation in the U.S.",
+   "start": "2027-02-19T12:00:00-08:00",
+   "end": "2027-02-19T13:20:00-08:00",
+   "host": "Stanford SCCEI",
+   "source": "daily page scan",
+   "location": "Stanford Center on China's Economy and Institutions, Stanford, CA",
+   "virtual": false,
+   "url": "https://sccei.fsi.stanford.edu/events/nan-jia-shielding-or-stifling-how-restrictions-foreign-acquisitions-shape-entrepreneurial",
+   "topics": [
+    "China",
+    "tech-geopolitics",
+    "industrial-policy"
+   ],
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "fit": 3,
+   "why": "Research on CFIUS-style investment screening and innovation, relevant to Bay Area tech-policy watchers.",
+   "description": "SCCEI seminar on how U.S. restrictions on foreign (including Chinese) acquisitions affect startup innovation.",
+   "speakers": [
+    "Nan Jia"
+   ],
+   "lat": 37.4273,
+   "lon": -122.1646,
+   "in_dc": true,
+   "time": "12:00 PM–1:20 PM PT",
+   "where": "Stanford Center on China's Economy and Institutions, Stanford, CA"
   }
  ]
 }

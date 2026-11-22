@@ -1,34 +1,34 @@
 # R Street Institute
 # https://www.rstreet.org/events/
-# fetched 2026-11-20T07:14:19.024144-05:00
+# fetched 2026-11-22T11:21:56.108029-05:00
 # tags: think-tank
 
 Events
 Attend R Street events that are hosted virtually or in-person, or feature our scholars speaking at other venues. 
-Nov 
-20 
-Foreign Threats to Free Speech and Domestic Policy Responses <https://www.rstreet.org/events/foreign-threats-to-free-speech-and-domestic-policy-responses/>
+Dec 
+16 
+Holiday Ales & Liberty Tales 2026 <https://www.rstreet.org/events/holiday-ales-liberty-tales-2026/>
  Events hosted by RSI AND In-Person 
-12:00PM 
+4:30PM 
 –
-1:00PM
+6:30PM
  EST 
 Upcoming Events
 Nov 
-19 
-Coffee, Croissants, and Clean Slate: A Preview of 2027 Policy in Maryland <https://www.rstreet.org/events/coffee-croissants-and-clean-slate-a-preview-of-2027-policy-in-maryland/>
- Events hosted by RSI AND In-Person 
-11:00AM 
-–
-12:30PM
- EST 
-Nov 
 20 
 Foreign Threats to Free Speech and Domestic Policy Responses <https://www.rstreet.org/events/foreign-threats-to-free-speech-and-domestic-policy-responses/>
  Events hosted by RSI AND In-Person 
 12:00PM 
 –
 1:00PM
+ EST 
+Dec 
+16 
+Holiday Ales & Liberty Tales 2026 <https://www.rstreet.org/events/holiday-ales-liberty-tales-2026/>
+ Events hosted by RSI AND In-Person 
+4:30PM 
+–
+6:30PM
  EST 
 Events contact
 For inquiries about our events, please contact 
@@ -62,6 +62,19 @@ Western <https://www.rstreet.org/issues/western/>
 Scoring the States: Policy Approaches to Primaries, Political Speech, and Election Security <https://www.rstreet.org/events/scoring-the-states-policy-approaches-to-primaries-political-speech-and-election-security/>
 R Street Institute
 Nov 18, 2026
+Events hosted by RSI, In-Person
+Clean Slate <https://www.rstreet.org/issues/clean-slate/>
+, 
+Criminal Justice and Civil Liberties <https://www.rstreet.org/home/our-issues/criminal-justice-and-civil-liberties/>
+, 
+Mid-Atlantic <https://www.rstreet.org/issues/mid-atlantic/>
+, 
+Reentry <https://www.rstreet.org/issues/reentry/>
+, 
+State Policy <https://www.rstreet.org/home/our-issues/state-policy/>
+Coffee, Croissants, and Clean Slate: A Preview of 2027 Policy in Maryland <https://www.rstreet.org/events/coffee-croissants-and-clean-slate-a-preview-of-2027-policy-in-maryland/>
+R Street Institute
+Nov 19, 2026
 Events hosted by RSI, Virtual
 Criminal Justice and Civil Liberties <https://www.rstreet.org/home/our-issues/criminal-justice-and-civil-liberties/>
 , 
@@ -120,15 +133,6 @@ Technology and Innovation <https://www.rstreet.org/home/our-issues/technology-an
 From Policy to Practice: Navigating the Post-Quantum Cryptography Transition <https://www.rstreet.org/events/navigating-the-post-quantum-cryptography-transition/>
 R Street Institute
 July 29, 2026
-Events hosted by RSI, Virtual
-Healthier Communities <https://www.rstreet.org/home/our-issues/healthier-communities/>
-, 
-Substance Regulation <https://www.rstreet.org/issues/substance-regulation/>
-, 
-Tobacco Harm Reduction <https://www.rstreet.org/issues/tobacco-harm-reduction/>
-What’s Holding Public Health Back from Embracing Tobacco Harm Reduction? <https://www.rstreet.org/events/whats-holding-public-health-back-from-embracing-tobacco-harm-reduction/>
-R Street Institute
-July 23, 2026
 Support Our Work
 Our deep research into public policy solutions supporting limited government and free markets is only possible because of your support. Please give today.
 Support Us <https://www.rstreet.org/support-us/>

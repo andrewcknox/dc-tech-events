@@ -1,6 +1,6 @@
 # ITIF
 # https://itif.org/events/
-# fetched 2026-11-20T07:14:19.024144-05:00
+# fetched 2026-11-22T11:21:56.108029-05:00
 # tags: think-tank
 
 Events
@@ -23,7 +23,7 @@ YouTube channel <https://www.youtube.com/@itif>
 Past Events
 November 17, 2026
 National Economic Power Conference <https://itif.org/events/2026/11/17/national-economic-power-conference/>
-ITIF convened a policy conference on what U.S. policymakers must do to prevent America from suffering a catastrophic defeat in its techno-economic-trade war with China. 
+ITIF convened the National Economic Policy Conference to discuss what U.S. policymakers must do to prevent America from suffering a catastrophic defeat in its techno-economic-trade war with China. 
 October 28, 2026
 Immersive Technology in the Classroom: Making Sense of Immersive XR in Education <https://itif.org/events/2026/10/28/immersive-technology-in-the-classroom-making-sense-of-immersive-xr-in-education/>
 Join the XR Association (XRA) and ITIF for a webinar discussing the real-world impact of immersive technology on teaching and learning—including how extended reality can deliver value for institutions, educators, and students.

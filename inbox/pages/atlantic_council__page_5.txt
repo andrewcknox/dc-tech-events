@@ -1,6 +1,6 @@
 # Atlantic Council (page 5)
 # https://www.atlanticcouncil.org/events/?ac-page=5
-# fetched 2026-11-20T07:14:19.024144-05:00
+# fetched 2026-11-22T11:21:56.108029-05:00
 # tags: think-tank
 
 Upcoming events

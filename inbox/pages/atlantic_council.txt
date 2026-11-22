@@ -1,37 +1,36 @@
 # Atlantic Council
 # https://www.atlanticcouncil.org/events/
-# fetched 2026-11-20T07:14:19.024144-05:00
+# fetched 2026-11-22T11:21:56.108029-05:00
 # tags: think-tank
 
 Upcoming events
 We convene in Washington DC, internationally, and virtually to inspire global engagement and to shape solutions to the defining challenges of our times. Through small, focused events and larger public gatherings, we inform and build connections. Register for upcoming events or subscribe to watch live on YouTube.
-Online Event
- Fri, November 20, 2026 • 9:00 am ET
- Can US-EU tech relations get back on track? <https://www.atlanticcouncil.org/event/can-us-eu-tech-relations-get-back-on-track/>
-Digital Policy <https://www.atlanticcouncil.org/issue/digital-policy/>
-Economy & Business <https://www.atlanticcouncil.org/issue/economy-business/>
-Europe & Eurasia <https://www.atlanticcouncil.org/region/europe-eurasia/>
-European Union <https://www.atlanticcouncil.org/region/european-union/>
 Public Event
- Fri, November 20, 2026 • 9:15 am ET
- Future pathways for the US-Korea alliance <https://www.atlanticcouncil.org/event/future-pathways-for-the-us-korea-alliance/>
-Korea <https://www.atlanticcouncil.org/region/korea/>
-Politics & Diplomacy <https://www.atlanticcouncil.org/issue/politics-diplomacy/>
-Security & Defense <https://www.atlanticcouncil.org/issue/security-defense/>
-Security Partnerships <https://www.atlanticcouncil.org/issue/security-partnerships/>
-Public Event
- Fri, November 20, 2026 • 9:45 am ET
- NATO in America: How the Alliance impacts Pennsylvania <https://www.atlanticcouncil.org/event/nato-in-america-how-the-alliance-impacts-pennsylvania/>
+ Mon, November 23, 2026 • 10:00 am ET
+ What Washington’s peace push means for Ukraine <https://www.atlanticcouncil.org/event/what-washingtons-peace-push-means-for-ukraine/>
 Europe & Eurasia <https://www.atlanticcouncil.org/region/europe-eurasia/>
 NATO <https://www.atlanticcouncil.org/issue/nato/>
-United States and Canada <https://www.atlanticcouncil.org/region/united-states-canada/>
-Online Event
- Fri, November 20, 2026 • 11:00 am ET
- What the Oleshky ceasefire reveals about the human cost of Russia’s war <https://www.atlanticcouncil.org/event/what-the-oleshky-ceasefire-reveals-about-the-human-cost-of-russias-war/>
-Europe & Eurasia <https://www.atlanticcouncil.org/region/europe-eurasia/>
+Peacekeeping and Peacebuilding <https://www.atlanticcouncil.org/issue/peacekeeping-and-peacebuilding/>
+Politics & Diplomacy <https://www.atlanticcouncil.org/issue/politics-diplomacy/>
+Tue, November 24, 2026 • 9:00 am ET
+ From Antalya to Abu Dhabi: Advancing climate action <https://www.atlanticcouncil.org/event/from-antalya-to-abu-dhabi-advancing-climate-action/>
+Energy & Environment <https://www.atlanticcouncil.org/issue/energy-environment/>
+Energy Markets & Governance <https://www.atlanticcouncil.org/issue/energy-markets-governance/>
+Energy Transitions <https://www.atlanticcouncil.org/issue/energy-transitions/>
+Infrastructure <https://www.atlanticcouncil.org/issue/infrastructure/>
+Public Event
+ Tue, December 1, 2026 • 1:30 pm ET
+ Polar Opposites? Geopolitics in the Arctic and Antarctic <https://www.atlanticcouncil.org/event/polar-opposites-geopolitics-in-the-arctic-and-antarctic/>
+Energy & Environment <https://www.atlanticcouncil.org/issue/energy-environment/>
 Politics & Diplomacy <https://www.atlanticcouncil.org/issue/politics-diplomacy/>
 Resilience & Society <https://www.atlanticcouncil.org/issue/resilience-society/>
-Russia <https://www.atlanticcouncil.org/region/russia/>
+Security & Defense <https://www.atlanticcouncil.org/issue/security-defense/>
+Online Event
+ Wed, December 2, 2026 • 11:00 am ET
+ How investment in health drives economic growth in Latin America <https://www.atlanticcouncil.org/event/how-investment-in-health-drives-economic-growth-in-latin-america/>
+Americas <https://www.atlanticcouncil.org/region/americas/>
+Latin America <https://www.atlanticcouncil.org/region/latin-america/>
+Resilience & Society <https://www.atlanticcouncil.org/issue/resilience-society/>
 Load More <https://www.atlanticcouncil.org/events/?ac-page=2>
 #ACFrontPage <https://www.atlanticcouncil.org/acfrontpage/>
  harnesses the convening power and expertise of the Council’s sixteen programs and centers to spotlight the world’s most prominent leaders and the most compelling ideas across sectors. The virtual platform engages new audiences eager for nonpartisan and constructive solutions to current global challenges. This widely promoted forty-five-minute program features the Council’s most important guests and content serving as the highlight of our programming each week.

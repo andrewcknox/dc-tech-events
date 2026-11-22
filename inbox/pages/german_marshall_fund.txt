@@ -1,17 +1,17 @@
 # German Marshall Fund
 # https://www.gmfus.org/events
-# fetched 2026-11-20T07:14:19.024144-05:00
+# fetched 2026-11-22T11:21:56.108029-05:00
 # tags: think-tank
 
 Events
  GMF organizes events and strategic convenings that bring together current policymakers, leaders across GMF networks, and GMF experts for frank and forward-looking exchanges. By convening with purpose, GMF helps move policy conversations forward and strengthen the transatlantic relationship to meet the challenges of the 21st century.
 Next Event
-Washington, DC
- Technology Supply Chain Security for Space and Defense
- GMF and Swedish aerospace company ECAPS are partnering to host a closed-door roundtable...
- 11
- March
- 10:00am EST 1:00pm EST <https://www.gmfus.org/event/technology-supply-chain-security-space-and-defense>
+Virtual Event
+ Navigating Local Relations with China in Europe: Findings and Recommendations
+ The German Marshall Fund of the United States invites you to&nbsp;Navigating Local Rela...
+ 8
+ December
+ 9:00am EST 10:00am EST <https://www.gmfus.org/event/navigating-local-relations-china-europe-findings-and-recommendations>
 Share This
 Featured
 Ukraine Recovery Conference: Unbreakable Ukraine Forum
@@ -29,6 +29,13 @@ Brussels <https://www.gmfus.org/events?location[13]=13>
 Berlin <https://www.gmfus.org/events?location[12]=12>
 Online <https://www.gmfus.org/events?location[16]=16>
 Upcoming Events
+Virtual Event
+ Navigating Local Relations with China in Europe: Findings and Recommendations
+ The German Marshall Fund of the United States invites you to&nbsp;Navigating Local Rela...
+ 8
+ December
+ 9:00am EST 10:00am EST <https://www.gmfus.org/event/navigating-local-relations-china-europe-findings-and-recommendations>
+Share This
 Washington, DC
  Technology Supply Chain Security for Space and Defense
  GMF and Swedish aerospace company ECAPS are partnering to host a closed-door roundtable...
@@ -38,7 +45,15 @@ Washington, DC
 Share This
 All Events
  Filter By:
- 1 Results for: 
+ 2 Results for: 
+Indo-Pacific Program <https://www.gmfus.org/taxonomy/term/82>
+Navigating Local Relations with China in Europe: Findings and Recommendations <https://www.gmfus.org/event/navigating-local-relations-china-europe-findings-and-recommendations>
+Online <https://www.gmfus.org/taxonomy/term/16>
+8
+December
+ 9:00am EST 
+ 10:00am EST
+Share This
 Technology Supply Chain Security for Space and Defense <https://www.gmfus.org/event/technology-supply-chain-security-space-and-defense>
 Washington, DC <https://www.gmfus.org/taxonomy/term/8>
 11
@@ -46,4 +61,4 @@ March
  10:00am EST 
  1:00pm EST
 Share This
- Showing 1 of 1 Results
+ Showing 2 of 2 Results

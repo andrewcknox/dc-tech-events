@@ -1,37 +1,36 @@
 # Atlantic Council (page 2)
 # https://www.atlanticcouncil.org/events/?ac-page=2
-# fetched 2026-11-20T07:14:19.024144-05:00
+# fetched 2026-11-22T11:21:56.108029-05:00
 # tags: think-tank
 
 Upcoming events
 We convene in Washington DC, internationally, and virtually to inspire global engagement and to shape solutions to the defining challenges of our times. Through small, focused events and larger public gatherings, we inform and build connections. Register for upcoming events or subscribe to watch live on YouTube.
 Public Event
- Fri, November 20, 2026 • 11:00 am ET
- Governor Josh Shapiro on why foreign policy matters to Pennsylvanians
- AN AC FRONT PAGE EVENT—Pennsylvania Governor Josh Shapiro lays out his vision for US global leadership and a new transatlantic alliance that strengthens America's economy, allows the United States and its allies to solve the world's toughest problems, and ensures the alliance's collective security. <https://www.atlanticcouncil.org/event/governor-josh-shapiro-on-why-foreign-policy-matters-to-pennsylvanians/>
-NATO <https://www.atlanticcouncil.org/issue/nato/>
-Politics & Diplomacy <https://www.atlanticcouncil.org/issue/politics-diplomacy/>
-United States and Canada <https://www.atlanticcouncil.org/region/united-states-canada/>
-Public Event
- Mon, November 23, 2026 • 10:00 am ET
- What Washington’s peace push means for Ukraine <https://www.atlanticcouncil.org/event/what-washingtons-peace-push-means-for-ukraine/>
-Europe & Eurasia <https://www.atlanticcouncil.org/region/europe-eurasia/>
-NATO <https://www.atlanticcouncil.org/issue/nato/>
-Peacekeeping and Peacebuilding <https://www.atlanticcouncil.org/issue/peacekeeping-and-peacebuilding/>
-Politics & Diplomacy <https://www.atlanticcouncil.org/issue/politics-diplomacy/>
-Tue, November 24, 2026 • 9:00 am ET
- From Antalya to Abu Dhabi: Advancing climate action <https://www.atlanticcouncil.org/event/from-antalya-to-abu-dhabi-advancing-climate-action/>
+ Wed, December 2, 2026 • 2:00 pm ET
+ Powering abundance 2027 <https://www.atlanticcouncil.org/event/public-powering-abundance-2027/>
 Energy & Environment <https://www.atlanticcouncil.org/issue/energy-environment/>
-Energy Markets & Governance <https://www.atlanticcouncil.org/issue/energy-markets-governance/>
-Energy Transitions <https://www.atlanticcouncil.org/issue/energy-transitions/>
 Infrastructure <https://www.atlanticcouncil.org/issue/infrastructure/>
 Public Event
- Tue, December 1, 2026 • 1:30 pm ET
- Polar Opposites? Geopolitics in the Arctic and Antarctic <https://www.atlanticcouncil.org/event/polar-opposites-geopolitics-in-the-arctic-and-antarctic/>
-Energy & Environment <https://www.atlanticcouncil.org/issue/energy-environment/>
-Politics & Diplomacy <https://www.atlanticcouncil.org/issue/politics-diplomacy/>
-Resilience & Society <https://www.atlanticcouncil.org/issue/resilience-society/>
+ Mon, December 7, 2026 • 3:00 pm ET
+ Tomorrow’s fleet: Revitalizing US shipbuilding and the maritime industrial base <https://www.atlanticcouncil.org/event/tomorrows-fleet-revitalizing-us-shipbuilding-and-the-maritime-industrial-base/>
+Defense Industry <https://www.atlanticcouncil.org/issue/defense-industry/>
+Maritime Security <https://www.atlanticcouncil.org/issue/maritime-security/>
 Security & Defense <https://www.atlanticcouncil.org/issue/security-defense/>
+United States and Canada <https://www.atlanticcouncil.org/region/united-states-canada/>
+Public Event
+ Thu, December 10, 2026 • 12:30 am ET
+ Women in finance: Accelerators of invention <https://www.atlanticcouncil.org/event/women-in-finance-accelerators-of-invention/>
+Economy & Business <https://www.atlanticcouncil.org/issue/economy-business/>
+Middle East <https://www.atlanticcouncil.org/region/middle-east/>
+Women <https://www.atlanticcouncil.org/issue/women/>
+Flagship Event
+ Fri, December 11, 2026 • 8:00 am ET
+ 2026 Transatlantic Forum on GeoEconomics
+ The Transatlantic Forum on GeoEconomics is an annual flagship convening focused on issues at the nexus of economics, finance, foreign policy, and national security. <https://www.atlanticcouncil.org/event/2026-transatlantic-forum-on-geoeconomics/>
+Digital Policy <https://www.atlanticcouncil.org/issue/digital-policy/>
+Economy & Business <https://www.atlanticcouncil.org/issue/economy-business/>
+Europe & Eurasia <https://www.atlanticcouncil.org/region/europe-eurasia/>
+European Union <https://www.atlanticcouncil.org/region/european-union/>
 Load More <https://www.atlanticcouncil.org/events/?ac-page=3>
 #ACFrontPage <https://www.atlanticcouncil.org/acfrontpage/>
  harnesses the convening power and expertise of the Council’s sixteen programs and centers to spotlight the world’s most prominent leaders and the most compelling ideas across sectors. The virtual platform engages new audiences eager for nonpartisan and constructive solutions to current global challenges. This widely promoted forty-five-minute program features the Council’s most important guests and content serving as the highlight of our programming each week.

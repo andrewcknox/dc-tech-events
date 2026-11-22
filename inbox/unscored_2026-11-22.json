@@ -1,0 +1,190 @@
+{
+ "instructions": "Fill fit (1-5), topics (from the DAILY.md list) and why for each event; add tags (e.g. bay-area) if needed; then `uv run dte score apply <this file>`. Leave fit null to skip.",
+ "events": [
+  {
+   "id": 667,
+   "title": "Weekly Accountabili-tea Circle: Reflection & Planning #42 - Members Only",
+   "start": "2026-11-23T16:00:00-05:00",
+   "location": "Frontier Tower @ 16th Floor Coffee Meetup 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/weekly-accountabili-tea-circle-reflectio-47b3 Address: Frontier Tower @ 16th Floor Coffee Meetup 995 Market Street, San Francisco Hosted by Laurence Ion",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [],
+   "why": "Members-only coworking check-in, not tech policy."
+  },
+  {
+   "id": 662,
+   "title": "HAYABUSA 2026: 13TH SYMP OF SOLAR SYSTEM MATERIALS, Nov 24-27, 2026, Japan/online",
+   "start": "2026-11-24T07:30:00-05:00",
+   "location": null,
+   "virtual": true,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "JAXA will hold the Hayabusa Symposium 2026 from November 24-27, 2026 (Japan Standard Time) at JAXA’s Sagamihara Campus (3-1-1 Yoshinodai, Chuo-ku, Sagamihara, Kanagawa 252-5210, Japan) and online. More information is on the event’s website, which says: The Hayabusa Symposium 2026",
+   "url": "https://spacepolicyonline.com/events/hayabusa-2026-13th-symp-of-solar-system-materials-nov-24-27-2026-japan-online/",
+   "fit": 1,
+   "topics": [
+    "space"
+   ],
+   "why": "Planetary-science symposium in Japan, no policy angle."
+  },
+  {
+   "id": 665,
+   "title": "Let's talk about Recursive Self-Improvement: the latest hot topic in AIS",
+   "start": "2026-11-24T21:30:00-05:00",
+   "location": "https://luma.com/event/evt-TPOM8XP6sqiulFK",
+   "virtual": false,
+   "host": "Mox SF (Luma)",
+   "source": "Mox SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/aisafety-4phl Address: Check event page for more details. Hosted by Jen Ba & Timothy Zhou",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-nfkEvDFat3zN1fe",
+   "fit": 2,
+   "topics": [
+    "AI"
+   ],
+   "why": "Informal SF AI-safety discussion on recursive self-improvement; light policy relevance."
+  },
+  {
+   "id": 663,
+   "title": "HERA'S FIRST IMAGES OF ASTEROID DIMORPHOS (ESA), Nov 25, 2026, 1:45-2:30 pm EST",
+   "start": "2026-11-25T13:30:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "ESA’s Hera spacecraft is arriving at the Didymos/Dimorphos asteroid pair that was impacted by NASA’s DART mission in 2022. Didymos, the larger asteroid, is orbited by Dimorphos. DART hit Dimorphos at 14,000 miles per hour to determine if a spacecraft",
+   "url": "https://spacepolicyonline.com/events/heras-first-images-of-asteroid-dimorphos-esa-nov-25-2026-145-230-pm-est/",
+   "fit": 1,
+   "topics": [
+    "space"
+   ],
+   "why": "Science briefing on asteroid imagery, no policy angle."
+  },
+  {
+   "id": 664,
+   "title": "EXTREME WORLD--EXPLORING MERCURY WITH BEPICOLOMBO (UCL/Birkbeck), Nov 26, 2026, online, 12:30-2:30 pm ESTr",
+   "start": "2026-11-26T12:30:00-05:00",
+   "location": null,
+   "virtual": true,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "University College London (UCL), and Birkbeck, University of London (Birkbeck), will hold an online public event on November 26, 2026 at 5:30-7:30 pm GMT (12:30-2:30 pm EST) with four experts who will discuss the arrival of the BepiColombo mission at",
+   "url": "https://spacepolicyonline.com/events/extreme-world-exploring-mercury-with-bepicolombo-ucl-birkbeck-nov-26-2026-online-1230-230-pm-estr/",
+   "fit": 1,
+   "topics": [
+    "space"
+   ],
+   "why": "UK public science talk on Mercury, no policy angle."
+  },
+  {
+   "id": 659,
+   "title": "After Hours at GTC with Rafay + Protopia",
+   "start": "2026-12-01T18:00:00-05:00",
+   "location": "SUCCOTASH, 915 F St NW, Washington, DC 20004, USA",
+   "virtual": false,
+   "host": "NVIDIA GTC DC side events (Luma)",
+   "source": "NVIDIA GTC DC side events (Luma)",
+   "tags": [
+    "public",
+    "industry"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/f1garrsi Address: SUCCOTASH Washington, DC United States Hosted by Ragan Pape & 3 others",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-IGTUtC9M8rJP1tb",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Vendor happy hour on the GTC DC sidelines."
+  },
+  {
+   "id": 660,
+   "title": "Confidential AI Summit at NVIDIA GTC DC 2026",
+   "start": "2026-12-02T16:30:00-05:00",
+   "location": "https://luma.com/event/evt-Ay5Eh24ENkI5wNk",
+   "virtual": false,
+   "host": "NVIDIA GTC DC side events (Luma)",
+   "source": "NVIDIA GTC DC side events (Luma)",
+   "tags": [
+    "public",
+    "industry"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/7qrtwear Address: Check event page for more details. Hosted by Fortanix Team",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-IGTUtC9M8rJP1tb",
+   "fit": 2,
+   "topics": [
+    "AI",
+    "data/privacy"
+   ],
+   "why": "Industry summit on confidential computing for AI during GTC DC; some data-security relevance."
+  },
+  {
+   "id": 661,
+   "title": "Happy Hour with vCluster - Setting Boundaries for AI Factories and Agents",
+   "start": "2026-12-02T18:30:00-05:00",
+   "location": "https://luma.com/event/evt-VqcTXC5w5j1IA9C",
+   "virtual": false,
+   "host": "NVIDIA GTC DC side events (Luma)",
+   "source": "NVIDIA GTC DC side events (Luma)",
+   "tags": [
+    "public",
+    "industry"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/niw7332e Address: Check event page for more details. Hosted by vCluster",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-IGTUtC9M8rJP1tb",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Vendor happy hour on AI infrastructure."
+  },
+  {
+   "id": 666,
+   "title": "AI Safety Career Fair & Founders Summit 2.0",
+   "start": "2026-12-04T13:00:00-05:00",
+   "location": "https://luma.com/event/evt-NXC83AQBJEWSKtK",
+   "virtual": false,
+   "host": "Mox SF (Luma)",
+   "source": "Mox SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/ais-summit Address: Check event page for more details. Hosted by Jen Ba, C & Mox SF",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-nfkEvDFat3zN1fe",
+   "fit": 2,
+   "topics": [
+    "AI"
+   ],
+   "why": "SF AI-safety career fair; useful for safety-careers networking, little policy content."
+  }
+ ]
+}

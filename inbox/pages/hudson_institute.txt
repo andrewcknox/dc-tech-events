@@ -1,6 +1,6 @@
 # Hudson Institute
 # https://www.hudson.org/events
-# fetched 2026-11-20T07:14:19.024144-05:00
+# fetched 2026-11-22T11:21:56.108029-05:00
 # tags: think-tank
 
 30
@@ -59,6 +59,37 @@ Mark Krikorian
 Stanley Kurtz
 Michael Doran
 Learn More <https://www.hudson.org/events/fukuyama-was-wrong-he-missed-challenge-post-democracy-post-liberalism>
+ 02 - 03
+December 2026
+ In-Person Event | Invitation Only
+Second Annual US-China Rivalry in the Middle East Conference
+Featured Speakers:
+Zineb Riboua
+Joel Scanlon
+Can Kasapoğlu
+Michael Doran
+Chaim Martin
+Ryan Fedasiuk
+Moderators:
+Ludovic Hood
+Aaron MacLean
+ 02 - 03
+December 2026
+ In-Person Event | Invitation Only
+Second Annual US-China Rivalry in the Middle East Conference
+Join Hudson to examine how the war with Iran, the rise of emerging technologies, and China's expanding influence are reshaping the Middle East, and what the United States must do to secure its strategic and technological leadership in the region and beyond.
+ WEDNESDAY 5:30 p.m. - THURSDAY 2:00 p.m.
+Featured Speakers:
+Zineb Riboua
+Joel Scanlon
+Can Kasapoğlu
+Michael Doran
+Chaim Martin
+Ryan Fedasiuk
+Moderators:
+Ludovic Hood
+Aaron MacLean
+Learn More <https://www.hudson.org/events/second-annual-us-china-rivalry-middle-east-conference>
 08
 December 2026
  In-Person Event | Hudson Institute 
@@ -129,6 +160,25 @@ Featured Speakers:
 Matthew Whitaker
 Peter Rough
 Learn More <https://www.hudson.org/events/transatlantic-defense-industrial-cooperation-nato-30-conversation-us-ambassador-nato-matthew>
+20
+November 2026
+ Past Event
+After the Kerch Bridge: What Ukraine’s Strike Means for the War
+Featured Speakers:
+Can Kasapoğlu
+Lieutenant General (Ret.) Ben Hodges
+Luke Coffey
+20
+November 2026
+ Past Event
+After the Kerch Bridge: What Ukraine’s Strike Means for the War
+Join Hudson Institute for a discussion about Ukraine’s successful attack and its potential impact on the battlefield with Lieutenant General (Ret.) Ben Hodges, former commanding general of US Army Europe, and Senior Fellow Can Kasapoğlu.
+ FRIDAY 2:30 p.m. - 3:30 p.m.
+Featured Speakers:
+Can Kasapoğlu
+Lieutenant General (Ret.) Ben Hodges
+Luke Coffey
+Learn More <https://www.hudson.org/events/after-kerch-bridge-what-ukraines-strike-means-war>
 19
 November 2026
  Past Event
@@ -245,35 +295,3 @@ Patrick M. Cronin
 Brigham A. McCown
 Timothy A. Walton
 Learn More <https://www.hudson.org/events/tenth-us-rok-joint-public-private-economic-forum-advancing-economic-security-industrial>
-13
-November 2026
- Past Event
-A US Navy Fleet for Twenty-First-Century Deterrence and Combat
-Featured Speaker:
-Bryan Clark
-13
-November 2026
- Past Event
-A US Navy Fleet for Twenty-First-Century Deterrence and Combat
-Join Senior Fellow Bryan Clark for a presentation of his new report, Righting the Ship: Building a Relevant US Navy Fleet for Twenty-First-Century Deterrence and Combat. He will discuss the challenges facing the US Navy and how a new fleet design could help it address its missions within likely future budget and personnel constraints. The webinar will also include time for questions and answers.
- FRIDAY 1:00 p.m. - 2:00 p.m.
-Featured Speaker:
-Bryan Clark
-Learn More <https://www.hudson.org/events/us-navy-fleet-twenty-first-century-deterrence-combat>
-13
-November 2026
- Past Event
-Putting Veterans First: A Conversation with Secretary of Veterans Affairs Doug Collins
-Featured Speakers:
-Doug Collins
-Jeremy Hunt
-13
-November 2026
- Past Event
-Putting Veterans First: A Conversation with Secretary of Veterans Affairs Doug Collins
-Two days after Veterans Day, United States Secretary of Veterans Affairs Douglas Collins will deliver a keynote address on the Department of Veterans Affairs’ work and his plans under President Donald Trump. He will also join Hudson Institute fellow Jeremy Hunt for a fireside chat.
- FRIDAY 11:30 a.m. - 12:30 p.m.
-Featured Speakers:
-Doug Collins
-Jeremy Hunt
-Learn More <https://www.hudson.org/events/putting-veterans-first-conversation-secretary-veterans-affairs-doug-collins>

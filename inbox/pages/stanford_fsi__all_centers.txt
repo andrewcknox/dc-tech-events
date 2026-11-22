@@ -1,6 +1,6 @@
 # Stanford FSI (all centers)
 # https://fsi.stanford.edu/events
-# fetched 2026-11-20T07:14:19.024144-05:00
+# fetched 2026-11-22T11:21:56.108029-05:00
 # tags: bay-area, university
 
 FSI Events
@@ -12,26 +12,6 @@ Event Recordings <https://www.youtube.com/FSIStanford>
 Filter:
 Filter results
 Close
-Eliza Ennis - Estimating the population-wide impacts of proposed harm reduction policy: Modeling the syndemic of HIV, HCV, and overdose - PhD Candidate Practice Job Talk <https://fsi.stanford.edu/events/eliza-ennis-estimating-population-wide-impacts-proposed-harm-reduction-policy-modeling>
-Friday, November 20, 2026
-12:00 PM - 1:00 PM
-(Pacific)
-Health Policy Seminars 
-are hybrid events open to the Stanford community. For more information, please reach out to 
-healthpolicy-comms@stanford.edu
-Encina Commons, Room 119
-Department of Health Policy/Center for Health Policy   
-615 Crothers Way, Stanford
-Lunch will be provided on a first-come, first-served basis for in-person attendees. 
- Seminars
-Student Seminar | After the Deluge: Economic and Environmental Consequences of Floods in China <https://fsi.stanford.edu/events/student-seminar-after-deluge-economic-and-environmental-consequences-floods-china>
-Friday, November 20, 2026
-12:00 PM - 1:00 PM
-(Pacific)
-Register <https://app.smartsheet.com/b/form/019fce8bf19170f7b7ce36140d48615d>
-Goldman Conference Room, Encina Hall, E409
- Speaker: 
- Zhiren Hu, IvyPlus Graduate Student, Economics for Sustainability and Energy Transition Research Program, Stanford University 
  Panel Discussions
 Global Implications of the U.S. Midterm Elections <https://fsi.stanford.edu/events/global-implications-us-midterm-elections>
 Monday, November 30, 2026
@@ -267,4 +247,20 @@ Friday, March 12, 2027
 Register <https://app.smartsheet.com/b/form/01a18498d96f77ddbbd57b4b530d55c2>
 Goldman Room E409, Encina Hall
  Speaker: 
- Han Zhang, Assistant Professor of Sociology and International and Public Affairs, Brown University
+ Han Zhang, Assistant Professor of Sociology and International and Public Affairs, Brown University 
+ Seminars
+Daniel Mattingly | SCCEI Seminar <https://fsi.stanford.edu/events/daniel-mattingly-sccei-seminar>
+Friday, April 2, 2027
+12:00 PM - 1:20 PM
+(Pacific)
+Register <https://app.smartsheet.com/b/form/019faf09296b74df9a4ac196c83e701c>
+Goldman Room E409, Encina Hall
+ Speaker: 
+ Daniel Mattingly, Associate Professor of Political Science at Yale University 
+ Seminars
+Student Seminar | April 9, 2027 <https://fsi.stanford.edu/events/student-seminar-april-9-2027>
+Friday, April 9, 2027
+12:00 PM - 1:00 PM
+(Pacific)
+Register <https://app.smartsheet.com/b/form/019fce8bfce37cd288540a7808918cda>
+Goldman Conference Room, Encina Hall, E409

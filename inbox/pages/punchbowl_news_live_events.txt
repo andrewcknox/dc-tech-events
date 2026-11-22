@@ -1,6 +1,6 @@
 # Punchbowl News live events
 # https://punchbowl.news/events/
-# fetched 2026-11-20T07:14:19.024144-05:00
+# fetched 2026-11-22T11:21:56.108029-05:00
 # tags: media
 
 Subscribe to be notified about all upcoming Punchbowl News events.
@@ -25,6 +25,15 @@ Tuesday, December 1, 2026
 •
  Washington, D.C. 
 Presented by Stand with Crypto
+Go to Pop-Up Conversation with Rep. Raul Ruiz <https://events.bizzabo.com/PopUp_RepRuiz_12_3>
+Presented by CSAH
+Pop-Up Conversation with Rep. Raul Ruiz
+Thursday, December 3, 2026
+•
+12:30 p.m. ET
+•
+ Washinton, D.C. 
+Presented by CSAH
 Join our Brown Bag Lunch Community Briefings
 Brown Bag sessions are exclusive events for Premium and Premium+ community members where our leading reporters discuss the latest news and answer questions live.
 PREMIUM MEMBERS ONLY

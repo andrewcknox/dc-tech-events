@@ -1,19 +1,9 @@
 # Carnegie Endowment
 # https://carnegieendowment.org/events
-# fetched 2026-11-20T07:14:19.024144-05:00
+# fetched 2026-11-22T11:21:56.108029-05:00
 # tags: think-tank
 
 Global - Events
-NOVEMBER
-20
-2026
-Event
-America After November 3: A Conversation with Rahm Emanuel <https://carnegieendowment.org/events/2026/11/america-after-november-3-a-conversation-with-rahm-emanuel>
-November 20, 2026
-11:00 AM - 11:45 AM EST
-Aaron David Miller
-, 
-Rahm Emanuel
 NOVEMBER
 25
 2026
