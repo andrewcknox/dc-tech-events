@@ -95,3 +95,5 @@ SAIS lists since the last run. Put *every* event from the mail, including ones a
 `inbox/sais_internal_YYYY-MM-DD.json` with `"backup": true, "tags": ["sais-internal", "sais"]` at the
 top level, import it, and handle misses with `dte gaps` as above. They appear on `docs/sais-internal.html`, and
 also on the public map only if an external source lists them too.
+In CampusGroups, keep economics/trade lectures (critical minerals, supply chains, tariffs, sanctions) even from
+the Development, Climate & Sustainability focus area: they count as tech-adjacent economic security for ETI.

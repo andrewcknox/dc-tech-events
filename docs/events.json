@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T08:29:15-05:00",
+ "generated_at": "2026-11-23T09:10:30-05:00",
  "today": "2026-11-23",
  "window_start": "2026-11-23",
  "window_days": 14,
@@ -6081,6 +6081,36 @@
    "where": "U.S. Capitol Visitor Center, SVC 215, Washington, DC"
   },
   {
+   "id": 700,
+   "title": "The International Trade Dimensions of the U.S. Critical Minerals Security Strategy",
+   "start": "2026-11-19T10:00:00-05:00",
+   "end": "2026-11-19T11:15:00-05:00",
+   "host": "SAIS Focus Area Events (Development, Climate & Sustainability)",
+   "source": "SAIS mailing lists",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW, Room 740",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997964",
+   "topics": [
+    "industrial-policy",
+    "energy-tech"
+   ],
+   "tags": [
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 3,
+   "why": "Critical-minerals supply chains underpin chips and energy-tech policy.",
+   "description": "Guest lecture by Columbia CGEP's Zainab Usman on trade dimensions of the US critical minerals security strategy.",
+   "speakers": [
+    "Zainab Usman"
+   ],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "10:00 AM–11:15 AM",
+   "where": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW, Room 740"
+  },
+  {
    "id": 389,
    "title": "FCC OPEN COMMISSION MEETING, Nov 19, 2026, DC/online, 10:30 am-12:30 pm ET",
    "start": "2026-11-19T10:30:00-05:00",
@@ -6778,6 +6808,41 @@
    "where": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
   },
   {
+   "id": 699,
+   "title": "Top of Our Minds: A Look at Contemporary Global Issues Against the Backdrop of the Midterms",
+   "start": "2026-11-30T11:30:00-05:00",
+   "end": "2026-11-30T13:00:00-05:00",
+   "host": "Merrill Center; SAIS SSS and T&I Focus Areas",
+   "source": "SAIS mailing lists",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW, Room 422",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1998154",
+   "topics": [
+    "AI",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 4,
+   "why": "New Merrill Center series co-sponsored by T&I, with Griffith on tech and AI.",
+   "description": "Informal faculty dialogue on Russia/Ukraine, the Middle East, defense and artificial intelligence. Lunch provided.",
+   "speakers": [
+    "Thomas G. Mahnken",
+    "Deborah Wituski",
+    "Mara Karlin",
+    "John McLaughlin",
+    "Melissa Griffith",
+    "Adam Szubin"
+   ],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "11:30 AM–1:00 PM",
+   "where": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW, Room 422"
+  },
+  {
    "id": 414,
    "title": "Richard Socher | The Eureka Machine: Why AI is the Key to Unlocking a New Era of Scientific Discoveries",
    "start": "2026-11-30T12:00:00-08:00",
@@ -6859,6 +6924,36 @@
    "in_dc": true,
    "time": "time TBD",
    "where": "San Francisco, CA"
+  },
+  {
+   "id": 478,
+   "title": "Guiding Multinational Enterprises through Global Risks: Lessons from Walmart",
+   "start": "2026-12-01T00:00:00-05:00",
+   "end": "2026-12-01T00:00:00-05:00",
+   "host": "SAIS (moderated by Prof. Matthias Matthijs)",
+   "source": "SAIS mailing lists",
+   "location": "Online (Zoom)",
+   "virtual": true,
+   "url": "https://jhjhm.zoom.us/meeting/register/x0UhbMMqR1CgSr4nhXMVtQ",
+   "topics": [
+    "industrial-policy"
+   ],
+   "tags": [
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 2,
+   "why": "Corporate view of tariffs and sanctions; light tech angle.",
+   "description": "Virtual conversation with Jeff Rice, Walmart SVP for Global Regulatory, Sourcing and Anti-Corruption Compliance, on tariffs, sanctions, supply-chain disruption and regulatory fragmentation. Moved from Nov 3.",
+   "speakers": [
+    "Jeff Rice",
+    "Matthias Matthijs"
+   ],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "time TBD",
+   "where": "Online (Zoom) (+ virtual)"
   },
   {
    "id": 609,
@@ -7196,6 +7291,99 @@
    "where": "Hauck Auditorium, Traitel Building, Hoover Institution, Stanford, CA"
   },
   {
+   "id": 697,
+   "title": "The Rural Roots of China's Macroeconomy: Why Rural China Mattered Before and Still Matters for China and for the World",
+   "start": "2026-12-02T12:00:00-05:00",
+   "end": "2026-12-02T13:30:00-05:00",
+   "host": "SAIS Focus Area Events (China)",
+   "source": "SAIS CampusGroups",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW, Room 258",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1998117",
+   "topics": [
+    "China",
+    "industrial-policy"
+   ],
+   "tags": [
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 3,
+   "why": "Roots of Chinese overcapacity matter for industrial-policy and trade debates.",
+   "description": "MIT Sloan's Yasheng Huang on how rural China shaped overcapacity, export surges and China's growth model.",
+   "speakers": [
+    "Yasheng Huang"
+   ],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "12:00 PM–1:30 PM",
+   "where": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW, Room 258"
+  },
+  {
+   "id": 695,
+   "title": "Taiwan, Technology, and Resilience in an Unstable Era",
+   "start": "2026-12-02T12:30:00-05:00",
+   "end": "2026-12-02T14:00:00-05:00",
+   "host": "Technology Club at SAIS; SAIS Strategy, Security, Intelligence & Technology; Taiwan Club at SAIS; Emerging Technologies Initiative at SAIS",
+   "source": "SAIS CampusGroups",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1998175",
+   "topics": [
+    "semiconductors",
+    "tech-geopolitics",
+    "China"
+   ],
+   "tags": [
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 5,
+   "why": "ETI co-hosted panel with TSMC and Taiwan NSC voices on chips and resilience.",
+   "description": "Civic, industry and policy perspectives on Taiwan's semiconductors, supply chains, economic coercion and defense resilience amid US-China tech competition.",
+   "speakers": [
+    "Melissa Griffith",
+    "Syaru Shirley",
+    "Lynette Ng",
+    "Enoch Wu"
+   ],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "12:30 PM–2:00 PM",
+   "where": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW"
+  },
+  {
+   "id": 696,
+   "title": "The Evolving Cyber Threat Landscape: A Fireside Chat with Cybersecurity Professional Thori Wolfe",
+   "start": "2026-12-02T12:30:00-05:00",
+   "end": "2026-12-02T14:00:00-05:00",
+   "host": "Defense and Intelligence Club at SAIS; SSS and T&I Focus Areas",
+   "source": "SAIS CampusGroups",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW, Room 422",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1998166",
+   "topics": [
+    "cyber"
+   ],
+   "tags": [
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 4,
+   "why": "Cyber threat briefing co-hosted by the Technology & Innovation focus area.",
+   "description": "Fireside chat on the evolving cyber threat landscape with national security professional Thori Wolfe. Food at 12:10.",
+   "speakers": [
+    "Thori Wolfe"
+   ],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "12:30 PM–2:00 PM",
+   "where": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW, Room 422"
+  },
+  {
    "id": 633,
    "title": "Creatives for Secure AI: Verifying Human Work and Protecting Creator Rights",
    "start": "2026-12-02T13:00:00-05:00",
@@ -7484,6 +7672,35 @@
    "in_dc": true,
    "time": "9:00 AM–5:00 PM",
    "where": "The Elliott School of International Affairs, Lindner Family Commons, 6th Floor"
+  },
+  {
+   "id": 701,
+   "title": "Crisis Simulation: NATO, Russia, and the Shadow War in Europe",
+   "start": "2026-12-04T09:00:00-05:00",
+   "end": "2026-12-04T12:00:00-05:00",
+   "host": "Johns Hopkins SAIS",
+   "source": "SAIS mailing lists",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW, Kenney Link (Rooms 426/428/430)",
+   "virtual": false,
+   "url": "https://www.eventbrite.com/e/crisis-simulation-nato-russia-and-the-shadow-war-in-europe-tickets-2002565999813",
+   "topics": [
+    "cyber",
+    "tech-geopolitics",
+    "EU"
+   ],
+   "tags": [
+    "sais",
+    "sais-internal"
+   ],
+   "fit": 3,
+   "why": "Hybrid-warfare exercise touching sabotage and cyber; open to SAIS students.",
+   "description": "Half-day student crisis simulation on Russia's hybrid warfare campaign across military, legal, intelligence and economic realms.",
+   "speakers": [],
+   "lat": 38.894,
+   "lon": -77.0203,
+   "in_dc": true,
+   "time": "9:00 AM–12:00 PM",
+   "where": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW, Kenney Link (Rooms 426/428/430)"
   },
   {
    "id": 411,

@@ -1,0 +1,372 @@
+{
+ "source": "SAIS mailing lists",
+ "backup": true,
+ "tags": [
+  "sais-internal",
+  "sais"
+ ],
+ "events": [
+  {
+   "title": "Autonomous Systems and Naval Warfare: The View from Saronic",
+   "start": "2026-11-18 13:00",
+   "end": "2026-11-18 14:00",
+   "location": "Hopkins Bloomberg Center, Room 422",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997732",
+   "host": "Merrill Center for Strategic Studies (Defense Industry Speaker Series)",
+   "description": "Brian Burton of Saronic Technologies on autonomous naval systems and the changing defense industrial base, moderated by Thomas Mahnken.",
+   "speakers": [
+    "Brian Burton",
+    "Thomas G. Mahnken"
+   ],
+   "topics": [
+    "AI",
+    "industrial-policy"
+   ],
+   "fit": 5,
+   "why": "Defense-tech autonomy and the industrial base, with a former DoW industrial-base official.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "How to Win a Trade War",
+   "start": "2026-11-18 12:00",
+   "end": "2026-11-18 13:30",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997508",
+   "host": "SAIS Focus Area Events",
+   "description": "Talk on trade-war strategy.",
+   "speakers": [],
+   "topics": [
+    "industrial-policy",
+    "tech-geopolitics"
+   ],
+   "fit": 3,
+   "why": "Trade-war strategy bears on export controls and tariffs.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "Inside the Crisis with Dr. Jacquelyn Schneider: Political Psychology and Wargaming",
+   "start": "2026-11-17 12:00",
+   "end": "2026-11-17 14:00",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997124",
+   "host": "Wargaming Club at SAIS; SAIS Strategy, Security, Intelligence & Technology",
+   "description": "Jacquelyn Schneider on political psychology and wargaming of crises.",
+   "speakers": [
+    "Jacquelyn Schneider"
+   ],
+   "topics": [
+    "cyber",
+    "AI"
+   ],
+   "fit": 4,
+   "why": "Schneider is a leading scholar of cyber, AI and crisis wargaming.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "A New Approach to US-Taiwan Relations",
+   "start": "2026-11-19 12:00",
+   "end": "2026-11-19 13:30",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997829",
+   "host": "SAIS Focus Area Events; Taiwan Club at SAIS",
+   "description": "Talk proposing a new approach to US-Taiwan relations.",
+   "speakers": [],
+   "topics": [
+    "China",
+    "tech-geopolitics"
+   ],
+   "fit": 3,
+   "why": "US-Taiwan policy, the backdrop to semiconductor geopolitics.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "Voices from Southeast Asia: A Conversation with Visiting Officials",
+   "start": "2026-11-19 12:00",
+   "end": "2026-11-19 13:30",
+   "location": "Hopkins Bloomberg Center, Room 222",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997912",
+   "host": "SAIS Focus Area Events (Asia)",
+   "description": "Conversation with visiting Southeast Asian officials.",
+   "speakers": [],
+   "topics": [
+    "tech-geopolitics"
+   ],
+   "fit": 2,
+   "why": "Regional diplomacy; little tech.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "Economics Seminar Series with James Lake",
+   "start": "2026-11-19 11:30",
+   "end": "2026-11-19 12:45",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1998028",
+   "host": "SAIS Focus Area Events (Economics)",
+   "description": "Economics seminar with trade economist James Lake.",
+   "speakers": [
+    "James Lake"
+   ],
+   "topics": [
+    "industrial-policy"
+   ],
+   "fit": 2,
+   "why": "Academic trade economics seminar.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "The Law Lab: AI and International Law",
+   "start": "2026-11-19 12:30",
+   "end": "2026-11-19 14:00",
+   "location": "Hopkins Bloomberg Center, Room 258",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997910",
+   "host": "International Law Society at SAIS",
+   "description": "Law Lab session on how international law applies to AI.",
+   "speakers": [],
+   "topics": [
+    "AI"
+   ],
+   "fit": 5,
+   "why": "AI governance through international law, squarely ETI's mission.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "The Future of Space Governance: Strategic Competition, Scientific Advancement, and International Cooperation",
+   "start": "2026-11-20 13:00",
+   "end": "2026-11-20 14:30",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1998074",
+   "host": "Space Club at SAIS",
+   "description": "Panel on space governance amid strategic competition and scientific cooperation.",
+   "speakers": [],
+   "topics": [
+    "space",
+    "tech-geopolitics"
+   ],
+   "fit": 4,
+   "why": "Space governance and great-power competition.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "Lessons in Leadership: Democratic Renewal in the Digital Age from Women in Latin America and Africa",
+   "start": "2026-11-30 09:30",
+   "end": "2026-11-30 16:00",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997474",
+   "host": "Latin America Studies Initiative at SAIS; Global Women in Leadership at SAIS",
+   "description": "Day-long program on democratic renewal in the digital age, featuring women leaders from Latin America and Africa.",
+   "speakers": [],
+   "topics": [
+    "trust-and-safety",
+    "data/privacy"
+   ],
+   "fit": 3,
+   "why": "Digital technology and democracy.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "The Rural Roots of China's Macroeconomy: Why Rural China Mattered Before and Still Matters for China and for the World",
+   "start": "2026-12-02 12:00",
+   "end": "2026-12-02 13:30",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW, Room 258",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1998117",
+   "host": "SAIS Focus Area Events (China)",
+   "description": "MIT Sloan's Yasheng Huang on how rural China shaped overcapacity, export surges and China's growth model.",
+   "speakers": [
+    "Yasheng Huang"
+   ],
+   "topics": [
+    "China",
+    "industrial-policy"
+   ],
+   "fit": 3,
+   "why": "Roots of Chinese overcapacity matter for industrial-policy and trade debates.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "Japanese Politics After the Elections and the Future Prospects of the U.S.-Japan Alliance",
+   "start": "2026-12-03 12:00",
+   "end": "2026-12-03 13:30",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW, Room 222",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1998114",
+   "host": "SAIS Focus Area Events (Asia); Japan Club at SAIS",
+   "description": "CSIS's Nicholas Szechenyi on Japanese politics after the elections and the US-Japan alliance (Asia Policy & Career Roundtable).",
+   "speakers": [
+    "Nicholas Szechenyi"
+   ],
+   "topics": [
+    "Japan-Korea"
+   ],
+   "fit": 2,
+   "why": "Alliance politics; light on technology.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "Taiwan, Technology, and Resilience in an Unstable Era",
+   "start": "2026-12-02 12:30",
+   "end": "2026-12-02 14:00",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1998175",
+   "host": "Technology Club at SAIS; SAIS Strategy, Security, Intelligence & Technology; Taiwan Club at SAIS; Emerging Technologies Initiative at SAIS",
+   "description": "Civic, industry and policy perspectives on Taiwan's semiconductors, supply chains, economic coercion and defense resilience amid US-China tech competition.",
+   "speakers": [
+    "Melissa Griffith",
+    "Syaru Shirley",
+    "Lynette Ng",
+    "Enoch Wu"
+   ],
+   "topics": [
+    "semiconductors",
+    "tech-geopolitics",
+    "China"
+   ],
+   "fit": 5,
+   "why": "ETI co-hosted panel with TSMC and Taiwan NSC voices on chips and resilience.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "Top of Our Minds: A Look at Contemporary Global Issues Against the Backdrop of the Midterms",
+   "start": "2026-11-30 11:30",
+   "end": "2026-11-30 13:00",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW, Room 422",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1998154",
+   "host": "Merrill Center; SAIS SSS and T&I Focus Areas",
+   "description": "Informal faculty dialogue on Russia/Ukraine, the Middle East, defense and artificial intelligence. Lunch provided.",
+   "speakers": [
+    "Thomas G. Mahnken",
+    "Deborah Wituski",
+    "Mara Karlin",
+    "John McLaughlin",
+    "Melissa Griffith",
+    "Adam Szubin"
+   ],
+   "topics": [
+    "AI",
+    "tech-geopolitics"
+   ],
+   "fit": 4,
+   "why": "New Merrill Center series co-sponsored by T&I, with Griffith on tech and AI.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "The International Trade Dimensions of the U.S. Critical Minerals Security Strategy",
+   "start": "2026-11-19 10:00",
+   "end": "2026-11-19 11:15",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW, Room 740",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997964",
+   "host": "SAIS Focus Area Events (Development, Climate & Sustainability)",
+   "description": "Guest lecture by Columbia CGEP's Zainab Usman on trade dimensions of the US critical minerals security strategy.",
+   "speakers": [
+    "Zainab Usman"
+   ],
+   "topics": [
+    "industrial-policy",
+    "energy-tech"
+   ],
+   "fit": 3,
+   "why": "Critical-minerals supply chains underpin chips and energy-tech policy.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "Guiding Multinational Enterprises through Global Risks: Lessons from Walmart",
+   "start": "2026-12-01 18:00",
+   "end": "2026-12-01 19:00",
+   "location": "Online (Zoom)",
+   "virtual": true,
+   "url": "https://jhjhm.zoom.us/meeting/register/x0UhbMMqR1CgSr4nhXMVtQ",
+   "host": "Johns Hopkins SAIS (moderated by Matthias Matthijs)",
+   "description": "Walmart SVP Jeff Rice on navigating tariffs, sanctions, supply-chain disruption and fragmented regulation; Q&A with students and alumni.",
+   "speakers": [
+    "Jeff Rice",
+    "Matthias Matthijs"
+   ],
+   "topics": [
+    "tech-geopolitics",
+    "industrial-policy"
+   ],
+   "fit": 3,
+   "why": "Corporate view of tariffs, sanctions and supply-chain risk.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "Crisis Simulation: NATO, Russia, and the Shadow War in Europe",
+   "start": "2026-12-04 09:00",
+   "end": "2026-12-04 12:00",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW, Kenney Link (Rooms 426/428/430)",
+   "virtual": false,
+   "url": "https://www.eventbrite.com/e/crisis-simulation-nato-russia-and-the-shadow-war-in-europe-tickets-2002565999813",
+   "host": "Johns Hopkins SAIS",
+   "description": "Half-day student crisis simulation on Russia's hybrid warfare campaign across military, legal, intelligence and economic realms.",
+   "speakers": [],
+   "topics": [
+    "cyber",
+    "tech-geopolitics",
+    "EU"
+   ],
+   "fit": 3,
+   "why": "Hybrid-warfare exercise touching sabotage and cyber; open to SAIS students.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "source": "SAIS CampusGroups",
+ "backup": false,
+ "tags": [
+  "sais-internal",
+  "sais"
+ ],
+ "events": [
+  {
+   "title": "Lessons in Leadership: Democratic Renewal in the Digital Age from Women in Latin America and Africa",
+   "start": "2026-11-30 09:30",
+   "end": "2026-11-30 16:00",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1997474",
+   "host": "Latin America Studies Initiative at SAIS; Global Women in Leadership at SAIS",
+   "description": "Day-long program on democratic renewal in the digital age, featuring women leaders from Latin America and Africa.",
+   "speakers": [],
+   "topics": [
+    "trust-and-safety",
+    "data/privacy"
+   ],
+   "fit": 3,
+   "why": "Digital technology and democracy.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "Taiwan, Technology, and Resilience in an Unstable Era",
+   "start": "2026-12-02 12:30",
+   "end": "2026-12-02 14:00",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1998175",
+   "host": "Technology Club at SAIS; SAIS Strategy, Security, Intelligence & Technology; Taiwan Club at SAIS; Emerging Technologies Initiative at SAIS",
+   "description": "Civic, industry and policy perspectives on Taiwan's semiconductors, supply chains, economic coercion and defense resilience amid US-China tech competition.",
+   "speakers": [
+    "Melissa Griffith",
+    "Syaru Shirley",
+    "Lynette Ng",
+    "Enoch Wu"
+   ],
+   "topics": [
+    "semiconductors",
+    "tech-geopolitics",
+    "China"
+   ],
+   "fit": 5,
+   "why": "ETI co-hosted panel with TSMC and Taiwan NSC voices on chips and resilience.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "The Evolving Cyber Threat Landscape: A Fireside Chat with Cybersecurity Professional Thori Wolfe",
+   "start": "2026-12-02 12:30",
+   "end": "2026-12-02 14:00",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW, Room 422",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1998166",
+   "host": "Defense and Intelligence Club at SAIS; SSS and T&I Focus Areas",
+   "description": "Fireside chat on the evolving cyber threat landscape with national security professional Thori Wolfe. Food at 12:10.",
+   "speakers": [
+    "Thori Wolfe"
+   ],
+   "topics": [
+    "cyber"
+   ],
+   "fit": 4,
+   "why": "Cyber threat briefing co-hosted by the Technology & Innovation focus area.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "The Rural Roots of China's Macroeconomy: Why Rural China Mattered Before and Still Matters for China and for the World",
+   "start": "2026-12-02 12:00",
+   "end": "2026-12-02 13:30",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW, Room 258",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1998117",
+   "host": "SAIS Focus Area Events (China)",
+   "description": "MIT Sloan's Yasheng Huang on how rural China shaped overcapacity, export surges and China's growth model.",
+   "speakers": [
+    "Yasheng Huang"
+   ],
+   "topics": [
+    "China",
+    "industrial-policy"
+   ],
+   "fit": 3,
+   "why": "Roots of Chinese overcapacity matter for industrial-policy and trade debates.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  },
+  {
+   "title": "Japanese Politics After the Elections and the Future Prospects of the U.S.-Japan Alliance",
+   "start": "2026-12-03 12:00",
+   "end": "2026-12-03 13:30",
+   "location": "Hopkins Bloomberg Center, 555 Pennsylvania Ave NW, Room 222",
+   "virtual": false,
+   "url": "https://jhu.campusgroups.com/rsvp_boot?id=1998114",
+   "host": "SAIS Focus Area Events (Asia); Japan Club at SAIS",
+   "description": "CSIS's Nicholas Szechenyi on Japanese politics after the elections and the US-Japan alliance (Asia Policy & Career Roundtable).",
+   "speakers": [
+    "Nicholas Szechenyi"
+   ],
+   "topics": [
+    "Japan-Korea"
+   ],
+   "fit": 2,
+   "why": "Alliance politics; light on technology.",
+   "tags": [
+    "sais-internal",
+    "sais"
+   ]
+  }
+ ]
+}

@@ -43,6 +43,13 @@ sources:
     tags: [sais, jhu, university]
     enabled: true   # SAIS Faculty Research Forum (public book talks at HBC); added 2026-11-09 after a sais.ti miss
 
+  - name: SAIS Kissinger Center (Eventbrite)
+    url: https://www.eventbrite.com/o/henry-a-kissinger-center-for-global-affairs-32081158057
+    type: eventbrite_org
+    js: false
+    tags: [sais, jhu, university]
+    enabled: true   # Kissinger Center crisis simulations and talks at HBC, registered on Eventbrite not CampusGroups; added 2026-11-23 after a sais.dcstudents (Blueser) miss
+
   - name: Hopkins Bloomberg Center
     url: https://hub.jhu.edu/tags/555-Penn/events/feed/
     type: rss
