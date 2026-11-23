@@ -1,6 +1,6 @@
 # Punchbowl News live events
 # https://punchbowl.news/events/
-# fetched 2026-11-22T11:21:56.108029-05:00
+# fetched 2026-11-23T08:18:49.735192-05:00
 # tags: media
 
 Subscribe to be notified about all upcoming Punchbowl News events.
@@ -88,6 +88,6 @@ Go to New Power Players <https://events.punchbowl.news/npp_sherrill>
 Presented by Arnold Ventures
 New Power Players
 Presented by Arnold Ventures
- Presented by The American Cancer Society Cancer Action Network 
-Dana honors her husband Jon’s memory by advocating for the policies and research that make life-saving breakthroughs possible. Congress: Support the millions of cancer patients, survivors, and their loved ones by funding cancer research. 
-Fight cancer together. <https://researchvoices.fightcancer.org/story/dana?utm_source=punchbowl&utm_campaign=research&utm_id=storytellingNov&utm_medium=web&ms=research_storytellingNov_web_punchbowl>
+ Presented by American Investment Council 
+Eighty-five percent of private equity investment in the U.S. goes to small businesses with fewer than 500 employees. By pairing long-term capital with hands-on operational expertise, private equity helps local companies expand, create jobs, and drive economic growth. 
+See how private equity supports small businesses. <https://www.investmentcouncil.org/smallbusiness/>

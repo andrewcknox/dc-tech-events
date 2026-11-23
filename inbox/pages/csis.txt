@@ -1,6 +1,6 @@
 # CSIS
 # https://www.csis.org/events
-# fetched 2026-11-22T11:21:56.108029-05:00
+# fetched 2026-11-23T08:18:49.735192-05:00
 # tags: think-tank
 
 Events
@@ -30,25 +30,25 @@ See all upcoming events <https://www.csis.org/events?f%5B0%5D=event_type%3A3004&
  Recent Events
 Image
 Photo: Narumon Bowonkitwanchai/GETTY IMAGES
-Understanding the Memory Chip Crunch & the Way Ahead <https://www.csis.org/events/understanding-memory-chip-crunch-way-ahead>
+Understanding the Memory Chip Crunch & the Way Ahead <https://www.csis.org/index%2ephp/events/understanding-memory-chip-crunch-way-ahead>
 November 20, 2026 • 10:00 – 11:00 am EST
  Hosted by 
 Strategic Technologies Program
 Image
 Photo: CSIS
-India’s Data Moment: A Conversation with Secretary Saurabh Garg on India’s AI-Ready Data Push <https://www.csis.org/index%2Ephp/events/indias-data-moment-conversation-secretary-saurabh-garg-indias-ai-ready-data-push>
+India’s Data Moment: A Conversation with Secretary Saurabh Garg on India’s AI-Ready Data Push <https://www.csis.org/events/indias-data-moment-conversation-secretary-saurabh-garg-indias-ai-ready-data-push>
 November 19, 2026 • 4:00 – 6:30 pm EST
  Hosted by 
 Chair on India and Emerging Asia Economics
 Image
 Photo: CSIS
-The Next Energy Order: Featuring Dr. Sarah Kapnick, Global Head of Climate Advisory, J.P. Morgan | Betting on America <https://www.csis.org/events/next-energy-order-featuring-dr-sarah-kapnick-global-head-climate-advisory-jp-morgan-betting>
+The Next Energy Order: Featuring Dr. Sarah Kapnick, Global Head of Climate Advisory, J.P. Morgan | Betting on America <https://www.csis.org/index%2Ephp/events/next-energy-order-featuring-dr-sarah-kapnick-global-head-climate-advisory-jp-morgan-betting>
 November 19, 2026 • 10:00 – 11:00 am EST
  Hosted by 
 Economic Security and Technology
 Image
 Photo: CSIS
-Traffic Jams in Space | Space Strategic Dialogue <https://www.csis.org/events/traffic-jams-space-space-strategic-dialogue>
+Traffic Jams in Space | Space Strategic Dialogue <https://www.csis.org/index%2ephp/events/traffic-jams-space-space-strategic-dialogue>
 November 19, 2026 • 9:00 – 10:00 am EST
  Hosted by 
 Aerospace Security Project

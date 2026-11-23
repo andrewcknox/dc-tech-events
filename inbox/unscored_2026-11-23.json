@@ -1,0 +1,45 @@
+{
+ "instructions": "Fill fit (1-5), topics (from the DAILY.md list) and why for each event; add tags (e.g. bay-area) if needed; then `uv run dte score apply <this file>`. Leave fit null to skip.",
+ "events": [
+  {
+   "id": 671,
+   "title": "LAUNCH OF PROGRESS MS-36?, Nov 24, 2026, Kazakhstan, 5:13 am ET",
+   "start": "2026-11-24T05:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "Anatoly Zak of RussianSpaceWeb.com reports that Russia will launch Progress MS-36 (Progress 97 in NASA parlance) on November 24, 2026 at 5:13 am ET from the Baikonur Cosmodrome, with docking on November 25. Historically NASA covered these cargo launches on",
+   "url": "https://spacepolicyonline.com/events/launch-of-progress-ms-36-nov-24-2026-kazakhstan-513-am-et/",
+   "fit": 1,
+   "topics": [
+    "space"
+   ],
+   "why": "Launch notice, not a policy event."
+  },
+  {
+   "id": 672,
+   "title": "Venue Placeholder – Spaceship (Jan 13) – Austral Group IEBSMA Visit - Members Only - Members Only",
+   "start": "2027-01-13T16:30:00-05:00",
+   "location": "Frontier Tower @ Spaceship 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/venue-placeholder-spaceship-jan-13-austr Address: Frontier Tower @ Spaceship 995 Market Street, San Francisco Hosted by Xenofon",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [],
+   "why": "Members-only venue placeholder, not a policy event."
+  }
+ ]
+}

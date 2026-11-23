@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-22T11:28:58-05:00",
- "today": "2026-11-22",
- "window_start": "2026-11-22",
+ "generated_at": "2026-11-23T08:29:15-05:00",
+ "today": "2026-11-23",
+ "window_start": "2026-11-23",
  "window_days": 14,
  "map_center": [
   38.905,
@@ -11,43 +11,34 @@
  "flagged_sources": [
   {
    "name": "Berkeley Risk & Security Lab",
+   "failures": 4
+  },
+  {
+   "name": "Hopkins Bloomberg Center",
+   "failures": 3
+  },
+  {
+   "name": "JHU Data Science and AI Institute",
+   "failures": 3
+  },
+  {
+   "name": "JHU Hub Events (SAIS)",
+   "failures": 3
+  },
+  {
+   "name": "JHU Institute for Assured Autonomy (Baltimore)",
    "failures": 3
   },
   {
    "name": "National Academies",
-   "failures": 4
+   "failures": 5
+  },
+  {
+   "name": "SNF Agora Institute (JHU, Baltimore)",
+   "failures": 3
   }
  ],
  "events": [
-  {
-   "id": 42,
-   "title": "AI Agent Containment Failures: Technical Realities and Policy Responses",
-   "start": "2026-08-24T14:00:00-04:00",
-   "end": null,
-   "host": "CSIS",
-   "source": "Caleb Knapp Weekly AI Digest (Substack)",
-   "location": "CSIS, 1616 Rhode Island Ave NW",
-   "virtual": true,
-   "url": "https://www.csis.org/events/ai-agent-containment-failures-technical-realities-and-policy-responses",
-   "topics": [
-    "AI",
-    "cyber",
-    "trust-and-safety"
-   ],
-   "tags": [
-    "substack",
-    "think-tank"
-   ],
-   "fit": 5,
-   "why": "CSIS on the summer's rogue-agent incidents, the single biggest AI-security story of the year.",
-   "description": "",
-   "speakers": [],
-   "lat": 38.9061,
-   "lon": -77.0378,
-   "in_dc": true,
-   "time": "2:00 PM",
-   "where": "CSIS, 1616 Rhode Island Ave NW (+ virtual)"
-  },
   {
    "id": 43,
    "title": "Can the United States Win the AI Race if Americans Oppose Data Centers?",
@@ -6676,38 +6667,6 @@
    "where": "Online (+ virtual)"
   },
   {
-   "id": 642,
-   "title": "Senate Commerce Nominations Hearing (Peter Feldman, CPSC; Christopher Mufarrige, FTC; Loren Smith Jr., DOT)",
-   "start": "2026-11-24T10:00:00-05:00",
-   "end": null,
-   "host": "Senate Committee on Commerce, Science, and Transportation",
-   "source": "daily page scan",
-   "location": "SR-253, Russell Senate Office Building, Washington, DC",
-   "virtual": false,
-   "url": "https://www.commerce.senate.gov/meetings/58665/",
-   "topics": [
-    "data/privacy",
-    "trust-and-safety"
-   ],
-   "tags": [
-    "hill"
-   ],
-   "fit": 3,
-   "why": "An FTC nominee will be questioned on AI, privacy and platform enforcement.",
-   "description": "Nominations hearing chaired by Sen. Cruz: Peter Feldman to chair the CPSC, Christopher Mufarrige to be a Federal Trade Commissioner, and Loren Smith Jr. to be an Assistant Secretary of Transportation.",
-   "speakers": [
-    "Ted Cruz",
-    "Peter Feldman",
-    "Christopher Mufarrige",
-    "Loren Smith Jr."
-   ],
-   "lat": 38.8899,
-   "lon": -77.0091,
-   "in_dc": true,
-   "time": "10:00 AM",
-   "where": "SR-253, Russell Senate Office Building, Washington, DC"
-  },
-  {
    "id": 253,
    "title": "Defense Tech DC 021",
    "start": "2026-11-24T17:30:00-05:00",
@@ -6902,6 +6861,32 @@
    "where": "San Francisco, CA"
   },
   {
+   "id": 609,
+   "title": "Crypto Summit: Washington, D.C.",
+   "start": "2026-12-01T08:00:00-05:00",
+   "end": null,
+   "host": "Punchbowl News",
+   "source": "daily page scan",
+   "location": "Washington, DC",
+   "virtual": false,
+   "url": "https://punchbowl.news/events/",
+   "topics": [
+    "industrial-policy"
+   ],
+   "tags": [
+    "media"
+   ],
+   "fit": 2,
+   "why": "On-record crypto policy conversations; peripheral to ETI's core topics.",
+   "description": "Punchbowl News live summit on crypto policy, presented by Stand with Crypto.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "8:00 AM",
+   "where": "Washington, DC"
+  },
+  {
    "id": 233,
    "title": "Broadband and AI in the Next Congress",
    "start": "2026-12-01T08:30:00-05:00",
@@ -6943,7 +6928,8 @@
     "industrial-policy"
    ],
    "tags": [
-    "university"
+    "university",
+    "georgetown"
    ],
    "fit": 4,
    "why": "Full-day DC conference on AI's economic and trade effects.",
@@ -6954,6 +6940,90 @@
    "in_dc": true,
    "time": "9:00 AM–5:30 PM",
    "where": "Fisher Colloquium, Georgetown University, Washington, DC"
+  },
+  {
+   "id": 693,
+   "title": "Senate Commerce Nominations Hearing (Peter Feldman, CPSC; Christopher Mufarrige, FTC; Loren Smith Jr., DOT)",
+   "start": "2026-12-01T10:00:00-05:00",
+   "end": null,
+   "host": "Senate Committee on Commerce, Science, and Transportation",
+   "source": "daily page scan",
+   "location": "SR-253, Russell Senate Office Building",
+   "virtual": false,
+   "url": "https://www.commerce.senate.gov/meetings/58665/",
+   "topics": [
+    "trust-and-safety"
+   ],
+   "tags": [
+    "hill"
+   ],
+   "fit": 3,
+   "why": "FTC nominee shapes AI and data-privacy enforcement; open Senate hearing a short trip from SAIS.",
+   "description": "Nominations hearing, rescheduled from Nov 24: Peter Feldman (CPSC chair, tentative), Christopher Mufarrige (FTC commissioner), Loren Smith Jr. (Asst. Secretary of Transportation).",
+   "speakers": [
+    "Peter A. Feldman",
+    "Christopher Mufarrige",
+    "Loren Smith, Jr."
+   ],
+   "lat": 38.8899,
+   "lon": -77.0091,
+   "in_dc": true,
+   "time": "10:00 AM",
+   "where": "SR-253, Russell Senate Office Building"
+  },
+  {
+   "id": 623,
+   "title": "New Portrait of Computer Science Majors in the Age of AI",
+   "start": "2026-12-01T12:00:00-05:00",
+   "end": "2026-12-01T13:00:00-05:00",
+   "host": "New America",
+   "source": "daily page scan",
+   "location": "Online",
+   "virtual": true,
+   "url": "https://www.newamerica.org/events/new-portrait-of-computer-science-majors-in-the-age-of-ai/",
+   "topics": [
+    "AI"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 2,
+   "why": "AI and the tech talent pipeline; more education than policy.",
+   "description": "What it means to study computer science in the age of AI and how the next generation of technologists will redefine the field.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "12:00 PM–1:00 PM",
+   "where": "Online (+ virtual)"
+  },
+  {
+   "id": 492,
+   "title": "Executive Roundtable - U.S.-China Relations: From APEC Summit Outcomes to Strategic Realities",
+   "start": "2026-12-01T11:00:00-08:00",
+   "end": "2026-12-01T13:00:00-08:00",
+   "host": "Asia Society Northern California",
+   "source": "daily page scan",
+   "location": "Asia Society Northern California, San Francisco, CA",
+   "virtual": false,
+   "url": "https://asiasociety.org/northern-california/events/executive-roundtable-us-china-relations-apec-summit-outcomes-strategic-realities",
+   "topics": [
+    "China",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "bay-area",
+    "think-tank"
+   ],
+   "fit": 2,
+   "why": "US-China relations broadly; tech is only part of it.",
+   "description": "Executive roundtable on US-China relations after the APEC summit.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "11:00 AM–1:00 PM PT",
+   "where": "Asia Society Northern California, San Francisco, CA"
   },
   {
    "id": 418,
@@ -7044,6 +7114,32 @@
    "in_dc": false,
    "time": "6:30 PM–9:00 PM",
    "where": "https://luma.com/event/evt-Sr4XLss0nbCpSbH"
+  },
+  {
+   "id": 391,
+   "title": "The Future of Advanced Nuclear and the Role for State Policy",
+   "start": "2026-12-02T00:00:00-05:00",
+   "end": null,
+   "host": "AAAS",
+   "source": "daily page scan",
+   "location": "Washington, DC",
+   "virtual": false,
+   "url": "https://www.aaas.org/events/future-advanced-nuclear-and-role-state-policy",
+   "topics": [
+    "energy-tech"
+   ],
+   "tags": [
+    "science"
+   ],
+   "fit": 2,
+   "why": "Energy-technology policy; relevant to students following AI power demand and nuclear.",
+   "description": "AAAS Center for Scientific Evidence in Public Issues event on advanced nuclear energy and what states can do.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "time TBD",
+   "where": "Washington, DC"
   },
   {
    "id": 415,
@@ -7209,6 +7305,42 @@
    "where": "210 South Hall and online (+ virtual)"
   },
   {
+   "id": 674,
+   "title": "Second Annual US-China Rivalry in the Middle East Conference",
+   "start": "2026-12-02T17:30:00-05:00",
+   "end": "2026-12-03T14:00:00-05:00",
+   "host": "Hudson Institute",
+   "source": "daily page scan",
+   "location": "Hudson Institute",
+   "virtual": false,
+   "url": "https://www.hudson.org/events/second-annual-us-china-rivalry-middle-east-conference",
+   "topics": [
+    "tech-geopolitics",
+    "China"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "US-China tech competition in a third region, though invitation-only.",
+   "description": "Invitation-only conference on how the war with Iran, emerging technologies and China's expanding influence are reshaping the Middle East, and how the US can secure its strategic and technological leadership.",
+   "speakers": [
+    "Zineb Riboua",
+    "Joel Scanlon",
+    "Can Kasapoğlu",
+    "Michael Doran",
+    "Chaim Martin",
+    "Ryan Fedasiuk",
+    "Ludovic Hood",
+    "Aaron MacLean"
+   ],
+   "lat": 38.896,
+   "lon": -77.0286,
+   "in_dc": true,
+   "time": "5:30 PM–2:00 PM",
+   "where": "Hudson Institute"
+  },
+  {
    "id": 444,
    "title": "The Hypersonic Landscape: Emerging Threats and New Opportunities",
    "start": "2026-12-03T08:00:00-05:00",
@@ -7234,6 +7366,34 @@
    "in_dc": false,
    "time": "8:00 AM–9:00 AM",
    "where": "Virtual"
+  },
+  {
+   "id": 655,
+   "title": "So You Want a Nuclear Energy Renaissance? Time to Solve the US Nuclear Waste Management Problem",
+   "start": "2026-12-03T11:00:00-05:00",
+   "end": null,
+   "host": "Stimson Center",
+   "source": "daily page scan",
+   "location": "Stimson Center, 1211 Connecticut Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.stimson.org/event/so-you-want-a-nuclear-energy-renaissance-time-to-solve-the-us-nuclear-waste-management-problem/",
+   "topics": [
+    "energy-tech"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 2,
+   "why": "Nuclear energy policy, adjacent to tech/energy interests.",
+   "description": "Fireside chat with Daniel Metlay on his book on high-activity nuclear waste management policy. Online or in person.",
+   "speakers": [
+    "Daniel S. Metlay"
+   ],
+   "lat": 38.9061,
+   "lon": -77.0417,
+   "in_dc": true,
+   "time": "11:00 AM",
+   "where": "Stimson Center, 1211 Connecticut Ave NW, Washington, DC"
   },
   {
    "id": 549,
@@ -7625,6 +7785,32 @@
    "where": "621 Sutardja Dai Hall"
   },
   {
+   "id": 393,
+   "title": "AI Safety in 2027: What's Next Following the Midterm Elections? (virtual roundtable)",
+   "start": "2026-12-08T15:00:00-05:00",
+   "end": null,
+   "host": "Consumer Technology Association",
+   "source": "daily page scan",
+   "location": "Virtual",
+   "virtual": true,
+   "url": "https://www.cta.tech/events",
+   "topics": [
+    "AI"
+   ],
+   "tags": [
+    "industry"
+   ],
+   "fit": 2,
+   "why": "Industry AI-safety policy outlook, but likely members only.",
+   "description": "CTA virtual roundtable on risk-based approaches to AI safety after the midterms; appears to be member-only.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "3:00 PM",
+   "where": "Virtual (+ virtual)"
+  },
+  {
    "id": 250,
    "title": "Disrupting Politics: Technology, Democracy, and What Comes Next",
    "start": "2026-12-08T17:30:00-05:00",
@@ -7712,7 +7898,7 @@
    "id": 618,
    "title": "A Conversation with Chairman Carr: The FCC's New National Security Mandate",
    "start": "2026-12-09T00:00:00-05:00",
-   "end": null,
+   "end": "2026-12-09T12:00:00-05:00",
    "host": "AEI",
    "source": "daily page scan",
    "location": "AEI, 1789 Massachusetts Ave NW, Washington, DC",
@@ -7792,6 +7978,33 @@
    "in_dc": true,
    "time": "9:30 AM–11:00 AM",
    "where": "STATION DC, 1323 4th St NE Ste 200, Washington, DC 20002, USA"
+  },
+  {
+   "id": 406,
+   "title": "Emerging Technologies and New Frontiers: Forging Digital Connections in the U.S.-ROK Relationship",
+   "start": "2026-12-10T09:00:00-05:00",
+   "end": "2026-12-10T10:00:00-05:00",
+   "host": "Asia Society Policy Institute",
+   "source": "daily page scan",
+   "location": "Asia Society, New York, NY",
+   "virtual": false,
+   "url": "https://asiasociety.org/policy-institute/events/emerging-technologies-and-new-frontiers-forging-digital-connections-us-rok-relationship",
+   "topics": [
+    "Japan-Korea",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 2,
+   "why": "On-topic US-Korea tech panel, but in New York.",
+   "description": "Expert panel on US-ROK cooperation on emerging and critical technologies. Held in New York, ticketed.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "9:00 AM–10:00 AM",
+   "where": "Asia Society, New York, NY"
   },
   {
    "id": 620,
@@ -7913,7 +8126,7 @@
    "end": "2026-12-15T11:00:00-05:00",
    "host": "Future of Privacy Forum",
    "source": "daily page scan",
-   "location": null,
+   "location": "Online",
    "virtual": true,
    "url": "https://fpf.org/fpf-event/agentic-data-flows-a-closer-look-at-data-realities-risks-and-safeguards/",
    "topics": [
@@ -7921,7 +8134,8 @@
     "data/privacy"
    ],
    "tags": [
-    "think-tank"
+    "think-tank",
+    "civil-society"
    ],
    "fit": 4,
    "why": "Privacy governance for AI agents, an emerging policy question.",
@@ -7931,7 +8145,7 @@
    "lon": null,
    "in_dc": false,
    "time": "9:30 AM–11:00 AM",
-   "where": "Virtual"
+   "where": "Online (+ virtual)"
   },
   {
    "id": 254,
@@ -8028,7 +8242,9 @@
    ],
    "tags": [
     "bay-area",
-    "government"
+    "government",
+    "public",
+    "sacramento"
    ],
    "fit": 3,
    "why": "California data-broker rulemaking under the Delete Act.",
@@ -8039,6 +8255,36 @@
    "in_dc": false,
    "time": "time TBD",
    "where": "Hybrid; California Privacy Protection Agency, Sacramento, CA (+ virtual)"
+  },
+  {
+   "id": 646,
+   "title": "Transatlantic Defense Industrial Cooperation and NATO 3.0: A Conversation with US Ambassador to NATO Matthew Whitaker",
+   "start": "2027-01-07T16:00:00-05:00",
+   "end": "2027-01-07T17:00:00-05:00",
+   "host": "Hudson Institute",
+   "source": "daily page scan",
+   "location": "Hudson Institute, 1201 Pennsylvania Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.hudson.org/events/transatlantic-defense-industrial-cooperation-nato-30-conversation-us-ambassador-nato-matthew",
+   "topics": [
+    "industrial-policy",
+    "EU"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 2,
+   "why": "Defense industrial base policy with an allied angle.",
+   "description": "Ambassador Whitaker and Peter Rough on NATO 3.0 and transatlantic defense industrial cooperation.",
+   "speakers": [
+    "Matthew Whitaker",
+    "Peter Rough"
+   ],
+   "lat": 38.896,
+   "lon": -77.0286,
+   "in_dc": true,
+   "time": "4:00 PM–5:00 PM",
+   "where": "Hudson Institute, 1201 Pennsylvania Ave NW, Washington, DC"
   },
   {
    "id": 409,
@@ -8138,7 +8384,9 @@
     "space"
    ],
    "tags": [
-    "think-tank"
+    "think-tank",
+    "civil-society",
+    "space"
    ],
    "fit": 3,
    "why": "Hands-on DC training on space security and its nuclear links; application likely required.",
@@ -8229,6 +8477,34 @@
    "in_dc": true,
    "time": "time TBD",
    "where": "International Spy Museum, 700 L'Enfant Plaza SW, Washington, DC"
+  },
+  {
+   "id": 442,
+   "title": "Bio-Strategies & Leadership Congressional Leadership Accelerator for Biotechnology (C-LAB)",
+   "start": "2027-02-18T00:00:00-08:00",
+   "end": "2027-02-19T00:00:00-08:00",
+   "host": "Hoover Institution",
+   "source": "daily page scan",
+   "location": "Hoover Institution, Stanford, CA",
+   "virtual": false,
+   "url": "https://www.hoover.org/events/bio-strategies-leadership-congressional-leadership-accelerator-biotechnology",
+   "topics": [
+    "biotech",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "bay-area",
+    "think-tank"
+   ],
+   "fit": 2,
+   "why": "Biotech strategy, but a closed program for Hill staff.",
+   "description": "Two-day intensive program on biotechnology strategy for congressional staff.",
+   "speakers": [],
+   "lat": 37.4272,
+   "lon": -122.1663,
+   "in_dc": true,
+   "time": "time TBD",
+   "where": "Hoover Institution, Stanford, CA"
   },
   {
    "id": 670,

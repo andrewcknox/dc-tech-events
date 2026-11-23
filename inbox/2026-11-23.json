@@ -1,0 +1,1638 @@
+{
+ "source": "daily page scan",
+ "tags": [],
+ "events": [
+  {
+   "title": "The Future of Advanced Nuclear and the Role for State Policy",
+   "start": "2026-12-02",
+   "end": null,
+   "location": null,
+   "virtual": false,
+   "url": "https://www.aaas.org/events/future-advanced-nuclear-and-role-state-policy",
+   "host": "AAAS",
+   "description": "AAAS Center for Scientific Evidence in Public Issues event on advanced nuclear energy and the role of state policy.",
+   "speakers": [],
+   "topics": [
+    "energy-tech"
+   ],
+   "fit": 3,
+   "why": "Energy-technology policy session useful for students following the nuclear and AI-power debate.",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "title": "Automatic License Plate Readers: Technologies, Impacts and Policy Responses",
+   "start": "2026-12-16",
+   "end": null,
+   "location": null,
+   "virtual": false,
+   "url": "https://www.aaas.org/events/automatic-license-plate-readers-technologies-impacts-and-policy-responses",
+   "host": "AAAS",
+   "description": "AAAS Center for Scientific Evidence in Public Issues event on license plate reader technology, its impacts and policy responses.",
+   "speakers": [],
+   "topics": [
+    "data/privacy"
+   ],
+   "fit": 3,
+   "why": "Surveillance-technology governance case study relevant to data and privacy policy.",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "title": "Harnessing Technology and Policy to Advance Disability Employment and Economic Mobility",
+   "start": "2026-11-23 14:30",
+   "end": "2026-11-23 15:30",
+   "location": null,
+   "virtual": true,
+   "url": "https://www.aei.org/events/harnessing-technology-and-policy-to-advance-disability-employment-and-economic-mobility/",
+   "host": "AEI",
+   "description": "How technology and policy can break down barriers, modernize workforce systems and create career pathways for Americans with disabilities.",
+   "speakers": [
+    "Brent Orrell"
+   ],
+   "topics": [],
+   "fit": 2,
+   "why": "Tech-and-workforce policy angle, but peripheral to ETI's security and geopolitics focus.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "A Conversation with Chairman Carr: The FCC's New National Security Mandate",
+   "start": "2026-12-09 11:00",
+   "end": "2026-12-09 12:00",
+   "location": "AEI, Washington, DC (in person; pre-registration required)",
+   "virtual": false,
+   "url": "https://www.aei.org/events/a-conversation-with-chairman-carr-the-fccs-new-national-security-mandate/",
+   "host": "AEI",
+   "description": "FCC Chairman Carr on the Commission's move from spectrum and broadcast regulation to the front lines of national security. Walk-ins not accepted.",
+   "speakers": [
+    "Chairman Carr",
+    "Chris Miller"
+   ],
+   "topics": [
+    "tech-geopolitics",
+    "cyber"
+   ],
+   "fit": 5,
+   "why": "Senior regulator on telecom national security, with AEI's Chris Miller; core ETI territory in DC.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Emerging Technologies and New Frontiers: Forging Digital Connections in the U.S.-ROK Relationship",
+   "start": "2026-12-10 09:00",
+   "end": "2026-12-10 10:00",
+   "location": "New York (in person)",
+   "virtual": false,
+   "url": "https://asiasociety.org/policy-institute/events/emerging-technologies-and-new-frontiers-forging-digital-connections-us-rok-relationship",
+   "host": "Asia Society Policy Institute",
+   "description": "Expert panel in New York on opportunities and challenges for U.S.-ROK cooperation on emerging and critical technologies.",
+   "speakers": [],
+   "topics": [
+    "Japan-Korea",
+    "tech-geopolitics"
+   ],
+   "fit": 3,
+   "why": "On-mission alliance tech-cooperation topic, but in New York rather than DC.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Powering abundance 2027",
+   "start": "2026-12-02 14:00",
+   "end": null,
+   "location": null,
+   "virtual": false,
+   "url": "https://www.atlanticcouncil.org/event/public-powering-abundance-2027/",
+   "host": "Atlantic Council",
+   "description": "Atlantic Council public event on energy and infrastructure.",
+   "speakers": [],
+   "topics": [
+    "energy-tech"
+   ],
+   "fit": 3,
+   "why": "Energy and infrastructure buildout ties to AI power demand and industrial policy debates.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Tomorrow's fleet: Revitalizing US shipbuilding and the maritime industrial base",
+   "start": "2026-12-07 15:00",
+   "end": null,
+   "location": null,
+   "virtual": false,
+   "url": "https://www.atlanticcouncil.org/event/tomorrows-fleet-revitalizing-us-shipbuilding-and-the-maritime-industrial-base/",
+   "host": "Atlantic Council",
+   "description": "Public event on revitalizing US shipbuilding and the maritime defense industrial base.",
+   "speakers": [],
+   "topics": [
+    "industrial-policy"
+   ],
+   "fit": 3,
+   "why": "Defense industrial base revitalization is a core industrial-policy question for ETI students.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "2026 Transatlantic Forum on GeoEconomics",
+   "start": "2026-12-11 08:00",
+   "end": null,
+   "location": null,
+   "virtual": false,
+   "url": "https://www.atlanticcouncil.org/event/2026-transatlantic-forum-on-geoeconomics/",
+   "host": "Atlantic Council",
+   "description": "Annual flagship convening at the nexus of economics, finance, foreign policy and national security; listed under digital policy and EU.",
+   "speakers": [],
+   "topics": [
+    "EU",
+    "tech-geopolitics"
+   ],
+   "fit": 3,
+   "why": "Flagship geoeconomics forum with a digital-policy strand relevant to transatlantic tech competition.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "What is next for the US-China AI safety dialogue?",
+   "start": "2026-11-23 10:00",
+   "end": "2026-11-23 11:00",
+   "location": null,
+   "virtual": true,
+   "url": "https://www.brookings.edu/events/what-is-next-for-the-us-china-ai-safety-dialogue/",
+   "host": "Brookings",
+   "description": "Online discussion of the future of the US-China AI safety dialogue.",
+   "speakers": [],
+   "topics": [
+    "AI",
+    "China",
+    "tech-geopolitics"
+   ],
+   "fit": 5,
+   "why": "US-China AI governance is squarely on ETI's mission and easy to join online.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Preparing young people for an AI-driven future: Lessons from California",
+   "start": "2026-12-01 13:30",
+   "end": "2026-12-01 14:30",
+   "location": null,
+   "virtual": true,
+   "url": "https://www.brookings.edu/events/preparing-young-people-for-an-ai-driven-future-lessons-from-california/",
+   "host": "Brookings",
+   "description": "Online event on preparing young people for an AI-driven future, drawing on California's experience.",
+   "speakers": [],
+   "topics": [
+    "AI"
+   ],
+   "fit": 2,
+   "why": "AI and education policy; tangential to ETI's security and geopolitics focus.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Reimagining global economic governance: Challenges and opportunities in a shifting geopolitical and technological landscape",
+   "start": "2026-12-08 10:00",
+   "end": "2026-12-08 11:45",
+   "location": "The Brookings Institution, Washington DC",
+   "virtual": false,
+   "url": "https://www.brookings.edu/events/reimagining-global-economic-governance-challenges-and-opportunities-in-a-shifting-geopolitical-and-technological-landscape/",
+   "host": "Brookings",
+   "description": "Discussion of global economic governance amid shifting geopolitical and technological conditions.",
+   "speakers": [],
+   "topics": [
+    "tech-geopolitics"
+   ],
+   "fit": 3,
+   "why": "In-person DC event linking technology shifts to global economic governance.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "2026 Global Technology Summit (Carnegie India)",
+   "start": "2026-12-02",
+   "location": null,
+   "virtual": false,
+   "url": "https://carnegieendowment.org/india/events/2026/07/2026-global-technology-summit",
+   "host": "Carnegie Endowment",
+   "description": "Carnegie India's annual Global Technology Summit, December 2, 8:00 AM - 8:00 PM India time (GMT+5:30).",
+   "speakers": [],
+   "topics": [
+    "tech-geopolitics"
+   ],
+   "fit": 2,
+   "why": "Major tech-geopolitics conference, but held by Carnegie India abroad; worth following remotely.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Broadband and AI in the Next Congress",
+   "start": "2026-12-01 08:30",
+   "end": null,
+   "location": null,
+   "virtual": false,
+   "url": "https://epic.org/events/broadband-and-ai-in-the-next-congress/",
+   "host": "Broadband Breakfast",
+   "description": "Lawmakers, regulators, industry leaders and technologists on how networks, data centers, energy, workforce and institutions will shape AI's future.",
+   "speakers": [],
+   "topics": [
+    "AI",
+    "energy-tech"
+   ],
+   "fit": 3,
+   "why": "Preview of the next Congress's AI infrastructure agenda with lawmakers and regulators.",
+   "tags": [
+    "civil-society"
+   ]
+  },
+  {
+   "title": "Agentic Data Flows: A Closer Look at Data Realities, Risks, and Safeguards",
+   "start": "2026-12-15 09:30",
+   "end": "2026-12-15 11:00",
+   "location": "Online",
+   "virtual": true,
+   "url": "https://fpf.org/fpf-event/agentic-data-flows-a-closer-look-at-data-realities-risks-and-safeguards/",
+   "host": "Future of Privacy Forum",
+   "description": "Second session of FPF Center for AI's agentic data minimization series: privacy governance when AI agents share data, memory and inferences.",
+   "speakers": [],
+   "topics": [
+    "AI",
+    "data/privacy"
+   ],
+   "fit": 3,
+   "why": "Online deep dive on AI agent governance and data privacy.",
+   "tags": [
+    "civil-society"
+   ]
+  },
+  {
+   "title": "FPF 2nd Annual EU Privacy Leadership Forum",
+   "start": "2027-03-02 05:30",
+   "end": null,
+   "location": "Prosus AI House, Gustav Mahlerplein 5, 1082 MS Amsterdam, Netherlands",
+   "virtual": false,
+   "url": "https://fpf.org/fpf-event/save-the-date-fpf-2nd-annual-eu-privacy-leadership-forum/",
+   "host": "Future of Privacy Forum",
+   "description": "Members-only private forum on EU privacy leadership in Amsterdam, starting 11:30 AM CET.",
+   "speakers": [],
+   "topics": [
+    "data/privacy",
+    "EU"
+   ],
+   "fit": 1,
+   "why": "Members-only and in Amsterdam; not accessible to SAIS students.",
+   "tags": [
+    "civil-society"
+   ]
+  },
+  {
+   "title": "Sixth Annual AI in Action Conference: Who Does What? AI, Trade, and Work",
+   "start": "2026-12-01 09:00",
+   "end": "2026-12-01 17:30",
+   "location": "Fisher Colloquium, Georgetown University",
+   "virtual": false,
+   "url": "https://events.georgetown.edu/live/events/43110-sixth-annual-ai-in-action-conference-who-does-what",
+   "host": "Georgetown University",
+   "description": "Day-long Georgetown SFS-listed conference on AI, trade and work.",
+   "speakers": [],
+   "topics": [
+    "AI"
+   ],
+   "fit": 4,
+   "why": "Full-day DC conference on AI's economic and trade effects, easy to reach from SAIS.",
+   "tags": [
+    "university",
+    "georgetown"
+   ]
+  },
+  {
+   "title": "Technology Supply Chain Security for Space and Defense",
+   "start": "2027-03-11 10:00",
+   "end": "2027-03-11 13:00",
+   "location": "Washington, DC (closed-door roundtable)",
+   "virtual": false,
+   "url": "https://www.gmfus.org/event/technology-supply-chain-security-space-and-defense",
+   "host": "German Marshall Fund",
+   "description": "Closed-door roundtable co-hosted by GMF and Swedish aerospace company ECAPS on technology supply chain security for space and defense.",
+   "speakers": [],
+   "topics": [
+    "space",
+    "industrial-policy",
+    "EU"
+   ],
+   "fit": 2,
+   "why": "On-topic supply-chain security discussion, but closed-door.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Second Annual US-China Rivalry in the Middle East Conference",
+   "start": "2026-12-02 17:30",
+   "end": "2026-12-03 14:00",
+   "location": "Hudson Institute",
+   "virtual": false,
+   "url": "https://www.hudson.org/events/second-annual-us-china-rivalry-middle-east-conference",
+   "host": "Hudson Institute",
+   "description": "Invitation-only conference on how the war with Iran, emerging technologies and China's expanding influence are reshaping the Middle East, and how the US can secure its strategic and technological leadership.",
+   "speakers": [
+    "Zineb Riboua",
+    "Joel Scanlon",
+    "Can Kasapoğlu",
+    "Michael Doran",
+    "Chaim Martin",
+    "Ryan Fedasiuk",
+    "Ludovic Hood",
+    "Aaron MacLean"
+   ],
+   "topics": [
+    "tech-geopolitics",
+    "China"
+   ],
+   "fit": 3,
+   "why": "US-China tech competition in a third region, though invitation-only.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Strengthening Japanese and Allied Critical Minerals Supply Chains: A Conversation with JOGMEC Chairman Ichiro Takahara",
+   "start": "2026-12-08 11:00",
+   "end": "2026-12-08 12:00",
+   "location": "Hudson Institute",
+   "virtual": false,
+   "url": "https://www.hudson.org/events/strengthening-japanese-allied-critical-minerals-supply-chains-conversation-jogmec-chairman",
+   "host": "Hudson Institute",
+   "description": "Remarks from JOGMEC Chairman and CEO Ichiro Takahara on critical mineral resilience and allied cooperation, followed by a fireside discussion with Senior Fellow William Chou.",
+   "speakers": [
+    "Ichiro Takahara",
+    "William Chou",
+    "Kenneth R. Weinstein"
+   ],
+   "topics": [
+    "industrial-policy",
+    "Japan-Korea",
+    "tech-geopolitics"
+   ],
+   "fit": 4,
+   "why": "Allied critical-minerals supply chains are core economic-security material for ETI.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Connected Vehicles, Manufacturing, and National Security: A Conversation with Senator Bernie Moreno",
+   "start": "2026-12-10 12:00",
+   "end": "2026-12-10 12:45",
+   "location": "Hudson Institute",
+   "virtual": false,
+   "url": "https://www.hudson.org/events/connected-vehicles-manufacturing-national-security-conversation-senator-bernie-moreno",
+   "host": "Hudson Institute",
+   "description": "Fireside discussion with Sen. Moreno and Joel Scanlon on protecting American industry from predatory competition and the convergence of industrial and national security driven by advanced technologies.",
+   "speakers": [
+    "Bernie Moreno",
+    "Joel Scanlon"
+   ],
+   "topics": [
+    "industrial-policy",
+    "tech-geopolitics"
+   ],
+   "fit": 4,
+   "why": "A senator on connected-vehicle security and tech-driven industrial policy.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Transatlantic Defense Industrial Cooperation and NATO 3.0: A Conversation with US Ambassador to NATO Matthew Whitaker",
+   "start": "2027-01-07 16:00",
+   "end": "2027-01-07 17:00",
+   "location": "Hudson Institute",
+   "virtual": false,
+   "url": "https://www.hudson.org/events/transatlantic-defense-industrial-cooperation-nato-30-conversation-us-ambassador-nato-matthew",
+   "host": "Hudson Institute",
+   "description": "US Ambassador to NATO Matthew Whitaker and Peter Rough on NATO 3.0, transatlantic defense industrial cooperation and the state of the alliance.",
+   "speakers": [
+    "Matthew Whitaker",
+    "Peter Rough"
+   ],
+   "topics": [
+    "industrial-policy",
+    "EU"
+   ],
+   "fit": 3,
+   "why": "Defense-industrial cooperation with allies; tech-adjacent security policy.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Mission-Ready Insight: Impact of AI",
+   "start": "2026-12-07 13:00",
+   "end": "2026-12-07 14:00",
+   "location": null,
+   "virtual": false,
+   "url": "https://www.insaonline.org/detail-pages/event/2026/12/07/default-calendar/mission-ready-insight--impact-of-ai",
+   "host": "INSA",
+   "description": "INSA session on the impact of AI.",
+   "speakers": [],
+   "topics": [
+    "AI"
+   ],
+   "fit": 3,
+   "why": "AI and national security from the intelligence community's industry association.",
+   "tags": [
+    "industry"
+   ]
+  },
+  {
+   "title": "Integrating Intelligence, Technology and Talent for Mission Success",
+   "start": "2027-01-21",
+   "end": null,
+   "location": "Waikiki, Hawaii",
+   "virtual": false,
+   "url": "https://www.insaonline.org/detail-pages/event/2027/01/21/default-calendar/integrating-intelligence--technology-and-talent-for-mission-success",
+   "host": "INSA",
+   "description": "INSA all-day event (8:30 AM to 6:00 PM) in Waikiki, Hawaii on integrating intelligence, technology and talent.",
+   "speakers": [],
+   "topics": [],
+   "fit": 2,
+   "why": "Intelligence-technology topic, but held in Hawaii.",
+   "tags": [
+    "industry"
+   ]
+  },
+  {
+   "title": "Fourth Annual Cyber Policy Awards",
+   "start": "2027-02-04 18:00",
+   "end": null,
+   "location": "Washington, DC",
+   "virtual": false,
+   "url": "https://securityandtechnology.org/event/fourth-annual-cyber-policy-awards/",
+   "host": "Institute for Security and Technology",
+   "description": "IST's Cyber Policy Awards gala, presenting The Atlas awards to members of the cyber policy community who drove progress over the past year, plus a Lifetime Achievement award.",
+   "speakers": [],
+   "topics": [
+    "cyber"
+   ],
+   "fit": 4,
+   "why": "Networking with DC's cyber policy community.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "2026 Cislunar Security Conference",
+   "start": "2026-12-01",
+   "end": "2026-12-03",
+   "location": "Johns Hopkins APL",
+   "virtual": false,
+   "url": "https://cislunar.jhuapl.edu/",
+   "host": "Johns Hopkins APL",
+   "description": "Johns Hopkins APL's Cislunar Security Conference, December 1-3.",
+   "speakers": [],
+   "topics": [
+    "space"
+   ],
+   "fit": 4,
+   "why": "Hopkins-hosted space security conference.",
+   "tags": [
+    "jhu",
+    "maryland"
+   ]
+  },
+  {
+   "title": "Submarine Technology Symposium 2027",
+   "start": "2027-05-11",
+   "end": "2027-05-13",
+   "location": "Kossiakoff Center, Johns Hopkins APL",
+   "virtual": false,
+   "url": "https://www.jhuapl.edu/events-calendar/submarine-technology-symposium-2027",
+   "host": "Johns Hopkins APL / Naval Submarine League",
+   "description": "Submarine Technology Symposium at APL's Kossiakoff Center, May 11-13, 2027.",
+   "speakers": [],
+   "topics": [],
+   "fit": 2,
+   "why": "Technical defense symposium; limited policy angle.",
+   "tags": [
+    "jhu",
+    "maryland"
+   ]
+  },
+  {
+   "title": "Tech Tonic: NVIDIA GTC Keynote Watch Party",
+   "start": "2026-12-01 13:00",
+   "end": "2026-12-01 16:00",
+   "location": null,
+   "virtual": false,
+   "url": "https://web.cvent.com/event/d01e87ba-4432-4317-8ba9-cda48495dd20/summary",
+   "host": "MeriTalk / Nutanix",
+   "description": "Watch the NVIDIA GTC Washington, D.C. keynote with government and industry peers; Nutanix's Kanuj Behl on how Nutanix and NVIDIA help organizations put AI to work.",
+   "speakers": [
+    "Kanuj Behl"
+   ],
+   "topics": [
+    "AI"
+   ],
+   "fit": 2,
+   "why": "Federal-IT networking around GTC DC; vendor-led.",
+   "tags": [
+    "media",
+    "industry"
+   ]
+  },
+  {
+   "title": "GDIT Emerge: Zero Trust",
+   "start": "2026-12-02 09:00",
+   "end": "2026-12-02 13:25",
+   "location": null,
+   "virtual": false,
+   "url": "https://zerotrust.billingtonevents.com/",
+   "host": "MeriTalk / GDIT",
+   "description": "Sessions with government leaders and technology partners on the mission imperative of Zero Trust, its architecture, and implementation.",
+   "speakers": [],
+   "topics": [
+    "cyber"
+   ],
+   "fit": 2,
+   "why": "Federal cyber implementation; practitioner-focused.",
+   "tags": [
+    "media",
+    "industry"
+   ]
+  },
+  {
+   "title": "New Portrait of Computer Science Majors in the Age of AI",
+   "start": "2026-12-01 12:00",
+   "end": "2026-12-01 13:00",
+   "location": "Virtual",
+   "virtual": true,
+   "url": "https://www.newamerica.org/events/new-portrait-of-computer-science-majors-in-the-age-of-ai/",
+   "host": "New America",
+   "description": "What it means to study computer science in the age of AI, and how the next generation of technologists will redefine the field.",
+   "speakers": [],
+   "topics": [
+    "AI"
+   ],
+   "fit": 3,
+   "why": "AI workforce and education policy, virtual.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "NICE Webinar - Breaking into Cyber: Gateway Roles and the Skills that Matter",
+   "start": "2026-12-02 14:00",
+   "end": null,
+   "location": "Virtual",
+   "virtual": true,
+   "url": "https://www.nist.gov/news-events/events/2026/12/nice-webinar-breaking-cyber-gateway-roles-and-skills-matter",
+   "host": "NIST",
+   "description": "NICE webinar on gateway cyber roles, skills, upward mobility and economic opportunity.",
+   "speakers": [
+    "Patrick Edwards",
+    "Kaylah Mackroy",
+    "Danielle Santos"
+   ],
+   "topics": [
+    "cyber"
+   ],
+   "fit": 2,
+   "why": "Cyber workforce; useful for career-entry interest.",
+   "tags": [
+    "government"
+   ]
+  },
+  {
+   "title": "Second Semiconductor Traceability and Provenance Workshop",
+   "start": "2026-12-08 08:30",
+   "end": null,
+   "location": null,
+   "virtual": false,
+   "url": "https://www.nist.gov/news-events/events/2026/12/second-semiconductor-traceability-and-provenance-workshop",
+   "host": "NIST",
+   "description": "NIST workshop on establishing confidence in the origin, identity, history and movement of semiconductor products across complex supply chains.",
+   "speakers": [],
+   "topics": [
+    "semiconductors",
+    "industrial-policy"
+   ],
+   "fit": 4,
+   "why": "Chip supply-chain security, directly relevant to export-control and CHIPS work.",
+   "tags": [
+    "government"
+   ]
+  },
+  {
+   "title": "The Future of Space Nuclear Power Symposium",
+   "start": "2026-12-09 08:30",
+   "end": null,
+   "location": "Washington, DC",
+   "virtual": false,
+   "url": "https://www.nist.gov/news-events/events/2026/12/future-space-nuclear-power-symposium",
+   "host": "NIST / American Nuclear Society / Office of Space Commerce",
+   "description": "Inaugural symposium co-hosted by the American Nuclear Society, NIST and the Office of Space Commerce on space nuclear power.",
+   "speakers": [],
+   "topics": [
+    "space",
+    "energy-tech"
+   ],
+   "fit": 3,
+   "why": "Space and nuclear-energy policy convergence in DC.",
+   "tags": [
+    "government"
+   ]
+  },
+  {
+   "title": "NIST CSF 2.0 Semiconductor Manufacturing Profile Kick-Off Webinar",
+   "start": "2026-12-10 12:00",
+   "end": null,
+   "location": "Virtual",
+   "virtual": true,
+   "url": "https://www.nist.gov/news-events/events/2026/12/nist-csf-20-semiconductor-manufacturing-profile-kick-webinar",
+   "host": "NIST",
+   "description": "NCCoE webinar update on the Cybersecurity Framework 2.0 Semiconductor Manufacturing Community Profile ahead of a revised release.",
+   "speakers": [],
+   "topics": [
+    "cyber",
+    "semiconductors"
+   ],
+   "fit": 3,
+   "why": "Where cyber standards meet chip manufacturing.",
+   "tags": [
+    "government"
+   ]
+  },
+  {
+   "title": "Super Intelligence in the Fire Service",
+   "start": "2027-01-26",
+   "end": null,
+   "location": "NIST, Gaithersburg, MD",
+   "virtual": false,
+   "url": "https://www.nist.gov/news-events/events/2027/01/super-intelligence-fire-service",
+   "host": "NIST",
+   "description": "Interactive on-site workshop at NIST Gaithersburg on the use of super intelligence in the fire service.",
+   "speakers": [],
+   "topics": [
+    "AI"
+   ],
+   "fit": 2,
+   "why": "Applied AI in public safety; narrow and technical.",
+   "tags": [
+    "government"
+   ]
+  },
+  {
+   "title": "Cybersecurity for Solopreneurs",
+   "start": "2027-01-26 14:00",
+   "end": null,
+   "location": null,
+   "virtual": false,
+   "url": "https://www.nist.gov/news-events/events/2027/01/cybersecurity-solopreneurs",
+   "host": "NIST",
+   "description": "NIST session on cybersecurity for non-employer small businesses.",
+   "speakers": [],
+   "topics": [
+    "cyber"
+   ],
+   "fit": 1,
+   "why": "Small-business cyber hygiene; not policy-focused.",
+   "tags": [
+    "government"
+   ]
+  },
+  {
+   "title": "FISSEA Winter Forum",
+   "start": "2027-02-09 13:00",
+   "end": null,
+   "location": null,
+   "virtual": false,
+   "url": "https://www.nist.gov/news-events/events/2027/02/fissea-winter-forum-february-9-2027",
+   "host": "NIST",
+   "description": "Federal Information Security Educators forum for exchanging best practices in federal security training.",
+   "speakers": [],
+   "topics": [
+    "cyber"
+   ],
+   "fit": 2,
+   "why": "Federal cyber education community.",
+   "tags": [
+    "government"
+   ]
+  },
+  {
+   "title": "NIST Small Business Cybersecurity Community of Interest Call",
+   "start": "2027-02-10 14:00",
+   "end": null,
+   "location": null,
+   "virtual": false,
+   "url": "https://www.nist.gov/news-events/events/2027/02/nist-small-business-cybersecurity-community-interest-call-0",
+   "host": "NIST",
+   "description": "NIST Small Business Cybersecurity Community of Interest call convening public and private sectors to share insights and guide NIST's small-business work.",
+   "speakers": [],
+   "topics": [
+    "cyber"
+   ],
+   "fit": 1,
+   "why": "Small-business cyber; marginal for ETI.",
+   "tags": [
+    "government"
+   ]
+  },
+  {
+   "title": "6th NIST Quantum Matters in Material Sciences (QMMS) Workshop",
+   "start": "2027-02-24",
+   "end": "2027-02-25",
+   "location": "NIST, Gaithersburg, MD",
+   "virtual": false,
+   "url": "https://www.nist.gov/news-events/events/2027/02/6th-nist-quantum-matters-material-sciences-qmms-workshop",
+   "host": "NIST",
+   "description": "In-person-only workshop at NIST Gaithersburg, February 24-25, on quantum matters in materials science.",
+   "speakers": [],
+   "topics": [
+    "quantum"
+   ],
+   "fit": 2,
+   "why": "Technical quantum science; little policy content.",
+   "tags": [
+    "government"
+   ]
+  },
+  {
+   "title": "NIST Small Business Cybersecurity Community of Interest Call",
+   "start": "2027-06-10 14:00",
+   "end": null,
+   "location": null,
+   "virtual": false,
+   "url": "https://www.nist.gov/news-events/events/2027/06/nist-small-business-cybersecurity-community-interest-call",
+   "host": "NIST",
+   "description": "NIST Small Business Cybersecurity Community of Interest call convening public and private sectors to share insights and guide NIST's small-business work.",
+   "speakers": [],
+   "topics": [
+    "cyber"
+   ],
+   "fit": 1,
+   "why": "Small-business cyber; marginal for ETI.",
+   "tags": [
+    "government"
+   ]
+  },
+  {
+   "title": "NIST Small Business Cybersecurity Community of Interest Call",
+   "start": "2027-08-10 14:00",
+   "end": null,
+   "location": null,
+   "virtual": false,
+   "url": "https://www.nist.gov/news-events/events/2027/08/nist-small-business-cybersecurity-community-interest-call",
+   "host": "NIST",
+   "description": "NIST Small Business Cybersecurity Community of Interest call convening public and private sectors to share insights and guide NIST's small-business work.",
+   "speakers": [],
+   "topics": [
+    "cyber"
+   ],
+   "fit": 1,
+   "why": "Small-business cyber; marginal for ETI.",
+   "tags": [
+    "government"
+   ]
+  },
+  {
+   "title": "19th Annual NICE Conference and Expo",
+   "start": "2028-06-05",
+   "end": "2028-06-07",
+   "location": null,
+   "virtual": false,
+   "url": "https://www.nist.gov/news-events/events/19th-annual-nice-conference-and-expo",
+   "host": "NIST",
+   "description": "NICE Conference and Expo on cybersecurity education and workforce, June 5-7, 2028; location to be announced.",
+   "speakers": [],
+   "topics": [
+    "cyber"
+   ],
+   "fit": 2,
+   "why": "Cyber workforce conference; far off, location TBA.",
+   "tags": [
+    "government"
+   ]
+  },
+  {
+   "title": "Crypto Summit: Washington, D.C.",
+   "start": "2026-12-01 08:00",
+   "end": null,
+   "location": "Washington, DC",
+   "virtual": false,
+   "url": "https://events.punchbowl.news/CryptoSummit_12_1_26",
+   "host": "Punchbowl News",
+   "description": "Anna Palmer sits down with Sen.-elect Andy Barr on crypto policy and securing financial systems, followed by a crypto-advocate panel moderated by Brendan Pedersen. Presented by Stand with Crypto.",
+   "speakers": [
+    "Anna Palmer",
+    "Andy Barr",
+    "Brendan Pedersen"
+   ],
+   "topics": [],
+   "fit": 3,
+   "why": "Congressional view on digital-asset policy for the next Congress.",
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "title": "Secure World Foundation to Participate in North, Central American and Caribbean Space Generation Workshop",
+   "start": "2026-11-28 07:00",
+   "end": null,
+   "location": "Online / Montreal, Canada",
+   "virtual": true,
+   "url": "https://www.swfound.org/events/secure-world-foundation-to-participate-in-north-central-american-and-caribbean-space-generation-workshop",
+   "host": "Secure World Foundation",
+   "description": "SWF participates in the regional Space Generation workshop in Montreal, with online registration.",
+   "speakers": [],
+   "topics": [
+    "space"
+   ],
+   "fit": 2,
+   "why": "Young-professional space policy network; remote option.",
+   "tags": [
+    "civil-society",
+    "space"
+   ]
+  },
+  {
+   "title": "Victoria Samson to Participate in Security Discussions in India",
+   "start": "2026-12-02 20:30",
+   "end": null,
+   "location": "Online / Bengaluru, India",
+   "virtual": true,
+   "url": "https://www.swfound.org/events/victoria-samson-to-participate-in-security-discussions-in-india",
+   "host": "Secure World Foundation",
+   "description": "SWF's Victoria Samson joins security discussions in Bengaluru (7:00 AM IST, December 3), with online registration.",
+   "speakers": [
+    "Victoria Samson"
+   ],
+   "topics": [
+    "space",
+    "tech-geopolitics"
+   ],
+   "fit": 2,
+   "why": "Space security with an India angle; overseas, online only.",
+   "tags": [
+    "civil-society",
+    "space"
+   ]
+  },
+  {
+   "title": "Space Boot Camp for Nuclear Policy Professionals",
+   "start": "2027-01-25 09:00",
+   "end": null,
+   "location": "Washington, DC",
+   "virtual": false,
+   "url": "https://www.swfound.org/events/space-boot-camp-for-nuclear-policy-professionals",
+   "host": "Secure World Foundation",
+   "description": "Weeklong Space Boot Camp in Washington, D.C. for early-career nuclear policy professionals.",
+   "speakers": [],
+   "topics": [
+    "space"
+   ],
+   "fit": 3,
+   "why": "Training on space security for early-career policy people.",
+   "tags": [
+    "civil-society",
+    "space"
+   ]
+  },
+  {
+   "title": "Beyond Cyber Vulnerability Scores",
+   "start": "2026-12-03",
+   "end": null,
+   "location": "Virtual",
+   "virtual": true,
+   "url": "https://afsfedcyber.upgather.com",
+   "host": "Scoop News Group",
+   "description": "Virtual event on cyber vulnerability management beyond vulnerability scores.",
+   "speakers": [],
+   "topics": [
+    "cyber"
+   ],
+   "fit": 2,
+   "why": "Federal cyber practice; virtual.",
+   "tags": [
+    "media",
+    "industry"
+   ]
+  },
+  {
+   "title": "Safeguarding Federal Grants",
+   "start": "2026-12-08",
+   "end": null,
+   "location": "Virtual",
+   "virtual": true,
+   "url": "https://digitalsciencesafeguardingfedgrants.upgather.com",
+   "host": "Scoop News Group",
+   "description": "Virtual event on safeguarding federal grants.",
+   "speakers": [],
+   "topics": [],
+   "fit": 1,
+   "why": "Grants administration; little tech-policy content on the page.",
+   "tags": [
+    "media",
+    "industry"
+   ]
+  },
+  {
+   "title": "Emerge: Health Transformation",
+   "start": "2026-12-09",
+   "end": null,
+   "location": "Waldorf Astoria, Washington, D.C.",
+   "virtual": false,
+   "url": "https://gdithealthtransformation.upgather.com/",
+   "host": "GDIT / Scoop News Group",
+   "description": "GDIT Emerge event on health transformation.",
+   "speakers": [],
+   "topics": [],
+   "fit": 1,
+   "why": "Health IT modernization; off-mission.",
+   "tags": [
+    "media",
+    "industry"
+   ]
+  },
+  {
+   "title": "CyberWeek 2027",
+   "start": "2027-02-15",
+   "end": "2027-02-19",
+   "location": "Washington, D.C.",
+   "virtual": false,
+   "url": "https://www.cyberweek.us/",
+   "host": "Scoop News Group",
+   "description": "Week of cybersecurity events in Washington, D.C., February 15-19, 2027.",
+   "speakers": [],
+   "topics": [
+    "cyber"
+   ],
+   "fit": 3,
+   "why": "Concentrated week of DC cyber programming.",
+   "tags": [
+    "media",
+    "industry"
+   ]
+  },
+  {
+   "title": "CyberTalks 2027",
+   "start": "2027-02-18",
+   "end": null,
+   "location": "International Spy Museum, Washington, D.C.",
+   "virtual": false,
+   "url": "https://cybertalks.upgather.com/",
+   "host": "Scoop News Group",
+   "description": "CyberScoop's CyberTalks at the International Spy Museum.",
+   "speakers": [],
+   "topics": [
+    "cyber"
+   ],
+   "fit": 3,
+   "why": "Government and industry cyber leaders in DC.",
+   "tags": [
+    "media",
+    "industry"
+   ]
+  },
+  {
+   "title": "AI Week 2027",
+   "start": "2027-04-26",
+   "end": "2027-04-30",
+   "location": "Washington, D.C.",
+   "virtual": false,
+   "url": "https://aiweek.com",
+   "host": "Scoop News Group",
+   "description": "Week of AI events in Washington, D.C., April 26-30, 2027.",
+   "speakers": [],
+   "topics": [
+    "AI"
+   ],
+   "fit": 3,
+   "why": "Concentrated week of DC AI programming.",
+   "tags": [
+    "media",
+    "industry"
+   ]
+  },
+  {
+   "title": "AITalks 2027",
+   "start": "2027-04-29",
+   "end": null,
+   "location": "Waldorf Astoria, Washington D.C.",
+   "virtual": false,
+   "url": "https://aitalks.upgather.com/",
+   "host": "Scoop News Group",
+   "description": "FedScoop's AITalks on AI in government.",
+   "speakers": [],
+   "topics": [
+    "AI"
+   ],
+   "fit": 3,
+   "why": "Federal AI leaders in DC.",
+   "tags": [
+    "media",
+    "industry"
+   ]
+  },
+  {
+   "title": "So You Want a Nuclear Energy Renaissance? Time to Solve the US Nuclear Waste Management Problem",
+   "start": "2026-12-03 11:00",
+   "end": null,
+   "location": "Stimson Center (online or in-person)",
+   "virtual": false,
+   "url": "https://www.stimson.org/event/so-you-want-a-nuclear-energy-renaissance-time-to-solve-the-us-nuclear-waste-management-problem/",
+   "host": "Stimson Center",
+   "description": "Fireside chat with Dr. Daniel S. Metlay on his book High-Activity Nuclear Waste Management Policy: Becoming a Responsible Ancestor.",
+   "speakers": [
+    "Daniel S. Metlay"
+   ],
+   "topics": [
+    "energy-tech"
+   ],
+   "fit": 3,
+   "why": "Nuclear energy policy bottleneck relevant to AI-power debates.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "National Association of State Catholic Conference Directors Winter Meeting",
+   "start": "2026-12-04",
+   "end": null,
+   "location": "Washington, DC",
+   "virtual": false,
+   "url": "https://secureainow.org/events/national-association-of-state-catholic-conference-directors-winter-meeting/",
+   "host": "The Alliance for Secure AI",
+   "description": "Alliance Ambassador Randan Steinhauser speaks to the NASCCD Winter Meeting.",
+   "speakers": [
+    "Randan Steinhauser"
+   ],
+   "topics": [
+    "AI"
+   ],
+   "fit": 2,
+   "why": "AI-safety advocacy to a faith audience; niche.",
+   "tags": [
+    "civil-society"
+   ]
+  },
+  {
+   "title": "American Legislative Exchange Council (ALEC) States & Nation Policy Summit",
+   "start": "2026-12-09",
+   "end": null,
+   "location": "Washington, DC",
+   "virtual": false,
+   "url": "https://secureainow.org/events/american-legislative-exchange-council-alec-states-nation-policy-summit/",
+   "host": "The Alliance for Secure AI",
+   "description": "ALEC's States & Nation Policy Summit in Washington, listed on the Alliance for Secure AI's events calendar.",
+   "speakers": [],
+   "topics": [
+    "AI"
+   ],
+   "fit": 2,
+   "why": "State-legislator summit listed by an AI-safety group; AI content not detailed.",
+   "tags": [
+    "civil-society"
+   ]
+  },
+  {
+   "title": "International Christian Media Convention 2027",
+   "start": "2027-02-23",
+   "end": null,
+   "location": "Washington, DC",
+   "virtual": false,
+   "url": "https://secureainow.org/events/international-christian-media-convention-2027/",
+   "host": "The Alliance for Secure AI",
+   "description": "The Alliance participates in the convention hosted by National Religious Broadcasters.",
+   "speakers": [],
+   "topics": [
+    "AI"
+   ],
+   "fit": 1,
+   "why": "Media convention with an AI-safety participant; marginal.",
+   "tags": [
+    "civil-society"
+   ]
+  },
+  {
+   "title": "IP Champions Reception",
+   "start": "2026-12-09 17:00",
+   "end": "2026-12-09 20:00",
+   "location": "U.S. Chamber of Commerce, 1615 H St NW, Washington, DC 20062",
+   "virtual": false,
+   "url": "https://events.uschamber.com/IPCHAMPS2026",
+   "host": "U.S. Chamber of Commerce",
+   "description": "U.S. Chamber reception in its Intellectual Property program.",
+   "speakers": [],
+   "topics": [
+    "industrial-policy"
+   ],
+   "fit": 2,
+   "why": "IP policy networking; innovation-policy adjacent.",
+   "tags": [
+    "industry"
+   ]
+  },
+  {
+   "title": "Unwrapping the 2026 Holiday Tech Season (member-only virtual roundtable)",
+   "start": "2026-12-02 14:00",
+   "end": null,
+   "location": "Virtual",
+   "virtual": true,
+   "url": "https://www.cta.tech/events",
+   "host": "Consumer Technology Association",
+   "description": "CTA holiday purchase-patterns study, plus the impact of memory supply shortages, tariffs and economic trends.",
+   "speakers": [],
+   "topics": [
+    "semiconductors"
+   ],
+   "fit": 2,
+   "why": "Touches tariffs and memory-chip shortages; member-only.",
+   "tags": [
+    "industry"
+   ]
+  },
+  {
+   "title": "Trade Tech in Practice: Tools for a Changing Trade Landscape (member-only virtual roundtable)",
+   "start": "2026-12-03 14:00",
+   "end": "2026-12-03 15:00",
+   "location": "Virtual",
+   "virtual": true,
+   "url": "https://www.cta.tech/events",
+   "host": "Consumer Technology Association",
+   "description": "Member-only roundtable on how data, AI and emerging technologies can help businesses navigate today's trade challenges.",
+   "speakers": [],
+   "topics": [
+    "AI"
+   ],
+   "fit": 2,
+   "why": "Trade and tech overlap; member-only.",
+   "tags": [
+    "industry"
+   ]
+  },
+  {
+   "title": "AI Safety in 2027: What's Next Following the Midterm Elections? (virtual roundtable)",
+   "start": "2026-12-08 15:00",
+   "end": null,
+   "location": "Virtual",
+   "virtual": true,
+   "url": "https://www.cta.tech/events",
+   "host": "Consumer Technology Association",
+   "description": "Member-only roundtable on how industry can advance practical, risk-based AI approaches that build trust, protect consumers and support American AI leadership.",
+   "speakers": [],
+   "topics": [
+    "AI"
+   ],
+   "fit": 3,
+   "why": "Industry view of post-midterm AI safety policy.",
+   "tags": [
+    "industry"
+   ]
+  },
+  {
+   "title": "Seeing Behind the Meter with CalPlug: Project SIGNAL and the Future of Grid Forecasting",
+   "start": "2026-12-09 12:00",
+   "end": "2026-12-09 13:00",
+   "location": null,
+   "virtual": false,
+   "url": "https://www.cta.tech/events",
+   "host": "Consumer Technology Association",
+   "description": "Member-only discussion of Project SIGNAL, a California Energy Commission-funded initiative on forecasting electricity demand with advanced data and technology.",
+   "speakers": [],
+   "topics": [
+    "energy-tech"
+   ],
+   "fit": 2,
+   "why": "Grid-forecasting tech; member-only.",
+   "tags": [
+    "industry"
+   ]
+  },
+  {
+   "title": "CES 2027",
+   "start": "2027-01-06",
+   "end": "2027-01-09",
+   "location": "Las Vegas, NV",
+   "virtual": false,
+   "url": "https://www.cta.tech/events",
+   "host": "Consumer Technology Association",
+   "description": "CES, CTA's annual technology show in Las Vegas, January 6-9, 2027.",
+   "speakers": [],
+   "topics": [],
+   "fit": 2,
+   "why": "Major industry showcase, but in Las Vegas.",
+   "tags": [
+    "industry"
+   ]
+  },
+  {
+   "title": "Executive Roundtable - U.S.-China Relations: From APEC Summit Outcomes to Strategic Realities",
+   "start": "2026-12-01T11:00:00-08:00",
+   "end": "2026-12-01T13:00:00-08:00",
+   "location": "Asia Society Northern California, San Francisco, CA",
+   "virtual": false,
+   "url": "https://asiasociety.org/northern-california/events/executive-roundtable-us-china-relations-apec-summit-outcomes-strategic-realities",
+   "host": "Asia Society Northern California",
+   "description": "Seeking Truth Through Facts series executive roundtable with Asia Society Policy Institute VP David Shullman on U.S.-China relations after the APEC summit. In-person and online.",
+   "speakers": [
+    "David Shullman"
+   ],
+   "topics": [
+    "China",
+    "tech-geopolitics"
+   ],
+   "fit": 3,
+   "why": "Post-APEC read on U.S.-China strategy, the backdrop for Bay Area tech export and supply-chain policy.",
+   "tags": [
+    "bay-area",
+    "think-tank"
+   ]
+  },
+  {
+   "title": "2027 Future of U.S. & China Conference",
+   "start": "2027-01-14T09:00:00-08:00",
+   "end": "2027-01-14T17:00:00-08:00",
+   "location": "San Francisco, CA",
+   "virtual": false,
+   "url": "https://asiasociety.org/northern-california/events/2027-future-us-china-conference",
+   "host": "Asia Society Northern California",
+   "description": "Asia Society Northern California's annual Future of U.S. & China Conference. In-person and online.",
+   "speakers": [],
+   "topics": [
+    "China",
+    "tech-geopolitics"
+   ],
+   "fit": 4,
+   "why": "Flagship Bay Area U.S.-China conference, usually heavy on tech competition.",
+   "tags": [
+    "bay-area",
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Workshop on Assessing U.S.-China AI Capabilities: Trajectories, Uncertainties, and Strategic Implications",
+   "start": "2027-01-15T09:00:00-08:00",
+   "end": "2027-01-15T16:00:00-08:00",
+   "location": "San Francisco, CA",
+   "virtual": false,
+   "url": "https://asiasociety.org/northern-california/events/workshop-assessing-us-china-ai-capabilities-trajectories-uncertainties-and-strategic-implications",
+   "host": "Asia Society Northern California",
+   "description": "Full-day invite-only tech workshop assessing U.S. and Chinese AI capabilities, their trajectories, uncertainties and strategic implications.",
+   "speakers": [],
+   "topics": [
+    "AI",
+    "China",
+    "tech-geopolitics"
+   ],
+   "fit": 4,
+   "why": "Squarely on U.S.-China AI competition, though invitation only.",
+   "tags": [
+    "bay-area",
+    "think-tank"
+   ]
+  },
+  {
+   "title": "CPPA Public Comment Hearing: Data Broker Updates and DROP Audits",
+   "start": "2027-01-06",
+   "end": null,
+   "location": "Hybrid meeting, California Privacy Protection Agency (Sacramento, CA)",
+   "virtual": false,
+   "url": "https://cppa.ca.gov/regulations/drop_audits.html",
+   "host": "California Privacy Protection Agency",
+   "description": "Public comment hearing on proposed regulations covering data broker updates and audits of the Delete Request and Opt-out Platform (DROP). Hybrid meeting.",
+   "speakers": [],
+   "topics": [
+    "data/privacy"
+   ],
+   "fit": 4,
+   "why": "Live California privacy rulemaking on data brokers, open to public comment.",
+   "tags": [
+    "bay-area",
+    "public",
+    "sacramento"
+   ]
+  },
+  {
+   "title": "20/20 Vision: Is This the Moment for Smart Glasses?",
+   "start": "2026-12-09T19:00:00-08:00",
+   "end": null,
+   "location": "Computer History Museum, 1401 N Shoreline Blvd, Mountain View, CA",
+   "virtual": false,
+   "url": "https://computerhistory.org/events/20-20-vision-is-this-the-moment-for-smart-glasses/",
+   "host": "Computer History Museum",
+   "description": "CHM Live program on whether smart glasses are finally ready for the mainstream.",
+   "speakers": [],
+   "topics": [
+    "AI",
+    "data/privacy"
+   ],
+   "fit": 2,
+   "why": "Consumer-tech discussion with likely privacy angles; light on policy.",
+   "tags": [
+    "bay-area",
+    "public"
+   ]
+  },
+  {
+   "title": "Higher Education, Research Investment, and the Public Interest",
+   "start": "2026-12-02",
+   "end": null,
+   "location": null,
+   "virtual": false,
+   "url": "https://www.hoover.org/events/higher-education-research-investment-and-public-interest",
+   "host": "Hoover Institution (Center for Revitalizing American Institutions)",
+   "description": "Hoover's Center for Revitalizing American Institutions event on higher education, research investment and the public interest.",
+   "speakers": [],
+   "topics": [
+    "industrial-policy"
+   ],
+   "fit": 2,
+   "why": "Science-funding policy matters to Bay Area research universities and tech pipelines.",
+   "tags": [
+    "bay-area",
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Securing Freedom: Innovation, Industry, and the Future of Deterrence",
+   "start": "2026-12-03T16:30:00-08:00",
+   "end": null,
+   "location": "Hoover Institution, Stanford University, Stanford, CA",
+   "virtual": false,
+   "url": "https://www.hoover.org/events/securing-freedom-innovation-industry-and-future-deterrence",
+   "host": "Hoover Institution",
+   "description": "Advance screening of the documentary Deterrence: Winning the 2nd Cold War, followed by a conversation with Shyam Sankar and H.R. McMaster on innovation, industry and deterrence.",
+   "speakers": [
+    "Shyam Sankar",
+    "H.R. McMaster"
+   ],
+   "topics": [
+    "tech-geopolitics",
+    "industrial-policy",
+    "China"
+   ],
+   "fit": 4,
+   "why": "Defense-tech and industrial-base debate with Palantir's CTO, central to Silicon Valley's defense turn.",
+   "tags": [
+    "bay-area",
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Bio-Strategies & Leadership Congressional Leadership Accelerator for Biotechnology (C-LAB)",
+   "start": "2027-02-18",
+   "end": null,
+   "location": null,
+   "virtual": false,
+   "url": "https://www.hoover.org/events/bio-strategies-leadership-congressional-leadership-accelerator-biotechnology",
+   "host": "Hoover Institution",
+   "description": "Intensive two-day program from Hoover's Bio-Strategies and Leadership initiative, a congressional leadership accelerator on biotechnology.",
+   "speakers": [],
+   "topics": [
+    "biotech"
+   ],
+   "fit": 3,
+   "why": "Biotech policy training aimed at Congress; venue not stated on the listing.",
+   "tags": [
+    "bay-area",
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Logan Wright | Broken China: How the Economic Miracle Shattered and What it Means for the World",
+   "start": "2026-12-03T16:00:00-08:00",
+   "end": "2026-12-03T17:30:00-08:00",
+   "location": "Shultz Auditorium, George P. Shultz Building, Hoover Institution, Stanford, CA",
+   "virtual": false,
+   "url": "https://sccei.fsi.stanford.edu/events/logan-wright-broken-china-how-economic-miracle-shattered-and-what-it-means-world",
+   "host": "Stanford SCCEI",
+   "description": "Rhodium Group partner Logan Wright on how China's economic miracle broke down and what it means for the world. Registration required.",
+   "speakers": [
+    "Logan Wright"
+   ],
+   "topics": [
+    "China",
+    "industrial-policy"
+   ],
+   "fit": 3,
+   "why": "Leading analyst on China's economy, relevant to tech trade and industrial policy.",
+   "tags": [
+    "bay-area",
+    "university"
+   ]
+  },
+  {
+   "title": "Nan Jia | Shielding or Stifling? How Restrictions on Foreign Acquisitions Shape Entrepreneurial Innovation in the U.S.",
+   "start": "2027-02-19T12:00:00-08:00",
+   "end": "2027-02-19T13:20:00-08:00",
+   "location": "Goldman Room E409, Encina Hall, Stanford, CA",
+   "virtual": false,
+   "url": "https://sccei.fsi.stanford.edu/events/nan-jia-shielding-or-stifling-how-restrictions-foreign-acquisitions-shape-entrepreneurial",
+   "host": "Stanford SCCEI",
+   "description": "SCCEI seminar: USC Marshall's Nan Jia on how restrictions on foreign acquisitions shape entrepreneurial innovation in the U.S.",
+   "speakers": [
+    "Nan Jia"
+   ],
+   "topics": [
+    "China",
+    "tech-geopolitics",
+    "industrial-policy"
+   ],
+   "fit": 4,
+   "why": "Investment-screening research directly relevant to Silicon Valley startups and foreign capital.",
+   "tags": [
+    "bay-area",
+    "university"
+   ]
+  },
+  {
+   "title": "2027 SCCEI China Conference",
+   "start": "2027-05-06T10:00:00-07:00",
+   "end": "2027-05-06T17:00:00-07:00",
+   "location": "Bechtel Conference Center, Encina Hall, 616 Jane Stanford Way, Stanford, CA",
+   "virtual": false,
+   "url": "https://sccei.fsi.stanford.edu/events/2027-sccei-china-conference",
+   "host": "Stanford SCCEI",
+   "description": "Annual SCCEI conference on China's economy and institutions. By invitation only.",
+   "speakers": [],
+   "topics": [
+    "China"
+   ],
+   "fit": 2,
+   "why": "China economy conference; invite-only and agenda not yet posted.",
+   "tags": [
+    "bay-area",
+    "university"
+   ]
+  },
+  {
+   "title": "Emerging Technologies and Strategic Stability",
+   "start": "2026-12-01T12:00:00-08:00",
+   "end": "2026-12-01T13:30:00-08:00",
+   "location": "William J. Perry Conference Room, Encina Hall, Stanford, CA",
+   "virtual": false,
+   "url": "https://cisac.fsi.stanford.edu/events/emerging-technologies-and-strategic-stability",
+   "host": "Stanford CISAC",
+   "description": "CISAC panel on how emerging technologies affect strategic stability. In person or online with registration.",
+   "speakers": [
+    "Harold Trinkunas",
+    "Herbert Lin",
+    "Jacquelyn Schneider",
+    "Rose McDermott"
+   ],
+   "topics": [
+    "AI",
+    "cyber",
+    "tech-geopolitics"
+   ],
+   "fit": 5,
+   "why": "Core tech-and-security panel with Herb Lin and Jacquelyn Schneider, open online.",
+   "tags": [
+    "bay-area",
+    "university"
+   ]
+  },
+  {
+   "title": "Richard Socher | The Eureka Machine: Why AI is the Key to Unlocking a New Era of Scientific Discoveries",
+   "start": "2026-11-30T12:00:00-08:00",
+   "end": "2026-11-30T13:00:00-08:00",
+   "location": "Stanford Digital Economy Lab, Stanford, CA",
+   "virtual": false,
+   "url": "https://digitaleconomy.stanford.edu/events/",
+   "host": "Stanford Digital Economy Lab",
+   "description": "Richard Socher on why AI is the key to unlocking a new era of scientific discoveries.",
+   "speakers": [
+    "Richard Socher"
+   ],
+   "topics": [
+    "AI"
+   ],
+   "fit": 3,
+   "why": "AI-for-science talk at Stanford's AI economics lab.",
+   "tags": [
+    "bay-area",
+    "university"
+   ]
+  },
+  {
+   "title": "How AI Is Changing the Economy: New Evidence on Work, Growth, and Economic Transformation",
+   "start": "2026-12-02",
+   "end": null,
+   "location": "Stanford Digital Economy Lab, Stanford, CA",
+   "virtual": false,
+   "url": "https://digitaleconomy.stanford.edu/events/",
+   "host": "Stanford Digital Economy Lab",
+   "description": "Stanford Digital Economy Lab event on new evidence about how AI is changing work, growth and the economy.",
+   "speakers": [],
+   "topics": [
+    "AI"
+   ],
+   "fit": 4,
+   "why": "Empirical evidence on AI's economic impact, central to AI labor and growth policy debates.",
+   "tags": [
+    "bay-area",
+    "university"
+   ]
+  },
+  {
+   "title": "Annie Liang: DEL Seminar Series",
+   "start": "2026-12-14T12:00:00-08:00",
+   "end": "2026-12-14T13:00:00-08:00",
+   "location": "Stanford Digital Economy Lab, Stanford, CA",
+   "virtual": false,
+   "url": "https://digitaleconomy.stanford.edu/events/",
+   "host": "Stanford Digital Economy Lab",
+   "description": "Digital Economy Lab seminar with Annie Liang; topic not yet posted.",
+   "speakers": [
+    "Annie Liang"
+   ],
+   "topics": [
+    "AI"
+   ],
+   "fit": 2,
+   "why": "Research seminar in Stanford's AI-and-economy series; topic not posted.",
+   "tags": [
+    "bay-area",
+    "university"
+   ]
+  },
+  {
+   "title": "Reflections on the Latest Shifts in the U.S.-China Relationship: A Perspective from Shanghai",
+   "start": "2026-12-04T12:00:00-08:00",
+   "end": "2026-12-04T13:30:00-08:00",
+   "location": "Philippines Conference Room (C330), Encina Hall, 616 Jane Stanford Way, Stanford, CA",
+   "virtual": false,
+   "url": "https://aparc.fsi.stanford.edu/events/reflections-latest-shifts-us-china-relationship-perspective-shanghai",
+   "host": "Stanford Shorenstein APARC",
+   "description": "APARC seminar offering a Shanghai perspective on the latest shifts in U.S.-China relations. In-person registration.",
+   "speakers": [],
+   "topics": [
+    "China",
+    "tech-geopolitics"
+   ],
+   "fit": 3,
+   "why": "Chinese view on the current U.S.-China relationship and its tech-competition context.",
+   "tags": [
+    "bay-area",
+    "university"
+   ]
+  },
+  {
+   "title": "Senate Commerce Nominations Hearing (Peter Feldman, CPSC; Christopher Mufarrige, FTC; Loren Smith Jr., DOT)",
+   "start": "2026-12-01 10:00",
+   "end": null,
+   "location": "SR-253, Russell Senate Office Building",
+   "virtual": false,
+   "url": "https://www.commerce.senate.gov/meetings/58665/",
+   "host": "Senate Committee on Commerce, Science, and Transportation",
+   "description": "Nominations hearing, rescheduled from Nov 24: Peter Feldman (CPSC chair, tentative), Christopher Mufarrige (FTC commissioner), Loren Smith Jr. (Asst. Secretary of Transportation).",
+   "speakers": [
+    "Peter A. Feldman",
+    "Christopher Mufarrige",
+    "Loren Smith, Jr."
+   ],
+   "topics": [
+    "trust-and-safety"
+   ],
+   "fit": 3,
+   "why": "FTC nominee shapes AI and data-privacy enforcement; open Senate hearing a short trip from SAIS.",
+   "tags": [
+    "hill"
+   ]
+  },
+  {
+   "title": "Preventing Undue Surveillance of Journalists",
+   "start": "2026-11-27",
+   "end": null,
+   "location": null,
+   "virtual": true,
+   "url": "https://cdt.org/events/preventing-undue-surveillance-of-journalists/",
+   "host": "CDT Europe / OSCE RFoM",
+   "description": "Virtual discussion on spyware and surveillance of journalists.",
+   "speakers": [],
+   "topics": [
+    "data/privacy",
+    "EU"
+   ],
+   "fit": 2,
+   "why": "European surveillance-policy webinar; tangential for DC.",
+   "tags": [
+    "advocacy"
+   ]
+  }
+ ]
+}
