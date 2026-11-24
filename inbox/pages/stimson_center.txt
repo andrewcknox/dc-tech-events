@@ -1,6 +1,6 @@
 # Stimson Center
 # https://www.stimson.org/events/
-# fetched 2026-11-23T08:18:49.735192-05:00
+# fetched 2026-11-24T09:49:10.325163-05:00
 # tags: think-tank
 
 EVENTS AND ENGAGEMENT
@@ -12,6 +12,11 @@ Upcoming Event
  December 3, 2026
  11:00 AM (US Eastern)
  Online or In-Person <https://www.stimson.org/event/so-you-want-a-nuclear-energy-renaissance-time-to-solve-the-us-nuclear-waste-management-problem/>
+Upcoming Event 
+ Ukraine and the Future of Transatlantic Defense: A Conversation with LTG Ben Hodges (Ret.) 
+ December 9, 2026
+ 3:00 PM (US Eastern)
+ Online or In-Person <https://www.stimson.org/event/ukraine-and-the-future-of-transatlantic-defense-a-conversation-with-ltg-ben-hodges-ret/>
 Interact With Us Live
 Pose your questions live at 
 stimson.org/questions <https://www.stimson.org/questions>

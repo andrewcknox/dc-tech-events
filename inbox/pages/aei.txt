@@ -1,19 +1,9 @@
 # AEI
 # https://www.aei.org/events/
-# fetched 2026-11-23T08:18:49.735192-05:00
+# fetched 2026-11-24T09:49:10.325163-05:00
 # tags: think-tank
 
 Events
-Online Event
-November 23, 2026
-Harnessing Technology and Policy to Advance Disability Employment and Economic Mobility <https://www.aei.org/events/harnessing-technology-and-policy-to-advance-disability-employment-and-economic-mobility/>
-with 
-Brent Orrell <https://www.aei.org/profile/brent-orrell/>
-Online Event  ·  November 23, 2026
-Harnessing Technology and Policy to Advance Disability Employment and Economic Mobility
-Explore how technology and policy can work together to break down barriers, modernize workforce systems, and create meaningful pathways to career advancement and economic mobility for Americans with disabilities.
-2:30 PM to 3:30 PM ET
-Learn More <https://www.aei.org/events/harnessing-technology-and-policy-to-advance-disability-employment-and-economic-mobility/>
 Online Event
 December 2, 2026
 The Myth of Transferable Skills <https://www.aei.org/events/the-myth-of-transferable-skills/>
@@ -56,6 +46,14 @@ Ronald Reagan Institute Director Roger Zakheim joins AEI’s Mackenzie Eaglen fo
 Learn More <https://www.aei.org/events/how-reagans-military-buildup-won-the-cold-war-a-conversation-with-roger-zakheim/>
 Events Calendar
 Past Events
+November 23, 2026
+Harnessing Technology and Policy to Advance Disability Employment and Economic Mobility <https://www.aei.org/events/harnessing-technology-and-policy-to-advance-disability-employment-and-economic-mobility/>
+with 
+Brent Orrell <https://www.aei.org/profile/brent-orrell/>
+November 23, 2026
+Harnessing Technology and Policy to Advance Disability Employment and Economic Mobility
+Explore how technology and policy can work together to break down barriers, modernize workforce systems, and create meaningful pathways to career advancement and economic mobility for Americans with disabilities.
+Watch Recording <https://www.aei.org/events/harnessing-technology-and-policy-to-advance-disability-employment-and-economic-mobility/>
 November 18, 2026
 What Now for School Choice in the States? <https://www.aei.org/events/what-now-for-school-choice-in-the-states/>
 with 
@@ -132,15 +130,3 @@ November 2, 2026
 Beneath the Fab: Securing the Semiconductor Materials Layer
 Advanced chips depend on materials few firms make, and China is spending heavily to become a major player. Experts discuss how the US can secure its chemicals and materials supply chain.
 Watch Recording <https://www.aei.org/events/beneath-the-fab-securing-the-semiconductor-materials-layer/>
-October 28, 2026
-15th Annual Housing Conference: Moving the Supply Needle <https://www.aei.org/events/15th-annual-housing-center-conference/>
-with 
-Arthur Gailes <https://www.aei.org/profile/arthur-gailes/>
- | 
-Tobias Peter <https://www.aei.org/profile/tobias-peter/>
- | 
-Edward J. Pinto <https://www.aei.org/profile/edward-j-pinto/>
-October 28, 2026
-15th Annual Housing Conference: Moving the Supply Needle
-Day 1 Slides: Panel I: Housing Market Indicators Update Panel II: Why and How 2026 Became the Year of the Starter Home Panel III: The Pursuit of Happiness: Housing’s Role Panel IV: Survey Says: Americans’…
-Watch Recording <https://www.aei.org/events/15th-annual-housing-center-conference/>

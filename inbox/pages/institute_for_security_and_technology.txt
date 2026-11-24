@@ -1,6 +1,6 @@
 # Institute for Security and Technology
 # https://securityandtechnology.org/events/
-# fetched 2026-11-23T08:18:49.735192-05:00
+# fetched 2026-11-24T09:49:10.325163-05:00
 # tags: think-tank
 
 Skip to content
@@ -28,6 +28,22 @@ cyber policy <https://securityandtechnology.org/resource_topic/cyber-policy/>
 , 
 gala <https://securityandtechnology.org/resource_topic/gala/>
  September 9, 2026 
+Event <https://securityandtechnology.org/events/>
+December 9, 2026 9:00 am 
+ 100 Days Later: Fragile Foundations Sprint Releases Recommendations to Confront AI Cyber Disruptions to Life-Safety Critical Functions 
+ In September, IST's Center for Advancing Cybersecurity launched the Fragile Foundations Sprint, a 100-day, multi-stakeholder effort grounded in the real-world experience of owners and operators on the frontlines. Now, with the Sprint coming to a close, join the team on December 9 as they share their findings and recommendations for policymakers. <https://securityandtechnology.org/event/100-days-later-the-fragile-foundations-sprint/>
+critical infrastructure <https://securityandtechnology.org/resource_topic/critical-infrastructure/>
+, 
+cybersecurity <https://securityandtechnology.org/resource_topic/cybersecurity/>
+, 
+ICS <https://securityandtechnology.org/resource_topic/ics/>
+, 
+life safety <https://securityandtechnology.org/resource_topic/life-safety/>
+, 
+operators <https://securityandtechnology.org/resource_topic/operators/>
+, 
+OT
+ November 23, 2026 
 Event <https://securityandtechnology.org/events/>
 November 19, 2026 12:00 pm 
  Introducing the Religious Voices and Responsible AI Curriculum: How to Use the Christian Curriculum in Your Community 
@@ -94,23 +110,11 @@ E-Rate <https://securityandtechnology.org/resource_topic/e-rate/>
 , 
 Universal Service Fund <https://securityandtechnology.org/resource_topic/universal-service-fund/>
  September 14, 2026 
-Event <https://securityandtechnology.org/events/>
-September 3, 2026 12:00 pm 
- AMA: Exploring the Presidential Memorandum on Combating Transnational Cyber-Enabled Crime 
- The Trump Administration recently announced a program to enlist vetted private companies in cyber operations against foreign cybercriminals. IST recently hosted a webinar unpacking the news. Due to popular demand, we’re back to host a pop-up AMA webinar! <https://securityandtechnology.org/event/ama-exploring-the-presidential-memorandum/>
-Cyber Strategy <https://securityandtechnology.org/resource_topic/cyber-strategy/>
-, 
-cybercrime <https://securityandtechnology.org/resource_topic/cybercrime/>
-, 
-cybersecurity <https://securityandtechnology.org/resource_topic/cybersecurity/>
-, 
-offensive cyber <https://securityandtechnology.org/resource_topic/offensive-cyber/>
- September 3, 2026 
  MENU 
 HOME PAGE <https://securityandtechnology.org/catalinknew/>
 GET IN TOUCH
 Email: 
-[email protected] <https://securityandtechnology.org/cdn-cgi/l/email-protection#e1828095808d888f8aa19284829493889598808f85958482898f8e8d8e8698cf8e9386>
+[email protected] <https://securityandtechnology.org/cdn-cgi/l/email-protection#294a485d4845404742695a4c4a5c5b405d5048474d5d4c4a41474645464e5007465b4e>
 Send us a message: 
 Contact <https://securityandtechnology.org/catalinknew/contact/>
 JOIN THE CATALINK MAILING LIST

@@ -1,6 +1,6 @@
 # Stanford Shorenstein APARC
 # https://aparc.fsi.stanford.edu/events
-# fetched 2026-11-23T08:18:49.735192-05:00
+# fetched 2026-11-24T09:49:10.325163-05:00
 # tags: bay-area, university
 
 Shorenstein Asia-Pacific Research Center Events
@@ -46,6 +46,13 @@ REGISTER TO ATTEND IN PERSON <https://forms.gle/D7152n8HQQBA14tU8>
 Philippines Conference Room (C330)
 Encina Hall, 3rd Floor
 616 Jane Stanford Way, Stanford, CA 94305
+ Seminars
+Tobacco Policy in Asia: Progress and Challenges <https://aparc.fsi.stanford.edu/events/tobacco-policy-asia-progress-and-challenges>
+Wednesday, January 20, 2027
+5:00 PM - 6:30 PM
+(Pacific)
+REGISTER TO ATTEND ONLINE <https://stanford.zoom.us/webinar/register/WN_wTzuSChQRWWs4ItOR2ZekA>
+Zoom
 Discover More at APARC
 Policy Outreach <https://aparc.fsi.stanford.edu/policy>
 Research <https://aparc.fsi.stanford.edu/research>

@@ -1,6 +1,6 @@
 # Brookings
 # https://www.brookings.edu/events/
-# fetched 2026-11-23T08:18:49.735192-05:00
+# fetched 2026-11-24T09:49:10.325163-05:00
 # tags: think-tank
 
 Events
@@ -10,18 +10,9 @@ Terms and Conditions of Attendance <https://www.brookings.edu/wp-content/uploads
 .
  Featured Events
 November
-23
-2026
-What is next for the US-China AI safety dialogue? <https://www.brookings.edu/events/what-is-next-for-the-us-china-ai-safety-dialogue/>
- Online only
- Monday, 10:00 am - 11:00 am EST
-Energy, trade, and the US-Canada partnership: A conversation with Canada’s minister of energy and natural resources <https://www.brookings.edu/events/energy-trade-and-the-us-canada-partnership-a-conversation-with-canadas-minister-of-energy-and-natural-resources/>
- Upcoming Event
-November
 30
 2026
-Climate & Energy <https://www.brookings.edu/topics/climate-energy/>
- Energy, trade, and the US-Canada partnership: A conversation with Canada’s minister of energy and natural resources
+Energy, trade, and the US-Canada partnership: A conversation with Canada’s minister of energy and natural resources <https://www.brookings.edu/events/energy-trade-and-the-us-canada-partnership-a-conversation-with-canadas-minister-of-energy-and-natural-resources/>
  The Brookings Institution, Washington DC
  Monday, 9:00 am - 10:15 am EST
 Preparing young people for an AI-driven future: Lessons from California <https://www.brookings.edu/events/preparing-young-people-for-an-ai-driven-future-lessons-from-california/>
@@ -42,16 +33,16 @@ Banking & Finance <https://www.brookings.edu/topics/banking-finance/>
  The working person’s bank account: A new proposal for universal banking
  The Brookings Institution, Washington D.C.
  Tuesday, 3:00 pm - 5:00 pm EST
-Upcoming
-What is next for the US-China AI safety dialogue? <https://www.brookings.edu/events/what-is-next-for-the-us-china-ai-safety-dialogue/>
+Can AI build more shared power and trust in health for Black communities? <https://www.brookings.edu/events/can-ai-build-more-shared-power-and-trust-in-health-for-black-communities/>
  Upcoming Event
-November
-23
+December
+02
 2026
 Artificial Intelligence <https://www.brookings.edu/topics/artificial-intelligence/>
- What is next for the US-China AI safety dialogue?
- Online only
- Monday, 10:00 am - 11:00 am EST
+ Can AI build more shared power and trust in health for Black communities?
+ The Brookings Institution, Washington D.C.
+ Wednesday, 9:30 am - 11:00 am EST
+Upcoming
 Energy, trade, and the US-Canada partnership: A conversation with Canada’s minister of energy and natural resources <https://www.brookings.edu/events/energy-trade-and-the-us-canada-partnership-a-conversation-with-canadas-minister-of-energy-and-natural-resources/>
  Upcoming Event
 November
@@ -79,6 +70,15 @@ Banking & Finance <https://www.brookings.edu/topics/banking-finance/>
  The working person’s bank account: A new proposal for universal banking
  The Brookings Institution, Washington D.C.
  Tuesday, 3:00 pm - 5:00 pm EST
+Can AI build more shared power and trust in health for Black communities? <https://www.brookings.edu/events/can-ai-build-more-shared-power-and-trust-in-health-for-black-communities/>
+ Upcoming Event
+December
+02
+2026
+Artificial Intelligence <https://www.brookings.edu/topics/artificial-intelligence/>
+ Can AI build more shared power and trust in health for Black communities?
+ The Brookings Institution, Washington D.C.
+ Wednesday, 9:30 am - 11:00 am EST
 Reimagining global economic governance: Challenges and opportunities in a shifting geopolitical and technological landscape <https://www.brookings.edu/events/reimagining-global-economic-governance-challenges-and-opportunities-in-a-shifting-geopolitical-and-technological-landscape/>
  Upcoming Event
 December
@@ -89,6 +89,15 @@ Diplomacy & Multilateralism <https://www.brookings.edu/topics/diplomacy-multilat
  The Brookings Institution, Washington DC
  Tuesday, 10:00 am - 11:45 am EST
 Recent Past Events
+What is next for the US-China AI safety dialogue? <https://www.brookings.edu/events/what-is-next-for-the-us-china-ai-safety-dialogue/>
+ Past Event
+November
+23
+2026
+Artificial Intelligence <https://www.brookings.edu/topics/artificial-intelligence/>
+ What is next for the US-China AI safety dialogue?
+ Online only
+ Monday, 10:00 am - 11:00 am EST
 Coming of age in an uncertain era <https://www.brookings.edu/events/coming-of-age-in-an-uncertain-era/>
  Past Event
 November
@@ -116,13 +125,4 @@ Defense & Security <https://www.brookings.edu/topics/national-security/>
  America’s role in European security
  The Brookings Institution, Washington DC
  Thursday, 10:00 am - 11:30 am EST
-From idea to impact: How communities around the world are championing family-centered schools <https://www.brookings.edu/events/from-idea-to-impact-how-communities-around-the-world-are-championing-family-centered-schools/>
- Past Event
-November
-19
-2026
-Global Education <https://www.brookings.edu/topics/education-in-developing-nations/>
- From idea to impact: How communities around the world are championing family-centered schools
- Online only
- Thursday, 9:30 am - 10:30 am EST
 See all past events <https://www.brookings.edu/past-events/>

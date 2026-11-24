@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-23T09:10:30-05:00",
- "today": "2026-11-23",
- "window_start": "2026-11-23",
+ "generated_at": "2026-11-24T09:59:27-05:00",
+ "today": "2026-11-24",
+ "window_start": "2026-11-24",
  "window_days": 14,
  "map_center": [
   38.905,
@@ -10,32 +10,40 @@
  "map_zoom": 13,
  "flagged_sources": [
   {
+   "name": "Berkeley Law AI events",
+   "failures": 3
+  },
+  {
+   "name": "Berkeley Law BCLT",
+   "failures": 3
+  },
+  {
    "name": "Berkeley Risk & Security Lab",
-   "failures": 4
-  },
-  {
-   "name": "Hopkins Bloomberg Center",
-   "failures": 3
-  },
-  {
-   "name": "JHU Data Science and AI Institute",
-   "failures": 3
-  },
-  {
-   "name": "JHU Hub Events (SAIS)",
-   "failures": 3
-  },
-  {
-   "name": "JHU Institute for Assured Autonomy (Baltimore)",
-   "failures": 3
-  },
-  {
-   "name": "National Academies",
    "failures": 5
   },
   {
+   "name": "Hopkins Bloomberg Center",
+   "failures": 4
+  },
+  {
+   "name": "JHU Data Science and AI Institute",
+   "failures": 4
+  },
+  {
+   "name": "JHU Hub Events (SAIS)",
+   "failures": 4
+  },
+  {
+   "name": "JHU Institute for Assured Autonomy (Baltimore)",
+   "failures": 4
+  },
+  {
+   "name": "National Academies",
+   "failures": 6
+  },
+  {
    "name": "SNF Agora Institute (JHU, Baltimore)",
-   "failures": 3
+   "failures": 4
   }
  ],
  "events": [
@@ -6712,7 +6720,8 @@
    ],
    "tags": [
     "public",
-    "meetup"
+    "meetup",
+    "substack"
    ],
    "fit": 3,
    "why": "Monthly Defense Tech DC meetup of founders, investors and officials.",
@@ -7264,6 +7273,32 @@
    "where": "Stanford University, Stanford, CA"
   },
   {
+   "id": 722,
+   "title": "Can AI build more shared power and trust in health for Black communities?",
+   "start": "2026-12-02T09:30:00-05:00",
+   "end": "2026-12-02T11:00:00-05:00",
+   "host": "Brookings",
+   "source": "daily page scan",
+   "location": "The Brookings Institution, 1775 Massachusetts Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.brookings.edu/events/can-ai-build-more-shared-power-and-trust-in-health-for-black-communities/",
+   "topics": [
+    "AI"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "AI governance and equity in health, in person near SAIS.",
+   "description": "Brookings discussion on AI in health care and building trust and shared power for Black communities.",
+   "speakers": [],
+   "lat": 38.9093,
+   "lon": -77.041,
+   "in_dc": true,
+   "time": "9:30 AM–11:00 AM",
+   "where": "The Brookings Institution, 1775 Massachusetts Ave NW, Washington, DC"
+  },
+  {
    "id": 441,
    "title": "Higher Education, Research Investment, and the Public Interest",
    "start": "2026-12-02T09:00:00-08:00",
@@ -7554,6 +7589,36 @@
    "in_dc": false,
    "time": "8:00 AM–9:00 AM",
    "where": "Virtual"
+  },
+  {
+   "id": 719,
+   "title": "Protecting America's AI Advantage: Oversight of U.S. Export Controls",
+   "start": "2026-12-03T10:00:00-05:00",
+   "end": null,
+   "host": "Senate Banking Committee",
+   "source": "daily page scan",
+   "location": "106 Dirksen Senate Office Building, Washington, DC",
+   "virtual": false,
+   "url": "https://www.banking.senate.gov/hearings/protecting-americas-ai-advantage-oversight-of-us-export-controls",
+   "topics": [
+    "AI",
+    "semiconductors",
+    "tech-geopolitics",
+    "China"
+   ],
+   "tags": [
+    "hill",
+    "substack"
+   ],
+   "fit": 5,
+   "why": "Congressional oversight of AI chip export controls, core ETI subject matter, open to the public on the Hill.",
+   "description": "Senate Banking full committee oversight hearing on U.S. export controls and protecting America's AI advantage.",
+   "speakers": [],
+   "lat": 38.8899,
+   "lon": -77.0091,
+   "in_dc": true,
+   "time": "10:00 AM",
+   "where": "106 Dirksen Senate Office Building, Washington, DC"
   },
   {
    "id": 655,
@@ -8170,6 +8235,33 @@
    "where": "Washington, DC"
   },
   {
+   "id": 720,
+   "title": "100 Days Later: Fragile Foundations Sprint Releases Recommendations to Confront AI Cyber Disruptions to Life-Safety Critical Functions",
+   "start": "2026-12-09T09:00:00-05:00",
+   "end": "2026-12-09T10:30:00-05:00",
+   "host": "IST",
+   "source": "daily page scan",
+   "location": null,
+   "virtual": false,
+   "url": "https://securityandtechnology.org/event/100-days-later-the-fragile-foundations-sprint/",
+   "topics": [
+    "AI",
+    "cyber"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 4,
+   "why": "Policy recommendations on frontier-AI cyber risk to critical infrastructure.",
+   "description": "IST's Center for Advancing Cybersecurity presents findings and policy recommendations from its 100-day Fragile Foundations Sprint on AI-enabled cyber threats to life-safety critical infrastructure.",
+   "speakers": [],
+   "lat": 38.9,
+   "lon": -77.03,
+   "in_dc": true,
+   "time": "9:00 AM–10:30 AM",
+   "where": "location TBD"
+  },
+  {
    "id": 251,
    "title": "Rebuilding the American Industrial Base",
    "start": "2026-12-09T09:30:00-05:00",
@@ -8335,6 +8427,33 @@
    "in_dc": true,
    "time": "8:00 AM",
    "where": "Atlantic Council, 1400 L St NW, Washington, DC"
+  },
+  {
+   "id": 721,
+   "title": "The Future of Transportation Safety and Automation",
+   "start": "2026-12-11T15:00:00-05:00",
+   "end": "2026-12-11T16:00:00-05:00",
+   "host": "ITIF",
+   "source": "daily page scan",
+   "location": null,
+   "virtual": false,
+   "url": "https://itif.org/events/2026/12/11/the-future-of-transportation-safety-and-automation/",
+   "topics": [
+    "AI",
+    "industrial-policy"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Automation and autonomy policy debate in transportation.",
+   "description": "Expert discussion on how policymakers can harness automation to improve transportation safety and efficiency while supporting workers.",
+   "speakers": [],
+   "lat": 38.9024,
+   "lon": -77.0221,
+   "in_dc": true,
+   "time": "3:00 PM–4:00 PM",
+   "where": "location TBD"
   },
   {
    "id": 606,

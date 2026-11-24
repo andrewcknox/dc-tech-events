@@ -1,17 +1,11 @@
 # Atlantic Council
 # https://www.atlanticcouncil.org/events/
-# fetched 2026-11-23T08:18:49.735192-05:00
+# fetched 2026-11-24T09:49:10.325163-05:00
 # tags: think-tank
 
 Upcoming events
 We convene in Washington DC, internationally, and virtually to inspire global engagement and to shape solutions to the defining challenges of our times. Through small, focused events and larger public gatherings, we inform and build connections. Register for upcoming events or subscribe to watch live on YouTube.
-Public Event
- Mon, November 23, 2026 • 10:00 am ET
- What Washington’s peace push means for Ukraine <https://www.atlanticcouncil.org/event/what-washingtons-peace-push-means-for-ukraine/>
-Europe & Eurasia <https://www.atlanticcouncil.org/region/europe-eurasia/>
-NATO <https://www.atlanticcouncil.org/issue/nato/>
-Peacekeeping and Peacebuilding <https://www.atlanticcouncil.org/issue/peacekeeping-and-peacebuilding/>
-Politics & Diplomacy <https://www.atlanticcouncil.org/issue/politics-diplomacy/>
+ Happening Now
 Tue, November 24, 2026 • 9:00 am ET
  From Antalya to Abu Dhabi: Advancing climate action <https://www.atlanticcouncil.org/event/from-antalya-to-abu-dhabi-advancing-climate-action/>
 Energy & Environment <https://www.atlanticcouncil.org/issue/energy-environment/>
@@ -31,6 +25,11 @@ Online Event
 Americas <https://www.atlanticcouncil.org/region/americas/>
 Latin America <https://www.atlanticcouncil.org/region/latin-america/>
 Resilience & Society <https://www.atlanticcouncil.org/issue/resilience-society/>
+Public Event
+ Wed, December 2, 2026 • 2:00 pm ET
+ Powering abundance 2027 <https://www.atlanticcouncil.org/event/public-powering-abundance-2027/>
+Energy & Environment <https://www.atlanticcouncil.org/issue/energy-environment/>
+Infrastructure <https://www.atlanticcouncil.org/issue/infrastructure/>
 Load More <https://www.atlanticcouncil.org/events/?ac-page=2>
 #ACFrontPage <https://www.atlanticcouncil.org/acfrontpage/>
  harnesses the convening power and expertise of the Council’s sixteen programs and centers to spotlight the world’s most prominent leaders and the most compelling ideas across sectors. The virtual platform engages new audiences eager for nonpartisan and constructive solutions to current global challenges. This widely promoted forty-five-minute program features the Council’s most important guests and content serving as the highlight of our programming each week.

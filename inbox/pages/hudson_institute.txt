@@ -1,6 +1,6 @@
 # Hudson Institute
 # https://www.hudson.org/events
-# fetched 2026-11-23T08:18:49.735192-05:00
+# fetched 2026-11-24T09:49:10.325163-05:00
 # tags: think-tank
 
 30
@@ -109,6 +109,23 @@ William Chou
 Ichiro Takahara
 Kenneth R. Weinstein
 Learn More <https://www.hudson.org/events/strengthening-japanese-allied-critical-minerals-supply-chains-conversation-jogmec-chairman>
+08
+December 2026
+ In-Person Event | Hudson Institute
+Mexico at a Crossroads: A Conversation with Ambassador Arturo Sarukhan
+Featured Speakers:
+Arturo Sarukhan
+Daniel Batlle 
+08
+December 2026
+ In-Person Event | Hudson Institute
+Mexico at a Crossroads: A Conversation with Ambassador Arturo Sarukhan
+Join Hudson Institute for a conversation with Arturo Sarukhan, Mexico’s ambassador to the United States from 2007 to 2013, on the political and security pressures shaping the US-Mexico relationship.
+ TUESDAY 4:00 p.m. - 5:00 p.m.
+Featured Speakers:
+Arturo Sarukhan
+Daniel Batlle 
+Learn More <https://www.hudson.org/events/mexico-crossroads-conversation-ambassador-arturo-sarukhan>
 10
 December 2026
  In-Person Event | Hudson Institute
@@ -126,6 +143,27 @@ Featured Speakers:
 Senator Bernie Moreno
 Joel Scanlon
 Learn More <https://www.hudson.org/events/connected-vehicles-manufacturing-national-security-conversation-senator-bernie-moreno>
+11
+December 2026
+ Virtual Event | Virtual Only
+Boko Haram since 2015: Taking Stock of a Deadly Jihadist Insurgency
+Featured Speakers:
+James Barnett
+Joshua Meservey
+Michael Nwankpa
+Oliver Coates
+11
+December 2026
+ Virtual Event | Virtual Only
+Boko Haram since 2015: Taking Stock of a Deadly Jihadist Insurgency
+Join Hudson Institute for a conversation on the Boko Haram insurgency with three authors of Rethinking Boko Haram: The Evolution of a Jihadist Group Since 2015, a new book that examines the insurgency’s transformation over the past decade. The virtual discussion will be moderated by Senior Fellow Joshua Meservey and feature insights from James Barnett, Michael Nwankpa, and Oliver Coates.
+ FRIDAY 12:00 p.m. - 1:00 p.m.
+Featured Speakers:
+James Barnett
+Joshua Meservey
+Michael Nwankpa
+Oliver Coates
+Learn More <https://www.hudson.org/events/boko-haram-2015-taking-stock-deadly-jihadist-insurgency>
 15
 December 2026
  In-Person Event | Hudson Institute
@@ -213,85 +251,3 @@ Featured Speakers:
 Congressman Mike Rogers
 Nadia Schadlow
 Learn More <https://www.hudson.org/events/rebuilding-arsenal-freedom-reindustrializing-america>
-17
-November 2026
- Past Event
-Overcoming US-ROK Alliance Challenges: Trade, Technology, and China
-Featured Speakers:
-David Feith
-Patrick M. Cronin
-Ely Ratner
-Trevor Wagener
-Matt Mowers
-17
-November 2026
- Past Event
-Overcoming US-ROK Alliance Challenges: Trade, Technology, and China
-Join Hudson Institute for a conversation with David Feith, Patrick M. Cronin, Ely Ratner, Trevor Wagener, and Matt Mowers on these challenges. The discussion will consider Wagener’s recent Computer and Communications Industry Association report, 
-The KFTC’s Uneven Hand
-, which examines disparities in South Korea’s competition enforcement against American, Korean, and Chinese companies.
- TUESDAY 4:00 p.m. - 5:00 p.m.
-Featured Speakers:
-David Feith
-Patrick M. Cronin
-Ely Ratner
-Trevor Wagener
-Matt Mowers
-Learn More <https://www.hudson.org/events/overcoming-us-rok-alliance-challenges-trade-technology-china>
-17
-November 2026
- Past Event
-The Tenth US-ROK Joint Public-Private Economic Forum: Advancing Economic Security and Industrial Strength
-Featured Speakers:
-Kim Jina
-Senator Bill Hagerty
-Kurt Campbell
-Elaine L. Chao
-Ambassador Joseph Y. Yun
-Elizabeth Urbanas
-Wendy Cutler
-Michael Coulter
-Brent Sadler
-Troy Stangarone
-Arielle Roth
-Jane Nakano
-Nick Snyder
-Sek Hwan Hong
-Jiyoon Lee
-Kayla T. Orta
-Scott Snyder
-Cordell Hull
-Moderators:
-Patrick M. Cronin
-Brigham A. McCown
-Timothy A. Walton
-17
-November 2026
- Past Event
-The Tenth US-ROK Joint Public-Private Economic Forum: Advancing Economic Security and Industrial Strength
-Join Hudson Institute for the tenth United States–Republic of Korea Joint Public-Private Economic Forum on November 17.
- TUESDAY 9:30 a.m. - 1:00 p.m.
-Featured Speakers:
-Kim Jina
-Senator Bill Hagerty
-Kurt Campbell
-Elaine L. Chao
-Ambassador Joseph Y. Yun
-Elizabeth Urbanas
-Wendy Cutler
-Michael Coulter
-Brent Sadler
-Troy Stangarone
-Arielle Roth
-Jane Nakano
-Nick Snyder
-Sek Hwan Hong
-Jiyoon Lee
-Kayla T. Orta
-Scott Snyder
-Cordell Hull
-Moderators:
-Patrick M. Cronin
-Brigham A. McCown
-Timothy A. Walton
-Learn More <https://www.hudson.org/events/tenth-us-rok-joint-public-private-economic-forum-advancing-economic-security-industrial>

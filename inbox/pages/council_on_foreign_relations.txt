@@ -1,26 +1,29 @@
 # Council on Foreign Relations
 # https://www.cfr.org/events
-# fetched 2026-11-23T08:18:49.735192-05:00
+# fetched 2026-11-24T09:49:10.325163-05:00
 # tags: think-tank
 
 Archive
-4865
+4867
  result
 s
 Meeting
 Screening and Discussion of PBS NOVA "Space Wars" <https://www.cfr.org/event/screening-and-discussion-of-pbs-novas-space-wars>
 November 18, 2026
 Meeting
-C. Peter McColough Series on International Economics With Michelle Bowman <https://www.cfr.org/event/c-peter-mccolough-series-on-international-economics-with-michelle-bowman>
+Screening and Discussion of "The Fight to Fight" <https://www.cfr.org/event/screening-and-discussion-of-the-fight-to-fight>
 November 18, 2026
 Meeting
 Media Briefing: Trump, Xi, Putin, and What to Expect <https://www.cfr.org/event/media-briefing-trump-xi-putin-and-what-to-expect>
 November 18, 2026
 Meeting
-CFR Fellows’ Book Launch Series: The Realist <https://www.cfr.org/event/cfr-fellows-book-launch-series-the-realist>
+Global Rules and Risks Shaping AI Policy <https://www.cfr.org/event/state-and-local-officials-webinar-global-rules-and-risks-shaping-ai-policy>
+November 17, 2026
+Meeting
+C. Peter McColough Series on International Economics With Michelle Bowman <https://www.cfr.org/event/c-peter-mccolough-series-on-international-economics-with-michelle-bowman>
 November 16, 2026
 Meeting
-CFR Fellows’ Book Launch Series—Germany Rearmed: The Return of War and the End of Illusions <https://www.cfr.org/event/cfr-fellows-book-launch-series-germany-rearmed-the-return-of-war-and-the-end-of-illusions>
+A Veteran’s View of the Global War on Terror: A Conversation With Jack Carr <https://www.cfr.org/event/a-veterans-view-of-the-global-war-on-terror-a-conversation-with-jack-carr>
 November 16, 2026
 Meeting
 AI Safety and Governance <https://www.cfr.org/event/ai-safety-and-governance>
@@ -32,10 +35,10 @@ Meeting
 C. Peter McColough Series on International Economics With Michelle Bowman <https://www.cfr.org/event/c-peter-mccolough-series-on-international-economics-with-michelle-bowman>
 November 10, 2026
 Meeting
-CFR Fellows’ Book Launch Series—Germany Rearmed: The Return of War and the End of Illusions <https://www.cfr.org/event/cfr-fellows-book-launch-series-germany-rearmed-the-return-of-war-and-the-end-of-illusions>
+A Conversation With Former Secretary of Veterans Affairs David Shulkin <https://www.cfr.org/event/a-conversation-with-former-secretary-of-veterans-affairs-david-shulkin>
 November 9, 2026
 Meeting
-C. Peter McColough Series on International Economics With Daron Acemoglu <https://www.cfr.org/event/c-peter-mccolough-series-on-international-economics-with-daron-acemoglu>
+A Conversation With Former Secretary of Veterans Affairs David Shulkin <https://www.cfr.org/event/a-conversation-with-former-secretary-of-veterans-affairs-david-shulkin>
 November 9, 2026
 Meeting
 Science Fair Series: When the Sun Strikes <https://www.cfr.org/event/science-fair-series-when-the-sun-strikes>
@@ -76,6 +79,3 @@ October 23, 2026
 Meeting
 Midterm Elections and Implications for U.S. Foreign Policy <https://www.cfr.org/event/local-journalists-webinar-midterm-elections-and-implications-for-u-s-foreign-policy>
 October 22, 2026
-Meeting
-Early Career Professionals Series: Charting a Career in International Affairs—A Conversation With CFR Visiting Fellows <https://www.cfr.org/event/early-career-professionals-series-charting-a-career-in-international-affairs-a-conversation-with-cfr-visiting-fellows>
-October 21, 2026

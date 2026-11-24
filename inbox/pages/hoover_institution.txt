@@ -1,6 +1,6 @@
 # Hoover Institution
 # https://www.hoover.org/events
-# fetched 2026-11-23T08:18:49.735192-05:00
+# fetched 2026-11-24T09:49:10.325163-05:00
 # tags: think-tank
 
 Events
@@ -111,6 +111,7 @@ Register To Attend
 Hoover Institution, Stanford University
 Coffee, Donuts, & Doughboys At Hoover Tower <https://www.hoover.org/events/coffee-donuts-doughboys-hoover-tower>
 Monday, December 7, 2026 
+8:30 AM 
 Coffee, Donuts, & Doughboys At Hoover Tower 
 Celebrate the American Library Association’s 150th anniversary at Hoover Tower, where historic photos of librarians delivering books to WWI soldiers… 
 Hoover Tower, Stanford, California

@@ -1,6 +1,6 @@
 # Punchbowl News live events
 # https://punchbowl.news/events/
-# fetched 2026-11-23T08:18:49.735192-05:00
+# fetched 2026-11-24T09:49:10.325163-05:00
 # tags: media
 
 Subscribe to be notified about all upcoming Punchbowl News events.
@@ -90,4 +90,4 @@ New Power Players
 Presented by Arnold Ventures
  Presented by American Investment Council 
 Eighty-five percent of private equity investment in the U.S. goes to small businesses with fewer than 500 employees. By pairing long-term capital with hands-on operational expertise, private equity helps local companies expand, create jobs, and drive economic growth. 
-See how private equity supports small businesses. <https://www.investmentcouncil.org/smallbusiness/>
+See how private equity supports small businesses. <https://www.investmentcouncil.org/powering-small-businesses/>

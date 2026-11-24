@@ -1,22 +1,12 @@
 # Asia Society Policy Institute
 # https://asiasociety.org/policy-institute/events
-# fetched 2026-11-23T08:18:49.735192-05:00
+# fetched 2026-11-24T09:49:10.325163-05:00
 # tags: think-tank
 
 Upcoming Events <https://asiasociety.org/policy-institute/events>
 Past Events <https://asiasociety.org/policy-institute/past-events>
 Events 
 ASPI and other divisions of Asia Society organize public events to engage wider audiences in dialogue about policy matters in Asia and policy solutions developed by staff and experts.  
- Online
-Panel Discussion
-After Shenzhen: What Did Trump and Xi Achieve? <https://asiasociety.org/policy-institute/events/after-shenzhen-what-did-trump-and-xi-achieve>
-Monday 23 Nov 2026 
- 10:30 - 11:30 a.m.
- New York
- Time
-Calculate your local time » <https://www.thetimezoneconverter.com/>
-Join ASPI and CCA experts to unpack the Trump–Xi summit in Shenzhen—what was achieved, what remains unresolved, and what comes next for U.S.–China relations and the region.
-Register Now <https://asiasociety.zoom.us/webinar/register/WN_jIjwUrZCQOmC73YoTjWYnA>
  In-person and Online
 Discussion
   / 
@@ -54,6 +44,16 @@ Tuesday 8 Dec 2026
 Calculate your local time » <https://www.thetimezoneconverter.com/>
 Join us for a discussion with JPMorganChase’s Center for Geopolitics on how Southeast Asia can sustain economic growth, navigate shifting global trade dynamics, and respond to intensifying U.S.–China competition.
 Register Now <https://asiasociety.zoom.us/webinar/register/WN_rTKeLP8STAiS1dglwMEy3g>
+ Online
+Panel Discussion
+The Art (and the Risk) of the Deal: Prospects for Renewed Diplomacy with North Korea <https://asiasociety.org/policy-institute/events/art-and-risk-deal-prospects-renewed-diplomacy-north-korea>
+Tuesday 8 Dec 2026 
+ 2 - 3 p.m.
+ Washington, DC
+ Time
+Calculate your local time » <https://www.thetimezoneconverter.com/>
+Join the Asia Society Policy Institute for a virtual discussion on the prospects for renewed diplomacy between Donald Trump and Kim Jong Un, featuring Stephen Biegun and Emma Chanlett-Avery in conversation with David Shullman.
+Register Now <https://asiasociety.zoom.us/webinar/register/WN_sGUzWy3eSEOw2nrrxxESgg>
  Online
 Panel Discussion
 China's WTO Accession at 25: Achievements, Challenges, and the Road Ahead <https://asiasociety.org/policy-institute/events/chinas-wto-accession-25-achievements-challenges-and-road-ahead>

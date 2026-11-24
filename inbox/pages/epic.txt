@@ -1,6 +1,6 @@
 # EPIC
 # https://epic.org/events/feed/
-# fetched 2026-11-23T08:18:49.735192-05:00
+# fetched 2026-11-24T09:49:10.325163-05:00
 # tags: civil-society
 
 ### Broadband and AI in the Next Congress
@@ -8,6 +8,12 @@ Link: https://epic.org/events/broadband-and-ai-in-the-next-congress/
 Published: Tue, 27 Oct 2026 14:55:25 +0000
 Artificial Intelligence is now driving infrastructure investment and public policy. AI’s future will depend not only on breakthroughs in computing, but on the networks, data centers, energy systems, workforce, and institutions that support it. Beginning at 8:30 a.m. on Tuesday, December 1, Broadband Breakfast brings together lawmakers, regulators, industry leaders, and technology innovators at the … 
 Continued <https://epic.org/events/broadband-and-ai-in-the-next-congress/>
+
+### 2026 Advanced eDiscovery Institute
+Link: https://epic.org/events/2026-advanced-ediscovery-institute/
+Published: Wed, 18 Nov 2026 17:27:38 +0000
+For more than two decades, the Georgetown Law Advanced eDiscovery Institute (AEDI) has been the premier forum exploring the evolving intersection of law, technology, privacy, and digital discovery. The 2026 program will bring together an exceptional lineup of state and federal judges, leading practitioners from top law firms around the globe, eDiscovery and legal technology … 
+Continued <https://epic.org/events/2026-advanced-ediscovery-institute/>
 
 ### AI and The Future of Law, Health, Society, and Democracy
 Link: https://epic.org/events/ai-and-the-future-of-law-health-society-and-democracy/
@@ -54,9 +60,3 @@ Link: https://epic.org/events/rightscon-continues-summit-resisting-surveillance-
 Published: Mon, 31 Aug 2026 20:46:52 +0000
 EPIC Counsel Abigail Kunkler and Mayu Tobin-Miyaji will host a virtual roundtable titled Resisting Surveillance Union Busting: Global Strategies for Collective Worker Power during the RightsCon Continues Summit on September 22, 2026. The time of the roundtable isn’t yet finalized. Register here to attend the online event and participate in 24 hours of discussions, debates, … 
 Continued <https://epic.org/events/rightscon-continues-summit-resisting-surveillance-union-busting-global-strategies-for-collective-worker-power/>
-
-### The Attention Sphere: Holding Big Tech Accountable: Tech Policy 101
-Link: https://epic.org/events/the-attention-sphere-holding-big-tech-accountable-tech-policy-101/
-Published: Mon, 14 Sep 2026 17:26:38 +0000
-On Monday, EPIC Counsel Kara Williams will join the Attention Sphere at Temperance Alley Garden for a conversation about data privacy and how policy can be used to hold Big Tech accountable. The event will be hosted by Kendall Schrohe, Executive Director of the Attention Sphere and EPIC’s Assistant to the Director for Development and … 
-Continued <https://epic.org/events/the-attention-sphere-holding-big-tech-accountable-tech-policy-101/>

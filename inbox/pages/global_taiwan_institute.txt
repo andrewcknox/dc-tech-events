@@ -1,6 +1,6 @@
 # Global Taiwan Institute
 # https://globaltaiwan.org/events/feed/
-# fetched 2026-11-23T08:18:49.735192-05:00
+# fetched 2026-11-24T09:49:10.325163-05:00
 # tags: think-tank
 
 ### December 3: Voices of the Island: How Taiwan’s Indigenous Communities Preserve Cultural Heritage
@@ -16,7 +16,7 @@ Global Taiwan Institute <https://globaltaiwan.org>
 ### November 20: If China Seizes Taiwan: The Implications for the United States and the World
 Link: https://globaltaiwan.org/events/if-china-seizes-taiwan/
 Published: Fri, 30 Oct 2026 17:26:04 +0000
-Friday, November 20, 2026 from 9:15AM – 12:45 PM (ET) In-person About the Event The Global Taiwan Institute (GTI) is pleased to invite you to a public seminar titled “If China Seizes Taiwan: The Implications for the United States and the World.” Amid both escalating rhetoric and coercive military activities directed by the People’s Republic […]
+Friday, November 20, 2026 from 9:15AM – 12:45 PM (ET) About the Event The Global Taiwan Institute (GTI) is pleased to invite you to a public seminar titled “If China Seizes Taiwan: The Implications for the United States and the World.” Amid both escalating rhetoric and coercive military activities directed by the People’s Republic of […]
 The post 
 November 20: If China Seizes Taiwan: The Implications for the United States and the World <https://globaltaiwan.org/events/if-china-seizes-taiwan/>
  appeared first on 

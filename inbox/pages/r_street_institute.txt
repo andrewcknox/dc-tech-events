@@ -1,6 +1,6 @@
 # R Street Institute
 # https://www.rstreet.org/events/
-# fetched 2026-11-23T08:18:49.735192-05:00
+# fetched 2026-11-24T09:49:10.325163-05:00
 # tags: think-tank
 
 Events
@@ -14,14 +14,6 @@ Holiday Ales & Liberty Tales 2026 <https://www.rstreet.org/events/holiday-ales-l
 6:30PM
  EST 
 Upcoming Events
-Nov 
-20 
-Foreign Threats to Free Speech and Domestic Policy Responses <https://www.rstreet.org/events/foreign-threats-to-free-speech-and-domestic-policy-responses/>
- Events hosted by RSI AND In-Person 
-12:00PM 
-–
-1:00PM
- EST 
 Dec 
 16 
 Holiday Ales & Liberty Tales 2026 <https://www.rstreet.org/events/holiday-ales-liberty-tales-2026/>
@@ -85,6 +77,17 @@ Caught on Camera: A Candid Conversation on Public Safety, Privacy, and Police Su
 R Street Institute
 Nov 9, 2026
 Events hosted by RSI, In-Person
+Federal Government Affairs <https://www.rstreet.org/home/our-issues/federal-government-affairs/>
+, 
+Online Content Policy <https://www.rstreet.org/issues/online-content-policy/>
+, 
+State Policy <https://www.rstreet.org/home/our-issues/state-policy/>
+, 
+Technology and Innovation <https://www.rstreet.org/home/our-issues/technology-and-innovation/>
+Foreign Threats to Free Speech and Domestic Policy Responses <https://www.rstreet.org/events/foreign-threats-to-free-speech-and-domestic-policy-responses/>
+R Street Institute
+Nov 20, 2026
+Events hosted by RSI, In-Person
 Energy and Environment <https://www.rstreet.org/home/our-issues/energy-and-environment/>
 , 
 Permitting Reform <https://www.rstreet.org/issues/permitting-reform/>
@@ -124,15 +127,6 @@ Technology and Innovation <https://www.rstreet.org/home/our-issues/technology-an
 Agents, Assistants and Awareness Raisers: Next Steps for AI in Think Tank Comms <https://www.rstreet.org/events/agents-assistants-and-awareness-raisers-next-steps-for-ai-in-think-tank-comms/>
 WonkComms and R Street Institute
 Sept 15, 2026
-Events hosted by RSI, In-Person
-Cybersecurity Policy <https://www.rstreet.org/home/our-issues/cybersecurity-and-emerging-threats/>
-, 
-Quantum Computing <https://www.rstreet.org/issues/quantum-computing/>
-, 
-Technology and Innovation <https://www.rstreet.org/home/our-issues/technology-and-innovation/>
-From Policy to Practice: Navigating the Post-Quantum Cryptography Transition <https://www.rstreet.org/events/navigating-the-post-quantum-cryptography-transition/>
-R Street Institute
-July 29, 2026
 Support Our Work
 Our deep research into public policy solutions supporting limited government and free markets is only possible because of your support. Please give today.
 Support Us <https://www.rstreet.org/support-us/>

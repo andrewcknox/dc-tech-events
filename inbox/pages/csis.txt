@@ -1,24 +1,24 @@
 # CSIS
 # https://www.csis.org/events
-# fetched 2026-11-23T08:18:49.735192-05:00
+# fetched 2026-11-24T09:49:10.325163-05:00
 # tags: think-tank
 
 Events
 CSIS organizes & hosts a variety of international relations & policy events featuring expert speakers. Register for live events, webinars, series & conferences.
  Next Up
 Webcast
-Restoring State Sovereignty in Lebanon: Progress, Challenges, and the Road Ahead <https://www.csis.org/events/restoring-state-sovereignty-lebanon-progress-challenges-and-road-ahead>
+The UN is Due for a Reboot <https://www.csis.org/events/un-due-reboot>
 Presented by
-Middle East Program <https://www.csis.org/programs/middle-east-program>
-November 23, 2026 • 9:00 – 10:00 am EST
+Global Development <https://www.csis.org/global-development>
+November 24, 2026 • 9:15 – 10:00 am EST
  Upcoming Events
 Image
 Photo: CSIS
-The UN is Due for a Reboot <https://www.csis.org/events/un-due-reboot>
-November 24, 2026 • 9:00 – 9:45 am EST
+Energy Shots | Energy Cornucopia: 2026's Biggest Stories <https://www.csis.org/index%2ephp/events/energy-shots-energy-cornucopia-2026s-biggest-stories>
+November 25, 2026 • 3:00 – 4:00 pm EST
 Webcast
  Hosted by 
-Global Development
+Energy Security and Climate Change Program
 Image
 Photo: U.S. Navy photo/DVIDS
 The Strategist: How to Think About War and Politics <https://www.csis.org/events/strategist-how-think-about-war-and-politics>
@@ -28,6 +28,12 @@ Webcast
 Arleigh A. Burke Chair in Strategy
 See all upcoming events <https://www.csis.org/events?f%5B0%5D=event_type%3A3004&f%5B1%5D=event_type%3A3005&f%5B2%5D=event_type%3A3012>
  Recent Events
+Image
+Photo: Ramiz Dallah/Anadolu/Getty Images
+Restoring State Sovereignty in Lebanon: Progress, Challenges, and the Road Ahead <https://www.csis.org/events/restoring-state-sovereignty-lebanon-progress-challenges-and-road-ahead>
+November 23, 2026 • 9:00 – 10:00 am EST
+ Hosted by 
+Middle East Program
 Image
 Photo: Narumon Bowonkitwanchai/GETTY IMAGES
 Understanding the Memory Chip Crunch & the Way Ahead <https://www.csis.org/index%2ephp/events/understanding-memory-chip-crunch-way-ahead>
@@ -42,13 +48,13 @@ November 19, 2026 • 4:00 – 6:30 pm EST
 Chair on India and Emerging Asia Economics
 Image
 Photo: CSIS
-The Next Energy Order: Featuring Dr. Sarah Kapnick, Global Head of Climate Advisory, J.P. Morgan | Betting on America <https://www.csis.org/index%2Ephp/events/next-energy-order-featuring-dr-sarah-kapnick-global-head-climate-advisory-jp-morgan-betting>
+The Next Energy Order: Featuring Dr. Sarah Kapnick, Global Head of Climate Advisory, J.P. Morgan | Betting on America <https://www.csis.org/events/next-energy-order-featuring-dr-sarah-kapnick-global-head-climate-advisory-jp-morgan-betting>
 November 19, 2026 • 10:00 – 11:00 am EST
  Hosted by 
 Economic Security and Technology
 Image
 Photo: CSIS
-Traffic Jams in Space | Space Strategic Dialogue <https://www.csis.org/index%2ephp/events/traffic-jams-space-space-strategic-dialogue>
+Traffic Jams in Space | Space Strategic Dialogue <https://www.csis.org/events/traffic-jams-space-space-strategic-dialogue>
 November 19, 2026 • 9:00 – 10:00 am EST
  Hosted by 
 Aerospace Security Project
@@ -60,59 +66,59 @@ November 19, 2026 • 8:45 – 9:30 am EST
 Korea Chair
 Image
 Photo: CSIS
-Global Collaboration to Eliminate Cervical Cancer <https://www.csis.org/index%2Ephp/events/global-collaboration-eliminate-cervical-cancer>
+Global Collaboration to Eliminate Cervical Cancer <https://www.csis.org/events/global-collaboration-eliminate-cervical-cancer>
 November 18, 2026 • 4:00 – 5:00 pm EST
  Hosted by 
 Global Development
 Image
 Photo: CSIS
-Peace Through Strength: A Book Talk with Roger Zakheim <https://www.csis.org/index%2Ephp/events/peace-through-strength-book-talk-roger-zakheim>
+Peace Through Strength: A Book Talk with Roger Zakheim <https://www.csis.org/events/peace-through-strength-book-talk-roger-zakheim>
 November 18, 2026 • 12:00 – 1:00 pm EST
  Hosted by 
 Aerospace Security Project
-Image
-Photo: CSIS
-Digital Resilience in a Post-Mythos World: A Conversation with Greg Rattray <https://www.csis.org/index%2Ephp/events/digital-resilience-post-mythos-world-conversation-greg-rattray>
-November 18, 2026 • 9:00 – 10:00 am EST
- Hosted by 
-Intelligence, National Security, and Technology Program
 See all past events <https://www.csis.org/events?past_events=1>
 Upcoming Events <https://www.csis.org/events?upcoming_events=1>
 Past Events <https://www.csis.org/events?past_events=1>
 Filter by
 Event
  (3) <https://www.csis.org/events?f%5B0%5D=event_type%3A3012>
-Egypt and the Levant
- (1) <https://www.csis.org/events?f%5B0%5D=regions%3A1323>
+Europe
+ (1) <https://www.csis.org/events?f%5B0%5D=regions%3A787>
 Middle East
  (1) <https://www.csis.org/events?f%5B0%5D=regions%3A785>
-Conflict and Humanitarian Crises
- (1) <https://www.csis.org/events?f%5B0%5D=topics%3A1336>
+North America
+ (1) <https://www.csis.org/events?f%5B0%5D=regions%3A800>
 Defense and Security
- (2) <https://www.csis.org/events?f%5B0%5D=topics%3A817>
+ (1) <https://www.csis.org/events?f%5B0%5D=topics%3A817>
 Defense Strategy and Capabilities
  (1) <https://www.csis.org/events?f%5B0%5D=topics%3A826>
-Geopolitics and International Security
- (1) <https://www.csis.org/events?f%5B0%5D=topics%3A824>
+Energy and Geopolitics
+ (1) <https://www.csis.org/events?f%5B0%5D=topics%3A838>
+Energy and Sustainability
+ (1) <https://www.csis.org/events?f%5B0%5D=topics%3A819>
+Energy Innovation
+ (1) <https://www.csis.org/events?f%5B0%5D=topics%3A836>
+Energy Markets, Trends, and Outlooks
+ (1) <https://www.csis.org/events?f%5B0%5D=topics%3A835>
 International Development
  (1) <https://www.csis.org/events?f%5B0%5D=topics%3A818>
 2026 <https://www.csis.org/events?f%5B0%5D=event_dates%3A2026>
 2027 <https://www.csis.org/events?f%5B0%5D=event_dates%3A2027>
 Defense and Security
  (1) <https://www.csis.org/events?f%5B0%5D=department%3ADefense%20and%20Security>
-Geopolitics and Foreign Policy
- (1) <https://www.csis.org/events?f%5B0%5D=department%3AGeopolitics%20and%20Foreign%20Policy>
+Economic Security and Technology
+ (1) <https://www.csis.org/events?f%5B0%5D=department%3AEconomic%20Security%20and%20Technology>
 Global Development
  (1) <https://www.csis.org/events?f%5B0%5D=department%3AGlobal%20Development>
  Display Archived Results
-Restoring State Sovereignty in Lebanon: Progress, Challenges, and the Road Ahead <https://www.csis.org/events/restoring-state-sovereignty-lebanon-progress-challenges-and-road-ahead>
-Please join the CSIS Middle East Program for an expert panel on restoring state sovereignty in Lebanon.
- Event
-— November 23, 2026
 The UN is Due for a Reboot <https://www.csis.org/events/un-due-reboot>
 Enoh T. Ebong and Heba Aly discuss efforts to update the UN Charter for more equitable and efficiant global governance. 
  Event
 — November 24, 2026
+Energy Shots | Energy Cornucopia: 2026's Biggest Stories <https://www.csis.org/events/energy-shots-energy-cornucopia-2026s-biggest-stories>
+This biweekly video series, hosted by Joseph Majkut and Kevin Book, delivers clear insights, visuals, and straight talk on the latest energy trends.
+ Event
+— November 25, 2026
 The Strategist: How to Think About War and Politics <https://www.csis.org/events/strategist-how-think-about-war-and-politics>
 Dr. Eliot Cohen discusses his latest book, The Strategist: How to Think About War and Politics, with General David Petraeus (Ret.).
  Event

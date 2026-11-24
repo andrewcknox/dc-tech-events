@@ -1,21 +1,35 @@
 # ORF America
 # https://orfamerica.org/events
-# fetched 2026-11-23T08:18:49.735192-05:00
+# fetched 2026-11-24T09:49:10.325163-05:00
 # tags: think-tank
 
 Events
 ORF America is a convener of policy discussions in Washington DC, around the United States, and around the world, as well as virtual discussions online. These are either open to the public or by invitation only. Events from previous years can be found 
 here <https://www.orfamerica.org/archives-home>
 .
-Summary Block
- This block has no content yet. Items you add to the page connected to this block will display here.
+Dec
+ 1 <https://orfamerica.org/recent-events/the-post-cop31-agenda-takeaways-from-antalya-and-the-road-to-addis-ababa>
+December 1, 2026
+9:30 AM – 11:30 AM
+09:30 – 11:30
+9:30 AM – 11:30 AM
+The Post-COP31 Agenda: Takeaways from Antalya and the Road to Addis Ababa <https://orfamerica.org/recent-events/the-post-cop31-agenda-takeaways-from-antalya-and-the-road-to-addis-ababa>
+December 1, 2026
+9:30 AM – 11:30 AM
+09:30 – 11:30
+9:30 AM – 11:30 AM
+Read more → <https://orfamerica.org/recent-events/the-post-cop31-agenda-takeaways-from-antalya-and-the-road-to-addis-ababa>
+December 1, 2026
+9:30 AM – 11:30 AM
+09:30 – 11:30
+9:30 AM – 11:30 AM
 Nov
  11 <https://orfamerica.org/recent-events/orfamerica-at-cop31>
-November 11, 2026 – November 13, 2026
+November 11, 2026 – November 14, 2026
 ORF America at COP31 <https://orfamerica.org/recent-events/orfamerica-at-cop31>
-November 11, 2026 – November 13, 2026
+November 11, 2026 – November 14, 2026
 Read more → <https://orfamerica.org/recent-events/orfamerica-at-cop31>
-November 11, 2026 – November 13, 2026
+November 11, 2026 – November 14, 2026
 Nov
  10 <https://orfamerica.org/recent-events/the-future-of-israels-partnerships-with-india-and-the-united-states>
 November 10, 2026

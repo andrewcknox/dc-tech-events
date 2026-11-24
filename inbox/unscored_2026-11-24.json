@@ -1,0 +1,338 @@
+{
+ "instructions": "Fill fit (1-5), topics (from the DAILY.md list) and why for each event; add tags (e.g. bay-area) if needed; then `uv run dte score apply <this file>`. Leave fit null to skip.",
+ "events": [
+  {
+   "id": 704,
+   "title": "Human First: How will AI impact our society?",
+   "start": "2026-11-24T12:30:00-05:00",
+   "location": "Kampus Hybernska, Hybernská 998/4, Nové Město, 110 00 Praha-Praha 1, Czechia",
+   "virtual": false,
+   "host": "BlueDot Impact (Luma)",
+   "source": "BlueDot Impact (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/0pbv5w99 Address: Kampus Hybernska Hall D.2 Hlavní město Praha, Czechia Hosted by PauseAI CZ",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "BlueDot event in Prague, not DC."
+  },
+  {
+   "id": 707,
+   "title": "PROGRESS MS-36 DOCKS AT THE ISS, Nov 26, 2026, Earth orbit, 7:11 am ET",
+   "start": "2026-11-26T06:30:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "Russia’s Progress MS-36 cargo spacecraft will dock at the International Space Station on November 26, 2026 at 7:11 am ET. NASA coverage begins at 6:30 am ET. Check NASA Live for the link. Progress MS-36 launched on November 24, 2026",
+   "url": "https://spacepolicyonline.com/events/progress-ms-36-docks-at-the-iss-nov-26-2026-earth-orbit-711-am-et/",
+   "fit": 1,
+   "topics": [
+    "space"
+   ],
+   "why": "Spacecraft docking, not a policy event."
+  },
+  {
+   "id": 705,
+   "title": "AI Governance Club",
+   "start": "2026-11-26T12:00:00-05:00",
+   "location": "https://luma.com/event/evt-Ass1izFm7TfWMVN",
+   "virtual": false,
+   "host": "BlueDot Impact (Luma)",
+   "source": "BlueDot Impact (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/thd3fvdr Hosted by Mmachukwu Osisioma, Mariana Hungria & Christen Rao",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Global BlueDot online club, not DC."
+  },
+  {
+   "id": 706,
+   "title": "LISA x MATS Community Social",
+   "start": "2026-11-26T14:00:00-05:00",
+   "location": "https://luma.com/event/evt-QJWKpK3sARfazGK",
+   "virtual": false,
+   "host": "BlueDot Impact (Luma)",
+   "source": "BlueDot Impact (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/rdjq6aoe Address: Check event page for more details. Hosted by Grace Reuben & 3 others",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Non-DC community social."
+  },
+  {
+   "id": 711,
+   "title": "Mox-tunies! 🎤🎵 Live Band Karaoke (11/28)",
+   "start": "2026-11-28T22:00:00-05:00",
+   "location": "https://partiful.com/e/j4V4AmXmzEpzWefBFwWz",
+   "virtual": false,
+   "host": "Mox SF (Luma)",
+   "source": "Mox SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Find more information on https://luma.com/mox",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-nfkEvDFat3zN1fe",
+   "fit": 1,
+   "topics": [],
+   "why": "Karaoke night."
+  },
+  {
+   "id": 712,
+   "title": "SF Lean Meetup",
+   "start": "2026-11-30T22:00:00-05:00",
+   "location": "Mox, 1680 Mission St, San Francisco, CA 94103, USA",
+   "virtual": false,
+   "host": "Mox SF (Luma)",
+   "source": "Mox SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/djqpgaqm Address: Mox San Francisco, CA United States Hosted by Adi Baradwaj",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-nfkEvDFat3zN1fe",
+   "fit": 1,
+   "topics": [],
+   "why": "Theorem-prover meetup, no policy angle."
+  },
+  {
+   "id": 713,
+   "title": "Casual Ethics Meetup",
+   "start": "2026-12-01T20:30:00-05:00",
+   "location": "Mox, 1680 Mission St, San Francisco, CA 94103, USA",
+   "virtual": false,
+   "host": "Mox SF (Luma)",
+   "source": "Mox SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/g1taahqx Address: Mox San Francisco, CA United States Hosted by Ran Sun",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-nfkEvDFat3zN1fe",
+   "fit": 1,
+   "topics": [],
+   "why": "General ethics social."
+  },
+  {
+   "id": 703,
+   "title": "The GPU Happy Hour",
+   "start": "2026-12-02T18:30:00-05:00",
+   "location": "https://luma.com/event/evt-g1TupO7gvuLT3OZ",
+   "virtual": false,
+   "host": "NVIDIA GTC DC side events (Luma)",
+   "source": "NVIDIA GTC DC side events (Luma)",
+   "tags": [
+    "public",
+    "industry"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/dq4cfzjj Address: Check event page for more details. Hosted by Matthieu",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-IGTUtC9M8rJP1tb",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Vendor happy hour at GTC DC."
+  },
+  {
+   "id": 714,
+   "title": "Moms Who AI: Holiday Happy Hour 🥂",
+   "start": "2026-12-04T23:00:00-05:00",
+   "location": "Parasol, 2298 Market St, San Francisco, CA 94114, USA",
+   "virtual": false,
+   "host": "Mox SF (Luma)",
+   "source": "Mox SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/pm26x4vr Address: Parasol San Francisco, CA United States Hosted by Katie, Minh & Katelyn Logan",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-nfkEvDFat3zN1fe",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Social happy hour."
+  },
+  {
+   "id": 715,
+   "title": "Mathematical Sociodynamics reading group (Psychohistory but real)",
+   "start": "2026-12-05T18:30:00-05:00",
+   "location": "Mox, 1680 Mission St, San Francisco, CA 94103, USA",
+   "virtual": false,
+   "host": "Mox SF (Luma)",
+   "source": "Mox SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/pcbf4rr6 Address: Mox San Francisco, CA United States Hosted by Grant Getzelman & Mox SF",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-nfkEvDFat3zN1fe",
+   "fit": 1,
+   "topics": [],
+   "why": "Reading group, no policy angle."
+  },
+  {
+   "id": 716,
+   "title": "Notable enough? How Wikipedians decide what goes on the encyclopedia",
+   "start": "2026-12-08T20:30:00-05:00",
+   "location": "Mox, 1680 Mission St, San Francisco, CA 94103, USA",
+   "virtual": false,
+   "host": "Mox SF (Luma)",
+   "source": "Mox SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/v10xnbbo Address: Mox San Francisco, CA United States Hosted by Wikimedia Bay Area",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-nfkEvDFat3zN1fe",
+   "fit": 1,
+   "topics": [],
+   "why": "Wikipedia talk, not tech policy."
+  },
+  {
+   "id": 717,
+   "title": "Meetup: Let's talk about Recursive Self-Improvement",
+   "start": "2026-12-08T21:30:00-05:00",
+   "location": "https://luma.com/event/evt-TPOM8XP6sqiulFK",
+   "virtual": false,
+   "host": "Mox SF (Luma)",
+   "source": "Mox SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/aisafety-4phl Address: Check event page for more details. Hosted by Jen Ba & Timothy Zhou",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-nfkEvDFat3zN1fe",
+   "fit": 2,
+   "topics": [
+    "AI"
+   ],
+   "why": "Informal AI safety meetup on recursive self-improvement in SF."
+  },
+  {
+   "id": 718,
+   "title": "Kim Morrison at the SF Lean Meetup",
+   "start": "2026-12-08T22:00:00-05:00",
+   "location": "Mox, 1680 Mission St, San Francisco, CA 94103, USA",
+   "virtual": false,
+   "host": "Mox SF (Luma)",
+   "source": "Mox SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/80dyt63h Address: Mox San Francisco, CA United States Hosted by Adi Baradwaj",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-nfkEvDFat3zN1fe",
+   "fit": 1,
+   "topics": [],
+   "why": "Lean meetup."
+  },
+  {
+   "id": 702,
+   "title": "Elliott School: MA in Security Policy Studies Information Session",
+   "start": "2026-12-15T12:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [
+    "university",
+    "gwu"
+   ],
+   "description": "Join our program directors to explore the MA in Security Policy Studies—get an inside look at the program, learn about the admissions process, and discover how an Elliott School degree can help shape your future. Register HERE",
+   "url": "https://calendar.gwu.edu/event/elliott-school-ma-in-security-policy-studies-information-session",
+   "fit": 1,
+   "topics": [],
+   "why": "Admissions info session."
+  },
+  {
+   "id": 708,
+   "title": "MAIML Info Session Webinar (Last Before Jan. 11, 2027 Deadline)",
+   "start": "2026-12-17T12:00:00-05:00",
+   "location": "Online",
+   "virtual": true,
+   "host": "Berkeley campus calendar - artificial intelligence search",
+   "source": "Berkeley campus calendar - artificial intelligence search",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "Join UC Berkeley's Master of Artificial Intelligence and Machine Learning (MAIML) faculty and admissions team for our final online information session before the January 11, 2027 application deadline. During this one-hour webinar, we will cover:Program &amp; Curriculum: An overview of",
+   "url": "https://events.berkeley.edu/datasci/event/339385-maiml-info-session-webinar-last-before-jan-11-2027",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Admissions webinar."
+  },
+  {
+   "id": 709,
+   "title": "Talking Tech Transfer: Patenting and Licensing IP Fundamentals",
+   "start": "2027-02-04T15:00:00-05:00",
+   "location": "Virtual",
+   "virtual": true,
+   "host": "Berkeley campus calendar - artificial intelligence search",
+   "source": "Berkeley campus calendar - artificial intelligence search",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "Learn more about intellectual property and licensing in a university setting. We will go over different forms of intellectual property and how to protect each one, delve into inventions and patents in more detail, and discuss licensing. Hosted by the",
+   "url": "https://events.berkeley.edu/ipira/event/339371-talking-tech-transfer-patenting-and-licensing-ip-fund",
+   "fit": 1,
+   "topics": [],
+   "why": "Tech-transfer basics webinar."
+  },
+  {
+   "id": 710,
+   "title": "Managing AI Intellectual Property at UC Berkeley",
+   "start": "2027-04-15T15:00:00-04:00",
+   "location": "Zoom",
+   "virtual": true,
+   "host": "Berkeley campus calendar - artificial intelligence search",
+   "source": "Berkeley campus calendar - artificial intelligence search",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "This webinar explores the challenges and opportunities of managing intellectual property for innovations involving artificial intelligence, including practical guidance for Berkeley researchers considering commercialization of their AI innovations. Across campus, AI has proliferated as a tool in research and an",
+   "url": "https://events.berkeley.edu/ipira/event/339368-managing-ai-intellectual-property-at-uc-berkeley",
+   "fit": 2,
+   "topics": [
+    "AI"
+   ],
+   "why": "University AI IP management webinar."
+  }
+ ]
+}

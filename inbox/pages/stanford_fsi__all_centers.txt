@@ -1,6 +1,6 @@
 # Stanford FSI (all centers)
 # https://fsi.stanford.edu/events
-# fetched 2026-11-23T08:18:49.735192-05:00
+# fetched 2026-11-24T09:49:10.325163-05:00
 # tags: bay-area, university
 
 FSI Events
@@ -179,7 +179,7 @@ Register <https://app.smartsheet.com/b/form/019faf0688d3701b9055cca7d1ce7eb6>
 Goldman Room E409, Encina Hall
  Speaker: 
  Emma Xiaolu Zang, Associate Professor of Sociology, Biostatistics, and Global Affairs, Yale University 
- Seminars
+ Book Talks
 Industrial Islamism: How Authoritarian Movements Mobilize Workers <https://fsi.stanford.edu/events/industrial-islamism-how-authoritarian-movements-mobilize-workers>
 Tuesday, January 19, 2027
 12:00 PM - 1:30 PM
@@ -200,6 +200,13 @@ Register Now <https://forms.gle/fZQTRpF1YoCSbcDC6>
  Encina Ground Floor Conference Room E008
 Encina Hall, Ground Floor, East Wing 
 616 Jane Stanford Way, Stanford, CA 94305
+ Seminars
+Tobacco Policy in Asia: Progress and Challenges <https://fsi.stanford.edu/events/tobacco-policy-asia-progress-and-challenges>
+Wednesday, January 20, 2027
+5:00 PM - 6:30 PM
+(Pacific)
+REGISTER TO ATTEND ONLINE <https://stanford.zoom.us/webinar/register/WN_wTzuSChQRWWs4ItOR2ZekA>
+Zoom
  Seminars
 Xiaobo Lü | SCCEI Seminar <https://fsi.stanford.edu/events/xiaobo-lu-sccei-seminar>
 Friday, January 22, 2027
@@ -256,11 +263,4 @@ Friday, April 2, 2027
 Register <https://app.smartsheet.com/b/form/019faf09296b74df9a4ac196c83e701c>
 Goldman Room E409, Encina Hall
  Speaker: 
- Daniel Mattingly, Associate Professor of Political Science at Yale University 
- Seminars
-Student Seminar | April 9, 2027 <https://fsi.stanford.edu/events/student-seminar-april-9-2027>
-Friday, April 9, 2027
-12:00 PM - 1:00 PM
-(Pacific)
-Register <https://app.smartsheet.com/b/form/019fce8bfce37cd288540a7808918cda>
-Goldman Conference Room, Encina Hall, E409
+ Daniel Mattingly, Associate Professor of Political Science at Yale University
