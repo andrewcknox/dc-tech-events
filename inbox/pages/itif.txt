@@ -1,6 +1,6 @@
 # ITIF
 # https://itif.org/events/
-# fetched 2026-11-24T09:49:10.325163-05:00
+# fetched 2026-11-25T09:25:55.394602-05:00
 # tags: think-tank
 
 Events
@@ -39,9 +39,5 @@ China’s Biopharma Rise: How America Should Respond <https://itif.org/events/20
 ITIF hosted an expert panel discussion on Capitol Hill to brief policymakers on the growing competition between the United States and China for global biopharmaceutical leadership. 
 September 24, 2026
 AR/VR Policy Conference 2026 <https://itif.org/events/2026/09/24/arvr-policy-conference-2026/>
-The sixth annual AR/VR Policy Conference presented by 
-Information Technology and Innovation Foundation <https://www.itif.org/>
- (ITIF) and the 
-XR Association <https://xra.org/>
- will take place on Thursday, September 24, 2026 in Washington, DC. 
+The sixth annual AR/VR Policy Conference presented by Information Technology and Innovation Foundation (ITIF) and the XR Association will take place on Thursday, September 24, 2026 in Washington, DC. 
 Browse All Past Events <https://itif.org/events/past/>

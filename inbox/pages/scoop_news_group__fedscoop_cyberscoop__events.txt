@@ -1,6 +1,6 @@
 # Scoop News Group (FedScoop/CyberScoop) events
 # https://cyberscoop.com/attend/
-# fetched 2026-11-24T09:49:10.325163-05:00
+# fetched 2026-11-25T09:25:55.394602-05:00
 # tags: media, industry
 
 Advertisement
@@ -42,10 +42,6 @@ Webinar: Unleashing the Genesis Mission – Human-Machine Teaming in Nuclear Sec
 Nov 18, 2026
 VIRTUAL EVENT
 Watch Again
-AI & IT Modernization Summit <https://itmodernizationsummit.upgather.com>
-Nov 18, 2026
-Virtual Event
-Watch Again
 Webinar: Racing the Exploit Clock <https://horizon3vulnerabilitymanagement.upgather.com>
 Nov 12, 2026
 Virtual Event
@@ -77,5 +73,9 @@ Watch Again
 EMERGE: Modern Government <https://gditmoderngov.upgather.com/>
 Feb 12, 2026
 Waldorf Astoria, Washington, D.C.
+Watch Again
+IT Modernization Summit <https://itmodernizationsummit.upgather.com/2025>
+Dec 11, 2025
+Virtual Event
 Watch Again
 No events found.

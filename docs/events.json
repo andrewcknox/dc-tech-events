@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-24T09:59:43-05:00",
- "today": "2026-11-24",
- "window_start": "2026-11-24",
+ "generated_at": "2026-11-25T09:34:13-05:00",
+ "today": "2026-11-25",
+ "window_start": "2026-11-25",
  "window_days": 14,
  "map_center": [
   38.905,
@@ -11,71 +11,42 @@
  "flagged_sources": [
   {
    "name": "Berkeley Law AI events",
-   "failures": 3
-  },
-  {
-   "name": "Berkeley Law BCLT",
-   "failures": 3
-  },
-  {
-   "name": "Berkeley Risk & Security Lab",
    "failures": 5
   },
   {
+   "name": "Berkeley Law BCLT",
+   "failures": 5
+  },
+  {
+   "name": "Berkeley Risk & Security Lab",
+   "failures": 7
+  },
+  {
    "name": "Hopkins Bloomberg Center",
-   "failures": 4
-  },
-  {
-   "name": "JHU Data Science and AI Institute",
-   "failures": 4
-  },
-  {
-   "name": "JHU Hub Events (SAIS)",
-   "failures": 4
-  },
-  {
-   "name": "JHU Institute for Assured Autonomy (Baltimore)",
-   "failures": 4
-  },
-  {
-   "name": "National Academies",
    "failures": 6
   },
   {
+   "name": "JHU Data Science and AI Institute",
+   "failures": 6
+  },
+  {
+   "name": "JHU Hub Events (SAIS)",
+   "failures": 6
+  },
+  {
+   "name": "JHU Institute for Assured Autonomy (Baltimore)",
+   "failures": 6
+  },
+  {
+   "name": "National Academies",
+   "failures": 8
+  },
+  {
    "name": "SNF Agora Institute (JHU, Baltimore)",
-   "failures": 4
+   "failures": 6
   }
  ],
  "events": [
-  {
-   "id": 43,
-   "title": "Can the United States Win the AI Race if Americans Oppose Data Centers?",
-   "start": "2026-08-26T12:00:00-04:00",
-   "end": null,
-   "host": "ITIF",
-   "source": "Caleb Knapp Weekly AI Digest (Substack)",
-   "location": null,
-   "virtual": true,
-   "url": "https://itif.org/events/2026/08/26/can-the-united-states-win-ai-race-if-americans-oppose-data-centers/",
-   "topics": [
-    "AI",
-    "energy-tech",
-    "industrial-policy"
-   ],
-   "tags": [
-    "substack",
-    "think-tank"
-   ],
-   "fit": 4,
-   "why": "Data-center backlash meets AI competitiveness; central to the midterm-year AI debate.",
-   "description": "",
-   "speakers": [],
-   "lat": null,
-   "lon": null,
-   "in_dc": false,
-   "time": "12:00 PM",
-   "where": "Virtual"
-  },
   {
    "id": 44,
    "title": "AI and Autonomy on the Modern Battlefield",
@@ -6965,6 +6936,32 @@
    "where": "Online (Zoom) (+ virtual)"
   },
   {
+   "id": 740,
+   "title": "Research and Technology Subcommittee Hearing - Innovation at Work: How Artificial Intelligence Is Improving American Lives and Advancing Discovery",
+   "start": "2026-12-01T00:00:00-05:00",
+   "end": null,
+   "host": "House Science Committee",
+   "source": "daily page scan",
+   "location": "Rayburn House Office Building, Washington, DC",
+   "virtual": false,
+   "url": "https://science.house.gov/2026/12/research-and-technology-subcommittee-hearing-innovation-at-work",
+   "topics": [
+    "AI"
+   ],
+   "tags": [
+    "hill"
+   ],
+   "fit": 4,
+   "why": "Congressional AI hearing on the Hill, open to the public and directly relevant to AI policy.",
+   "description": "House Science Research & Technology Subcommittee hearing on how AI is improving American lives and advancing scientific discovery. Time not yet posted.",
+   "speakers": [],
+   "lat": 38.8899,
+   "lon": -77.0091,
+   "in_dc": true,
+   "time": "time TBD",
+   "where": "Rayburn House Office Building, Washington, DC"
+  },
+  {
    "id": 609,
    "title": "Crypto Summit: Washington, D.C.",
    "start": "2026-12-01T08:00:00-05:00",
@@ -7076,6 +7073,33 @@
    "where": "SR-253, Russell Senate Office Building"
   },
   {
+   "id": 729,
+   "title": "Build It, Scale It, Govern It: The Mission-Ready AI Factory | Accenture + Rafay",
+   "start": "2026-12-01T10:00:00-05:00",
+   "end": "2026-12-01T11:30:00-05:00",
+   "host": "NVIDIA GTC DC side events (Luma)",
+   "source": "NVIDIA GTC DC side events (Luma)",
+   "location": "Carr Workplaces The Willard - Coworking & Office Space, 1455 Pennsylvania Ave NW suite 400, Washington, DC 20004, USA",
+   "virtual": false,
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-IGTUtC9M8rJP1tb",
+   "topics": [
+    "AI"
+   ],
+   "tags": [
+    "public",
+    "industry"
+   ],
+   "fit": 3,
+   "why": "GTC DC side session on governing government AI infrastructure, near SAIS.",
+   "description": "Get up-to-date information at: https://luma.com/5fj9vwtz Address: Carr Workplaces The Willard - Coworking & Office Space Washington, DC United States Hosted by Ragan Pape & Liz Bearce",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "10:00 AM–11:30 AM",
+   "where": "Carr Workplaces The Willard - Coworking & Office Space, 1455 Pennsylvania Ave NW suite 400, Washington, DC 20004, USA"
+  },
+  {
    "id": 623,
    "title": "New Portrait of Computer Science Majors in the Age of AI",
    "start": "2026-12-01T12:00:00-05:00",
@@ -7100,6 +7124,34 @@
    "in_dc": false,
    "time": "12:00 PM–1:00 PM",
    "where": "Online (+ virtual)"
+  },
+  {
+   "id": 738,
+   "title": "The Future of Technology and Human Rights",
+   "start": "2026-12-01T13:00:00-05:00",
+   "end": "2026-12-01T14:00:00-05:00",
+   "host": "CSIS",
+   "source": "daily page scan",
+   "location": "CSIS, 1616 Rhode Island Ave NW, Washington, DC",
+   "virtual": true,
+   "url": "https://www.csis.org/events/future-technology-and-human-rights",
+   "topics": [
+    "AI",
+    "trust-and-safety",
+    "data/privacy"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Tech and human-rights governance discussion at a core think tank, easy to stream.",
+   "description": "CSIS Human Rights Initiative conversation on what the future holds for technology and human rights. Webcast.",
+   "speakers": [],
+   "lat": 38.9061,
+   "lon": -77.0378,
+   "in_dc": true,
+   "time": "1:00 PM–2:00 PM",
+   "where": "CSIS, 1616 Rhode Island Ave NW, Washington, DC (+ virtual)"
   },
   {
    "id": 492,
@@ -7299,6 +7351,61 @@
    "where": "The Brookings Institution, 1775 Massachusetts Ave NW, Washington, DC"
   },
   {
+   "id": 741,
+   "title": "Policies to Put Workers First in the AI Era with U.S. Senator Mark Kelly (D-Ariz)",
+   "start": "2026-12-02T09:30:00-05:00",
+   "end": "2026-12-02T11:00:00-05:00",
+   "host": "Georgetown McCourt School",
+   "source": "daily page scan",
+   "location": "Georgetown McCourt School of Public Policy, 125 E St NW, Washington, DC",
+   "virtual": false,
+   "url": "https://events.georgetown.edu/live/events/45523-policies-to-put-workers-first-in-the-ai-era-with-us-se",
+   "topics": [
+    "AI",
+    "industrial-policy"
+   ],
+   "tags": [
+    "university"
+   ],
+   "fit": 4,
+   "why": "A sitting senator on AI labor policy, a short walk from SAIS.",
+   "description": "Senator Mark Kelly on policies to protect and empower workers as AI reshapes the economy.",
+   "speakers": [
+    "Mark Kelly"
+   ],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "9:30 AM–11:00 AM",
+   "where": "Georgetown McCourt School of Public Policy, 125 E St NW, Washington, DC"
+  },
+  {
+   "id": 744,
+   "title": "Joint Hearing: \"Surveillance Without Safeguards: Government Monitoring and the Constitution\"",
+   "start": "2026-12-02T10:00:00-05:00",
+   "end": null,
+   "host": "House Judiciary",
+   "source": "daily page scan",
+   "location": "2141 Rayburn House Office Building, Washington, DC",
+   "virtual": false,
+   "url": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=119621",
+   "topics": [
+    "data/privacy"
+   ],
+   "tags": [
+    "hill"
+   ],
+   "fit": 3,
+   "why": "Surveillance and privacy oversight on the Hill, relevant to data-policy debates.",
+   "description": "Joint hearing of the Judiciary subcommittees on the Constitution and on Crime and Federal Government Surveillance about government monitoring and constitutional safeguards.",
+   "speakers": [],
+   "lat": 38.8899,
+   "lon": -77.0091,
+   "in_dc": true,
+   "time": "10:00 AM",
+   "where": "2141 Rayburn House Office Building, Washington, DC"
+  },
+  {
    "id": 441,
    "title": "Higher Education, Research Investment, and the Public Interest",
    "start": "2026-12-02T09:00:00-08:00",
@@ -7445,6 +7552,33 @@
    "in_dc": false,
    "time": "1:00 PM–2:00 PM",
    "where": "https://luma.com/event/evt-2pUFqzATi6KZvM2"
+  },
+  {
+   "id": 743,
+   "title": "Joint Hearing: \"Defend, Detect, Disclose: Responding to AI-Enabled Cyber Incidents\"",
+   "start": "2026-12-02T13:00:00-05:00",
+   "end": null,
+   "host": "House Oversight and Government Reform",
+   "source": "daily page scan",
+   "location": "2154 Rayburn House Office Building, Washington, DC",
+   "virtual": false,
+   "url": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=119620",
+   "topics": [
+    "AI",
+    "cyber"
+   ],
+   "tags": [
+    "hill"
+   ],
+   "fit": 5,
+   "why": "Open House hearing squarely on AI-enabled cyber threats and incident disclosure.",
+   "description": "Joint hearing of the Oversight Cybersecurity/IT/Government Innovation and Economic Growth/Energy/Regulatory Affairs subcommittees on responding to and disclosing AI-enabled cyber incidents.",
+   "speakers": [],
+   "lat": 38.8899,
+   "lon": -77.0091,
+   "in_dc": true,
+   "time": "1:00 PM",
+   "where": "2154 Rayburn House Office Building, Washington, DC"
   },
   {
    "id": 568,
@@ -8733,6 +8867,36 @@
    "in_dc": false,
    "time": "9:00 AM",
    "where": "Washington, DC"
+  },
+  {
+   "id": 742,
+   "title": "A World Without Secrets: International Politics in an Era of Eroding Secrecy | Erik Lin-Greenberg",
+   "start": "2027-01-26T12:00:00-08:00",
+   "end": "2027-01-26T13:15:00-08:00",
+   "host": "Stanford CISAC",
+   "source": "daily page scan",
+   "location": "William J. Perry Conference Room, Encina Hall, Stanford, CA",
+   "virtual": false,
+   "url": "https://cisac.fsi.stanford.edu/events/world-without-secrets-international-politics-era-eroding-secrecy-erik-lin-greenberg",
+   "topics": [
+    "space",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "fit": 3,
+   "why": "Tech-and-security seminar on OSINT and secrecy for Bay Area tech-policy followers.",
+   "description": "CISAC seminar: how commercial imagery, OSINT and new sensing technologies erode state secrecy and change international politics.",
+   "speakers": [
+    "Erik Lin-Greenberg"
+   ],
+   "lat": 37.4273,
+   "lon": -122.1646,
+   "in_dc": true,
+   "time": "12:00 PM–1:15 PM PT",
+   "where": "William J. Perry Conference Room, Encina Hall, Stanford, CA"
   },
   {
    "id": 115,

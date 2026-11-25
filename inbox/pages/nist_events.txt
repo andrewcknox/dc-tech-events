@@ -1,6 +1,6 @@
 # NIST events
 # https://www.nist.gov/news-events/events/rss.xml
-# fetched 2026-11-24T09:49:10.325163-05:00
+# fetched 2026-11-25T09:25:55.394602-05:00
 # tags: government
 
 ### NICE Webinar - Breaking into Cyber: Gateway Roles and the Skills that Matter
@@ -33,8 +33,8 @@ Link: https://www.nist.gov/news-events/events/2026/12/nist-csf-20-semiconductor-
 Published: Thu, 10 Dec 2026 12:00:00 -0500
 Join the NIST National Cybersecurity Center of Excellence (NCCoE) on December 10, 2026, for a webinar update on the Cybersecurity Framework (CSF) 2.0 Semiconductor Manufacturing Community Profile. In the coming weeks, the NCCoE will release a revised
 
-### NIST OWM Fundamentals of Metrology Seminar (January 2027)
-Link: https://www.nist.gov/news-events/events/2027/01/nist-owm-fundamentals-metrology-seminar-january-2027
+### NIST OWM Fundamentals of Metrology Seminar (Class 2105 January 2027)
+Link: https://www.nist.gov/news-events/events/2027/01/nist-owm-fundamentals-metrology-seminar-class-2105-january-2027
 Published: Mon, 25 Jan 2027 00:00:00 -0500
 The NIST Office of Weights and Measures (OWM) Fundamentals of Metrology seminar is an intensive course that introduces participants to measurement systems, units, good laboratory practices, data integrity, measurement uncertainty, and Quality
 

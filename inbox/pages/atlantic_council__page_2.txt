@@ -1,17 +1,10 @@
 # Atlantic Council (page 2)
 # https://www.atlanticcouncil.org/events/?ac-page=2
-# fetched 2026-11-24T09:49:10.325163-05:00
+# fetched 2026-11-25T09:25:55.394602-05:00
 # tags: think-tank
 
 Upcoming events
 We convene in Washington DC, internationally, and virtually to inspire global engagement and to shape solutions to the defining challenges of our times. Through small, focused events and larger public gatherings, we inform and build connections. Register for upcoming events or subscribe to watch live on YouTube.
-Public Event
- Mon, December 7, 2026 • 3:00 pm ET
- Tomorrow’s fleet: Revitalizing US shipbuilding and the maritime industrial base <https://www.atlanticcouncil.org/event/tomorrows-fleet-revitalizing-us-shipbuilding-and-the-maritime-industrial-base/>
-Defense Industry <https://www.atlanticcouncil.org/issue/defense-industry/>
-Maritime Security <https://www.atlanticcouncil.org/issue/maritime-security/>
-Security & Defense <https://www.atlanticcouncil.org/issue/security-defense/>
-United States and Canada <https://www.atlanticcouncil.org/region/united-states-canada/>
 Public Event
  Thu, December 10, 2026 • 12:30 am ET
  Women in finance: Accelerators of invention <https://www.atlanticcouncil.org/event/women-in-finance-accelerators-of-invention/>
@@ -26,7 +19,8 @@ Digital Policy <https://www.atlanticcouncil.org/issue/digital-policy/>
 Economy & Business <https://www.atlanticcouncil.org/issue/economy-business/>
 Europe & Eurasia <https://www.atlanticcouncil.org/region/europe-eurasia/>
 European Union <https://www.atlanticcouncil.org/region/european-union/>
-Thu, December 17, 2026 • 2:00 pm ET
+Public Event
+ Thu, December 17, 2026 • 2:00 pm ET
  General Adrian Spain on regaining air superiority in a contested era <https://www.atlanticcouncil.org/event/general-adrian-spain-on-regaining-air-superiority-in-a-contested-era/>
 Security & Defense <https://www.atlanticcouncil.org/issue/security-defense/>
 United States and Canada <https://www.atlanticcouncil.org/region/united-states-canada/>

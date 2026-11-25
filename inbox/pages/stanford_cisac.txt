@@ -1,6 +1,6 @@
 # Stanford CISAC
 # https://cisac.fsi.stanford.edu/events
-# fetched 2026-11-24T09:49:10.325163-05:00
+# fetched 2026-11-25T09:25:55.394602-05:00
 # tags: bay-area, university
 
 CISAC Events
@@ -15,7 +15,7 @@ Emerging Technologies and Strategic Stability <https://cisac.fsi.stanford.edu/ev
 Tuesday, December 1, 2026
 12:00 PM - 1:30 PM
 (Pacific)
-Register to attend in person or online <https://stanforduniversity.qualtrics.com/jfe/form/SV_1AGtmzjAXgiun9I>
+Register to attend online <https://stanford.zoom.us/webinar/register/WN_nNsA1DA4Qde9Pue8clSTnQ>
 William J. Perry Conference Room
  Speaker: 
 Harold Trinkunas <https://cisac.fsi.stanford.edu/people/harold-trinkunas>
@@ -41,3 +41,20 @@ Tuesday, January 5, 2027
 (Pacific)
 Register to attend in person <https://stanforduniversity.qualtrics.com/jfe/form/SV_07nmBdJS2u13LOm>
 William J. Perry Conference Room
+ Seminars
+A World Without Secrets: International Politics in an Era of Eroding Secrecy | Erik Lin-Greenberg <https://cisac.fsi.stanford.edu/events/world-without-secrets-international-politics-era-eroding-secrecy-erik-lin-greenberg>
+Tuesday, January 26, 2027
+12:00 PM - 1:15 PM
+(Pacific)
+Register to attend in person <https://stanforduniversity.qualtrics.com/jfe/form/SV_5zF3hmsqoNt7BaK>
+William J. Perry Conference Room
+ Seminars
+Asymmetric Deterrence in Contemporary Middle East Conflicts: From October 7 to Epic Fury and Beyond | Daniel Sobelman <https://cisac.fsi.stanford.edu/events/asymmetric-deterrence-contemporary-middle-east-conflicts-october-7-epic-fury-and-beyond>
+Tuesday, February 9, 2027
+12:00 PM - 1:15 PM
+(Pacific)
+Register to attend in person <https://stanforduniversity.qualtrics.com/jfe/form/SV_2i3vVwsdBRc8Shg>
+Register to attend online <https://stanford.zoom.us/webinar/register/WN_eiAwi-xITDe8GXiyY9LclA>
+William J. Perry Conference Room
+ Speaker: 
+ Daniel Sobelman

@@ -1,24 +1,31 @@
 # CSIS
 # https://www.csis.org/events
-# fetched 2026-11-24T09:49:10.325163-05:00
+# fetched 2026-11-25T09:25:55.394602-05:00
 # tags: think-tank
 
 Events
 CSIS organizes & hosts a variety of international relations & policy events featuring expert speakers. Register for live events, webinars, series & conferences.
  Next Up
 Webcast
-The UN is Due for a Reboot <https://www.csis.org/events/un-due-reboot>
+Energy Shots | Energy Cornucopia: 2026's Biggest Stories <https://www.csis.org/events/energy-shots-energy-cornucopia-2026s-biggest-stories>
 Presented by
-Global Development <https://www.csis.org/global-development>
-November 24, 2026 • 9:15 – 10:00 am EST
+Energy Security and Climate Change Program <https://www.csis.org/programs/energy-security-and-climate-change-program>
+November 25, 2026 • 3:00 – 3:45 pm EST
  Upcoming Events
 Image
-Photo: CSIS
-Energy Shots | Energy Cornucopia: 2026's Biggest Stories <https://www.csis.org/index%2ephp/events/energy-shots-energy-cornucopia-2026s-biggest-stories>
-November 25, 2026 • 3:00 – 4:00 pm EST
+Photo: LLUIS GENE/AFP/Getty Images
+The Future of Technology and Human Rights <https://www.csis.org/events/future-technology-and-human-rights>
+December 1, 2026 • 1:00 – 2:00 pm EST
 Webcast
  Hosted by 
-Energy Security and Climate Change Program
+Human Rights Initiative
+Image
+Photo: CDC
+Director Erica Schwartz’s Vision for the CDC <https://www.csis.org/events/director-erica-schwartzs-vision-cdc>
+December 2, 2026 • 4:30 – 5:15 pm EST
+Webcast
+ Hosted by 
+The CSIS Bipartisan Alliance for Global Health Security
 Image
 Photo: U.S. Navy photo/DVIDS
 The Strategist: How to Think About War and Politics <https://www.csis.org/events/strategist-how-think-about-war-and-politics>
@@ -29,6 +36,12 @@ Arleigh A. Burke Chair in Strategy
 See all upcoming events <https://www.csis.org/events?f%5B0%5D=event_type%3A3004&f%5B1%5D=event_type%3A3005&f%5B2%5D=event_type%3A3012>
  Recent Events
 Image
+Photo: CSIS
+The UN is Due for a Reboot <https://www.csis.org/events/un-due-reboot>
+November 24, 2026 • 9:15 – 10:00 am EST
+ Hosted by 
+Global Development
+Image
 Photo: Ramiz Dallah/Anadolu/Getty Images
 Restoring State Sovereignty in Lebanon: Progress, Challenges, and the Road Ahead <https://www.csis.org/events/restoring-state-sovereignty-lebanon-progress-challenges-and-road-ahead>
 November 23, 2026 • 9:00 – 10:00 am EST
@@ -36,7 +49,7 @@ November 23, 2026 • 9:00 – 10:00 am EST
 Middle East Program
 Image
 Photo: Narumon Bowonkitwanchai/GETTY IMAGES
-Understanding the Memory Chip Crunch & the Way Ahead <https://www.csis.org/index%2ephp/events/understanding-memory-chip-crunch-way-ahead>
+Understanding the Memory Chip Crunch & the Way Ahead <https://www.csis.org/events/understanding-memory-chip-crunch-way-ahead>
 November 20, 2026 • 10:00 – 11:00 am EST
  Hosted by 
 Strategic Technologies Program
@@ -66,22 +79,16 @@ November 19, 2026 • 8:45 – 9:30 am EST
 Korea Chair
 Image
 Photo: CSIS
-Global Collaboration to Eliminate Cervical Cancer <https://www.csis.org/events/global-collaboration-eliminate-cervical-cancer>
+Global Collaboration to Eliminate Cervical Cancer <https://www.csis.org/index%2ephp/events/global-collaboration-eliminate-cervical-cancer>
 November 18, 2026 • 4:00 – 5:00 pm EST
  Hosted by 
 Global Development
-Image
-Photo: CSIS
-Peace Through Strength: A Book Talk with Roger Zakheim <https://www.csis.org/events/peace-through-strength-book-talk-roger-zakheim>
-November 18, 2026 • 12:00 – 1:00 pm EST
- Hosted by 
-Aerospace Security Project
 See all past events <https://www.csis.org/events?past_events=1>
 Upcoming Events <https://www.csis.org/events?upcoming_events=1>
 Past Events <https://www.csis.org/events?past_events=1>
 Filter by
 Event
- (3) <https://www.csis.org/events?f%5B0%5D=event_type%3A3012>
+ (4) <https://www.csis.org/events?f%5B0%5D=event_type%3A3012>
 Europe
  (1) <https://www.csis.org/events?f%5B0%5D=regions%3A787>
 Middle East
@@ -100,8 +107,16 @@ Energy Innovation
  (1) <https://www.csis.org/events?f%5B0%5D=topics%3A836>
 Energy Markets, Trends, and Outlooks
  (1) <https://www.csis.org/events?f%5B0%5D=topics%3A835>
-International Development
- (1) <https://www.csis.org/events?f%5B0%5D=topics%3A818>
+Global Health
+ (1) <https://www.csis.org/events?f%5B0%5D=topics%3A820>
+Health and Security
+ (1) <https://www.csis.org/events?f%5B0%5D=topics%3A840>
+Human Rights
+ (1) <https://www.csis.org/events?f%5B0%5D=topics%3A821>
+Multilateral Health Institutions
+ (1) <https://www.csis.org/events?f%5B0%5D=topics%3A841>
+Technology
+ (1) <https://www.csis.org/events?f%5B0%5D=topics%3A822>
 2026 <https://www.csis.org/events?f%5B0%5D=event_dates%3A2026>
 2027 <https://www.csis.org/events?f%5B0%5D=event_dates%3A2027>
 Defense and Security
@@ -109,16 +124,20 @@ Defense and Security
 Economic Security and Technology
  (1) <https://www.csis.org/events?f%5B0%5D=department%3AEconomic%20Security%20and%20Technology>
 Global Development
- (1) <https://www.csis.org/events?f%5B0%5D=department%3AGlobal%20Development>
+ (2) <https://www.csis.org/events?f%5B0%5D=department%3AGlobal%20Development>
  Display Archived Results
-The UN is Due for a Reboot <https://www.csis.org/events/un-due-reboot>
-Enoh T. Ebong and Heba Aly discuss efforts to update the UN Charter for more equitable and efficiant global governance. 
- Event
-— November 24, 2026
 Energy Shots | Energy Cornucopia: 2026's Biggest Stories <https://www.csis.org/events/energy-shots-energy-cornucopia-2026s-biggest-stories>
 This biweekly video series, hosted by Joseph Majkut and Kevin Book, delivers clear insights, visuals, and straight talk on the latest energy trends.
  Event
 — November 25, 2026
+The Future of Technology and Human Rights <https://www.csis.org/events/future-technology-and-human-rights>
+Join the Human Rights Initiative for a conversation on what the future holds for technology and human rights. 
+ Event
+— December 1, 2026
+Director Erica Schwartz’s Vision for the CDC <https://www.csis.org/events/director-erica-schwartzs-vision-cdc>
+Dr. Schwartz will discuss her strategy for dealing with the core challenges before the agency, including measles outbreaks, biosurveillance gaps, global surge capability, and damaged trust.
+ Event
+— December 2, 2026
 The Strategist: How to Think About War and Politics <https://www.csis.org/events/strategist-how-think-about-war-and-politics>
 Dr. Eliot Cohen discusses his latest book, The Strategist: How to Think About War and Politics, with General David Petraeus (Ret.).
  Event

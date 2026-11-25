@@ -1,7 +1,12 @@
 # House Science Committee
 # https://science.house.gov/?a=rss.feed
-# fetched 2026-11-24T09:49:10.325163-05:00
+# fetched 2026-11-25T09:25:55.394602-05:00
 # tags: hill
+
+### Research and Technology Subcommittee Hearing - Innovation at Work: How Artificial Intelligence Is Improving American Lives and Advancing Discovery
+Link: https://science.house.gov/2026/12/research-and-technology-subcommittee-hearing-innovation-at-work
+Published: Tue, 335 Dec 2026 02:00:00 EST
+
 
 ### Full Committee Hearing - Weathering the Solar Storm: Advancing America’s Space Weather Capabilities
 Link: https://science.house.gov/2026/11/weathering-the-solar-storm-advancing-america-s-space-weather-capabilities
@@ -327,8 +332,3 @@ The Members ask GAO to assess GeoXO’s cost, schedule, performance, data contin
 To read the full letter, please click 
 here <https://urldefense.com/v3/__https:/cieufo5ab.cc.rs6.net/tn.jsp?f=001lPOq3YH1CPVnH1AdMMlTpSrX181SXCW4sQgy8p37FN8TnIy19ABSvAAsBmbQIoyMTf3LvMEfVamFKoQXxjLmejBFvTSJR3QOs2kvCfB5ePrdtdPfneOXk5l-Qi6rX0ebP61mh5xLuCHiH4II6D51TK_iZn7rkSOxAo5rEJ1ZwfARDLw97AsGJCjae1uCLjC_r6gQDGzUbtiBtS12MWvnX4wUk3VJW0kvm6tguW6q-iV7aisLpJX13U-0gPOoSNxuBZM0ZM3lG_C2FKmjh7ZHzk-QQrBEukr95hAmoktbZTW6bD-b0hGhCFBXw1jZ2tw5mmYKRYvXHNiDlZZI0_clz4XqKumZJ3U9sYpXEE7UWa9nDSFIW1PPp0rUvRoE_rBZNU_AeUu44Dg=&c=7y7zJGFKwU5LCc8kawi_wAjvG0pO7MAL60kSihtVGsXyFd4seklTBA==&ch=D1ISNdG6yk3NF-J6qbCVKqjjc7TIv75UpwuV9sfr4SNb4yG4URsTXA==__;!!BSgrhSFG!CdAj3EAoEihNnIeQ_VGZ2WARxaJjRkv8Xr_o10GDVsGxhBJgIge587e49i7ztft8RK0HcBP4dMIj2OyKxXDaLh_s9N1iUi_AtVp5r8wTtIn4BQ$>
 .
-
-### Full Committee Hearing - Unleashing the Golden Age of Science: Examining the Priorities of the FY2027 Research and Technology Enterprise
-Link: https://science.house.gov/2026/7/full-committee-hearing-unleashing-golden-age-science-ostp-research-enterprise-priorities-fy27
-Published: Wed, 203 Jul 2026 10:15:00 EST
-

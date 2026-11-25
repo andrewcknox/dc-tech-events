@@ -1,6 +1,6 @@
 # New America
 # https://www.newamerica.org/events/
-# fetched 2026-11-24T09:49:10.325163-05:00
+# fetched 2026-11-25T09:25:55.394602-05:00
 # tags: think-tank
 
 New Portrait of Computer Science Majors in the Age of AI <https://www.newamerica.org/events/new-portrait-of-computer-science-majors-in-the-age-of-ai/>

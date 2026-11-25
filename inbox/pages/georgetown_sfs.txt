@@ -1,6 +1,6 @@
 # Georgetown SFS
 # https://sfs.georgetown.edu/events-news/
-# fetched 2026-11-24T09:49:10.325163-05:00
+# fetched 2026-11-25T09:25:55.394602-05:00
 # tags: university, georgetown
 
 News & Events
@@ -12,6 +12,22 @@ Browse events <https://events.georgetown.edu/sfs/>
 Latest news
 Discover the latest news stories and updates from the School of Foreign Service.
 View all news <https://sfs.georgetown.edu/news>
+Alumni <https://sfs.georgetown.edu/category/alumni/>
+, 
+News <https://sfs.georgetown.edu/category/news/>
+Bridging disciplines and shaping security: Helen Toner’s (SSP’21) journey from engineering to AI policy
+November 24, 2026
+What do chemical engineering, Arabic language studies and artificial intelligence all have in common? For Helen Toner (SSP ’21), they are all parts of the journey that led her to…
+Read more <https://sfs.georgetown.edu/news/bridging-disciplines-and-shaping-security-helen-toners-ssp21-journey-from-engineering-to-ai-policy/>
+News <https://sfs.georgetown.edu/category/news/>
+, 
+Research <https://sfs.georgetown.edu/category/research/>
+, 
+Students <https://sfs.georgetown.edu/category/students/>
+Grace Liu (SFS’27) and Amrita Sivaram (GHD’28) contribute to research and advocacy on global children’s issues
+November 20, 2026
+Grace Liu and Amrita Sivaram contribute to research on child labor policy and family separation with the Collaborative on Global Children’s Issues.
+Read more <https://sfs.georgetown.edu/news/grace-liu-sfs27-and-amrita-sivaram-ghd28-contribute-to-research-and-advocacy-on-global-childrens-issues/>
 Announcements <https://sfs.georgetown.edu/category/announcements/>
 , 
 News <https://sfs.georgetown.edu/category/news/>
@@ -33,32 +49,8 @@ SFS celebrates student veterans
 November 11, 2026
 SFS honors student veterans Alexander McCaffrey, Jena Price and Dan Heinrich who bring their insights and experience from service into the classroom.
 Read more <https://sfs.georgetown.edu/news/sfs-celebrates-student-veterans/>
-Alumni <https://sfs.georgetown.edu/category/alumni/>
-, 
-News <https://sfs.georgetown.edu/category/news/>
-, 
-Students <https://sfs.georgetown.edu/category/students/>
-How SFS graduates navigate a shifting global job market
-November 5, 2026
-SFS graduate programs prepare leaders for global challenges. Explore career outcomes, alumni stories and lifelong support from the SFS Career Center.
-Read more <https://sfs.georgetown.edu/news/how-sfs-graduates-navigate-a-shifting-global-job-market/>
-News <https://sfs.georgetown.edu/category/news/>
-, 
-Students <https://sfs.georgetown.edu/category/students/>
-Georgetown launches new undergraduate semester abroad in Jakarta
-November 3, 2026
-Georgetown launches its new undergraduate Semester in Jakarta study abroad program, focused on geopolitics, development and sustainability in Indonesia.
-Read more <https://sfs.georgetown.edu/news/georgetown-launches-new-undergraduate-semester-abroad-in-jakarta/>
 Upcoming events 
 View all upcoming events <https://events.georgetown.edu/sfs>
-Nov
-20
-AI in the Real World: What are Governments Actually Doing, with Lord Simon Case, former U.K. Cabinet Secretary and top adviser to prime ministers
-125 E St NW
-4:00pm
- – 
-6:30pm
-View Event <https://events.georgetown.edu/live/events/44026-ai-in-the-real-world-what-are-governments-actually-doi>
 Dec
 1
 Sixth Annual AI in Action Conference: Who Does What? AI, Trade, and Work
@@ -67,6 +59,14 @@ Fisher Colloquium
  – 
 5:30pm
 View Event <https://events.georgetown.edu/live/events/43110-sixth-annual-ai-in-action-conference-who-does-what>
+Dec
+2
+Policies to Put Workers First in the AI Era with U.S. Senator Mark Kelly (D-Ariz)
+McCourt School of Public Policy
+9:30am
+ – 
+11:00am
+View Event <https://events.georgetown.edu/live/events/45523-policies-to-put-workers-first-in-the-ai-era-with-us-se>
 Dec
 2
 The Quest for Democracy in Saudi Arabia: A Controversy in the Making?

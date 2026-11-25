@@ -1,6 +1,6 @@
 # Stanford FSI (all centers)
 # https://fsi.stanford.edu/events
-# fetched 2026-11-24T09:49:10.325163-05:00
+# fetched 2026-11-25T09:25:55.394602-05:00
 # tags: bay-area, university
 
 FSI Events
@@ -43,7 +43,7 @@ Emerging Technologies and Strategic Stability <https://fsi.stanford.edu/events/e
 Tuesday, December 1, 2026
 12:00 PM - 1:30 PM
 (Pacific)
-Register to attend in person or online <https://stanforduniversity.qualtrics.com/jfe/form/SV_1AGtmzjAXgiun9I>
+Register to attend online <https://stanford.zoom.us/webinar/register/WN_nNsA1DA4Qde9Pue8clSTnQ>
 William J. Perry Conference Room
  Speaker: 
 Harold Trinkunas <https://fsi.stanford.edu/people/harold-trinkunas>
@@ -162,6 +162,7 @@ Friday, December 11, 2026
 (Pacific)
 Register <https://app.smartsheet.com/b/form/019fce8bfe6e7e0d90c49e5e1769cb8d>
 Goldman Conference Room, Encina Hall, E409
+This event is only open to those with an active Stanford ID
  Speaker: 
  Victoria Liu, PhD student, Stanford University 
 Convenient Morality: Public Opinion on Wartime Conduct | Nivedita Jhunjhunwala <https://fsi.stanford.edu/events/convenient-morality-public-opinion-wartime-conduct-nivedita-jhunjhunwala>
@@ -217,12 +218,30 @@ Goldman Room E409, Encina Hall
  Speaker: 
  Xiaobo Lü, Associate Professor of Political Science, University of California, Berkeley 
  Seminars
+A World Without Secrets: International Politics in an Era of Eroding Secrecy | Erik Lin-Greenberg <https://fsi.stanford.edu/events/world-without-secrets-international-politics-era-eroding-secrecy-erik-lin-greenberg>
+Tuesday, January 26, 2027
+12:00 PM - 1:15 PM
+(Pacific)
+Register to attend in person <https://stanforduniversity.qualtrics.com/jfe/form/SV_5zF3hmsqoNt7BaK>
+William J. Perry Conference Room
+ Seminars
 Student Seminar | January 29, 2027 <https://fsi.stanford.edu/events/student-seminar-january-29-2027>
 Friday, January 29, 2027
 12:00 PM - 1:00 PM
 (Pacific)
 Register <https://app.smartsheet.com/b/form/019fce8c05f677beb865fb5b9271bcb0>
 Goldman Conference Room, Encina Hall, E409
+This event is only open to those with an active Stanford ID
+ Seminars
+Asymmetric Deterrence in Contemporary Middle East Conflicts: From October 7 to Epic Fury and Beyond | Daniel Sobelman <https://fsi.stanford.edu/events/asymmetric-deterrence-contemporary-middle-east-conflicts-october-7-epic-fury-and-beyond>
+Tuesday, February 9, 2027
+12:00 PM - 1:15 PM
+(Pacific)
+Register to attend in person <https://stanforduniversity.qualtrics.com/jfe/form/SV_2i3vVwsdBRc8Shg>
+Register to attend online <https://stanford.zoom.us/webinar/register/WN_eiAwi-xITDe8GXiyY9LclA>
+William J. Perry Conference Room
+ Speaker: 
+ Daniel Sobelman 
  Seminars
 Student Seminar | February 12, 2027 <https://fsi.stanford.edu/events/student-seminar-february-12-2027>
 Friday, February 12, 2027
@@ -230,6 +249,7 @@ Friday, February 12, 2027
 (Pacific)
 Register <https://app.smartsheet.com/b/form/019fce8bf1c27656b94b29e699f3f936>
 Goldman Conference Room, Encina Hall, E409
+This event is only open to those with an active Stanford ID
  Seminars
 Nan Jia | Shielding or Stifling? How Restrictions on Foreign Acquisitions Shape Entrepreneurial Innovation in the U.S. <https://fsi.stanford.edu/events/nan-jia-shielding-or-stifling-how-restrictions-foreign-acquisitions-shape-entrepreneurial>
 Friday, February 19, 2027
@@ -246,21 +266,4 @@ Friday, March 5, 2027
 (Pacific)
 Register <https://app.smartsheet.com/b/form/019fce8bf31d7dad967415018e817961>
 Goldman Conference Room, Encina Hall, E409
- Seminars
-Han Zhang | SCCEI Seminar <https://fsi.stanford.edu/events/han-zhang-sccei-seminar>
-Friday, March 12, 2027
-12:00 PM - 1:20 PM
-(Pacific)
-Register <https://app.smartsheet.com/b/form/01a18498d96f77ddbbd57b4b530d55c2>
-Goldman Room E409, Encina Hall
- Speaker: 
- Han Zhang, Assistant Professor of Sociology and International and Public Affairs, Brown University 
- Seminars
-Daniel Mattingly | SCCEI Seminar <https://fsi.stanford.edu/events/daniel-mattingly-sccei-seminar>
-Friday, April 2, 2027
-12:00 PM - 1:20 PM
-(Pacific)
-Register <https://app.smartsheet.com/b/form/019faf09296b74df9a4ac196c83e701c>
-Goldman Room E409, Encina Hall
- Speaker: 
- Daniel Mattingly, Associate Professor of Political Science at Yale University
+This event is only open to those with an active Stanford ID

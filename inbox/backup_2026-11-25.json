@@ -1,0 +1,49 @@
+{
+ "source": "Caleb Knapp substack",
+ "backup": true,
+ "tags": [
+  "substack"
+ ],
+ "events": [
+  {
+   "title": "Sacred Intelligence with Fr. Ambrose Little",
+   "start": "2026-11-23 18:30",
+   "end": "2026-11-23 21:00",
+   "location": "2323 N Randolph St, Arlington, VA",
+   "virtual": false,
+   "url": "https://luma.com/dcjho3ix",
+   "host": "The David Network",
+   "description": "Evening talk on faith and artificial intelligence with Fr. Ambrose Little.",
+   "speakers": [
+    "Ambrose Little"
+   ],
+   "topics": [
+    "AI"
+   ],
+   "fit": 2,
+   "why": "AI ethics talk from a faith perspective; light on policy.",
+   "tags": [
+    "public"
+   ]
+  },
+  {
+   "title": "Defense Tech DC 021",
+   "start": "2026-11-24 17:30",
+   "end": "2026-11-24 19:30",
+   "location": null,
+   "virtual": false,
+   "url": "https://luma.com/dtdc021",
+   "host": "Defense Tech DC",
+   "description": "Monthly Defense Tech DC community meetup.",
+   "speakers": [],
+   "topics": [
+    "tech-geopolitics"
+   ],
+   "fit": 3,
+   "why": "DC defense-tech community networking.",
+   "tags": [
+    "public"
+   ]
+  }
+ ]
+}

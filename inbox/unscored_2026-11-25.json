@@ -1,0 +1,260 @@
+{
+ "instructions": "Fill fit (1-5), topics (from the DAILY.md list) and why for each event; add tags (e.g. bay-area) if needed; then `uv run dte score apply <this file>`. Leave fit null to skip.",
+ "events": [
+  {
+   "id": 727,
+   "title": "Overcoming the Unexpected: How NATO and the EU can adapt to new realities and preserve Ukraine's freedom",
+   "start": "2026-11-30T12:30:00-05:00",
+   "location": "Elliott School of International Affairs, Voesar Conference Room, 4th Floor",
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [
+    "university",
+    "gwu"
+   ],
+   "description": "Students from Stimson Center Senior Fellow and GW PSC Professor Andrew Hyde’s short-term study-abroad course will present findings from their intensive interviews and discussions with officials from the EU, NATO, and other transatlantic institutions ahead of their upcoming report on",
+   "url": "https://calendar.gwu.edu/event/overcoming-the-unexpected-how-nato-and-the-eu-can-adapt-to-new-realities-and-preserve-ukraines-freedom",
+   "fit": 2,
+   "topics": [
+    "EU"
+   ],
+   "why": "Student presentations on NATO/EU and Ukraine; not tech."
+  },
+  {
+   "id": 728,
+   "title": "An Evening above Washington D.C. hosted by Netris & Rafay | GTC DC",
+   "start": "2026-11-30T19:00:00-05:00",
+   "location": "https://luma.com/event/evt-iqOQWFyvlvIwwuf",
+   "virtual": false,
+   "host": "NVIDIA GTC DC side events (Luma)",
+   "source": "NVIDIA GTC DC side events (Luma)",
+   "tags": [
+    "public",
+    "industry"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/zkhfakhz Address: Check event page for more details. Hosted by Netris, Liz Bearce & Ragan Pape",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-IGTUtC9M8rJP1tb",
+   "fit": 2,
+   "topics": [
+    "AI"
+   ],
+   "why": "GTC DC networking reception; industry, little policy."
+  },
+  {
+   "id": 729,
+   "title": "Build It, Scale It, Govern It: The Mission-Ready AI Factory | Accenture + Rafay",
+   "start": "2026-12-01T10:00:00-05:00",
+   "location": "Carr Workplaces The Willard - Coworking & Office Space, 1455 Pennsylvania Ave NW suite 400, Washington, DC 20004, USA",
+   "virtual": false,
+   "host": "NVIDIA GTC DC side events (Luma)",
+   "source": "NVIDIA GTC DC side events (Luma)",
+   "tags": [
+    "public",
+    "industry"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/5fj9vwtz Address: Carr Workplaces The Willard - Coworking & Office Space Washington, DC United States Hosted by Ragan Pape & Liz Bearce",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-IGTUtC9M8rJP1tb",
+   "fit": 3,
+   "topics": [
+    "AI"
+   ],
+   "why": "GTC DC side session on governing government AI infrastructure, near SAIS."
+  },
+  {
+   "id": 730,
+   "title": "Executive Reception Washington D.C. hosted by Netris | GTC DC",
+   "start": "2026-12-01T19:00:00-05:00",
+   "location": "https://luma.com/event/evt-imwi1uOdDE0hgdF",
+   "virtual": false,
+   "host": "NVIDIA GTC DC side events (Luma)",
+   "source": "NVIDIA GTC DC side events (Luma)",
+   "tags": [
+    "public",
+    "industry"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/5wuf4v9l Address: Check event page for more details. Hosted by Netris",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-IGTUtC9M8rJP1tb",
+   "fit": 2,
+   "topics": [
+    "AI"
+   ],
+   "why": "GTC DC executive reception; networking only."
+  },
+  {
+   "id": 734,
+   "title": "Film Screening | My Father and Qaddafi",
+   "start": "2026-12-01T20:00:00-05:00",
+   "location": "2150 Allston Way, Suite 100, Berkeley",
+   "virtual": false,
+   "host": "Berkeley Institute of International Studies",
+   "source": "Berkeley Institute of International Studies",
+   "tags": [
+    "bay-area",
+    "university"
+   ],
+   "description": "My Father and Qaddafi Film Screening and Director Q&amp;ADate and time of event: Tuesday, December 1, 5:00 PMEvent location: Richard &amp; Rhoda Goldman Theater • David Brower Center • 2150 Allston Way, Suite 100 • BerkeleyThe Center for Middle Eastern",
+   "url": "https://events.berkeley.edu/live/events/337785-film-screening-my-father-and-qaddafi",
+   "fit": 1,
+   "topics": [],
+   "why": "Film screening, not tech policy."
+  },
+  {
+   "id": 726,
+   "title": "GFI End-of-Semester Celebration in collaboration with ITAL 2600: Italian Foodways",
+   "start": "2026-12-07T00:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [
+    "university",
+    "gwu"
+   ],
+   "description": "Celebrate the end of the semester with the Global Food Institute and ITAL 2600: Italian Foodways! Watch Chef Jarrod Himes prepare a live Risotto alla Milanese demo. Then stay for a conversation about Italian Foodways. 📅 Monday, December 7, 2026",
+   "url": "https://calendar.gwu.edu/event/gfi-end-of-semester-celebration-in-collaboration-with-ital-2600-italian-foodways",
+   "fit": 1,
+   "topics": [],
+   "why": "Food event, not tech."
+  },
+  {
+   "id": 725,
+   "title": "Elliott School: MA in International Affairs Information Session",
+   "start": "2026-12-10T12:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "GW Elliott School",
+   "source": "GW Elliott School",
+   "tags": [
+    "university",
+    "gwu"
+   ],
+   "description": "Join our program directors to explore the MA in International Affairs—get an inside look at the program, learn about the admissions process, and discover how an Elliott School degree can help shape your future. Register HERE",
+   "url": "https://calendar.gwu.edu/event/elliott-school-ma-in-international-affairs-information-session",
+   "fit": 1,
+   "topics": [],
+   "why": "Admissions info session."
+  },
+  {
+   "id": 735,
+   "title": "AI Horizons After Party",
+   "start": "2026-12-13T22:00:00-05:00",
+   "location": "Mox, 1680 Mission St, San Francisco, CA 94103, USA",
+   "virtual": false,
+   "host": "Mox SF (Luma)",
+   "source": "Mox SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/mox-ecvj Address: Mox San Francisco, CA United States Hosted by Leilani Bellamy",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-nfkEvDFat3zN1fe",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "SF party."
+  },
+  {
+   "id": 736,
+   "title": "Mox Holiday Party",
+   "start": "2026-12-17T22:00:00-05:00",
+   "location": "Mox, 1680 Mission St, San Francisco, CA 94103, USA",
+   "virtual": false,
+   "host": "Mox SF (Luma)",
+   "source": "Mox SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/mox-ori1 Address: Mox San Francisco, CA United States Hosted by Leilani Bellamy",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-nfkEvDFat3zN1fe",
+   "fit": 1,
+   "topics": [],
+   "why": "SF holiday party."
+  },
+  {
+   "id": 731,
+   "title": "Canada AI Safety - January Meetup!",
+   "start": "2027-01-06T19:00:00-05:00",
+   "location": "https://luma.com/event/evt-lTouKNfWAAcX4Mr",
+   "virtual": false,
+   "host": "BlueDot Impact (Luma)",
+   "source": "BlueDot Impact (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/ehxg74ha Hosted by Cinthia Nemoto, Mmachukwu Osisioma & BlueDot Impact",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Canadian AI-safety meetup, not DC."
+  },
+  {
+   "id": 737,
+   "title": "Venue Placeholder – Spaceship (Jan 13) – Gero Longevity Event (JPM week) - Members Only - Members Only",
+   "start": "2027-01-13T21:00:00-05:00",
+   "location": "Frontier Tower @ Spaceship 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/venue-placeholder-spaceship-jan-13-gero- Address: Frontier Tower @ Spaceship 995 Market Street, San Francisco Hosted by Xenofon",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [
+    "biotech"
+   ],
+   "why": "Members-only placeholder."
+  },
+  {
+   "id": 732,
+   "title": "Canada AI Safety - February Meetup!",
+   "start": "2027-02-03T19:00:00-05:00",
+   "location": "https://luma.com/event/evt-jOdacShTgOSwxsq",
+   "virtual": false,
+   "host": "BlueDot Impact (Luma)",
+   "source": "BlueDot Impact (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/ljvdr71n Hosted by Cinthia Nemoto, Mmachukwu Osisioma & BlueDot Impact",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Canadian AI-safety meetup, not DC."
+  },
+  {
+   "id": 733,
+   "title": "Canada AI Safety - March Meetup!",
+   "start": "2027-03-03T19:00:00-05:00",
+   "location": "https://luma.com/event/evt-Ps4Dq3qtHy92OuX",
+   "virtual": false,
+   "host": "BlueDot Impact (Luma)",
+   "source": "BlueDot Impact (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/wn1asu6y Hosted by Cinthia Nemoto, Mmachukwu Osisioma & BlueDot Impact",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Canadian AI-safety meetup, not DC."
+  }
+ ]
+}

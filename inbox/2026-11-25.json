@@ -1,0 +1,190 @@
+{
+ "source": "daily page scan",
+ "tags": [],
+ "events": [
+  {
+   "title": "The Future of Technology and Human Rights",
+   "start": "2026-12-01 13:00",
+   "end": "2026-12-01 14:00",
+   "location": "CSIS, 1616 Rhode Island Ave NW, Washington, DC",
+   "virtual": true,
+   "url": "https://www.csis.org/events/future-technology-and-human-rights",
+   "host": "CSIS",
+   "description": "CSIS Human Rights Initiative conversation on what the future holds for technology and human rights. Webcast.",
+   "speakers": [],
+   "topics": [
+    "AI",
+    "trust-and-safety",
+    "data/privacy"
+   ],
+   "fit": 3,
+   "why": "Tech and human-rights governance discussion at a core think tank, easy to stream.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Director Erica Schwartz's Vision for the CDC",
+   "start": "2026-12-02 16:30",
+   "end": "2026-12-02 17:15",
+   "location": "CSIS, 1616 Rhode Island Ave NW, Washington, DC",
+   "virtual": true,
+   "url": "https://www.csis.org/events/director-erica-schwartzs-vision-cdc",
+   "host": "CSIS",
+   "description": "CDC Director Erica Schwartz on agency strategy: measles outbreaks, biosurveillance gaps, global surge capability and trust. CSIS Bipartisan Alliance for Global Health Security.",
+   "speakers": [
+    "Erica Schwartz"
+   ],
+   "topics": [
+    "biotech"
+   ],
+   "fit": 2,
+   "why": "Biosurveillance is tangential to ETI's biotech-security interest; mostly public health.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "Research and Technology Subcommittee Hearing - Innovation at Work: How Artificial Intelligence Is Improving American Lives and Advancing Discovery",
+   "start": "2026-12-01",
+   "end": null,
+   "location": "Rayburn House Office Building, Washington, DC",
+   "virtual": false,
+   "url": "https://science.house.gov/2026/12/research-and-technology-subcommittee-hearing-innovation-at-work",
+   "host": "House Science Committee",
+   "description": "House Science Research & Technology Subcommittee hearing on how AI is improving American lives and advancing scientific discovery. Time not yet posted.",
+   "speakers": [],
+   "topics": [
+    "AI"
+   ],
+   "fit": 4,
+   "why": "Congressional AI hearing on the Hill, open to the public and directly relevant to AI policy.",
+   "tags": [
+    "hill"
+   ]
+  },
+  {
+   "title": "Policies to Put Workers First in the AI Era with U.S. Senator Mark Kelly (D-Ariz)",
+   "start": "2026-12-02 09:30",
+   "end": "2026-12-02 11:00",
+   "location": "Georgetown McCourt School of Public Policy, 125 E St NW, Washington, DC",
+   "virtual": false,
+   "url": "https://events.georgetown.edu/live/events/45523-policies-to-put-workers-first-in-the-ai-era-with-us-se",
+   "host": "Georgetown McCourt School",
+   "description": "Senator Mark Kelly on policies to protect and empower workers as AI reshapes the economy.",
+   "speakers": [
+    "Mark Kelly"
+   ],
+   "topics": [
+    "AI",
+    "industrial-policy"
+   ],
+   "fit": 4,
+   "why": "A sitting senator on AI labor policy, a short walk from SAIS.",
+   "tags": [
+    "university"
+   ]
+  },
+  {
+   "title": "A World Without Secrets: International Politics in an Era of Eroding Secrecy | Erik Lin-Greenberg",
+   "start": "2027-01-26T12:00:00-08:00",
+   "end": "2027-01-26T13:15:00-08:00",
+   "location": "William J. Perry Conference Room, Encina Hall, Stanford, CA",
+   "virtual": false,
+   "url": "https://cisac.fsi.stanford.edu/events/world-without-secrets-international-politics-era-eroding-secrecy-erik-lin-greenberg",
+   "host": "Stanford CISAC",
+   "description": "CISAC seminar: how commercial imagery, OSINT and new sensing technologies erode state secrecy and change international politics.",
+   "speakers": [
+    "Erik Lin-Greenberg"
+   ],
+   "topics": [
+    "space",
+    "tech-geopolitics"
+   ],
+   "fit": 3,
+   "why": "Tech-and-security seminar on OSINT and secrecy for Bay Area tech-policy followers.",
+   "tags": [
+    "university",
+    "bay-area"
+   ]
+  },
+  {
+   "title": "Joint Hearing: \"Defend, Detect, Disclose: Responding to AI-Enabled Cyber Incidents\"",
+   "start": "2026-12-02 13:00",
+   "end": null,
+   "location": "2154 Rayburn House Office Building, Washington, DC",
+   "virtual": false,
+   "url": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=119620",
+   "host": "House Oversight and Government Reform",
+   "description": "Joint hearing of the Oversight Cybersecurity/IT/Government Innovation and Economic Growth/Energy/Regulatory Affairs subcommittees on responding to and disclosing AI-enabled cyber incidents.",
+   "speakers": [],
+   "topics": [
+    "AI",
+    "cyber"
+   ],
+   "fit": 5,
+   "why": "Open House hearing squarely on AI-enabled cyber threats and incident disclosure.",
+   "tags": [
+    "hill"
+   ]
+  },
+  {
+   "title": "Joint Hearing: \"Surveillance Without Safeguards: Government Monitoring and the Constitution\"",
+   "start": "2026-12-02 10:00",
+   "end": null,
+   "location": "2141 Rayburn House Office Building, Washington, DC",
+   "virtual": false,
+   "url": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=119621",
+   "host": "House Judiciary",
+   "description": "Joint hearing of the Judiciary subcommittees on the Constitution and on Crime and Federal Government Surveillance about government monitoring and constitutional safeguards.",
+   "speakers": [],
+   "topics": [
+    "data/privacy"
+   ],
+   "fit": 3,
+   "why": "Surveillance and privacy oversight on the Hill, relevant to data-policy debates.",
+   "tags": [
+    "hill"
+   ]
+  },
+  {
+   "title": "Preventing the Next Ground Stop: Modernizing America's Air Traffic Control System",
+   "start": "2026-12-02 10:00",
+   "end": null,
+   "location": "253 Russell Senate Office Building, Washington, DC",
+   "virtual": false,
+   "url": "https://www.commerce.senate.gov/hearings",
+   "host": "Senate Commerce Subcommittee on Aviation, Space, and Innovation",
+   "description": "Senate Commerce subcommittee hearing on modernizing the air traffic control system.",
+   "speakers": [],
+   "topics": [
+    "industrial-policy"
+   ],
+   "fit": 2,
+   "why": "Infrastructure technology modernization hearing; tangential to ETI.",
+   "tags": [
+    "hill"
+   ]
+  },
+  {
+   "title": "Axios AI+SF Summit 2026",
+   "start": "2026-12-03T13:00:00-08:00",
+   "end": null,
+   "location": "San Francisco, CA 94105",
+   "virtual": false,
+   "url": "https://axiosaisfsummit2026interest.splashthat.com/",
+   "host": "Axios",
+   "description": "Axios Live summit on enterprise AI adoption, agentic tools and trustworthy, human-centered AI systems. Invite/waitlist only.",
+   "speakers": [],
+   "topics": [
+    "AI"
+   ],
+   "fit": 2,
+   "why": "Invite-only industry-leaning AI summit in SF with some policy content.",
+   "tags": [
+    "media",
+    "bay-area"
+   ]
+  }
+ ]
+}

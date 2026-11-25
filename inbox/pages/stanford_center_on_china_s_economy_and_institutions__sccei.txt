@@ -1,6 +1,6 @@
 # Stanford Center on China's Economy and Institutions (SCCEI)
 # https://sccei.fsi.stanford.edu/events
-# fetched 2026-11-24T09:49:10.325163-05:00
+# fetched 2026-11-25T09:25:55.394602-05:00
 # tags: bay-area, university
 
 All SCCEI Events
@@ -40,6 +40,7 @@ Friday, December 11, 2026
 (Pacific)
 Register <https://app.smartsheet.com/b/form/019fce8bfe6e7e0d90c49e5e1769cb8d>
 Goldman Conference Room, Encina Hall, E409
+This event is only open to those with an active Stanford ID
  Speaker: 
  Victoria Liu, PhD student, Stanford University 
  Seminars
@@ -67,6 +68,7 @@ Friday, January 29, 2027
 (Pacific)
 Register <https://app.smartsheet.com/b/form/019fce8c05f677beb865fb5b9271bcb0>
 Goldman Conference Room, Encina Hall, E409
+This event is only open to those with an active Stanford ID
  Seminars
 Student Seminar | February 12, 2027 <https://sccei.fsi.stanford.edu/events/student-seminar-february-12-2027>
 Friday, February 12, 2027
@@ -74,6 +76,7 @@ Friday, February 12, 2027
 (Pacific)
 Register <https://app.smartsheet.com/b/form/019fce8bf1c27656b94b29e699f3f936>
 Goldman Conference Room, Encina Hall, E409
+This event is only open to those with an active Stanford ID
  Seminars
 Nan Jia | Shielding or Stifling? How Restrictions on Foreign Acquisitions Shape Entrepreneurial Innovation in the U.S. <https://sccei.fsi.stanford.edu/events/nan-jia-shielding-or-stifling-how-restrictions-foreign-acquisitions-shape-entrepreneurial>
 Friday, February 19, 2027
@@ -90,6 +93,7 @@ Friday, March 5, 2027
 (Pacific)
 Register <https://app.smartsheet.com/b/form/019fce8bf31d7dad967415018e817961>
 Goldman Conference Room, Encina Hall, E409
+This event is only open to those with an active Stanford ID
  Seminars
 Han Zhang | SCCEI Seminar <https://sccei.fsi.stanford.edu/events/han-zhang-sccei-seminar>
 Friday, March 12, 2027
@@ -115,6 +119,7 @@ Friday, April 9, 2027
 (Pacific)
 Register <https://app.smartsheet.com/b/form/019fce8bfce37cd288540a7808918cda>
 Goldman Conference Room, Encina Hall, E409
+This event is only open to those with an active Stanford ID
  Seminars
 Student Seminar | April 30, 2027 <https://sccei.fsi.stanford.edu/events/student-seminar-april-30-2027>
 Friday, April 30, 2027
@@ -122,6 +127,7 @@ Friday, April 30, 2027
 (Pacific)
 Register <https://app.smartsheet.com/b/form/019fce8a0a417455931ca2f6e9dd542a>
 Goldman Conference Room, Encina Hall, E409
+This event is only open to those with an active Stanford ID
  Conferences
 2027 SCCEI China Conference <https://sccei.fsi.stanford.edu/events/2027-sccei-china-conference>
 Thursday, May 6, 2027
@@ -138,3 +144,4 @@ Friday, May 14, 2027
 (Pacific)
 Register <https://app.smartsheet.com/b/form/019fce8bf7b97569b8a283013fe59c7e>
 Goldman Conference Room, Encina Hall, E409
+This event is only open to those with an active Stanford ID
