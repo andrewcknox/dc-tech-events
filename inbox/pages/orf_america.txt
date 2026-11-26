@@ -1,6 +1,6 @@
 # ORF America
 # https://orfamerica.org/events
-# fetched 2026-11-25T09:25:55.394602-05:00
+# fetched 2026-11-26T10:27:22.393562-05:00
 # tags: think-tank
 
 Events
@@ -23,6 +23,13 @@ December 1, 2026
 9:30 AM – 11:30 AM
 09:30 – 11:30
 9:30 AM – 11:30 AM
+Nov
+ 17 <https://orfamerica.org/recent-events/talent-mobility-us-india-relations>
+November 17, 2026
+Private Roundtable: High Skilled Talent Mobility in U.S.-India Relations <https://orfamerica.org/recent-events/talent-mobility-us-india-relations>
+November 17, 2026
+Read more → <https://orfamerica.org/recent-events/talent-mobility-us-india-relations>
+November 17, 2026
 Nov
  11 <https://orfamerica.org/recent-events/orfamerica-at-cop31>
 November 11, 2026 – November 14, 2026
@@ -226,10 +233,3 @@ India and Pakistan: One Year after Operation Sindoor <https://orfamerica.org/rec
 May 21, 2026
 Read more → <https://orfamerica.org/recent-events/india-and-pakistan-after-operation-sindoor>
 May 21, 2026
-May
- 19 <https://orfamerica.org/recent-events/global-cyber-policy-dialogue-southeast-asia-may-2026>
-May 19, 2026
-Global Cyber Policy Dialogue: Southeast Asia <https://orfamerica.org/recent-events/global-cyber-policy-dialogue-southeast-asia-may-2026>
-May 19, 2026
-Read more → <https://orfamerica.org/recent-events/global-cyber-policy-dialogue-southeast-asia-may-2026>
-May 19, 2026

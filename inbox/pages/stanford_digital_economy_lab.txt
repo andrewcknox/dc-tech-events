@@ -1,6 +1,6 @@
 # Stanford Digital Economy Lab
 # https://digitaleconomy.stanford.edu/events/
-# fetched 2026-11-25T09:25:55.394602-05:00
+# fetched 2026-11-26T10:27:22.393562-05:00
 # tags: bay-area, university
 
 Events
@@ -11,7 +11,6 @@ Upcoming Events
 Richard Socher | The Eureka Machine: Why AI is the Key to Unlocking a New Era of Scientific Discoveries
  Wednesday, December 2
 How AI Is Changing the Economy: New Evidence on Work, Growth, and Economic Transformation
-Dec 14
  Monday, December 14
 /
  12:00pm to 1:00pm Pacific Time

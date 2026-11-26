@@ -1,0 +1,126 @@
+{
+ "instructions": "Fill fit (1-5), topics (from the DAILY.md list) and why for each event; add tags (e.g. bay-area) if needed; then `uv run dte score apply <this file>`. Leave fit null to skip.",
+ "events": [
+  {
+   "id": 751,
+   "title": "Founders Rooftop BBQ",
+   "start": "2026-11-28T15:00:00-05:00",
+   "location": "Frontier Tower @ Rooftop 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/superhero-bbq Address: Frontier Tower @ Rooftop 995 Market Street, San Francisco Hosted by Katia Yakovleva & Fran",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [],
+   "why": "Social BBQ, no policy content."
+  },
+  {
+   "id": 747,
+   "title": "Building Fraud AI as a Competitive Advantage Breakfast",
+   "start": "2026-12-02T08:00:00-05:00",
+   "location": "The Henri, 1301 Pennsylvania Ave NW, Washington, DC 20004, USA",
+   "virtual": false,
+   "host": "NVIDIA GTC DC side events (Luma)",
+   "source": "NVIDIA GTC DC side events (Luma)",
+   "tags": [
+    "public",
+    "industry"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/nebius-nls5 Address: The Henri Washington, DC United States Hosted by Brit DeBord, Emily & Natasha Sampson",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-IGTUtC9M8rJP1tb",
+   "fit": 2,
+   "topics": [
+    "AI"
+   ],
+   "why": "Vendor breakfast on fraud AI during GTC DC; industry-focused."
+  },
+  {
+   "id": 748,
+   "title": "Pricing, hedging and trading compute, with ComputeDesk and Nodal Exchange",
+   "start": "2026-12-02T18:30:00-05:00",
+   "location": "https://luma.com/event/evt-g1TupO7gvuLT3OZ",
+   "virtual": false,
+   "host": "NVIDIA GTC DC side events (Luma)",
+   "source": "NVIDIA GTC DC side events (Luma)",
+   "tags": [
+    "public",
+    "industry"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/dq4cfzjj Address: Check event page for more details. Hosted by Matthieu & Andrawes Bahou",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-IGTUtC9M8rJP1tb",
+   "fit": 2,
+   "topics": [
+    "AI"
+   ],
+   "why": "Compute market finance talk; marginal policy angle."
+  },
+  {
+   "id": 752,
+   "title": "Benchmark: Haus Accelerator Science Showcase - Members +3",
+   "start": "2026-12-10T17:00:00-05:00",
+   "location": "Frontier Tower @ Spaceship 995 Market Street, San Francisco",
+   "virtual": false,
+   "host": "Frontier Tower SF (Luma)",
+   "source": "Frontier Tower SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/benchmark-haus-accelerator-science-showc Address: Frontier Tower @ Spaceship 995 Market Street, San Francisco Hosted by Elliot Roth",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-Sl7q1nHTRXQzjP2",
+   "fit": 1,
+   "topics": [
+    "biotech"
+   ],
+   "why": "Startup science showcase, not policy."
+  },
+  {
+   "id": 750,
+   "title": "Read & Discuss: Short Timelines",
+   "start": "2026-12-16T21:30:00-05:00",
+   "location": "Mox, 1680 Mission St, San Francisco, CA 94103, USA",
+   "virtual": false,
+   "host": "Mox SF (Luma)",
+   "source": "Mox SF (Luma)",
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/aisafety-iq97 Address: Mox San Francisco, CA United States Hosted by Jen Ba",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-nfkEvDFat3zN1fe",
+   "fit": 3,
+   "topics": [
+    "AI"
+   ],
+   "why": "AI safety reading group on short timelines, relevant to Bay Area AI policy followers."
+  },
+  {
+   "id": 749,
+   "title": "AI Wrote the Application. AI Read It. Who Decided? .: AWS Crystal City, VA :.",
+   "start": "2027-03-17T18:00:00-04:00",
+   "location": null,
+   "virtual": false,
+   "host": "AI Innovators Network (Meetup, NoVA)",
+   "source": "AI Innovators Network (Meetup, NoVA)",
+   "tags": [
+    "public",
+    "meetup"
+   ],
+   "description": "AI Innovators Network ~ Northern Virginia .: DC, VA, MD :. An applicant uses AI to polish a cover letter. An AI screening tool flags the wording as suspicious. You're the hiring manager: do you invite the applicant to interview,",
+   "url": "https://www.meetup.com/ai-innovators-network-tysons-meetup-dc-nova-md/events/317582024/",
+   "fit": 2,
+   "topics": [
+    "AI"
+   ],
+   "why": "Meetup on AI in hiring decisions; light governance angle, far off."
+  }
+ ]
+}

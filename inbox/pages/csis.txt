@@ -1,16 +1,14 @@
 # CSIS
 # https://www.csis.org/events
-# fetched 2026-11-25T09:25:55.394602-05:00
+# fetched 2026-11-26T10:27:22.393562-05:00
 # tags: think-tank
 
 Events
 CSIS organizes & hosts a variety of international relations & policy events featuring expert speakers. Register for live events, webinars, series & conferences.
  Next Up
 Webcast
-Energy Shots | Energy Cornucopia: 2026's Biggest Stories <https://www.csis.org/events/energy-shots-energy-cornucopia-2026s-biggest-stories>
-Presented by
-Energy Security and Climate Change Program <https://www.csis.org/programs/energy-security-and-climate-change-program>
-November 25, 2026 • 3:00 – 3:45 pm EST
+Unmanned Systems, U.S. Drone Investment, and Lessons from Ukraine <https://www.csis.org/events/unmanned-systems-us-drone-investment-and-lessons-ukraine>
+November 30, 2026 • 9:00 – 10:00 am EST
  Upcoming Events
 Image
 Photo: LLUIS GENE/AFP/Getty Images
@@ -27,14 +25,27 @@ Webcast
  Hosted by 
 The CSIS Bipartisan Alliance for Global Health Security
 Image
-Photo: U.S. Navy photo/DVIDS
-The Strategist: How to Think About War and Politics <https://www.csis.org/events/strategist-how-think-about-war-and-politics>
-January 11, 2027 • 11:30 am – 12:30 pm EST
+Photo: Kim Jae-Hwan/SOPA Images/LightRocket via Getty Images
+CSIS-DAPA 2026: Transforming the U.S.-ROK Defense Industrial Partnership for the Future <https://www.csis.org/index%2ephp/events/csis-dapa-2026-transforming-us-rok-defense-industrial-partnership-future>
+December 3, 2026 • 9:30 am – 12:30 pm EST
 Webcast
  Hosted by 
-Arleigh A. Burke Chair in Strategy
+Center for the Industrial Base
+Image
+Photo: nick/Adobe Stock
+Taiwan and the Pacific <https://www.csis.org/events/taiwan-and-pacific>
+December 9, 2026 • 5:00 – 6:00 pm EST
+Webcast
+ Hosted by 
+Freeman Chair in China Studies
 See all upcoming events <https://www.csis.org/events?f%5B0%5D=event_type%3A3004&f%5B1%5D=event_type%3A3005&f%5B2%5D=event_type%3A3012>
  Recent Events
+Image
+Photo: CSIS
+Energy Shots | Energy Cornucopia: 2026's Biggest Stories <https://www.csis.org/events/energy-shots-energy-cornucopia-2026s-biggest-stories>
+November 25, 2026 • 3:00 – 3:45 pm EST
+ Hosted by 
+Energy Security and Climate Change Program
 Image
 Photo: CSIS
 The UN is Due for a Reboot <https://www.csis.org/events/un-due-reboot>
@@ -42,20 +53,20 @@ November 24, 2026 • 9:15 – 10:00 am EST
  Hosted by 
 Global Development
 Image
-Photo: Ramiz Dallah/Anadolu/Getty Images
+Photo: CSIS
 Restoring State Sovereignty in Lebanon: Progress, Challenges, and the Road Ahead <https://www.csis.org/events/restoring-state-sovereignty-lebanon-progress-challenges-and-road-ahead>
 November 23, 2026 • 9:00 – 10:00 am EST
  Hosted by 
 Middle East Program
 Image
 Photo: Narumon Bowonkitwanchai/GETTY IMAGES
-Understanding the Memory Chip Crunch & the Way Ahead <https://www.csis.org/events/understanding-memory-chip-crunch-way-ahead>
+Understanding the Memory Chip Crunch & the Way Ahead <https://www.csis.org/index%2ephp/events/understanding-memory-chip-crunch-way-ahead>
 November 20, 2026 • 10:00 – 11:00 am EST
  Hosted by 
 Strategic Technologies Program
 Image
 Photo: CSIS
-India’s Data Moment: A Conversation with Secretary Saurabh Garg on India’s AI-Ready Data Push <https://www.csis.org/events/indias-data-moment-conversation-secretary-saurabh-garg-indias-ai-ready-data-push>
+India’s Data Moment: A Conversation with Secretary Saurabh Garg on India’s AI-Ready Data Push <https://www.csis.org/index%2ephp/events/indias-data-moment-conversation-secretary-saurabh-garg-indias-ai-ready-data-push>
 November 19, 2026 • 4:00 – 6:30 pm EST
  Hosted by 
 Chair on India and Emerging Asia Economics
@@ -73,40 +84,42 @@ November 19, 2026 • 9:00 – 10:00 am EST
 Aerospace Security Project
 Image
 Photo: Iori Sagisawa / POOL / AFP via Getty Images
-Trump-Xi-Putin Summit: What Happened? | The Capital Cable #147 <https://www.csis.org/events/trump-xi-putin-summit-what-happened-capital-cable-147>
+Trump-Xi-Putin Summit: What Happened? | The Capital Cable #147 <https://www.csis.org/index%2ephp/events/trump-xi-putin-summit-what-happened-capital-cable-147>
 November 19, 2026 • 8:45 – 9:30 am EST
  Hosted by 
 Korea Chair
-Image
-Photo: CSIS
-Global Collaboration to Eliminate Cervical Cancer <https://www.csis.org/index%2ephp/events/global-collaboration-eliminate-cervical-cancer>
-November 18, 2026 • 4:00 – 5:00 pm EST
- Hosted by 
-Global Development
 See all past events <https://www.csis.org/events?past_events=1>
 Upcoming Events <https://www.csis.org/events?upcoming_events=1>
 Past Events <https://www.csis.org/events?past_events=1>
 Filter by
+Conference
+ (1) <https://www.csis.org/events?f%5B0%5D=event_type%3A3004>
 Event
- (4) <https://www.csis.org/events?f%5B0%5D=event_type%3A3012>
-Europe
- (1) <https://www.csis.org/events?f%5B0%5D=regions%3A787>
-Middle East
- (1) <https://www.csis.org/events?f%5B0%5D=regions%3A785>
+ (6) <https://www.csis.org/events?f%5B0%5D=event_type%3A3012>
+Asia
+ (1) <https://www.csis.org/events?f%5B0%5D=regions%3A797>
+Australia, New Zealand, and Pacific
+ (1) <https://www.csis.org/events?f%5B0%5D=regions%3A807>
+China
+ (1) <https://www.csis.org/events?f%5B0%5D=regions%3A801>
+Korea
+ (1) <https://www.csis.org/events?f%5B0%5D=regions%3A798>
 North America
  (1) <https://www.csis.org/events?f%5B0%5D=regions%3A800>
 Defense and Security
- (1) <https://www.csis.org/events?f%5B0%5D=topics%3A817>
+ (3) <https://www.csis.org/events?f%5B0%5D=topics%3A817>
+Defense Budget and Acquisition
+ (1) <https://www.csis.org/events?f%5B0%5D=topics%3A828>
+Defense Industrial Base
+ (1) <https://www.csis.org/events?f%5B0%5D=topics%3A3096>
+Defense Industry, Acquisition, and Innovation
+ (1) <https://www.csis.org/events?f%5B0%5D=topics%3A825>
 Defense Strategy and Capabilities
  (1) <https://www.csis.org/events?f%5B0%5D=topics%3A826>
-Energy and Geopolitics
- (1) <https://www.csis.org/events?f%5B0%5D=topics%3A838>
-Energy and Sustainability
- (1) <https://www.csis.org/events?f%5B0%5D=topics%3A819>
-Energy Innovation
- (1) <https://www.csis.org/events?f%5B0%5D=topics%3A836>
-Energy Markets, Trends, and Outlooks
- (1) <https://www.csis.org/events?f%5B0%5D=topics%3A835>
+Economic Security
+ (1) <https://www.csis.org/events?f%5B0%5D=topics%3A823>
+Geopolitics and International Security
+ (1) <https://www.csis.org/events?f%5B0%5D=topics%3A824>
 Global Health
  (1) <https://www.csis.org/events?f%5B0%5D=topics%3A820>
 Health and Security
@@ -115,22 +128,26 @@ Human Rights
  (1) <https://www.csis.org/events?f%5B0%5D=topics%3A821>
 Multilateral Health Institutions
  (1) <https://www.csis.org/events?f%5B0%5D=topics%3A841>
+Nuclear Issues
+ (1) <https://www.csis.org/events?f%5B0%5D=topics%3A829>
 Technology
  (1) <https://www.csis.org/events?f%5B0%5D=topics%3A822>
+Trade and International Business
+ (1) <https://www.csis.org/events?f%5B0%5D=topics%3A851>
 2026 <https://www.csis.org/events?f%5B0%5D=event_dates%3A2026>
 2027 <https://www.csis.org/events?f%5B0%5D=event_dates%3A2027>
 Defense and Security
- (1) <https://www.csis.org/events?f%5B0%5D=department%3ADefense%20and%20Security>
-Economic Security and Technology
- (1) <https://www.csis.org/events?f%5B0%5D=department%3AEconomic%20Security%20and%20Technology>
+ (3) <https://www.csis.org/events?f%5B0%5D=department%3ADefense%20and%20Security>
+Geopolitics and Foreign Policy
+ (1) <https://www.csis.org/events?f%5B0%5D=department%3AGeopolitics%20and%20Foreign%20Policy>
 Global Development
  (2) <https://www.csis.org/events?f%5B0%5D=department%3AGlobal%20Development>
  Display Archived Results
-Energy Shots | Energy Cornucopia: 2026's Biggest Stories <https://www.csis.org/events/energy-shots-energy-cornucopia-2026s-biggest-stories>
-This biweekly video series, hosted by Joseph Majkut and Kevin Book, delivers clear insights, visuals, and straight talk on the latest energy trends.
+Unmanned Systems, U.S. Drone Investment, and Lessons from Ukraine <https://www.csis.org/events/unmanned-systems-us-drone-investment-and-lessons-ukraine>
+CSIS virtual event discussing lessons learned from Ukraine on unmanned systems, and U.S. drone supply chains. 
  Event
-— November 25, 2026
-The Future of Technology and Human Rights <https://www.csis.org/events/future-technology-and-human-rights>
+— November 30, 2026
+The Future of Technology and Human Rights <https://www.csis.org/index%2Ephp/events/future-technology-and-human-rights>
 Join the Human Rights Initiative for a conversation on what the future holds for technology and human rights. 
  Event
 — December 1, 2026
@@ -138,6 +155,18 @@ Director Erica Schwartz’s Vision for the CDC <https://www.csis.org/events/dire
 Dr. Schwartz will discuss her strategy for dealing with the core challenges before the agency, including measles outbreaks, biosurveillance gaps, global surge capability, and damaged trust.
  Event
 — December 2, 2026
+CSIS-DAPA 2026: Transforming the U.S.-ROK Defense Industrial Partnership for the Future <https://www.csis.org/events/csis-dapa-2026-transforming-us-rok-defense-industrial-partnership-future>
+Please join the Center for the Industrial Base at CSIS for a livestream broadcast of the 2026 CSIS-DAPA Keynote Session and Public Panel, exploring themes of cooperation and coproduction between the United States and Republic of Korea.
+ Event
+— December 3, 2026
+Taiwan and the Pacific <https://www.csis.org/index%2ephp/events/taiwan-and-pacific>
+Join the CSIS Freeman Chair for a wide-ranging conversation on U.S.-Taiwan-Australia trilateral partnership, cross-Strait deterrence, and opportunities for Taiwan to play a more active role in regional affairs.
+ Event
+— December 9, 2026
+Nuclear Nonproliferation and Verification Challenges: A Conversation with Director General Rafael Mariano Grossi <https://www.csis.org/events/nuclear-nonproliferation-and-verification-challenges-conversation-director-general-rafael>
+Please join the CSIS Project on Nuclear Issues (PONI) for a discussion with IAEA Director General Rafael Mariano Grossi.
+ Event
+— December 10, 2026
 The Strategist: How to Think About War and Politics <https://www.csis.org/events/strategist-how-think-about-war-and-politics>
 Dr. Eliot Cohen discusses his latest book, The Strategist: How to Think About War and Politics, with General David Petraeus (Ret.).
  Event

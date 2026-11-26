@@ -1,6 +1,6 @@
 # Hudson Institute
 # https://www.hudson.org/events
-# fetched 2026-11-25T09:25:55.394602-05:00
+# fetched 2026-11-26T10:27:22.393562-05:00
 # tags: think-tank
 
 30
@@ -22,6 +22,23 @@ Can Kasapoğlu
 Michael Doran
 Ken Moriyasu
 Learn More <https://www.hudson.org/events/azerbaijan-new-american-strategy-eurasia>
+30
+November 2026
+ Virtual Event | Online Only
+Commanding the Autonomous Battlefield
+Featured Speakers:
+Gokul Subramanian
+Bryan Clark
+30
+November 2026
+ Virtual Event | Online Only
+Commanding the Autonomous Battlefield
+Join Bryan Clark and Anduril Senior Vice President for Technology Gokul Subramanian for a conversation about the future of military command-and-control concepts and technologies.
+ MONDAY 3:30 p.m. - 4:30 p.m.
+Featured Speakers:
+Gokul Subramanian
+Bryan Clark
+Learn More <https://www.hudson.org/events/commanding-autonomous-battlefield>
 02
 December 2026
  In-Person Event | Invite Only
@@ -126,6 +143,27 @@ Featured Speakers:
 Arturo Sarukhan
 Daniel Batlle 
 Learn More <https://www.hudson.org/events/mexico-crossroads-conversation-ambassador-arturo-sarukhan>
+09
+December 2026
+ In-Person Event | Hudson Institute
+The Dynamics and Implications of US Tariff Policy
+Featured Speakers:
+Wendy Cutler
+Mary Lovely
+Emily Kilcrease
+Riley Walters
+09
+December 2026
+ In-Person Event | Hudson Institute
+The Dynamics and Implications of US Tariff Policy
+Join Hudson Institute for a discussion about the evolving dynamics of US trade and investment policies.
+ WEDNESDAY 9:30 a.m. - 10:30 a.m.
+Featured Speakers:
+Wendy Cutler
+Mary Lovely
+Emily Kilcrease
+Riley Walters
+Learn More <https://www.hudson.org/events/dynamics-implications-us-tariff-policy>
 10
 December 2026
  In-Person Event | Hudson Institute
@@ -217,37 +255,3 @@ Can Kasapoğlu
 Lieutenant General (Ret.) Ben Hodges
 Luke Coffey
 Learn More <https://www.hudson.org/events/after-kerch-bridge-what-ukraines-strike-means-war>
-19
-November 2026
- Past Event
-Peace Through Strength: How Reagan’s Military Buildup Won the Cold War
-Featured Speakers:
-Roger Zakheim
-Nadia Schadlow
-19
-November 2026
- Past Event
-Peace Through Strength: How Reagan’s Military Buildup Won the Cold War
-Join Hudson Institute for a conversation with Senior Fellow Nadia Schadlow and Roger Zakheim, director of the Ronald Reagan Presidential Foundation and Institute, to discuss Peace Through Strength and what President Reagan’s buildup can teach US policymakers today. 
- THURSDAY 11:00 a.m. - 12:30 p.m.
-Featured Speakers:
-Roger Zakheim
-Nadia Schadlow
-Learn More <https://www.hudson.org/events/peace-through-strength-how-reagans-military-buildup-won-cold-war>
-18
-November 2026
- Past Event
-Rebuilding the Arsenal of Freedom and Reindustrializing America
-Featured Speakers:
-Congressman Mike Rogers
-Nadia Schadlow
-18
-November 2026
- Past Event
-Rebuilding the Arsenal of Freedom and Reindustrializing America
-Join House Armed Services Committee Chairman Mike Rogers (AL-03) for a fireside discussion with Senior Fellow Nadia Schadlow on Congress’s role in revitalizing America’s defense industrial base.
- WEDNESDAY 2:00 p.m. - 3:00 p.m.
-Featured Speakers:
-Congressman Mike Rogers
-Nadia Schadlow
-Learn More <https://www.hudson.org/events/rebuilding-arsenal-freedom-reindustrializing-america>

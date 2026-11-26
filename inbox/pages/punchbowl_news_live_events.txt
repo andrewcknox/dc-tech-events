@@ -1,6 +1,6 @@
 # Punchbowl News live events
 # https://punchbowl.news/events/
-# fetched 2026-11-25T09:25:55.394602-05:00
+# fetched 2026-11-26T10:27:22.393562-05:00
 # tags: media
 
 Subscribe to be notified about all upcoming Punchbowl News events.
@@ -12,7 +12,7 @@ Tuesday, December 1, 2026
 8 a.m. ET
 •
 Washington, D.C.
-Join Punchbowl News on Tuesday, Dec. 1, at 8 a.m. ET for a summit on the future of cryptocurrency. Punchbowl News Founder and CEO Anna Palmer will sit down with Sen.-elect Andy Barr (R-Ky.) to discuss what’s next for crypto policy and how Congress can secure financial systems while also protecting consumers and safeguarding innovation. Following the discussion, we’ll sit down for a crypto advocate panel moderated by Punchbowl News Senior Financial Services Reporter, Brendan Pedersen.
+Join Punchbowl News on Tuesday, Dec. 1, at 8 a.m. ET for a summit on the future of cryptocurrency. Punchbowl News Founder and CEO Anna Palmer will sit down with Sen.-elect Andy Barr (R-Ky.) to discuss what’s next for crypto policy and how Congress can secure financial systems while also protecting consumers and safeguarding innovation. Following the discussion, Anna will be joined by Reps. Josh Gottheimer (D-N.J.) and Steven Horsford (D-Nev.) to continue the discussion on the future of crypto policy. To close out the event, Punchbowl News Congress Editor Rachel Witkowski will sit down with Luke Martin, partner at Impact Research, and a panel of crypto advocates from across the country to discuss the future of crypto.
 RSVP <https://events.punchbowl.news/CryptoSummit_12_1_26>
 Browse
 Upcoming Events

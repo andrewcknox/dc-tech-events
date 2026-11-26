@@ -1,6 +1,6 @@
 # Asia Society Policy Institute
 # https://asiasociety.org/policy-institute/events
-# fetched 2026-11-25T09:25:55.394602-05:00
+# fetched 2026-11-26T10:27:22.393562-05:00
 # tags: think-tank
 
 Upcoming Events <https://asiasociety.org/policy-institute/events>
@@ -22,7 +22,7 @@ EXECUTIVE ROUNDTABLE | Join us for a new installment of our Seeking Truth Throug
 Conference
 China 2027: What to Watch <https://asiasociety.org/policy-institute/events/china-2027-what-watch>
 Tuesday 1 Dec 2026 
- 3 - 6:25 p.m.
+ 3 - 6:15 p.m.
 Join us for the launch of CCA’s annual flagship report, China 2027: What to Watch, featuring spotlight presentations and panel discussions with leading CCA experts on the key forces shaping China’s trajectory in the years ahead.
 Buy Tickets <https://join.asiasociety.org/orders/513/tickets?cdEventIds=6afb64cfd2b73ffe3a21a71c&date=2026-12-01T15:00:00-05:00&eventId=6afb64cfd2b73ffe3a21a71c>
  Online

@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-25T09:34:13-05:00",
- "today": "2026-11-25",
- "window_start": "2026-11-25",
+ "generated_at": "2026-11-26T10:31:11-05:00",
+ "today": "2026-11-26",
+ "window_start": "2026-11-26",
  "window_days": 14,
  "map_center": [
   38.905,
@@ -11,70 +11,42 @@
  "flagged_sources": [
   {
    "name": "Berkeley Law AI events",
-   "failures": 5
+   "failures": 6
   },
   {
    "name": "Berkeley Law BCLT",
-   "failures": 5
+   "failures": 6
   },
   {
    "name": "Berkeley Risk & Security Lab",
-   "failures": 7
-  },
-  {
-   "name": "Hopkins Bloomberg Center",
-   "failures": 6
-  },
-  {
-   "name": "JHU Data Science and AI Institute",
-   "failures": 6
-  },
-  {
-   "name": "JHU Hub Events (SAIS)",
-   "failures": 6
-  },
-  {
-   "name": "JHU Institute for Assured Autonomy (Baltimore)",
-   "failures": 6
-  },
-  {
-   "name": "National Academies",
    "failures": 8
   },
   {
+   "name": "Hopkins Bloomberg Center",
+   "failures": 7
+  },
+  {
+   "name": "JHU Data Science and AI Institute",
+   "failures": 7
+  },
+  {
+   "name": "JHU Hub Events (SAIS)",
+   "failures": 7
+  },
+  {
+   "name": "JHU Institute for Assured Autonomy (Baltimore)",
+   "failures": 7
+  },
+  {
+   "name": "National Academies",
+   "failures": 9
+  },
+  {
    "name": "SNF Agora Institute (JHU, Baltimore)",
-   "failures": 6
+   "failures": 7
   }
  ],
  "events": [
-  {
-   "id": 44,
-   "title": "AI and Autonomy on the Modern Battlefield",
-   "start": "2026-08-27T15:45:00-04:00",
-   "end": null,
-   "host": "Atlantic Council",
-   "source": "Caleb Knapp Weekly AI Digest (Substack)",
-   "location": "Atlantic Council, 1030 15th St NW",
-   "virtual": true,
-   "url": "https://www.atlanticcouncil.org/event/ai-and-autonomy-on-the-modern-battlefield/",
-   "topics": [
-    "AI",
-    "tech-geopolitics"
-   ],
-   "tags": [
-    "substack",
-    "think-tank"
-   ],
-   "fit": 5,
-   "why": "Military AI and autonomy at the Atlantic Council; squarely on ETI's security agenda.",
-   "description": "",
-   "speakers": [],
-   "lat": 38.903,
-   "lon": -77.0345,
-   "in_dc": true,
-   "time": "3:45 PM",
-   "where": "Atlantic Council, 1030 15th St NW (+ virtual)"
-  },
   {
    "id": 45,
    "title": "House Energy & Commerce CMT Subcommittee Markup (Memory Chip Competitiveness, Open-Source AI Leadership, Chip EQUIP, American Quantum Competitiveness Acts)",
@@ -6732,6 +6704,33 @@
    "where": "Washington, DC"
   },
   {
+   "id": 753,
+   "title": "Unmanned Systems, U.S. Drone Investment, and Lessons from Ukraine",
+   "start": "2026-11-30T09:00:00-05:00",
+   "end": "2026-11-30T10:00:00-05:00",
+   "host": "CSIS",
+   "source": "daily page scan",
+   "location": null,
+   "virtual": true,
+   "url": "https://www.csis.org/events/unmanned-systems-us-drone-investment-and-lessons-ukraine",
+   "topics": [
+    "industrial-policy",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 4,
+   "why": "Drone supply chains and defense-tech investment are core emerging-tech security topics.",
+   "description": "CSIS virtual event on lessons from Ukraine on unmanned systems and U.S. drone supply chains and investment.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "9:00 AM–10:00 AM",
+   "where": "Virtual"
+  },
+  {
    "id": 212,
    "title": "Lessons in Leadership: Navigating Digital Democracy",
    "start": "2026-11-30T09:30:00-05:00",
@@ -6850,6 +6849,36 @@
    "in_dc": true,
    "time": "12:00 PM–1:00 PM PT",
    "where": "Stanford University, Stanford, CA"
+  },
+  {
+   "id": 756,
+   "title": "Commanding the Autonomous Battlefield",
+   "start": "2026-11-30T15:30:00-05:00",
+   "end": "2026-11-30T16:30:00-05:00",
+   "host": "Hudson Institute",
+   "source": "daily page scan",
+   "location": null,
+   "virtual": true,
+   "url": "https://www.hudson.org/events/commanding-autonomous-battlefield",
+   "topics": [
+    "AI",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 4,
+   "why": "Autonomy and AI-enabled command and control is squarely emerging tech and security.",
+   "description": "Bryan Clark and Anduril SVP for Technology Gokul Subramanian on the future of military command-and-control concepts and technologies.",
+   "speakers": [
+    "Bryan Clark",
+    "Gokul Subramanian"
+   ],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "3:30 PM–4:30 PM",
+   "where": "Virtual"
   },
   {
    "id": 400,
@@ -7725,6 +7754,33 @@
    "where": "Virtual"
   },
   {
+   "id": 754,
+   "title": "CSIS-DAPA 2026: Transforming the U.S.-ROK Defense Industrial Partnership for the Future",
+   "start": "2026-12-03T09:30:00-05:00",
+   "end": "2026-12-03T12:30:00-05:00",
+   "host": "CSIS",
+   "source": "daily page scan",
+   "location": "CSIS, 1616 Rhode Island Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.csis.org/events/csis-dapa-2026-transforming-us-rok-defense-industrial-partnership-future",
+   "topics": [
+    "industrial-policy",
+    "Japan-Korea"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Allied defense-industrial coproduction with Korea touches tech supply chains and industrial policy.",
+   "description": "Center for the Industrial Base keynote and public panel on U.S.-Korea defense industrial cooperation and coproduction (livestreamed).",
+   "speakers": [],
+   "lat": 38.9061,
+   "lon": -77.0378,
+   "in_dc": true,
+   "time": "9:30 AM–12:30 PM",
+   "where": "CSIS, 1616 Rhode Island Ave NW, Washington, DC"
+  },
+  {
    "id": 719,
    "title": "Protecting America's AI Advantage: Oversight of U.S. Export Controls",
    "start": "2026-12-03T10:00:00-05:00",
@@ -8201,6 +8257,33 @@
    "where": "621 Sutardja Dai Hall"
   },
   {
+   "id": 758,
+   "title": "How can we protect consumers from AI-enabled fraud, scams, and other abuses?",
+   "start": "2026-12-08T14:00:00-05:00",
+   "end": "2026-12-08T15:00:00-05:00",
+   "host": "Brookings",
+   "source": "daily page scan",
+   "location": null,
+   "virtual": true,
+   "url": "https://www.brookings.edu/events/how-can-we-protect-consumers-from-ai-enabled-fraud-scams-and-other-abuses/",
+   "topics": [
+    "AI",
+    "trust-and-safety"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 4,
+   "why": "AI governance and consumer-protection policy, directly on ETI's AI policy track.",
+   "description": "Online Brookings event on consumer protection against AI-enabled fraud, scams and other abuses.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "2:00 PM–3:00 PM",
+   "where": "Virtual"
+  },
+  {
    "id": 393,
    "title": "AI Safety in 2027: What's Next Following the Midterm Elections? (virtual roundtable)",
    "start": "2026-12-08T15:00:00-05:00",
@@ -8421,6 +8504,38 @@
    "in_dc": true,
    "time": "9:30 AM–11:00 AM",
    "where": "STATION DC, 1323 4th St NE Ste 200, Washington, DC 20002, USA"
+  },
+  {
+   "id": 757,
+   "title": "The Dynamics and Implications of US Tariff Policy",
+   "start": "2026-12-09T09:30:00-05:00",
+   "end": "2026-12-09T10:30:00-05:00",
+   "host": "Hudson Institute",
+   "source": "daily page scan",
+   "location": "Hudson Institute, 1201 Pennsylvania Ave NW, Washington, DC",
+   "virtual": false,
+   "url": "https://www.hudson.org/events/dynamics-implications-us-tariff-policy",
+   "topics": [
+    "industrial-policy",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Kilcrease and Walters cover economic security and tech trade; relevant tariff and investment-screening context.",
+   "description": "Discussion on the evolving dynamics of US trade and investment policies.",
+   "speakers": [
+    "Wendy Cutler",
+    "Mary Lovely",
+    "Emily Kilcrease",
+    "Riley Walters"
+   ],
+   "lat": 38.896,
+   "lon": -77.0286,
+   "in_dc": true,
+   "time": "9:30 AM–10:30 AM",
+   "where": "Hudson Institute, 1201 Pennsylvania Ave NW, Washington, DC"
   },
   {
    "id": 406,
@@ -8670,6 +8785,34 @@
    "in_dc": false,
    "time": "time TBD",
    "where": "AAAS, 1200 New York Ave NW, Washington, DC"
+  },
+  {
+   "id": 750,
+   "title": "Read & Discuss: Short Timelines",
+   "start": "2026-12-16T18:30:00-08:00",
+   "end": "2026-12-16T20:30:00-08:00",
+   "host": "Mox SF (Luma)",
+   "source": "Mox SF (Luma)",
+   "location": "Mox, 1680 Mission St, San Francisco, CA 94103, USA",
+   "virtual": false,
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-nfkEvDFat3zN1fe",
+   "topics": [
+    "AI"
+   ],
+   "tags": [
+    "bay-area",
+    "meetup",
+    "public"
+   ],
+   "fit": 3,
+   "why": "AI safety reading group on short timelines, relevant to Bay Area AI policy followers.",
+   "description": "Get up-to-date information at: https://luma.com/aisafety-iq97 Address: Mox San Francisco, CA United States Hosted by Jen Ba",
+   "speakers": [],
+   "lat": 37.7708,
+   "lon": -122.42,
+   "in_dc": true,
+   "time": "6:30 PM–8:30 PM PT",
+   "where": "Mox, 1680 Mission St, San Francisco, CA 94103, USA"
   },
   {
    "id": 583,

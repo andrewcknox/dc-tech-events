@@ -1,13 +1,20 @@
 # Atlantic Council (page 2)
 # https://www.atlanticcouncil.org/events/?ac-page=2
-# fetched 2026-11-25T09:25:55.394602-05:00
+# fetched 2026-11-26T10:27:22.393562-05:00
 # tags: think-tank
 
 Upcoming events
 We convene in Washington DC, internationally, and virtually to inspire global engagement and to shape solutions to the defining challenges of our times. Through small, focused events and larger public gatherings, we inform and build connections. Register for upcoming events or subscribe to watch live on YouTube.
+Online Event
+ Wed, December 9, 2026 • 9:30 am ET
+ The new geopolitics of religious soft power <https://www.atlanticcouncil.org/event/the-new-geopolitics-of-religious-soft-power/>
+International Norms <https://www.atlanticcouncil.org/issue/international-norms/>
+Middle East <https://www.atlanticcouncil.org/region/middle-east/>
+National Security <https://www.atlanticcouncil.org/issue/national-security/>
+Politics & Diplomacy <https://www.atlanticcouncil.org/issue/politics-diplomacy/>
 Public Event
  Thu, December 10, 2026 • 12:30 am ET
- Women in finance: Accelerators of invention <https://www.atlanticcouncil.org/event/women-in-finance-accelerators-of-invention/>
+ Women in Finance: Accelerators of Invention <https://www.atlanticcouncil.org/event/women-in-finance-accelerators-of-invention/>
 Economy & Business <https://www.atlanticcouncil.org/issue/economy-business/>
 Middle East <https://www.atlanticcouncil.org/region/middle-east/>
 Women <https://www.atlanticcouncil.org/issue/women/>

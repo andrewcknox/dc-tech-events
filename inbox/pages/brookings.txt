@@ -1,6 +1,6 @@
 # Brookings
 # https://www.brookings.edu/events/
-# fetched 2026-11-25T09:25:55.394602-05:00
+# fetched 2026-11-26T10:27:22.393562-05:00
 # tags: think-tank
 
 Events
@@ -88,6 +88,15 @@ Diplomacy & Multilateralism <https://www.brookings.edu/topics/diplomacy-multilat
  Reimagining global economic governance: Challenges and opportunities in a shifting geopolitical and technological landscape
  The Brookings Institution, Washington DC
  Tuesday, 10:00 am - 11:45 am EST
+How can we protect consumers from AI-enabled fraud, scams, and other abuses? <https://www.brookings.edu/events/how-can-we-protect-consumers-from-ai-enabled-fraud-scams-and-other-abuses/>
+ Upcoming Event
+December
+08
+2026
+Artificial Intelligence <https://www.brookings.edu/topics/artificial-intelligence/>
+ How can we protect consumers from AI-enabled fraud, scams, and other abuses?
+ Online only
+ Tuesday, 2:00 pm - 3:00 pm EST
 Is the United States prepared to meet the long-term care needs of the baby boom generation? <https://www.brookings.edu/events/is-the-united-states-prepared-to-meet-the-long-term-care-needs-of-the-baby-boom-generation/>
  Upcoming Event
 December

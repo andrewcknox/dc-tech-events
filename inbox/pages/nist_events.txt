@@ -1,6 +1,6 @@
 # NIST events
 # https://www.nist.gov/news-events/events/rss.xml
-# fetched 2026-11-25T09:25:55.394602-05:00
+# fetched 2026-11-26T10:27:22.393562-05:00
 # tags: government
 
 ### NICE Webinar - Breaking into Cyber: Gateway Roles and the Skills that Matter

@@ -1,6 +1,6 @@
 # Stanford FSI (all centers)
 # https://fsi.stanford.edu/events
-# fetched 2026-11-25T09:25:55.394602-05:00
+# fetched 2026-11-26T10:27:22.393562-05:00
 # tags: bay-area, university
 
 FSI Events
@@ -18,7 +18,9 @@ Monday, November 30, 2026
 4:30 PM - 6:45 PM
 (Pacific)
 Register (Stanford only) <https://docs.google.com/forms/d/e/1FAIpQLSeRbzzwMxRRDwk5OtGbvUHEHqBgs09gD9BWuQNEZhVZPCloKA/viewform>
-Location available following valid registration
+ Bechtel Conference Center
+Encina Hall, First floor, Central, S150 
+616 Jane Stanford Way, Stanford, CA 94305
  Speaker: 
 Didi Kuo <https://fsi.stanford.edu/people/didi_kuo>
 ,
