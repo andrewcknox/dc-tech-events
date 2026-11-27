@@ -1,0 +1,70 @@
+{
+ "source": "daily page scan",
+ "tags": [],
+ "events": [
+  {
+   "title": "May the Compute Be With You: Separating Hype from Reality in Orbital Data Centers",
+   "start": "2026-12-02 09:00",
+   "end": "2026-12-02 10:00",
+   "location": null,
+   "virtual": true,
+   "url": "https://www.gmfus.org/event/may-compute-be-you-separating-hype-reality-orbital-data-centers",
+   "host": "German Marshall Fund",
+   "description": "GMF Technology virtual event on whether orbital data centers can meet surging AI and digital-infrastructure demand, separating hype from reality.",
+   "speakers": [],
+   "topics": [
+    "AI",
+    "space"
+   ],
+   "fit": 3,
+   "why": "AI compute infrastructure meets space policy; easy to join online.",
+   "tags": [
+    "think-tank"
+   ]
+  },
+  {
+   "title": "FCC December 2026 Open Commission Meeting (Satellite Market Access Reciprocity; Light-Licensing Satellite Spectrum Sharing; Local Broadcast Ownership; Robocall Blocking; Intercarrier Compensation; TRS)",
+   "start": "2026-12-17 10:30",
+   "end": "2026-12-17 12:30",
+   "location": "Commission Meeting Room, FCC Headquarters, 45 L Street NE, Washington, DC 20554",
+   "virtual": false,
+   "url": "https://www.fcc.gov/December2026",
+   "host": "FCC",
+   "description": "FCC open meeting: NPRMs on satellite market-access reciprocity and a light-licensing framework for satellite spectrum sharing, plus broadcast ownership, robocall blocking, intercarrier compensation and TRS items. Open to the public; webcast.",
+   "speakers": [
+    "Brendan Carr"
+   ],
+   "topics": [
+    "space",
+    "tech-geopolitics"
+   ],
+   "fit": 3,
+   "why": "Satellite spectrum and market-access reciprocity rules touch space and tech-competition policy; public, near Union Station.",
+   "tags": [
+    "government"
+   ]
+  },
+  {
+   "title": "An Evening of Discovery with SAIR",
+   "start": "2026-11-29 18:00",
+   "end": "2026-11-29 20:30",
+   "location": "Penn Quarter, Washington, DC (address on registration)",
+   "virtual": false,
+   "url": "https://luma.com/ai-7d2b",
+   "host": "AI Discussion Club / Foundation for Science and AI Research (SAIR)",
+   "description": "Evening on the future of science and AI with researchers, industry and government guests; fireside chat with SAIR SVP Milo Chamberlin on the SAIR Prize and AI for scientific discovery. Approval required.",
+   "speakers": [
+    "Milo Chamberlin",
+    "William Zhu"
+   ],
+   "topics": [
+    "AI"
+   ],
+   "fit": 2,
+   "why": "AI-for-science networking with some government guests; light on policy.",
+   "tags": [
+    "public"
+   ]
+  }
+ ]
+}

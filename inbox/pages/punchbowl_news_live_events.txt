@@ -1,6 +1,6 @@
 # Punchbowl News live events
 # https://punchbowl.news/events/
-# fetched 2026-11-26T10:27:22.393562-05:00
+# fetched 2026-11-27T13:20:16.575892-05:00
 # tags: media
 
 Subscribe to be notified about all upcoming Punchbowl News events.
@@ -53,15 +53,15 @@ Confirmed for Thursday, Jan. 14 event at 1:00 PM EST
 PREMIUM+ MEMBERS ONLY
 The Premium+ Community Briefing
 Series
-Thursday, Nov. 26 • 1:00 PM EST • VIRTUAL
-or
-Log In <https://punchbowl.news/wp-json/pb-idm/v1/login>
-Confirmed for Thursday, Nov. 26 event at 1:00 PM EST
-Series
 Thursday, Dec. 24 • 1:00 PM EST • VIRTUAL
 or
 Log In <https://punchbowl.news/wp-json/pb-idm/v1/login>
 Confirmed for Thursday, Dec. 24 event at 1:00 PM EST
+Series
+Thursday, Jan. 28 • 1:00 PM EST • VIRTUAL
+or
+Log In <https://punchbowl.news/wp-json/pb-idm/v1/login>
+Confirmed for Thursday, Jan. 28 event at 1:00 PM EST
 Browse
 Past Events
 Go to Pop-Up Conversation with Rep. Josh Gottheimer <https://events.punchbowl.news/pop-up_Gottheimer>

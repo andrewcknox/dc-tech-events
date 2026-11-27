@@ -1,6 +1,6 @@
 # CSIS
 # https://www.csis.org/events
-# fetched 2026-11-26T10:27:22.393562-05:00
+# fetched 2026-11-27T13:20:16.575892-05:00
 # tags: think-tank
 
 Events
@@ -26,7 +26,7 @@ Webcast
 The CSIS Bipartisan Alliance for Global Health Security
 Image
 Photo: Kim Jae-Hwan/SOPA Images/LightRocket via Getty Images
-CSIS-DAPA 2026: Transforming the U.S.-ROK Defense Industrial Partnership for the Future <https://www.csis.org/index%2ephp/events/csis-dapa-2026-transforming-us-rok-defense-industrial-partnership-future>
+CSIS-DAPA 2026: Transforming the U.S.-ROK Defense Industrial Partnership for the Future <https://www.csis.org/events/csis-dapa-2026-transforming-us-rok-defense-industrial-partnership-future>
 December 3, 2026 • 9:30 am – 12:30 pm EST
 Webcast
  Hosted by 
@@ -60,7 +60,7 @@ November 23, 2026 • 9:00 – 10:00 am EST
 Middle East Program
 Image
 Photo: Narumon Bowonkitwanchai/GETTY IMAGES
-Understanding the Memory Chip Crunch & the Way Ahead <https://www.csis.org/index%2ephp/events/understanding-memory-chip-crunch-way-ahead>
+Understanding the Memory Chip Crunch & the Way Ahead <https://www.csis.org/events/understanding-memory-chip-crunch-way-ahead>
 November 20, 2026 • 10:00 – 11:00 am EST
  Hosted by 
 Strategic Technologies Program
@@ -84,7 +84,7 @@ November 19, 2026 • 9:00 – 10:00 am EST
 Aerospace Security Project
 Image
 Photo: Iori Sagisawa / POOL / AFP via Getty Images
-Trump-Xi-Putin Summit: What Happened? | The Capital Cable #147 <https://www.csis.org/index%2ephp/events/trump-xi-putin-summit-what-happened-capital-cable-147>
+Trump-Xi-Putin Summit: What Happened? | The Capital Cable #147 <https://www.csis.org/events/trump-xi-putin-summit-what-happened-capital-cable-147>
 November 19, 2026 • 8:45 – 9:30 am EST
  Hosted by 
 Korea Chair
@@ -147,7 +147,7 @@ Unmanned Systems, U.S. Drone Investment, and Lessons from Ukraine <https://www.c
 CSIS virtual event discussing lessons learned from Ukraine on unmanned systems, and U.S. drone supply chains. 
  Event
 — November 30, 2026
-The Future of Technology and Human Rights <https://www.csis.org/index%2Ephp/events/future-technology-and-human-rights>
+The Future of Technology and Human Rights <https://www.csis.org/events/future-technology-and-human-rights>
 Join the Human Rights Initiative for a conversation on what the future holds for technology and human rights. 
  Event
 — December 1, 2026
@@ -155,15 +155,15 @@ Director Erica Schwartz’s Vision for the CDC <https://www.csis.org/events/dire
 Dr. Schwartz will discuss her strategy for dealing with the core challenges before the agency, including measles outbreaks, biosurveillance gaps, global surge capability, and damaged trust.
  Event
 — December 2, 2026
-CSIS-DAPA 2026: Transforming the U.S.-ROK Defense Industrial Partnership for the Future <https://www.csis.org/events/csis-dapa-2026-transforming-us-rok-defense-industrial-partnership-future>
+CSIS-DAPA 2026: Transforming the U.S.-ROK Defense Industrial Partnership for the Future <https://www.csis.org/index%2Ephp/events/csis-dapa-2026-transforming-us-rok-defense-industrial-partnership-future>
 Please join the Center for the Industrial Base at CSIS for a livestream broadcast of the 2026 CSIS-DAPA Keynote Session and Public Panel, exploring themes of cooperation and coproduction between the United States and Republic of Korea.
  Event
 — December 3, 2026
-Taiwan and the Pacific <https://www.csis.org/index%2ephp/events/taiwan-and-pacific>
+Taiwan and the Pacific <https://www.csis.org/events/taiwan-and-pacific>
 Join the CSIS Freeman Chair for a wide-ranging conversation on U.S.-Taiwan-Australia trilateral partnership, cross-Strait deterrence, and opportunities for Taiwan to play a more active role in regional affairs.
  Event
 — December 9, 2026
-Nuclear Nonproliferation and Verification Challenges: A Conversation with Director General Rafael Mariano Grossi <https://www.csis.org/events/nuclear-nonproliferation-and-verification-challenges-conversation-director-general-rafael>
+Nuclear Nonproliferation and Verification Challenges: A Conversation with Director General Rafael Mariano Grossi <https://www.csis.org/index%2ephp/events/nuclear-nonproliferation-and-verification-challenges-conversation-director-general-rafael>
 Please join the CSIS Project on Nuclear Issues (PONI) for a discussion with IAEA Director General Rafael Mariano Grossi.
  Event
 — December 10, 2026

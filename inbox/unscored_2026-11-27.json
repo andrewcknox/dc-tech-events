@@ -1,0 +1,87 @@
+{
+ "instructions": "Fill fit (1-5), topics (from the DAILY.md list) and why for each event; add tags (e.g. bay-area) if needed; then `uv run dte score apply <this file>`. Leave fit null to skip.",
+ "events": [
+  {
+   "id": 762,
+   "title": "SHENZHOU-23 RETURNS WITH PAKISTANI ASTRONAUT, Nov 29?, 2026 EST, Dongfeng, China, 4:06-4:36 pm EST (?)",
+   "start": "2026-11-29T16:00:00-05:00",
+   "location": null,
+   "virtual": false,
+   "host": "SpacePolicyOnline events calendar",
+   "source": "SpacePolicyOnline events calendar",
+   "tags": [
+    "aggregator",
+    "space",
+    "public"
+   ],
+   "description": "The Shenzhou-23 spacecraft is expected to return to Earth on Sunday, November 29, 2026, landing at the Dongfeng landing site in Inner Mongolia. China does not reveal launch or landing dates and times until very close to the event, and",
+   "url": "https://spacepolicyonline.com/events/shenzhou-23-returns-with-pakistani-astronaut-nov-29-2026-est-dongfeng-china-406-436-pm-est/",
+   "fit": 1,
+   "topics": [
+    "space",
+    "China"
+   ],
+   "why": "Chinese crewed spaceflight landing in China; not an event to attend."
+  },
+  {
+   "id": 759,
+   "title": "AI Safety Co-Founding Sprint - Launch Event",
+   "start": "2026-12-03T22:00:00-05:00",
+   "location": "San Francisco (Exact venue confirmed to successful applicants)",
+   "virtual": false,
+   "host": "BlueDot Impact (Luma)",
+   "source": "BlueDot Impact (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/89n5hlmt Address: San Francisco (Exact venue confirmed to successful applicants) Hosted by Kees Brinkmans & Finn Metz",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "BlueDot global online sprint launch, not DC."
+  },
+  {
+   "id": 760,
+   "title": "Seguridad de la IA: cómo entrar en el campo · Primer encuentro Women4AISafety en Madrid",
+   "start": "2026-12-09T13:00:00-05:00",
+   "location": "https://luma.com/event/evt-GzkwyXF7ulNXbrC",
+   "virtual": false,
+   "host": "BlueDot Impact (Luma)",
+   "source": "BlueDot Impact (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/tjgq7lvz Hosted by Osmani Redondo, Mariana Hungria & Mmachukwu Osisioma",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Madrid meetup; not DC."
+  },
+  {
+   "id": 761,
+   "title": "Seguridad de la IA: cómo entrar en el campo · Primer encuentro Women4AISafety en Madrid",
+   "start": "2026-12-20T13:00:00-05:00",
+   "location": "https://luma.com/event/evt-A1X0EE8GNlngmC9",
+   "virtual": false,
+   "host": "BlueDot Impact (Luma)",
+   "source": "BlueDot Impact (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/qfa53j0h Hosted by Osmani Redondo, Mariana Hungria & Mmachukwu Osisioma",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Madrid meetup; not DC."
+  }
+ ]
+}

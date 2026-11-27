@@ -1,6 +1,6 @@
 # Hoover Institution
 # https://www.hoover.org/events
-# fetched 2026-11-26T10:27:22.393562-05:00
+# fetched 2026-11-27T13:20:16.575892-05:00
 # tags: think-tank
 
 Events
@@ -127,7 +127,7 @@ Wednesday, December 9, 2026
 The World Trading System: A View from the WTO 
 The Hoover Institution invites you to attend The World Trading System: A View from the WTO with Robert Staiger on Wednesday, December 9, 2026 from 1:… 
 Shultz Auditorium, George P. Shultz Building
-D.C. Film Screening: The Barbie Tapes <https://www.hoover.org/index%2Ephp/events/dc-film-screening-barbie-tapes>
+D.C. Film Screening: The Barbie Tapes <https://www.hoover.org/events/dc-film-screening-barbie-tapes>
 Tuesday, December 15, 2026 
 5:00 PM Eastern Time
 D.C. Film Screening: The Barbie Tapes 

@@ -1,17 +1,17 @@
 # German Marshall Fund
 # https://www.gmfus.org/events
-# fetched 2026-11-26T10:27:22.393562-05:00
+# fetched 2026-11-27T13:20:16.575892-05:00
 # tags: think-tank
 
 Events
  GMF organizes events and strategic convenings that bring together current policymakers, leaders across GMF networks, and GMF experts for frank and forward-looking exchanges. By convening with purpose, GMF helps move policy conversations forward and strengthen the transatlantic relationship to meet the challenges of the 21st century.
 Next Event
 Virtual Event
- Navigating Local Relations with China in Europe: Findings and Recommendations
- The German Marshall Fund of the United States invites you to&nbsp;Navigating Local Rela...
- 8
+ May the Compute Be With You: Separating Hype from Reality in Orbital Data Centers
+ As demand for artificial intelligence and digital infrastructure accelerates, an idea t...
+ 2
  December
- 9:00am EST 10:00am EST <https://www.gmfus.org/event/navigating-local-relations-china-europe-findings-and-recommendations>
+ 9:00am EST 10:00am EST <https://www.gmfus.org/event/may-compute-be-you-separating-hype-reality-orbital-data-centers>
 Share This
 Featured
 Ukraine Recovery Conference: Unbreakable Ukraine Forum
@@ -30,6 +30,13 @@ Berlin <https://www.gmfus.org/events?location[12]=12>
 Online <https://www.gmfus.org/events?location[16]=16>
 Upcoming Events
 Virtual Event
+ May the Compute Be With You: Separating Hype from Reality in Orbital Data Centers
+ As demand for artificial intelligence and digital infrastructure accelerates, an idea t...
+ 2
+ December
+ 9:00am EST 10:00am EST <https://www.gmfus.org/event/may-compute-be-you-separating-hype-reality-orbital-data-centers>
+Share This
+Virtual Event
  Navigating Local Relations with China in Europe: Findings and Recommendations
  The German Marshall Fund of the United States invites you to&nbsp;Navigating Local Rela...
  8
@@ -45,7 +52,15 @@ Washington, DC
 Share This
 All Events
  Filter By:
- 2 Results for: 
+ 3 Results for: 
+GMF Technology <https://www.gmfus.org/taxonomy/term/85>
+May the Compute Be With You: Separating Hype from Reality in Orbital Data Centers <https://www.gmfus.org/event/may-compute-be-you-separating-hype-reality-orbital-data-centers>
+Online <https://www.gmfus.org/taxonomy/term/16>
+2
+December
+ 9:00am EST 
+ 10:00am EST
+Share This
 Indo-Pacific Program <https://www.gmfus.org/taxonomy/term/82>
 Navigating Local Relations with China in Europe: Findings and Recommendations <https://www.gmfus.org/event/navigating-local-relations-china-europe-findings-and-recommendations>
 Online <https://www.gmfus.org/taxonomy/term/16>
@@ -61,4 +76,4 @@ March
  10:00am EST 
  1:00pm EST
 Share This
- Showing 2 of 2 Results
+ Showing 3 of 3 Results

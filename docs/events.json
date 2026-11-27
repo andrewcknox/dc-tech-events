@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-26T10:31:11-05:00",
- "today": "2026-11-26",
- "window_start": "2026-11-26",
+ "generated_at": "2026-11-27T13:46:05-05:00",
+ "today": "2026-11-27",
+ "window_start": "2026-11-27",
  "window_days": 14,
  "map_center": [
   38.905,
@@ -11,39 +11,39 @@
  "flagged_sources": [
   {
    "name": "Berkeley Law AI events",
-   "failures": 6
+   "failures": 7
   },
   {
    "name": "Berkeley Law BCLT",
-   "failures": 6
+   "failures": 7
   },
   {
    "name": "Berkeley Risk & Security Lab",
-   "failures": 8
-  },
-  {
-   "name": "Hopkins Bloomberg Center",
-   "failures": 7
-  },
-  {
-   "name": "JHU Data Science and AI Institute",
-   "failures": 7
-  },
-  {
-   "name": "JHU Hub Events (SAIS)",
-   "failures": 7
-  },
-  {
-   "name": "JHU Institute for Assured Autonomy (Baltimore)",
-   "failures": 7
-  },
-  {
-   "name": "National Academies",
    "failures": 9
   },
   {
+   "name": "Hopkins Bloomberg Center",
+   "failures": 8
+  },
+  {
+   "name": "JHU Data Science and AI Institute",
+   "failures": 8
+  },
+  {
+   "name": "JHU Hub Events (SAIS)",
+   "failures": 8
+  },
+  {
+   "name": "JHU Institute for Assured Autonomy (Baltimore)",
+   "failures": 8
+  },
+  {
+   "name": "National Academies",
+   "failures": 10
+  },
+  {
    "name": "SNF Agora Institute (JHU, Baltimore)",
-   "failures": 7
+   "failures": 8
   }
  ],
  "events": [
@@ -7354,6 +7354,33 @@
    "where": "Stanford University, Stanford, CA"
   },
   {
+   "id": 763,
+   "title": "May the Compute Be With You: Separating Hype from Reality in Orbital Data Centers",
+   "start": "2026-12-02T09:00:00-05:00",
+   "end": "2026-12-02T10:00:00-05:00",
+   "host": "German Marshall Fund",
+   "source": "daily page scan",
+   "location": null,
+   "virtual": true,
+   "url": "https://www.gmfus.org/event/may-compute-be-you-separating-hype-reality-orbital-data-centers",
+   "topics": [
+    "AI",
+    "space"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "AI compute infrastructure meets space policy; easy to join online.",
+   "description": "GMF Technology virtual event on whether orbital data centers can meet surging AI and digital-infrastructure demand, separating hype from reality.",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "9:00 AM–10:00 AM",
+   "where": "Virtual"
+  },
+  {
    "id": 722,
    "title": "Can AI build more shared power and trust in health for Black communities?",
    "start": "2026-12-02T09:30:00-05:00",
@@ -8813,6 +8840,35 @@
    "in_dc": true,
    "time": "6:30 PM–8:30 PM PT",
    "where": "Mox, 1680 Mission St, San Francisco, CA 94103, USA"
+  },
+  {
+   "id": 764,
+   "title": "FCC December 2026 Open Commission Meeting (Satellite Market Access Reciprocity; Light-Licensing Satellite Spectrum Sharing; Local Broadcast Ownership; Robocall Blocking; Intercarrier Compensation; TRS)",
+   "start": "2026-12-17T10:30:00-05:00",
+   "end": "2026-12-17T12:30:00-05:00",
+   "host": "FCC",
+   "source": "daily page scan",
+   "location": "Commission Meeting Room, FCC Headquarters, 45 L Street NE, Washington, DC 20554",
+   "virtual": false,
+   "url": "https://www.fcc.gov/December2026",
+   "topics": [
+    "space",
+    "tech-geopolitics"
+   ],
+   "tags": [
+    "government"
+   ],
+   "fit": 3,
+   "why": "Satellite spectrum and market-access reciprocity rules touch space and tech-competition policy; public, near Union Station.",
+   "description": "FCC open meeting: NPRMs on satellite market-access reciprocity and a light-licensing framework for satellite spectrum sharing, plus broadcast ownership, robocall blocking, intercarrier compensation and TRS items. Open to the public; webcast.",
+   "speakers": [
+    "Brendan Carr"
+   ],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "10:30 AM–12:30 PM",
+   "where": "Commission Meeting Room, FCC Headquarters, 45 L Street NE, Washington, DC 20554"
   },
   {
    "id": 583,

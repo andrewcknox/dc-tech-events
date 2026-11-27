@@ -1,21 +1,9 @@
 # Carnegie Endowment
 # https://carnegieendowment.org/events
-# fetched 2026-11-26T10:27:22.393562-05:00
+# fetched 2026-11-27T13:20:16.575892-05:00
 # tags: think-tank
 
 Global - Events
-NOVEMBER
-25
-2026
-Event
-The Scramble for Europe: Can the EU Hold Its Ground? <https://carnegieendowment.org/europe/events/2026/11/the-scramble-for-europe-can-the-eu-hold-its-ground>
-November 25, 2026
-6:00 PM - 7:00 PM GMT+1
-Dimitar Bechev
-, 
-Tony Barber
-, 
-Rosa Balfour
 DECEMBER
 2
 2026
@@ -29,9 +17,9 @@ DECEMBER
 Conference
 Global Shifts, Regional Stakes: Looking Ahead to 2027 <https://carnegieendowment.org/middle-east/events/2026/10/global-shifts-regional-stakes-looking-ahead-to-2027>
 December 9, 2026
-9:00 AM - 2:00 PM GMT+2
+2:00 AM - 7:00 AM GMT+2
 +
-21
+23
 Avril Haines
 , 
 Nabil Fahmy
