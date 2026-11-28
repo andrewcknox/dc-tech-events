@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-27T13:46:05-05:00",
- "today": "2026-11-27",
- "window_start": "2026-11-27",
+ "generated_at": "2026-11-28T10:47:35-05:00",
+ "today": "2026-11-28",
+ "window_start": "2026-11-28",
  "window_days": 14,
  "map_center": [
   38.905,
@@ -11,31 +11,31 @@
  "flagged_sources": [
   {
    "name": "Berkeley Law AI events",
-   "failures": 7
+   "failures": 8
   },
   {
    "name": "Berkeley Law BCLT",
-   "failures": 7
+   "failures": 8
   },
   {
    "name": "Berkeley Risk & Security Lab",
-   "failures": 9
+   "failures": 10
   },
   {
    "name": "Hopkins Bloomberg Center",
-   "failures": 8
+   "failures": 9
   },
   {
    "name": "JHU Data Science and AI Institute",
-   "failures": 8
+   "failures": 9
   },
   {
    "name": "JHU Hub Events (SAIS)",
-   "failures": 8
+   "failures": 9
   },
   {
    "name": "JHU Institute for Assured Autonomy (Baltimore)",
-   "failures": 8
+   "failures": 9
   },
   {
    "name": "National Academies",
@@ -43,7 +43,7 @@
   },
   {
    "name": "SNF Agora Institute (JHU, Baltimore)",
-   "failures": 8
+   "failures": 9
   }
  ],
  "events": [
@@ -8230,6 +8230,36 @@
    "where": "Hudson Institute, 1201 Pennsylvania Ave NW, Washington, DC"
   },
   {
+   "id": 767,
+   "title": "AI Safety and American Leadership: Open Models, Closed Models, and Competition with China",
+   "start": "2026-12-08T12:00:00-05:00",
+   "end": "2026-12-08T13:00:00-05:00",
+   "host": "GMU National Security Institute",
+   "source": "daily page scan",
+   "location": "Rayburn House Office Building, Room 2255, Washington, DC",
+   "virtual": false,
+   "url": "https://nationalsecurity.gmu.edu/ai-safety-and-american-leadership-open-models-closed-models-and-competition-with-china/",
+   "topics": [
+    "AI",
+    "tech-geopolitics",
+    "China",
+    "cyber"
+   ],
+   "tags": [
+    "hill",
+    "university"
+   ],
+   "fit": 3,
+   "why": "Open vs closed models and China competition is core ETI material, though the briefing targets senior Hill staff.",
+   "description": "Hill briefing on open-weight AI and its implications for the economy, cybersecurity, defense and the race with China for AI leadership. Audience: senior congressional staff.",
+   "speakers": [],
+   "lat": 38.8899,
+   "lon": -77.0091,
+   "in_dc": true,
+   "time": "12:00 PM–1:00 PM",
+   "where": "Rayburn House Office Building, Room 2255, Washington, DC"
+  },
+  {
    "id": 668,
    "title": "2026 Global Korea Forum",
    "start": "2026-12-08T13:30:00-05:00",
@@ -8565,6 +8595,36 @@
    "where": "Hudson Institute, 1201 Pennsylvania Ave NW, Washington, DC"
   },
   {
+   "id": 768,
+   "title": "Ethics After AGI: A Conversation with Peter Singer and Rob Reich",
+   "start": "2026-12-09T18:00:00-08:00",
+   "end": "2026-12-10T00:00:00-08:00",
+   "host": "Aspen Institute (Philosophy & Society)",
+   "source": "daily page scan",
+   "location": "Gray Area, 2665 Mission Street, San Francisco, CA",
+   "virtual": false,
+   "url": "https://www.aspeninstitute.org/events/ethics-after-agi-a-conversation-with-peter-singer-and-rob-reich/",
+   "topics": [
+    "AI"
+   ],
+   "tags": [
+    "bay-area",
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Public SF conversation on AGI ethics with a leading Stanford tech-policy scholar.",
+   "description": "Philosopher Peter Singer and Stanford's Rob Reich on the ethical questions AGI raises.",
+   "speakers": [
+    "Peter Singer",
+    "Rob Reich"
+   ],
+   "lat": 37.7544062,
+   "lon": -122.4185113,
+   "in_dc": true,
+   "time": "6:00 PM–12:00 AM PT",
+   "where": "Gray Area, 2665 Mission Street, San Francisco, CA"
+  },
+  {
    "id": 406,
    "title": "Emerging Technologies and New Frontiers: Forging Digital Connections in the U.S.-ROK Relationship",
    "start": "2026-12-10T09:00:00-05:00",
@@ -8869,6 +8929,33 @@
    "in_dc": false,
    "time": "10:30 AM–12:30 PM",
    "where": "Commission Meeting Room, FCC Headquarters, 45 L Street NE, Washington, DC 20554"
+  },
+  {
+   "id": 769,
+   "title": "Innovating for Community Impact: Science and Technology Policy Fellowship Demo Day",
+   "start": "2026-12-17T12:00:00-05:00",
+   "end": "2026-12-17T13:00:00-05:00",
+   "host": "Aspen Policy Academy",
+   "source": "daily page scan",
+   "location": null,
+   "virtual": true,
+   "url": "https://www.aspeninstitute.org/events/innovating-for-community-impact-science-and-technology-policy-fellowship-demo-day/",
+   "topics": [
+    "AI",
+    "data/privacy"
+   ],
+   "tags": [
+    "think-tank"
+   ],
+   "fit": 3,
+   "why": "Virtual showcase of tech-policy fellowship projects, useful for students eyeing similar fellowships.",
+   "description": "Aspen Policy Academy's 2026 Science and Technology Policy Fellows debut three new policy projects (9-10am PT).",
+   "speakers": [],
+   "lat": null,
+   "lon": null,
+   "in_dc": false,
+   "time": "12:00 PM–1:00 PM",
+   "where": "Virtual"
   },
   {
    "id": 583,

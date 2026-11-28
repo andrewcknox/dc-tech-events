@@ -1,6 +1,6 @@
 # Hoover Institution
 # https://www.hoover.org/events
-# fetched 2026-11-27T13:20:16.575892-05:00
+# fetched 2026-11-28T10:36:02.723172-05:00
 # tags: think-tank
 
 Events
@@ -88,7 +88,7 @@ June 18, 2026
 Hoover Institution in DC
 [Edit] <https://www.hoover.org/node/387293/edit>
 Upcoming Events
-Choosing Freedom: Lives That Defied Tyranny <https://www.hoover.org/events/choosing-freedom-lives-defied-tyranny>
+Choosing Freedom: Lives That Defied Tyranny <https://www.hoover.org/index%2Ephp/events/choosing-freedom-lives-defied-tyranny>
 Wednesday, June 17, 2026 
 Choosing Freedom: Lives That Defied Tyranny 
 Uncover personal stories of courage in the pursuit of freedom in a new exhibition from the Hoover Institution Library & Archives 

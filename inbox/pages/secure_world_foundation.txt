@@ -1,6 +1,6 @@
 # Secure World Foundation
 # https://www.swfound.org/upcoming-events
-# fetched 2026-11-27T13:20:16.575892-05:00
+# fetched 2026-11-28T10:36:02.723172-05:00
 # tags: civil-society, space
 
 Upcoming Events
@@ -10,7 +10,6 @@ Explore Our List of Upcoming Events
 Narrow your search with the filters below.
 Thank you! Your submission has been received!
 Oops! Something went wrong while submitting the form.
-11/28/2026 7:00 AMEST (UTC-5)Secure World Foundation to Participate in North, Central American and Caribbean Space Generation WorkshopOnlineMontreal, CanadaNovember 28, 2026Register for Event <https://www.swfound.org/events/secure-world-foundation-to-participate-in-north-central-american-and-caribbean-space-generation-workshop>
 12/03/2026 7:00 AMIST (UTC + 5:30)ConferenceVictoria Samson to Participate in Security Discussions in IndiaOnlineBengaluru, IndiaDecember 3, 2026Register for Event <https://www.swfound.org/events/victoria-samson-to-participate-in-security-discussions-in-india>
 01/25/2027 9:00 AMEST (UTC-5)WorkshopSpace Boot Camp for Nuclear Policy ProfessionalsOnlineWashington, D.C.SWF will host a weeklong Space Boot Camp in Washington, D.C. for early-career nuclear policy professionals.January 25, 2027Register for Event <https://www.swfound.org/events/space-boot-camp-for-nuclear-policy-professionals>
 1

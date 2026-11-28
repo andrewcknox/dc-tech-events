@@ -1,6 +1,6 @@
 # Institute for Security and Technology
 # https://securityandtechnology.org/events/
-# fetched 2026-11-27T13:20:16.575892-05:00
+# fetched 2026-11-28T10:36:02.723172-05:00
 # tags: think-tank
 
 Skip to content
@@ -114,7 +114,7 @@ Universal Service Fund <https://securityandtechnology.org/resource_topic/univers
 HOME PAGE <https://securityandtechnology.org/catalinknew/>
 GET IN TOUCH
 Email: 
-[email protected] <https://securityandtechnology.org/cdn-cgi/l/email-protection#f99a988d9895909792b98a9c9a8c8b908d8098979d8d9c9a91979695969e80d7968b9e>
+[email protected] <https://securityandtechnology.org/cdn-cgi/l/email-protection#0c6f6d786d606562674c7f696f797e6578756d626878696f64626360636b7522637e6b>
 Send us a message: 
 Contact <https://securityandtechnology.org/catalinknew/contact/>
 JOIN THE CATALINK MAILING LIST

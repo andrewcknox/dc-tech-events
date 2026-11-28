@@ -1,0 +1,25 @@
+{
+ "instructions": "Fill fit (1-5), topics (from the DAILY.md list) and why for each event; add tags (e.g. bay-area) if needed; then `uv run dte score apply <this file>`. Leave fit null to skip.",
+ "events": [
+  {
+   "id": 766,
+   "title": "Spanish Speaking AI Safety MeetUp",
+   "start": "2026-12-02T12:00:00-05:00",
+   "location": "https://luma.com/event/evt-ioU95fxGqRjA9gd",
+   "virtual": false,
+   "host": "BlueDot Impact (Luma)",
+   "source": "BlueDot Impact (Luma)",
+   "tags": [
+    "public",
+    "civil-society"
+   ],
+   "description": "Get up-to-date information at: https://luma.com/etu8pslk Hosted by Osmani Redondo & 3 others",
+   "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-4g8MKXGW8nmoHby",
+   "fit": 1,
+   "topics": [
+    "AI"
+   ],
+   "why": "Spanish-language online AI-safety meetup from BlueDot, not DC policy."
+  }
+ ]
+}

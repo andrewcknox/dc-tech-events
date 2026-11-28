@@ -1,0 +1,74 @@
+{
+ "source": "Caleb Knapp substack",
+ "backup": true,
+ "tags": [
+  "substack"
+ ],
+ "events": [
+  {
+   "title": "Sacred Intelligence with Fr. Ambrose Little",
+   "start": "2026-11-23 18:30",
+   "end": "2026-11-23 21:00",
+   "location": "2323 N Randolph St, Arlington, VA",
+   "virtual": false,
+   "url": "https://luma.com/dcjho3ix",
+   "host": "The David Network",
+   "description": "Evening talk on faith and artificial intelligence with Fr. Ambrose Little.",
+   "speakers": [
+    "Ambrose Little"
+   ],
+   "topics": [
+    "AI"
+   ],
+   "fit": 2,
+   "why": "AI ethics talk from a faith perspective; light on policy.",
+   "tags": [
+    "public"
+   ]
+  },
+  {
+   "title": "Defense Tech DC 021",
+   "start": "2026-11-24 17:30",
+   "end": "2026-11-24 19:30",
+   "location": null,
+   "virtual": false,
+   "url": "https://luma.com/dtdc021",
+   "host": "Defense Tech DC",
+   "description": "Monthly Defense Tech DC community meetup.",
+   "speakers": [],
+   "topics": [
+    "tech-geopolitics"
+   ],
+   "fit": 3,
+   "why": "DC defense-tech community networking.",
+   "tags": [
+    "public"
+   ]
+  },
+  {
+   "title": "Protecting America's AI Advantage: Oversight of U.S. Export Controls",
+   "start": "2026-12-03 10:00",
+   "end": null,
+   "location": "Dirksen Senate Office Building 106, Washington, DC",
+   "virtual": false,
+   "url": "https://www.banking.senate.gov/hearings/protecting-americas-ai-advantage-oversight-of-us-export-controls",
+   "host": "Senate Banking Committee",
+   "description": "Senate Banking oversight hearing on export controls with NVIDIA CEO Jensen Huang (mentioned in Knapp's Looking Ahead).",
+   "speakers": [
+    "Jensen Huang"
+   ],
+   "topics": [
+    "AI",
+    "semiconductors",
+    "China",
+    "tech-geopolitics"
+   ],
+   "fit": 5,
+   "why": "Jensen Huang testifying on AI chip export controls.",
+   "tags": [
+    "substack",
+    "hill"
+   ]
+  }
+ ]
+}
